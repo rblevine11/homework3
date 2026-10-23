@@ -1,0 +1,671 @@
+{
+    "jobs_results": [
+        {
+            "title": "Deep Learning Compiler Engineer",
+            "company_name": "NVIDIA Corporation",
+            "location": "Anywhere",
+            "via": "NVIDIA Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelors, Masters or Ph.D. in Computer Science, Computer Engineering or a related field (or equivalent experience)",
+                        "3+ years of relevant work or research experience in compiler optimization, performance analysis and IR design",
+                        "Ability to work independently, define project goals and scope, and lead your own development effort",
+                        "Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design",
+                        "Strong interpersonal skills are required along with the ability to work in a dynamic product-oriented team",
+                        "Knowledge of CPU and/or GPU architecture",
+                        "CUDA or OpenCL programming experience",
+                        "Experience with the following technologies: MLIR, LLVM, XLA, TVM and deep learning models and algorithms"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base salary range is 152,000 USD - 241,500 USD",
+                        "You will also be eligible for equity and benefits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you will work on CUDA Tile and TensorIR compiler technologies for NVIDIA GPUs",
+                        "You will design and implement compiler transformations, develop MLIR-based dialects and lowering passes, and optimize the performance of tile-based kernels to ensure they execute efficiently across multiple generations of NVIDIA GPU architectures",
+                        "The scope of these efforts includes defining public APIs, crafting and implementing compiler and optimization techniques, performance optimization, and other general software engineering work"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=CdqBxxBKbi8a26DpAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOsQoCMRBEsb1PsNpaMBFBC63kTuRELLU8krAkkdxuyKa4P_F3jc0wxbyZ6b6r7jggZnigKRTJQ89zjgkLXMlHwma2cGcL0gIuABPcmH3C9TnUmuWktUhSXqqp0SnHs2ZCy4v-sJW_TBJMwZxMxWl_2C0qk9_A8zUO46Wtlcyloa03EryNhHaiMv0Au4KI6poAAAA&shmds=v1_ARwrE20h1MGUB-U_dHQQIeIWimSO4nRBQfaV6oaTq9y0VJU9iA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=CdqBxxBKbi8a26DpAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://jobs.nvidia.com/careers/job/893396010462?ncid=ref-inpa-",
+            "job_title": "Deep Learning Compiler Engineer",
+            "description": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.\n\nWe are hiring software engineers for the Tensor IR & CUDA Tile team. NVIDIA GPUs are at the center of the deep learning revolution and continue to enable breakthroughs in generative AI, large language models, recommendation systems, speech recognition, image classification and other areas. Come join us to work with a top-notch team and have broad impact across the entire deep learning community.\n\nWhat you'll be doing:\n\nIn this role, you will work on CUDA Tile and TensorIR compiler technologies for NVIDIA GPUs. CUDA Tile is a new tile-based programming model that shipped with CUDA 13.1, and TensorIR is an open-source compiler infrastructure project that uses CUDA Tile to generate high-performance GPU kernels. You will design and implement compiler transformations, develop MLIR-based dialects and lowering passes, and optimize the performance of tile-based kernels to ensure they execute efficiently across multiple generations of NVIDIA GPU architectures. The scope of these efforts includes defining public APIs, crafting and implementing compiler and optimization techniques, performance optimization, and other general software engineering work.\n\nWhat we need to see:\n\n  * Bachelors, Masters or Ph.D. in Computer Science, Computer Engineering or a related field (or equivalent experience)\n\n  * 3+ years of relevant work or research experience in compiler optimization, performance analysis and IR design.\n\n  * Ability to work independently, define project goals and scope, and lead your own development effort.\n\n  * Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.\n\n  * Strong interpersonal skills are required along with the ability to work in a dynamic product-oriented team.\n\n\n\n\nWays to stand out from the crowd:\n\n  * Knowledge of CPU and/or GPU architecture. CUDA or OpenCL programming experience.\n\n  * Experience with the following technologies: MLIR, LLVM, XLA, TVM and deep learning models and algorithms.\n\n\n\n\nWith highly competitive salaries and a comprehensive benefits package, NVIDIA is widely considered to be one of the technology industry's most desirable employers. We have some of the most brilliant and hardworking people in the world working with us and our product lines are growing fast in some of the hottest state of the art fields such as Virtual Reality, Artificial Intelligence, Deep Learning and Autonomous Vehicles.\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 152,000 USD - 241,500 USD.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until August 27, 2026.\n\nThis posting is for an existing vacancy. \n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.\n\n#deeplearning",
+            "apply_options": [
+                {
+                    "title": "NVIDIA Careers",
+                    "link": "https://jobs.nvidia.com/careers/job/893396010462?ncid=ref-inpa-&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MIT CAPD",
+                    "link": "https://capd.mit.edu/jobs/quadric-io-deep-learning-compiler-intern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/deep-learning-compiler-engineer-nvidia-austin--ss-us-70gg7m?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/deep-learning-compiler-engineer-austin-tx--8f74578c-f638-4acd-873b-701ba91e6d53?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EmbeddedJobs",
+                    "link": "https://embedded.jobs/job/Deep-Learning-Compiler-Engineer-with-Quadric-3058dd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/quadric-io/deep-learning-compiler-engineer-149616642/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Fairygodboss",
+                    "link": "https://fairygodboss.com/jobs/nvidia/deep-learning-compiler-engineer-2fd430b87bfe43565589b799d00c743c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Quest Jobs",
+                    "link": "https://us.remotejobs.dedyn.io/job/deep-learning-compiler-engineer-36f36982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIENvbXBpbGVyIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiTlZJRElBIENvcnBvcmF0aW9uIiwiaHRpZG9jaWQiOiJDZHFCeHhCS2JpOGEyNkRwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBwZlFYWm9lRWcwY0dWQlZGbFJiVVJuZEdGaWNqY3pTMmR5UVV4UmVrSjZYM2h0ZDJwclUwWkdiVGxpWDFrd2NFSkpVelU1VFhKMWJuSnRjbWhKVTFaR2FGOWhaa1ZGZGw4NVRGQjVORFEzZDNwSWNrNDRSbXgyWjFkbk1rbFllbGRaWjJOTU5FbEZlaTFZT1hKaldXSkNabTFoVFY5cE5FaHBWRFJLYzFaV1dXRk1RVUlTRjFCTFRHSmhkazlQUm5acGEzQjBVVkIyWTA5WmNWRlJHaUpCUkhOeU9XWlJOMUJuWDNsS1kwZDNSVWhvVUhORVREaHBWbVpZVjNkdVUyVlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJDZHFCeHhCS2JpOGEyNkRwQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Deep Learning Engineer II (Multiple Positions) (REF286216I)",
+            "company_name": "Bosch",
+            "location": "Pittsburgh, PA",
+            "via": "Dice",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "REQS: This position requires a master's degree or foreign equivalent in Information Technology, Electronic Engineering or a related field and 3 years of experience as a Deep Learning Engineer, Research Engineer or occupation involving design, development, and maintenance of deep learning pipelines for acoustic and vibration signals",
+                        "Additionally, the applicant must have employment experience with: (1) Deep learning and signal processing frameworks in Python; (2) PyTorch and Lightning; (3) MLFlow and Numpy; (4) Scipy; and (5) Matplotlib"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Telecommuting: Hybrid, 2 days per week WFH"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "These sensor signals include, but are not limited to, audio, vibration, ultrasounds, radar, lidar, power traces, and torque",
+                        "Utilize expertise in machine learning and signal processing to develop innovative algorithms that accurately interpret and respond to these diverse types of data",
+                        "Manage the development of artificial intelligence (AI) systems integrated with large language models",
+                        "These AI systems support agentic workflows, automating complex tasks typically performed by human agents",
+                        "Work on creating multimodal retrieval-augmented generation applications, combining multiple forms of data (e.g., text, images, audio) to enhance the system's ability to generate relevant and contextually appropriate responses",
+                        "Collaborate with teams across the organization worldwide to ensure the successful implementation and deployment of these advanced AI solutions on embedded platforms"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=EpIHO2pXv5iiR2t3AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMQQqCUBCAYdp6gaDVLC1KS0iiVkUWRoF4AVEZni9eMw9nBM_UKbPNv_v-4DsLyiuihyfWPVkykJGxhNhDnkP4Gpxa7xAKFquWSZYQltktOaTJLs2XsIEHNyATbjtggjuzcbg4dapejnEs4iIjWqtto5Y_MRM2PMZvbuSfSrq6R-9qxSrZb8fIk1nNLyzTzRIUVlWaoTfdGorzD5FBv4ytAAAA&shmds=v1_ARwrE20wGa96dt6axwRluqn5JT4hAskoU7k90aXQjbTc-u5k4Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=EpIHO2pXv5iiR2t3AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAjVBMVEX____rAAD52troAAD53d6MjIz29vbx8fGnp6fuAACQkJCJiYm9vb2ampqEhIStra3MzMzwc3P75eXc29v9-vj87u71vMD30dL1tbf2vb3m5eViYmL2rK3zjY3zm5rsUE_0ycfuaGhzc3Pwk5DwYWT0gIHrSErwHyfuDBXzo6XwWV7zfXbqKTHsYWv4xMWw3N6zAAABCklEQVRIie2S3XKDIBCFd1msglqEaKOtxpAY89f6_o9XcNKZmnYy017zXRxY4MzsnAUgEAgEAo-I80imxd99q_TJaZbPRck4r9zKXozTdT1rU4Fh7swsjc-ZBHh9KzJfMETCFjpE3IBG4fY9IW41lUB24VOrZJepXKnUVxzrCvuKtLFkaIAaWrHnAz8gAOmFUWZxFMdFkSe-Yy7GQUwtGmCiGWncgEX_6iqOR3xoxKE72dmINZwv4qBvRmvF0qiKZKeU_GpVtGVPDC0b0Oh1ebo0omP9-vqz1btwyIXTwZ4Enst3F9EWPvD3cO7GYYzx4zCTz55N1U0rV84X34llJKN_fIBAIBAILPgEMpkQ04ZeCtAAAAAASUVORK5CYII.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://www.dice.com/job-detail/ff85c710-ab63-41fe-a73a-6f09de412c61",
+            "job_title": "Deep Learning Engineer II (Multiple Positions) (REF286216I)",
+            "description": "Company Description\n\nRobert Bosch LLC seeks Deep Learning Engineer II (Multiple Positions) at its facility located at 2555 Smallman Street, Suite 300, Pittsburgh, PA 15222. Conduct research and advanced development of innovative signal processing and deep learning systems specifically designed to process and analyze sensor signals. These sensor signals include, but are not limited to, audio, vibration, ultrasounds, radar, lidar, power traces, and torque. Utilize expertise in machine learning and signal processing to develop innovative algorithms that accurately interpret and respond to these diverse types of data. Manage the development of artificial intelligence (AI) systems integrated with large language models. These AI systems support agentic workflows, automating complex tasks typically performed by human agents. Work on creating multimodal retrieval-augmented generation applications, combining multiple forms of data (e.g., text, images, audio) to enhance the system's ability to generate relevant and contextually appropriate responses. Collaborate with teams across the organization worldwide to ensure the successful implementation and deployment of these advanced AI solutions on embedded platforms. REQS: This position requires a master's degree or foreign equivalent in Information Technology, Electronic Engineering or a related field and 3 years of experience as a Deep Learning Engineer, Research Engineer or occupation involving design, development, and maintenance of deep learning pipelines for acoustic and vibration signals. Additionally, the applicant must have employment experience with: (1) Deep learning and signal processing frameworks in Python; (2) PyTorch and Lightning; (3) MLFlow and Numpy; (4) Scipy; and (5) Matplotlib. Telecommuting: Hybrid, 2 days per week WFH. Applicants who are interested in this position should apply , search [Deep Learning Engineer II (Multiple Positions) / REF286216I]\n\nJob Description\n\nQualifications\n\nAdditional Information\n\nAll your information will be kept confidential according to EEO guidelines.",
+            "apply_options": [
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/ff85c710-ab63-41fe-a73a-6f09de412c61?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/deep-learning-engineer-ii_7ea1a0816510311292734b3f7198d7d05eaac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://www.talent.com/view?id=619535036333562978&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Smart Recruiters Jobs",
+                    "link": "https://jobs.smartrecruiters.com/BoschGroup/744000126551708-deep-learning-engineer-ii-multiple-positions-ref286216i-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Imagine Job Board - Imagine Foundation",
+                    "link": "https://jobs.joinimagine.com/companies/bosch-2-18903783-a3e1-430e-b717-f6b61708c5fc/jobs/78906248-deep-learning-engineer-ii-multiple-positions-ref286216i?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ApplyAll",
+                    "link": "https://applyall.com/jobs/us/deep-learning-engineer-ii-multiple-positions-ref286216i-at-bosch-jc_d0ba7bbd5d82f20d2591f23a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Pittsburgh Jobs Expertini",
+                    "link": "https://pittsburgh.us.expertini.com/job/deep-learning-engineer-ii-multiple-positions-ref286216i-pittsburgh-bosch-13fe5240194c4f09b2039b4fb214a827105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIElJIChNdWx0aXBsZSBQb3NpdGlvbnMpIChSRUYyODYyMTZJKSIsImNvbXBhbnlfbmFtZSI6IkJvc2NoIiwiaHRpZG9jaWQiOiJFcElITzJwWHY1aWlSMnQzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU214YU9VWkhNSFpQYlVGeFJWVlZjbGxzVERoQmJHbDNWSFUxTXpKSWNtRkdWM1p1U0VjNU1ERjNTazVPUTNFd2RETXRTbTFHVjJaT2RuUkJUa0pSZUhKa1dVUXhWR0l6ZERWTFVub3hibUpDUWs0M1NrWnVVWGM1YjFWelowUXRhbWgzTkhJdGIxTnFUalV3VUZCdVpYWkZMVzQzVkVNdFFrRlNXblZET0U1eWFWcFpObWNTRjFCTFRHSmhkazlQUm5acGEzQjBVVkIyWTA5WmNWRlJHaUpCUkhOeU9XWlVPVFV3U0VZemF6TlNTbXhMVkRWc1VITktRbU5xTlVWdE5saDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJFcElITzJwWHY1aWlSMnQzQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Deep Learning Engineer Multimodal Vision & Edge Deployments",
+            "company_name": "Matroid",
+            "location": "Palo Alto, CA",
+            "via": "BeBee",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You should have 3+ years in deep learning, CV, and software engineering, plus strong Python and PyTorch skills and experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will take ideas from research to production, applying the latest techniques to solve real-world visual inspection problems for customers",
+                        "This role is onsite five days a week at our downtown Palo Alto office near Stanford, collaborating with product, infra, and field teams"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=W3cmLrPLI-HJ34qnAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0LxGorC9GcCDZaBRMEMSAWtnJJlsvJZfe4XSG-yU8am6lmJvvOsnuJGOGKNpEnBxU5T4gJ6ndQP3BnAzy8eCZYQtU5hBJj4M-ApAIbuHADMsVtD5NyZnYBF8deNcrBGJGQO1Grvs1bHgwTNjyaFzfyx1N6m6adVXzu9tsxj-RW89pqYt-BJ7jZwFAE5TWcih8Z4PS1rgAAAA&shmds=v1_ARwrE212n4masFKe5fFfYQh-eJtnjtODNcsygzQPd7XYzGamrQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=W3cmLrPLI-HJ34qnAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://app.bebee.com/us/jobs/deep-learning-engineer-multimodal-vision-edge-deployments-matroid-palo-alto--lifeworq-19cfa981-917e-44e7-bcc1-5db7c319a72d",
+            "job_title": "Deep Learning Engineer Multimodal Vision & Edge Deployments",
+            "description": "Matroid Inc. is seeking a Deep Learning Engineer to advance our multimodal vision platform. You will take ideas from research to production, applying the latest techniques to solve real-world visual inspection problems for customers.\n\n\nThis role is onsite five days a week at our downtown Palo Alto office near Stanford, collaborating with product, infra, and field teams. You should have 3+ years in deep learning, CV, and software engineering, plus strong Python and PyTorch skills and experience",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://app.bebee.com/us/jobs/deep-learning-engineer-multimodal-vision-edge-deployments-matroid-palo-alto--lifeworq-19cfa981-917e-44e7-bcc1-5db7c319a72d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIE11bHRpbW9kYWwgVmlzaW9uIFx1MDAyNiBFZGdlIERlcGxveW1lbnRzIiwiY29tcGFueV9uYW1lIjoiTWF0cm9pZCIsImh0aWRvY2lkIjoiVzNjbUxyUExJLUhKMzRxbkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWWkxUSHBYV1RScWJGZEhWemcwZUhJemFtYzJXRUp6YlVWTFdFUkdkWEZyVUZCVE1XRTJSV1o0VEhsamFFRnFOMmh5WjJ0TFprVmpXR3QyTjJ0M05ITmhkbTR5UTNVek1tODFTV0Z0UkVWQlZIb3lURUZ6WlZoZmFqaFpWMEZDWjBsSFJubERPR2x4Y2tKVVJWaEtlV2xLVWkxZmJYUjNhVkJrVVhWWVdEZFhOWGQzYzJnU0YxQkxUR0poZGs5UFJuWnBhM0IwVVZCMlkwOVpjVkZSR2lKQlJITnlPV1pSWkhOV05EVTBhbGRrVmpOSFNWZGlWM2xSZDB4VFVtaE1kWFpSIiwiZmN2IjoiMyIsImZjX2lkIjoiVzNjbUxyUExJLUhKMzRxbkFBQUFBQT09In0="
+        },
+        {
+            "title": "Senior Computer Vision and Deep Learning Engineer",
+            "company_name": "D3 Embedded",
+            "location": "Anywhere",
+            "via": "Aijobs.com",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate has experience with machine learning frameworks (PyTorch, TensorFlow), computer vision algorithms, and real-world deployment of AI models",
+                        "This position requires strong problem-solving skills and collaboration with cross-functional teams to drive innovation and enhance product capabilities",
+                        "Master of Science or PhD in Computer Vision, Machine/Deep Learning, Computer Science, Computer/Electrical/Software Engineering, or a related field",
+                        "5 years of industry experience",
+                        "Excellent problem solving & troubleshooting skills.",
+                        "Proficiency in Python and C++",
+                        "Proficiency with OpenCV",
+                        "Proficiency with PyTorch, TensorFlow, or related machine learning framework(s)",
+                        "Experience with fine-tuning and transfer learning AI models",
+                        "Ability to design end-to-end processing pipelines for custom use cases",
+                        "Self-Driven personality",
+                        "Capable of a big picture, system-oriented approach",
+                        "Solid technical leadership skills",
+                        "Strong communication and interpersonal skills",
+                        "Candidates must be eligible to work in the United States"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay Range: $120,600 - $174,800 annually",
+                        "Competitive total compensation",
+                        "Medical and dental coverage",
+                        "Employer paid basic life, short-term disability, and identity theft coverage",
+                        "Voluntary vision, life, long-term disability, accident, critical illness coverage",
+                        "401k retirement contribution",
+                        "Paid holidays, time-off, and sick time",
+                        "Tuition assistance and employer paid professional development",
+                        "Flexible work schedules",
+                        "Remote opportunities available",
+                        "Complimentary snacks and beverages",
+                        "Employer sponsored social events"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "D3 Embedded is seeking a skilled Computer Vision and Deep Learning Engineer to develop and implement cutting-edge AI solutions",
+                        "This role involves designing, training, and optimizing deep learning models for image and video analysis, object detection, and pattern recognition",
+                        "Research, develop, and integrate CV/AI solutions for perception problems such as object detection, instance segmentation, sensor fusion, pose estimation etc.",
+                        "Translate product feature requirements to design specifications and devise high-level software architectures to meet requirements and guide design trade-off decisions.",
+                        "Deploy real-time, optimized CV/AI solutions to embedded and edge platforms.",
+                        "Own the full life cycle of new products/solutions from proof of concept to integration with other components and teams.",
+                        "Collaborate with management and technical teams on product strategies",
+                        "Lead and/or participate in all phases of the product development cycle including:",
+                        "requirements definition and architecture",
+                        "software design and development",
+                        "implementing software",
+                        "software/hardware integration",
+                        "verification and validation, and customer support",
+                        "Develop & identify tools / methods for better design reuse & process improvement",
+                        "Lead design reviews and provide technical oversight",
+                        "Mentor junior engineers",
+                        "Other duties as assigned"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=0Xv93acCifIUICIJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKsQrCMBCAYVz7COJws2gjiouOtlhEXATBSZLmSE_au5CL0BfyPa3LP_x8xXdWNHdkkgQnGeInY4IHKQmDZQ8VYoQr2sTEAWoOxDiJNVzEgU6_7WCiZ5HQ4_zY5Rz1YIxqXwbNNlNbtjIYYXQymrc4_eelnU0Ye5vxtd1vxjJyWC6qHdSDQ-_RAzE0yIkwZ7uC2_MHNyFv2agAAAA&shmds=v1_ARwrE23wYDWPkP5rJHVMu61adbm4dkAXYvzBQ5SO8sb4GB9bGw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=0Xv93acCifIUICIJAAAAAA%3D%3D",
+            "extensions": [
+                "120K–175K a year",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://www.aijobs.com/jobs/686702605-senior-computer-vision-and-deep-learning-engineer",
+            "job_title": "Senior Computer Vision and Deep Learning Engineer",
+            "description": "Senior Computer Vision and Deep Learning Engineer\n\nDepartment: Product Design Services \nFLSA Status: Exempt \nReports to: PDS Operations Manager\nPay Range: $120,600 - $174,800 annually \nLocation: Rochester. NY The Role: \n\nD3 Embedded is seeking a skilled Computer Vision and Deep Learning Engineer to develop and implement cutting-edge AI solutions. This role involves designing, training, and optimizing deep learning models for image and video analysis, object detection, and pattern recognition. The ideal candidate has experience with machine learning frameworks (PyTorch, TensorFlow), computer vision algorithms, and real-world deployment of AI models. This position requires strong problem-solving skills and collaboration with cross-functional teams to drive innovation and enhance product capabilities. \n\nThe Responsibilities: \n\nResearch, develop, and integrate CV/AI solutions for perception problems such as object detection, instance segmentation, sensor fusion, pose estimation etc.  Translate product feature requirements to design specifications and devise high-level software architectures to meet requirements and guide design trade-off decisions.  Deploy real-time, optimized CV/AI solutions to embedded and edge platforms.  Own the full life cycle of new products/solutions from proof of concept to integration with other components and teams.  Collaborate with management and technical teams on product strategies  Lead and/or participate in all phases of the product development cycle including:  requirements definition and architecture  software design and development  implementing software  software/hardware integration  verification and validation, and customer support  Develop & identify tools / methods for better design reuse & process improvement  Lead design reviews and provide technical oversight  Mentor junior engineers  Additional Responsibilities: \n\nOther duties as assigned \n\nThe Right Person Will Have (Required): \n\nMaster of Science or PhD in Computer Vision, Machine/Deep Learning, Computer Science, Computer/Electrical/Software Engineering, or a related field. 5 years of industry experience  Excellent problem solving & troubleshooting skills.  Proficiency in Python and C++  Proficiency with OpenCV  Proficiency with PyTorch, TensorFlow, or related machine learning framework(s)  Experience with fine-tuning and transfer learning AI models  Ability to design end-to-end processing pipelines for custom use cases  Self-Driven personality  Capable of a big picture, system-oriented approach  Solid technical leadership skills  Strong communication and interpersonal skills  The Right Person Will Have (Preferred): \n\nExperience with autonomous/industrial robotic platforms and applications  Experience with embedded and edge processing platforms (Nvidia Jetson devices and TensorRT in particular)  Experience with edge AI accelerators (integration, model conversions, deployment, profiling, etc.)  Knowledge of intrinsic and extrinsic calibration procedures for multi-modal sensor systems  Experience with sensor fusion techniques (calibration, early, mid, late fusion, etc.)  Knowledge of camera optics and computational geometry  Gstreamer experience  Robot Operating System (ROS) experience  Experience with version control systems such as GIT and DVC  Experience with GPU programming frameworks such as OpenCL and CUDA The Benefits: \n\nCompetitive total compensation Medical and dental coverage Employer paid basic life, short-term disability, and identity theft coverage Voluntary vision, life, long-term disability, accident, critical illness coverage 401k retirement contribution Paid holidays, time-off, and sick time Tuition assistance and employer paid professional development Flexible work schedules Remote opportunities available Complimentary snacks and beverages Employer sponsored social events The Company: \n\nSince our founding in 1999, D3 Embedded has driven innovation in high-performance embedded systems development. We leverage our expertise in autonomous machines, sensors, imaging, optics, edge computing, algorithms, robotics, and electrification to provide cutting-edge engineering design and low-volume manufacturing services. Headquartered in Rochester NY, we serve a global network of customers and are proudly connected with many technology leaders and Fortune 500 companies. We are interested in bright, creative, and team-oriented individuals exhilarated by the opportunity to transform the world through frontier technologies. \n\nCandidates must be eligible to work in the United States.  D3 Embedded does not sponsor visas. For more information about D3 Embedded, please visit www.d3embedded.com. \n\nD3 Embedded is committed to fostering a diverse work environment and proud to be an Equal Opportunity Employer. We consider and hire applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state or local law. \n\nD3 Embedded participates in E-Verify, a federal program that confirms employment eligibility upon hire.",
+            "apply_options": [
+                {
+                    "title": "Aijobs.com",
+                    "link": "https://www.aijobs.com/jobs/686702605-senior-computer-vision-and-deep-learning-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/new-york/software_development/5545951383/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ29tcHV0ZXIgVmlzaW9uIGFuZCBEZWVwIExlYXJuaW5nIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiRDMgRW1iZWRkZWQiLCJodGlkb2NpZCI6IjBYdjkzYWNDaWZJVUlDSUpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMDlRY1c1TU4zZHFNbnBtV2tZMU1YZFdSVEJmU1dsSFl6TjVjV2RpYVdzMmNqazVUVVIzYjNrMlNtMTRMVlJ2T0VSaFdtODFiVko1ZW5kYVQwazVOUzA0WVRkVVJETmlTRlZDVkVFMlMyUTVVMnRDYVU5NFpsbFBhM0Z5T1hoelNtWlNSSGN0WW14S1dEVXpNRjlEYkZKMVExbEdObXBvWm1OT2RVUTNVV0Y0TUVJNVUwTVNGMUJMVEdKaGRrOVBSblpwYTNCMFVWQjJZMDlaY1ZGUkdpSkJSSE55T1daU1lWUnhUalJJYjNOclEwTjZZVWt5ZVdOVVowSjFTbFF4U210MyIsImZjdiI6IjMiLCJmY19pZCI6IjBYdjkzYWNDaWZJVUlDSUpBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Remote Deep Learning Inference Engineering Lead",
+            "company_name": "NVIDIA Corporation",
+            "location": "Santa Clara, CA",
+            "via": "JobLeads",
+            "job_highlights": [
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Hybrid/remote options apply, with a competitive compensation package"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will shape strategy, roadmaps, and end-to-end optimization of inference pipelines across NVIDIA accelerators",
+                        "The role requires strong C/C++ design, GPU programming with CUDA/Triton, and a track record of deploying DL models in production"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=SMVefXzGa_aiWmMWAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQ7CMBAERZsnUF1DgyBGSDRQRQmgIEQBEm10MYdj5NxZtos8ikdimi12drb4zorTnUZJBA2RhythYMsGWn5TINYERzaWicK_zfgFa7hIDzEv9QDCcBYxjuaHISUf90rF6EoTEyarSy2jEqZeJvWRPv6jiwMG8g4TddvdZio9m-Xi9mybtoJagpeQ1fxrGR7ICaF2GHAFdfUDrbjZra8AAAA&shmds=v1_ARwrE221gBuphGuL8wAepSOSKm7r_DjKOgPCg0xv6DXycbxhoA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=SMVefXzGa_aiWmMWAAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "184K–357K a year",
+                "Full-time"
+            ],
+            "source_link": "https://www.jobleads.com/us/job/remote-deep-learning-inference-engineering-lead--santa-clara--e982038fb2332791fd5732326813e2f8c",
+            "job_title": "Remote Deep Learning Inference Engineering Lead",
+            "description": "NVIDIA Corporation seeks an Engineering Manager for Deep Learning Inference to lead a high-performing team focused on GPU-accelerated inference software. You will shape strategy, roadmaps, and end-to-end optimization of inference pipelines across NVIDIA accelerators. \n\n The role requires strong C/C++ design, GPU programming with CUDA/Triton, and a track record of deploying DL models in production. Hybrid/remote options apply, with a competitive compensation package.",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/remote-deep-learning-inference-engineering-lead--santa-clara--e982038fb2332791fd5732326813e2f8c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-28652-69f3a8a1c2658676b1ecdcaf7a86c48b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZW1vdGUgRGVlcCBMZWFybmluZyBJbmZlcmVuY2UgRW5naW5lZXJpbmcgTGVhZCIsImNvbXBhbnlfbmFtZSI6Ik5WSURJQSBDb3Jwb3JhdGlvbiIsImh0aWRvY2lkIjoiU01WZWZYekdhX2FpV21NV0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFN6bEpVM1pwY0MxTlIzVnlhbVkyTlhsVGRrMHlMVmRNVUVkc1dWaEdiVkI1Ymt4RWFFNW5UbEp3WWtoeFUzWkhOMmxFY2xFM1ZVbENRemR0UW0xT1MwcHpWVXBqYkVWb2EzZ3pXVmhXWVU1UlRETnZPVmRJYVd0UVgxbzJWR1U0ZEdGb2VqTTJObFZvTldkMVkzcHZRamRhVlRjMWQyeEJOMkZMUWtOeFZYcGhTRlZIZG00U0YxQkxUR0poZGs5UFJuWnBhM0IwVVZCMlkwOVpjVkZSR2lKQlJITnlPV1pTYjNWeFZqWm1XRGcwZVdaV2VXaE9SV05oTm5aNWVtc3djMkpuIiwiZmN2IjoiMyIsImZjX2lkIjoiU01WZWZYekdhX2FpV21NV0FBQUFBQT09In0="
+        },
+        {
+            "title": "AI AND DEEP LEARNING ENGINEER",
+            "company_name": "Kneron",
+            "location": "San Diego, CA",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Solid understanding and experience of applying deep learning to real problems in the fields of audio applications and computer vision applications",
+                        "3+ years of industry experience with deep learning algorithm development and optimization",
+                        "Hands-on experience in deep learning frameworks, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe",
+                        "Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively",
+                        "Top-tier conference publication records, including but not limited to CVPR, ICCV, ECCV, NIPS, ICML, are strong plus"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Implementing novel deep neural network architectures and learning techniques to solve a variety of computer vision and audio related tasks and push the state of the art in performance",
+                        "Research and develop audio applications including speech recognition, voice recognition, voice wakeup using state of art deep learning algorithms",
+                        "Research and develop computer vision applications including 3D estimation, segmentation and so on",
+                        "Deploy deep learning models onto Kneron AI accelerator",
+                        "Intern or full time"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=1c0Aiwpm_HvEgQcuAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCMBQAUFx7AcHpz6KJiC46BRtCVILUA5SkfNJKzQ_9GXoID60ub3zVZ1EdlAXlaqi1fsBdq8ZZZ0A7Y53WDWzhSgEY_dT1QAkMURxxde5LyXySknkUkYsvQyc6ektKGGiWLwr8p-XeT5hHX7DdH3ezyCmul7eE0-8aEjx9gnrASBu4qC8-iYyBjwAAAA&shmds=v1_ARwrE232kl4o5HA-2TtkyMf_d5tzjT6TqBkFhxnZAhSXnRHX-w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=1c0Aiwpm_HvEgQcuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba239eb6ec54f2861faad/images/LWY3ETKdG206ae9nNwRTHtpnRv--xcjYEZMyhqgsX7k.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/ai-and-deep-learning-engineer-at-kneron-4405010901",
+            "job_title": "AI AND DEEP LEARNING ENGINEER",
+            "description": "AI and Deep Learning Engineer\n\nJob Description\n\n\n\nImplementing novel deep neural network architectures and learning techniques to solve a variety of computer vision and audio related tasks and push the state of the art in performance.Research and develop audio applications including speech recognition, voice recognition, voice wakeup using state of art deep learning algorithms. Research and develop computer vision applications including 3D estimation, segmentation and so on. Deploy deep learning models onto Kneron AI accelerator.Intern or full time.\n\nRequirements\n\nM.S. in Computer Science, Machine Learning, Electrical Engineering, Robotics or similar field (Ph.D. is preferred). Solid understanding and experience of applying deep learning to real problems in the fields of audio applications and computer vision applications. 3+ years of industry experience with deep learning algorithm development and optimization. Strong experience in C/C++ programing is a plus. Hands-on experience in deep learning frameworks, e.g., OpenCV, Tensorflow, Keras, Pytorch, and Caffe. Ability to quickly adapt to new situations, learn new technologies, and collaborate and communicate effectively. Experience with parallel computing, GPU/CUDA, DSP, and OpenCL programming is a plus. Top-tier conference publication records, including but not limited to CVPR, ICCV, ECCV, NIPS, ICML, are strong plus.\n\nLocation\n\n10052 Mesa Ridge Court, Suite 101 San Diego, CA 92121\n\nContact\n\nIf interested, please send your resume to: career@kneron.us",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ai-and-deep-learning-engineer-at-kneron-4405010901?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/kneron/san-diego/ai-and-deep-learning-engineer-108731612/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobMESH",
+                    "link": "https://jobmesh.io/job/5c553168-36dc-468e-9bf2-629072fe7015?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/ai-and-deep-learning-engineer-kneron-san-diego-ca--t7xk-844841680?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-ca-san-diego-ai-deep-learning-engineer-kneron-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBBTkQgREVFUCBMRUFSTklORyBFTkdJTkVFUiIsImNvbXBhbnlfbmFtZSI6IktuZXJvbiIsImh0aWRvY2lkIjoiMWMwQWl3cG1fSHZFZ1FjdUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMwdGpTMmx6WkhOV2MwaGhNMWgxVW5KaVFsWldka3hDWlhOSk1EQmFZMHhWUVhoeVozcE5jakI1VTJkTFJVTmZTMGgzVTNwUVIwOVVOVEZWWVdSRVkzTnllVXBWZFU1TFJIUkVhSGRQTVdwZlR6WlBhemROUmtrNE4zZE9kR05aV1ZCd05XeHhOV3BaT0RkMlVUQjNWV1pXVERCRWJtRkZhbEpvVjFKQ2VVeDZZM1JLTW5nU0YxQkxUR0poZGs5UFJuWnBhM0IwVVZCMlkwOVpjVkZSR2lKQlJITnlPV1pUV0djemRWRTFWV0ZIZG1Ob2NHSmxiMFZJU2s1clRXVjRXVkozIiwiZmN2IjoiMyIsImZjX2lkIjoiMWMwQWl3cG1fSHZFZ1FjdUFBQUFBQT09In0="
+        },
+        {
+            "title": "Planning & Prediction Deep Learning Engineer",
+            "company_name": "Adaptalent LLC",
+            "location": "Richmond, VA",
+            "via": "JobMESH",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A bachelor's, master's, or Ph.D. in Computer Science, Electrical Engineering, or a related field",
+                        "Strong proficiency in deep learning frameworks such as TensorFlow, PyTorch, or similar",
+                        "Proven experience in developing and deploying deep learning models for planning and prediction tasks",
+                        "Familiarity with autonomous driving systems and relevant sensor technologies",
+                        "Solid programming skills in languages such as Python and C++",
+                        "Strong problem-solving abilities and a commitment to innovation",
+                        "Excellent teamwork and communication skills"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Their work will directly impact the evolution of smart and efficient vehicles, contributing to the advancement of the automotive industry",
+                        "Design, develop, and optimize deep learning models for planning and prediction in autonomous driving systems",
+                        "Implement state-of-the-art algorithms for object detection, motion prediction, and behavior planning",
+                        "Collaborate with cross-functional teams to integrate deep learning models into the autonomous driving stack",
+                        "Conduct research to stay updated on the latest advancements in deep learning and apply them to enhance autonomous driving capabilities",
+                        "Analyze and process sensor data to improve decision-making processes",
+                        "Continuously evaluate and refine the performance of deep learning models to meet safety and efficiency standards",
+                        "Participate in data collection and annotation efforts to support model training",
+                        "Contribute to the development of simulation environments for testing and validation"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=47tvZwJFTExpMtJqAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2KsQrCMBBAce0nOMhNDqKNCC52KlUE6VAcXEuaHkkkvQvJDf0ev9Tq8ob3XvFZFU0XNJEnC1voEo7eiGeCK2KEFnX6pxtZT4gJDvDgAfLijYNluzPbgOvKicR8USrnUNosWrwpDU-KCQee1ZuH_EOfnU4YgxbsT-fjXEayu0096ig6IAm0bQOe4OmNm5jGPbzqLxx6edmlAAAA&shmds=v1_ARwrE20iXFSp-tOkWjyrB3zAcujLmm2vcgMymDSx0PYSqG3HVg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=47tvZwJFTExpMtJqAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba239eb6ec54f2861faad/images/rrPUvN4qsRrqGzILCHe6Xx5PZkEcBcQqt1rCAvXu_lY.jpeg",
+            "extensions": [
+                "3 days ago",
+                "350K a year",
+                "Full-time"
+            ],
+            "source_link": "https://jobmesh.io/job/90fc7a76-abf1-462c-9abd-4eeb9a4bb6d2",
+            "job_title": "Planning & Prediction Deep Learning Engineer",
+            "description": "Planning & Prediction Deep Learning Engineer – Santa Clara, CA – Up to $350,000 + RSUs\n\nThe company is a leading organization dedicated to creating intelligent, connected, and sustainable transportation solutions. The company is committed to pushing the boundaries of innovation and technology to shape the future of mobility. With its cutting-edge autonomous driving technology, the company is at the forefront of the EV revolution.\n\nJob Description:\n\nThe company is seeking a talented and highly motivated Deep Learning Engineer to join its rapidly growing autonomous driving team. As a Deep Learning Engineer, the selected candidate will play a pivotal role in the development and optimization of autonomous driving systems. Their work will directly impact the evolution of smart and efficient vehicles, contributing to the advancement of the automotive industry.\n\nResponsibilities:\n\nDesign, develop, and optimize deep learning models for planning and prediction in autonomous driving systems.Implement state-of-the-art algorithms for object detection, motion prediction, and behavior planning.Collaborate with cross-functional teams to integrate deep learning models into the autonomous driving stack.Conduct research to stay updated on the latest advancements in deep learning and apply them to enhance autonomous driving capabilities.Analyze and process sensor data to improve decision-making processes.Continuously evaluate and refine the performance of deep learning models to meet safety and efficiency standards.Participate in data collection and annotation efforts to support model training.Contribute to the development of simulation environments for testing and validation.Qualifications:\n\nA bachelor's, master's, or Ph.D. in Computer Science, Electrical Engineering, or a related field.Strong proficiency in deep learning frameworks such as TensorFlow, PyTorch, or similar.Proven experience in developing and deploying deep learning models for planning and prediction tasks.Familiarity with autonomous driving systems and relevant sensor technologies.Solid programming skills in languages such as Python and C++.Strong problem-solving abilities and a commitment to innovation.Excellent teamwork and communication skills.Experience with simulation tools for autonomous driving, such as CARLA, is a plus.",
+            "apply_options": [
+                {
+                    "title": "JobMESH",
+                    "link": "https://jobmesh.io/job/90fc7a76-abf1-462c-9abd-4eeb9a4bb6d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQbGFubmluZyBcdTAwMjYgUHJlZGljdGlvbiBEZWVwIExlYXJuaW5nIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQWRhcHRhbGVudCBMTEMiLCJodGlkb2NpZCI6IjQ3dHZad0pGVEV4cE10SnFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURFZCTVRBdFNuRk1NemswZG5CcmRGZDJOVTVyVG5wMWQyWjBSM3B4ZUdWT1JIQXlOak52VEhGZmVVNUxWRGxIYldaUGFEVTVWM0pvZERKYWFWSlBaVXB1TjBWNWVEZGhNMkZaUlRjeFpHZzBlaTF2WlVSRmMwbFhTRU42Vm10VE9HMXNSekYxZHkwNGQydGtkMWRMUlRaNWMyOVRSakJDYkVsSFEwUXhMVEJ4VUVJNVdHY1NGMUJMVEdKaGRrOVBSblpwYTNCMFVWQjJZMDlaY1ZGUkdpSkJSSE55T1daUmMxZEtObkZaZWxOak9XOVVVbkZyZEU5WmRqWkRkazB4ZDBObiIsImZjdiI6IjMiLCJmY19pZCI6IjQ3dHZad0pGVEV4cE10SnFBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Deep Learning Software Engineer - R118",
+            "company_name": "Expedition Technology",
+            "location": "Herndon, VA",
+            "via": "Snagajob",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "US Citizenship - must be eligible to maintain a US-Government issued security clearance of Top Secret or higher",
+                        "MS and 2+ years of experience or BS and 4+ years of experience in a technical field such as Computer Science, Electrical Engineering, Physics, Statistics, or Applied Mathematics",
+                        "Proven proficiency in PyTorch, TensorFlow, or other modern machine learning framework",
+                        "Solid theoretical understanding of deep neural networks as well as its applications, particularly in computer vision",
+                        "Proven experience architecting, training, testing, and deploying machine learning solutions within an AWS environment",
+                        "Experience using collaborative source code management tools (Git)",
+                        "Strong technical presentation and writing skills",
+                        "Strong software development skills to include object-oriented design and implementation in languages like Python",
+                        "Strong practical experience developing in both object oriented and procedural languages",
+                        "Experience with standard data structures, algorithms, and application organization",
+                        "Experience with the full software development lifecycle, CI/CD, agile/scrum methodologies",
+                        "Experience with software testing (unit, integration, functional, etc.)",
+                        "Exposure to software containerization with Docker, Linux, and cloud development",
+                        "We're looking for someone who has in-depth understanding of DL architectures such as YOLO, Faster R-CNN, Mask R-CNN, and other state of the art object detection models",
+                        "The candidate should feel comfortable developing and testing end-to-end deployable systems; from sourcing and curating data, building, training, and evaluating models, to productizing final deliverables",
+                        "If you feel fulfilled by rolling up your sleeves and thinking about hard problems, building and integrating learning-based algorithms and systems, and delivering robust solutions in a fast paced but scientifically rigorous environment, we want to hear from you!",
+                        "US Citizenship - must be eligible to maintain a US-Government issued security clearance of Top Secret or higher",
+                        "MS and 2+ years of experience or BS and 4+ years of experience in a technical field such as Computer Science, Electrical Engineering, Physics, Statistics, or Applied Mathematics",
+                        "Proven proficiency in PyTorch, TensorFlow, or other modern machine learning framework",
+                        "Solid theoretical understanding of deep neural networks as well as its applications, particularly in computer vision",
+                        "Proven experience architecting, training, testing, and deploying machine learning solutions within an AWS environment",
+                        "Experience using collaborative source code management tools (Git)",
+                        "Strong technical presentation and writing skills",
+                        "Strong software development skills to include object-oriented design and implementation in languages like Python",
+                        "Strong practical experience developing in both object oriented and procedural languages",
+                        "Experience with standard data structures, algorithms, and application organization",
+                        "Experience with the full software development lifecycle, CI/CD, agile/scrum methodologies",
+                        "Experience with software testing (unit, integration, functional, etc.)",
+                        "Exposure to software containerization with Docker, Linux, and cloud development"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Expedition Technology (EXP) offers a flexible, self-directed benefits package that is designed to fit your individual needs",
+                        "Company-paid medical, dental, and vision insurance",
+                        "Generous Time Off: Enjoy 11 paid holidays, up to 34 days of PTO",
+                        "Robust 401(k) Plan: Benefit from up to a 12% company contribution, including a 3% safe harbor, 6% match, and up to 3% additional as a form of profit sharing",
+                        "Student Loan Repayment: Take advantage of our unique option to reallocate a portion of your 401(k) match funds to repay student loans, helping you achieve financial freedom faster",
+                        "Paid Parental Leave: Six weeks of paid leave for the primary caregiver and 2 weeks of paid leave for the secondary caregiver for you to bond with your new family member",
+                        "Tuition Reimbursement: Pursue further education with up to $5,250/year available to support your continuous learning and growth",
+                        "Referral Bonus Program: Earn rewards for bringing talented individuals into our team",
+                        "Exclusive Entertainment Perks: Enjoy free tickets to sporting events, theater, concerts, and more, adding fun and excitement to your life",
+                        "Onsite Amenities: Stay fit and healthy with our free, onsite fitness center, active workstations featuring treadmill and bike desks, and enjoy our onsite cafeteria with reduced-cost options",
+                        "Inspiring Work Culture: Thrive in a collaborative, creative, and supportive culture where you are encouraged to push boundaries, take risks, and enjoy the rewards",
+                        "Expedition Technology (EXP) offers a flexible, self-directed benefits package that is designed to fit your individual needs",
+                        "Company-paid medical, dental, and vision insurance",
+                        "Generous Time Off: Enjoy 11 paid holidays, up to 34 days of PTO",
+                        "Robust 401(k) Plan: Benefit from up to a 12% company contribution, including a 3% safe harbor, 6% match, and up to 3% additional as a form of profit sharing",
+                        "Student Loan Repayment: Take advantage of our unique option to reallocate a portion of your 401(k) match funds to repay student loans, helping you achieve financial freedom faster",
+                        "Paid Parental Leave: Six weeks of paid leave for the primary caregiver and 2 weeks of paid leave for the secondary caregiver for you to bond with your new family member",
+                        "Tuition Reimbursement: Pursue further education with up to $5,250/year available to support your continuous learning and growth",
+                        "Referral Bonus Program: Earn rewards for bringing talented individuals into our team",
+                        "Exclusive Entertainment Perks: Enjoy free tickets to sporting events, theater, concerts, and more, adding fun and excitement to your life",
+                        "Onsite Amenities: Stay fit and healthy with our free, onsite fitness center, active workstations featuring treadmill and bike desks, and enjoy our onsite cafeteria with reduced-cost options",
+                        "Inspiring Work Culture: Thrive in a collaborative, creative, and supportive culture where you are encouraged to push boundaries, take risks, and enjoy the rewards"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We're looking for someone who has in-depth understanding of DL architectures such as YOLO, Faster R-CNN, Mask R-CNN, and other state of the art object detection models",
+                        "The candidate should feel comfortable developing and testing end-to-end deployable systems; from sourcing and curating data, building, training, and evaluating models, to productizing final deliverables",
+                        "Researching academic literature to keep abreast of the latest theories, techniques, and tools",
+                        "Working in a team to develop deep learning architectures and pipelines for novel applications",
+                        "Implementing solutions in Python (PyTorch)",
+                        "Delivering high-quality, carefully tested software",
+                        "Participate in team brainstorming sessions to shape innovative solutions",
+                        "Researching academic literature to keep abreast of the latest theories, techniques, and tools",
+                        "Working in a team to develop deep learning architectures and pipelines for novel applications",
+                        "Implementing solutions in Python (PyTorch)",
+                        "Delivering high-quality, carefully tested software",
+                        "Participate in team brainstorming sessions to shape innovative solutions"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=0B1QkiXAIVsZkr45AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBQAce0nOL3BSbSxgiAVB8GiiJOKa0nTZxKJ74UkYP0dv9S43C3HFd9Rsd0jejijDGRJw5Uf6S0DQkPaEmKAOVyqap114g5i7pQBJjgwa4fjjUnJx1qIGF2pY5LJqlLxSzBhx4N4chf_aKPJV-9kwna5WgylJz2dNIPH3iabfzdUhtix_oAlOGKgnmkG990Prhkk-6UAAAA&shmds=v1_ARwrE20KREGicGqWPrBsk1tlTCMfnWKw5gzQI-LXThE0sC-AcA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=0B1QkiXAIVsZkr45AAAAAA%3D%3D",
+            "extensions": [
+                "13 days ago",
+                "Full-time and Part-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://www.snagajob.com/jobs/1298808965",
+            "job_title": "Deep Learning Software Engineer - R118",
+            "description": "At Expedition Technology (EXP), we work on real-world problems whose solutions will make an immediate impact on national security. If you desire an opportunity where you will apply your deep learning and software engineering expertise to challenging problems with no known solutions, EXP is the place to be!  Currently, we are seeking an experienced Deep Learning-and-Software Engineer who will work with a dynamic team that is delivering novel solutions to our Intel Community. We're looking for someone who has in-depth understanding of DL architectures such as YOLO, Faster R-CNN, Mask R-CNN, and other state of the art object detection models. The candidate should feel comfortable developing and testing end-to-end deployable systems; from sourcing and curating data, building, training, and evaluating models, to productizing final deliverables.   If you feel fulfilled by rolling up your sleeves and thinking about hard problems, building and integrating learning-based algorithms and systems, and delivering robust solutions in a fast paced but scientifically rigorous environment, we want to hear from you!  Interested in joining our team? Here's what you'll need to succeed:  Responsibilities include:  \nResearching academic literature to keep abreast of the latest theories, techniques, and tools Working in a team to develop deep learning architectures and pipelines for novel applications  Implementing solutions in Python (PyTorch)  Delivering high-quality, carefully tested software  Participate in team brainstorming sessions to shape innovative solutions  Required Skills and Experience:  \nAn active Top Secret clearance (TS/SCI preferred) US Citizenship - must be eligible to maintain a US-Government issued security clearance of Top Secret or higher MS and 2+ years of experience or BS and 4+ years of experience in a technical field such as Computer Science, Electrical Engineering, Physics, Statistics, or Applied Mathematics  Proven proficiency in PyTorch, TensorFlow, or other modern machine learning framework  Solid theoretical understanding of deep neural networks as well as its applications, particularly in computer vision Proven experience architecting, training, testing, and deploying machine learning solutions within an AWS environment  Experience using collaborative source code management tools (Git)  Strong technical presentation and writing skills  Strong software development skills to include object-oriented design and implementation in languages like Python Strong practical experience developing in both object oriented and procedural languages  Experience with standard data structures, algorithms, and application organization Experience with the full software development lifecycle, CI/CD, agile/scrum methodologies Experience with software testing (unit, integration, functional, etc.) Exposure to software containerization with Docker, Linux, and cloud development \n\nWho is Expedition Technology?\nExpedition Technology (EXP) designs, develops, and delivers innovative solutions with national impact for the defense and intelligence communities. We use machine learning, artificial intelligence, and other advanced algorithms, platforms, and technologies to solve our customers' most complex, demanding and urgent C4ISR challenges. Our culture promotes individual growth and opportunity, prioritizes a collaborative team spirit, and invites the intellectually curious to solve challenging problems creatively. Headquarted in Northern Virginia's high-tech corrdor, EXP is a rapidly growing, privately held company that pushes the boundaries of what is possible every day. \nTo learn more about EXP and discover why we are an award-winning workplace, visit our  and follow us on .\nInterested in joining our team? Let's explore together.\nJoin Our Team and Enjoy Exceptional Benefits!\nExpedition Technology (EXP) offers a flexible, self-directed benefits package that is designed to fit your individual needs. Here's a glimpse of the outstanding benefits you can enjoy when you join our team:\nCompany-paid medical, dental, and vision insuranceGenerous Time Off: Enjoy 11 paid holidays, up to 34 days of PTORobust 401(k) Plan: Benefit from up to a 12% company contribution, including a 3% safe harbor, 6% match, and up to 3% additional as a form of profit sharing.Student Loan Repayment: Take advantage of our unique option to reallocate a portion of your 401(k) match funds to repay student loans, helping you achieve financial freedom faster.Paid Parental Leave: Six weeks of paid leave for the primary caregiver and 2 weeks of paid leave for the secondary caregiver for you to bond with your new family member. Tuition Reimbursement: Pursue further education with up to $5,250/year available to support your continuous learning and growth.Referral Bonus Program: Earn rewards for bringing talented individuals into our team.Exclusive Entertainment Perks: Enjoy free tickets to sporting events, theater, concerts, and more, adding fun and excitement to your life.Onsite Amenities: Stay fit and healthy with our free, onsite fitness center, active workstations featuring treadmill and bike desks, and enjoy our onsite cafeteria with reduced-cost options.Inspiring Work Culture: Thrive in a collaborative, creative, and supportive culture where you are encouraged to push boundaries, take risks, and enjoy the rewards.\nJoin us and be part of a team that values your well-being and professional growth. Apply today and take the first step towards a fulfilling career with us!\nEXP is proud to be an Equal Opportunity Employer that believes a diverse range of talent creates an environment that fosters creativity and innovation. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, disability, national origin, genetic information, or protected veteran status. \nAt Expedition Technology (EXP), we work on real-world problems whose solutions will make an immediate impact on national security. If you desire an opportunity where you will apply your deep learning and software engineering expertise to challenging problems with no known solutions, EXP is the place to be!  Currently, we are seeking an experienced Deep Learning-and-Software Engineer who will work with a dynamic team that is delivering novel solutions to our Intel Community. We're looking for someone who has in-depth understanding of DL architectures such as YOLO, Faster R-CNN, Mask R-CNN, and other state of the art object detection models. The candidate should feel comfortable developing and testing end-to-end deployable systems; from sourcing and curating data, building, training, and evaluating models, to productizing final deliverables.   If you feel fulfilled by rolling up your sleeves and thinking about hard problems, building and integrating learning-based algorithms and systems, and delivering robust solutions in a fast paced but scientifically rigorous environment, we want to hear from you!  Interested in joining our team? Here's what you'll need to succeed:  Responsibilities include:  \nResearching academic literature to keep abreast of the latest theories, techniques, and tools Working in a team to develop deep learning architectures and pipelines for novel applications  Implementing solutions in Python (PyTorch)  Delivering high-quality, carefully tested software  Participate in team brainstorming sessions to shape innovative solutions  Required Skills and Experience:  \nAn active Top Secret clearance (TS/SCI preferred) US Citizenship - must be eligible to maintain a US-Government issued security clearance of Top Secret or higher MS and 2+ years of experience or BS and 4+ years of experience in a technical field such as Computer Science, Electrical Engineering, Physics, Statistics, or Applied Mathematics  Proven proficiency in PyTorch, TensorFlow, or other modern machine learning framework  Solid theoretical understanding of deep neural networks as well as its applications, particularly in computer vision Proven experience architecting, training, testing, and deploying machine learning solutions within an AWS environment  Experience using collaborative source code management tools (Git)  Strong technical presentation and writing skills  Strong software development skills to include object-oriented design and implementation in languages like Python Strong practical experience developing in both object oriented and procedural languages  Experience with standard data structures, algorithms, and application organization Experience with the full software development lifecycle, CI/CD, agile/scrum methodologies Experience with software testing (unit, integration, functional, etc.) Exposure to software containerization with Docker, Linux, and cloud development \n\nWho is Expedition Technology?\nExpedition Technology (EXP) designs, develops, and delivers innovative solutions with national impact for the defense and intelligence communities. We use machine learning, artificial intelligence, and other advanced algorithms, platforms, and technologies to solve our customers' most complex, demanding and urgent C4ISR challenges. Our culture promotes individual growth and opportunity, prioritizes a collaborative team spirit, and invites the intellectually curious to solve challenging problems creatively. Headquarted in Northern Virginia's high-tech corrdor, EXP is a rapidly growing, privately held company that pushes the boundaries of what is possible every day. \nTo learn more about EXP and discover why we are an award-winning workplace, visit our  and follow us on .\nInterested in joining our team? Let's explore together.\nJoin Our Team and Enjoy Exceptional Benefits!\nExpedition Technology (EXP) offers a flexible, self-directed benefits package that is designed to fit your individual needs. Here's a glimpse of the outstanding benefits you can enjoy when you join our team:\nCompany-paid medical, dental, and vision insuranceGenerous Time Off: Enjoy 11 paid holidays, up to 34 days of PTORobust 401(k) Plan: Benefit from up to a 12% company contribution, including a 3% safe harbor, 6% match, and up to 3% additional as a form of profit sharing.Student Loan Repayment: Take advantage of our unique option to reallocate a portion of your 401(k) match funds to repay student loans, helping you achieve financial freedom faster.Paid Parental Leave: Six weeks of paid leave for the primary caregiver and 2 weeks of paid leave for the secondary caregiver for you to bond with your new family member. Tuition Reimbursement: Pursue further education with up to $5,250/year available to support your continuous learning and growth.Referral Bonus Program: Earn rewards for bringing talented individuals into our team.Exclusive Entertainment Perks: Enjoy free tickets to sporting events, theater, concerts, and more, adding fun and excitement to your life.Onsite Amenities: Stay fit and healthy with our free, onsite fitness center, active workstations featuring treadmill and bike desks, and enjoy our onsite cafeteria with reduced-cost options.Inspiring Work Culture: Thrive in a collaborative, creative, and supportive culture where you are encouraged to push boundaries, take risks, and enjoy the rewards.\nJoin us and be part of a team that values your well-being and professional growth. Apply today and take the first step towards a fulfilling career with us!\nEXP is proud to be an Equal Opportunity Employer that believes a diverse range of talent creates an environment that fosters creativity and innovation. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, disability, national origin, genetic information, or protected veteran status.",
+            "apply_options": [
+                {
+                    "title": "Snagajob",
+                    "link": "https://www.snagajob.com/jobs/1298808965?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIFNvZnR3YXJlIEVuZ2luZWVyIC0gUjExOCIsImNvbXBhbnlfbmFtZSI6IkV4cGVkaXRpb24gVGVjaG5vbG9neSIsImh0aWRvY2lkIjoiMEIxUWtpWEFJVnNaa3I0NUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFUkVha3hDZVhJMWFXOXZWblJvV0d4aWJrdDFTRTgxUjJwSmREWndSSGxOTWsxMldrZDVjR3QyU2twWFNXVlpXa2x6ZDJjeGJYQkZkVkEwVkV4MVVUTTNkRE5xVjFodUxYVk1VSFl4TVRsdk1Ea3RiMDEyYkMxalgyTnRTRFJtWTJOMFRVdHJja0YzWlhCVVNGQmxjblpDTUhWYUxYQlhNekZyTURkMFpYZFZiMmM0TFRnU0YxQkxUR0poZGs5UFJuWnBhM0IwVVZCMlkwOVpjVkZSR2lKQlJITnlPV1pTYlZac2RHUnlSbFphTFY5cFZGbHRWSEY1VEhSRGFIaEVZaTEzIiwiZmN2IjoiMyIsImZjX2lkIjoiMEIxUWtpWEFJVnNaa3I0NUFBQUFBQT09In0="
+        },
+        {
+            "title": "Deep Learning Engineer",
+            "company_name": "Dyneti",
+            "location": "San Mateo, CA",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Enjoys significant ownership over user-facing product",
+                        "Can work independently",
+                        "Is comfortable turning research papers into product",
+                        "Has 2+ years experience with deep learning or has a PhD in a STEM field",
+                        "Builds with a product-first approach"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Join Dyneti as part of the founding engineering team",
+                        "You will have the opportunity to work closely with the CEO to build new features and roll out new products - all in the deep learning space",
+                        "You ship code quickly and care about the real world impact of your code"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=OCzS--hcg30Eq-unAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJMQoCMRBAUWz3AoLV1OImIthoJa4IopUHWJIwJJE4EzJTrAfw3q7NL97vvouuHxAr3NE1yhThQjETYoMebuxBZg8JmODKHAuujkm1ysFakWKiqNMcTOC3ZULPk32xl39GSa5hLU5x3O23k6kU18vhQ6gZMsHTETzmyRs4n34oo7saiAAAAA&shmds=v1_ARwrE23zZ7di8fSDa4LdCXtlm3qiaUGJEPc4Tz2xLDtKJMn_cw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=OCzS--hcg30Eq-unAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://www.indeed.com/viewjob?jk=76ee2f64066302b0",
+            "job_title": "Deep Learning Engineer",
+            "description": "About Us\n\n\n At Dyneti, we believe digital payments should be seamless and secure. That’s why we built DyScan, a software library that allows digital merchants to prevent fraud and improve conversion by taking a photo of a credit card.\n\n\n Dyneti was founded by a fraud prevention expert from Uber, and has raised funding from an exceptional lineup of investors, including Y Combinator. We’ve processed hundreds of millions of credit card scans around the world, and our customers include Fortune 100 companies and some of the fastest growing tech unicorns.\n\n\n \n\n\n  Job Overview\n\n\n Join Dyneti as part of the founding engineering team. You will have the opportunity to work closely with the CEO to build new features and roll out new products - all in the deep learning space.\n\n\n \n\n\n  We’re Looking for Someone Who\n\n\n \n  \n   Enjoys significant ownership over user-facing product\n\n\n  \n   Can work independently\n\n\n  \n   Is comfortable turning research papers into product\n\n\n  \n   Has 2+ years experience with deep learning or has a PhD in a STEM field\n\n\n  \n   Builds with a product-first approach. You ship code quickly and care about the real world impact of your code.\n\n\n  \n   Python expertise strongly preferred - however, candidates with deep learning experience in a different language will be considered\n\n\n  \n   Familiarity with Tensorflow preferred\n\n\n \n \n\n\n  In the News\n\n\n \n  \n   https://techcrunch.com/2019/03/19/best-of-y-combinator/\n\n\n  \n   https://www.builtinsf.com/2020/1/21/50-san-francisco-startups-watch-2020\n\n\n  \n   https://www.bizjournals.com/sanfrancisco/news/2021/07/23/0723-wwl-youngguns.html\n\n\n \n \n\n\n Dyneti is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=76ee2f64066302b0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/deep-learning-engineer-dyneti-JV_IC1147406_KO0,22_KE23,29.htm?jl=1009821126402&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/RVRCiIjxjaI9x4QnubfP8qi6iXUBm-bUZPTIKNNeVwSLJ_gFAvqGww?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/deep-learning-engineer-san-mateo-ca--063d57b3-3498-40a1-b467-c16e751ce56c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/deep-learning-engineer-san-mateo-ca--063d57b3-3498-40a1-b467-c16e751ce56c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sonara AI",
+                    "link": "https://www.sonara.ai/job-details/deep-learning-engineer-at-dyneti-133f67c4-86ec-0c5f-a912-75e59826fe10?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Bandana.com",
+                    "link": "https://bandana.com/jobs/e7a429fd-1c3f-4f9b-ae39-b5e793bae03c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobMESH",
+                    "link": "https://jobmesh.io/job/930254bb-480e-409b-9c65-1e4b63d39582?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiRHluZXRpIiwiaHRpZG9jaWQiOiJPQ3pTLS1oY2czMEVxLXVuQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdnelFtaFZiRFoyWjBOblYxZHdNSGxaUkd0eFZFVjJRMUpGUzA5dU0yNXRWV2hFZEZGQ1FtUlVNVVozYzIxeU1qRXhZa00xVFdOalduQXRNa2N5VVdkeWRHNTVVMEkwVTFCMlNtMUtNM1o2Y2pOallUSTVVV0l5V2xSMllrWjNSSFpsVlhSR2JGbDZlR0ZzVW5sak1IaDVSSEIzVUd0NVdtMVVXbDluVG1nMk5uZzBZMWtTRjFCTFRHSmhkazlQUm5acGEzQjBVVkIyWTA5WmNWRlJHaUpCUkhOeU9XWlRRMXAxVG0wM05tUkljR2g0WTJ4emMxQlBOVmhoYkdwWU9VdDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJPQ3pTLS1oY2czMEVxLXVuQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Deep Learning Manipulation Engineer",
+            "company_name": "Skild AI",
+            "location": "San Francisco, CA",
+            "via": "Jobright",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BS, MS, or higher degree in Computer Science, Robotics, Mechanical Engineering, or a related field, or equivalent practical experience",
+                        "Proficiency in Python and at least one deep learning library such as PyTorch, TensorFlow, JAX, etc",
+                        "Proficiency with advanced deep learning techniques and architectures as well as reinforcement learning and or imitation learning",
+                        "Experience with distributed deep learning systems"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Design, implement, and optimize deep learning models for robotic manipulation",
+                        "Model robotic manipulation processes to enable analysis, simulation, planning, and controls",
+                        "Collaborate with cross-functional teams to develop scalable and generalizable manipulation solutions for deployment in robotic systems",
+                        "Work with inference, deployment, and application teams to integrate deep learning models seamlessly into robotic platforms"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Deep+Learning+Engineer&htidocid=JYCfx4Pc5aTfXd8uAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMTQrCMBBGcdsjCMKsRRsR3Oiq-Ieiqx6gpHFIR-NMyEToUTyucfNt3ntf9Z1U2wNihBvaxMQe7pYpfoLNJAxH9sSICZZwlR60SG6AAs4iPuB0N-QcdWuMaqi95lK52snbCGMvo3lKr__pdLAJY3nFbr1ZjXVkP5-1LwoPaC5ADK1lOCXLjtTJAvbNDx-tNDubAAAA&shmds=v1_ARwrE20Vlhjuf2gQTmy2IjjgqPsdmCiwRakWxVnHeKoJFpH67g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Deep+Learning+Engineer&htidocid=JYCfx4Pc5aTfXd8uAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEUAAAD____-_v4EBAT7-_tdXV339_e_v7-MjIynp6fPz8_p6embm5vk5OS7u7t7e3tvb29EREQ_Pz8uLi5JSUmDg4MODg5SUlJ0dHTV1dVXV1fd3d0mJibJycmhoaFnZ2cXFxcJXyTJAAABk0lEQVRIie2V2bbCIAxFCUU60Dp0tPY6_P9XmgTwPrkIPvjksa52VXdPSg6g1E8_vVHBR4bmHWpRuZjqnUHZ7oBkFroHlMZvlenZIKWZPOeV2kCQAapWXu8aQa31IcfxBRoN5vgJiI5gLnKwJMSPLJ71STy2E1uhbEkXdqSbInYLjjV1xoAbpZZ_m3_HVl3ZvBtkHJId959ANneyUvE_c0cAO7K3E_nRw2eHuWFHr_UhIguuFsFbbCiIgsDvM3QILoZr1ZzaNOM12FapKqavF4Dz2J_62IF-36Cuo6DQm7H0cRNe7zJmx53HQnNwcHBqIVb4pHpyUS1AyXdT_cffBwcx5NQODduD-pMkC_XowJgXiKRd0onjJ89rCFqramwhkmdRVhEuIYS8pjO-cJXGvLzTDRcD7w1icmJPFzmdTE6sVh18O3UMuWht5iE6WjIKJMAkNERdcEqG1Q5nhwgMNEZBm7BOikG_p26vlTk5H__JgtaBMpJwzyiVjspZ3mX3sxiMGmlfl8zj9wV8Ud91--kTPQFgIQyVhal9VgAAAABJRU5ErkJggg.png",
+            "extensions": [
+                "9 days ago",
+                "100K–300K a year",
+                "Full-time"
+            ],
+            "source_link": "https://jobright.ai/jobs/info/6aa9c9faeff87f571fc9b92a",
+            "job_title": "Deep Learning Manipulation Engineer",
+            "description": "Skild AI is building general-purpose robotic intelligence that adapts to unseen scenarios through data-driven machine learning. The company is seeking a Deep Learning Manipulation Engineer to develop, train, deploy, and integrate robust deep learning models that enable robots to perform complex manipulation tasks autonomously.\n\n\nResponsibilities\n\nDesign, implement, and optimize deep learning models for robotic manipulationModel robotic manipulation processes to enable analysis, simulation, planning, and controlsCollaborate with cross-functional teams to develop scalable and generalizable manipulation solutions for deployment in robotic systemsWork with inference, deployment, and application teams to integrate deep learning models seamlessly into robotic platforms\nSkills\n\nBS, MS, or higher degree in Computer Science, Robotics, Mechanical Engineering, or a related field, or equivalent practical experienceProficiency in Python and at least one deep learning library such as PyTorch, TensorFlow, JAX, etcProficiency with advanced deep learning techniques and architectures as well as reinforcement learning and or imitation learningExperience with distributed deep learning systems\nCompany Overview\n\nSkild AI develops artificial intelligence systems that enable robots to act in physical environments. It was founded in 2023, and is headquartered in Pittsburgh, Pennsylvania, USA, with a workforce of 11-50 employees. Its website is https://www.skild.ai.\nCompany H1B Sponsorship\n\nSkild AI has a track record of offering H1B sponsorships, with 23 in 2026, 14 in 2025, 2 in 2024. Please note that this does not guarantee sponsorship for this specific role.",
+            "apply_options": [
+                {
+                    "title": "Jobright",
+                    "link": "https://jobright.ai/jobs/info/6aa9c9faeff87f571fc9b92a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/deep-learning-manipulation-engineer-at-skild-ai-4120218576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/deep-learning-engineer-san-francisco-ca--161697ab-c5c7-4e44-9ada-2958e6bfd676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Digitalhire",
+                    "link": "https://jobs.digitalhire.com/job-listing/opening/3mRxmAdBB10CXgplOfWGcq?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Applied Methods",
+                    "link": "https://www.appliedmethods.ai/jobs/d16fb603-a02c-4e47-bcb0-a5c609912c1a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hirly",
+                    "link": "https://hirly.me/jobs/deep-learning-manipulation-engineer-at-skildai-careers-f5fbdfb7-8483-4126-9d07-d2d4e50df1ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career.com",
+                    "link": "https://www.career.com/job/skild-ai/deep-learning-manipulation-engineer/j202411141743587000455?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZWVwIExlYXJuaW5nIE1hbmlwdWxhdGlvbiBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlNraWxkIEFJIiwiaHRpZG9jaWQiOiJKWUNmeDRQYzVhVGZYZDh1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pOaU1FaE5OMVJuV0dsMVltNXZOa1prV1ROS1dXczRNVTFTYlUxUU4xbGhYelkxWVVsU2RWaFZNMjVSVTJWcGNFNW5VbEJIYzJ0dFFXOXBkVzFwUlZKc05UUm5jamhZUldodkxWazJNMVl3WXpScE1tdHNRMDFuTm10WWFXZGlNRmRTVUZsd1FtczVXSEk0UlV3ME9FMTZWVWhXTWxkV1RtRk1iR1JsV1RWV1IwbGZNbThTRjFCTFRHSmhkazlQUm5acGEzQjBVVkIyWTA5WmNWRlJHaUpCUkhOeU9XWlVPSGRSWm5oRkxYcDVPSEoyTFZabVFtNU9OekZMZEZFeVdVZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJKWUNmeDRQYzVhVGZYZDh1QUFBQUFBPT0ifQ=="
+        }
+    ]
+}

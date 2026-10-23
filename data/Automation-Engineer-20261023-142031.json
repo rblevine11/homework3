@@ -1,0 +1,783 @@
+{
+    "jobs_results": [
+        {
+            "title": "Automation Engineer",
+            "company_name": "Spectro Cloud",
+            "location": "San Jose, CA (+2 others)",
+            "via": "Spectro Cloud",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "You are expected to have experience with various AI/ML workflows and AI development practices, primarily to advise, but also to shape the future of our products",
+                        "We are an infrastructure-focused software company, so you are expected to have a strong understanding of infrastructure, spanning cloud and bare-metal environments",
+                        "You should be comfortable creating automation solutions, with and without AI, that help us promote effective AI usage within the company",
+                        "We’re looking for someone who isn't afraid to share recommendations and guidance on AI initiatives and AI adoption within an organization",
+                        "We face several unknowns that we must tackle together",
+                        "If you enjoy working in a highly technical environment with autonomy, at a rapid pace, and with regular challenges, then this role is right for you",
+                        "Bachelor's Degree or an Advanced Degree in Computer Science, Information Technology, or a similar field",
+                        "4+ years of experience as a Software Engineer, SRE, ML Engineer, Solutions Architect, or similar technical role is required",
+                        "4+ years of experience maintaining and building production applications",
+                        "Possesses a broad knowledge and experience across AI topics, including agent based systems, model tuning, model deployment, MCP server development, and more",
+                        "Highly proficient with at least one of the following programming languages: Python, Go, or JavaScript/TypeScript (We prefer Go)",
+                        "Experience with application testing and continuous integration/continuous delivery (CI/CD)",
+                        "You are capable of leading and driving projects, such as proof-of-concept and the rollout of a new technical solution organization-wide",
+                        "Excellent communication skills, both written and oral",
+                        "You must be able to articulate technical concepts to engineers, non-engineers, and executives",
+                        "Experience with Infrastructure as Code, preferably Terraform",
+                        "Experience with public cloud providers (AWS, Azure, GCP, Oracle), and on-prem infrastructure",
+                        "Deep understanding of containers and how container orchestration systems work, such as Kubernetes",
+                        "Displays a passion for learning and exploring new technologies",
+                        "A self-starter with a strong sense of ownership",
+                        "Excellent problem-solving and analytical skills, with a proactive approach to challenges",
+                        "Work Authorization/Visa: Applicants are required to be eligible to lawfully work in the U.S. immediately; employer is unable to sponsor applicants for U.S. work authorization for this opportunity"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The total on-target earnings range for this role is between $160,000-192,000/year + Equity"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As an AI Automation Engineer, you will be part of internal efforts to advance AI adoption across the company",
+                        "You will design, build, and maintain internally focused solutions that help promote agentic workflows and automations that improve employee productivity",
+                        "This role will require you to wear different hats; one moment you are building a technical solution, and the next you may be engaging with risk, compliance, and legal to help define guardrails for a product or tool rollout",
+                        "You will lead proof-of-concept initiatives, engage with employees during AI Office Hours to provide advice, and work with our internal partners to establish AI processes and guardrails",
+                        "You must be comfortable teaching and explaining ideas to non-technical audiences",
+                        "Experience deploying and managing applications in production will help you propose and build sustainable solutions",
+                        "This will come into play as you build and maintain solutions the AI team will own and support",
+                        "Project management experience",
+                        "You will be expected to participate and lead office hours"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=sdlWfi-HNpHhAFYfAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCMBAA8donCMKeiyYieNFTKSJ47QNKEpekku6G7Bb6BJ9tvcxlGKb57pq2W5RnpxMTPChOhFjhBC_2IOhqSLCJJ3PMuL8n1SI3a0WyiaJbFUzg2TKh59V-2MsfoyRXsWSnOF6u59UUiu1hKBi0MvSZlzdMBIOj7SN4hL77Af7EFBaLAAAA&shmds=v1_ARwrE23nKQADjlIxuY6y4u7P7bcQxWFQYK2RwriL0ng8Gih-VQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=sdlWfi-HNpHhAFYfAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAhFBMVEUBISEAAAAfengAW1sAGxsAFhYAHh4AGBggf30AFBQddnQLY2IADQ0ACQlfaWkgfHnGysq8wMB2fn4APUADLS34-vqEi4vj5eUtPT2vtLSboaEWbWzq7Oxmb29veHgaLy8jNTUPTEsSVVQKJycNRUTT1taMlZWkqqpCT09RXFw3RUUDNDTl_TpGAAAB_ElEQVQ4jeWUbZNrMBzFHRshCAlCQ6stRavf__ttPHW27n2xu-_u3DNjhMnP_-mEZf1HIllLfsOxqxen7o8x6gaebXuN8_XdNzjSVrFt5FV02-6gxX6bw3Yv3NReFfvZUqgTKSU4QoBYHHAtBvC6hllTmGspr_Hsl-LbnC66HAOVvSoOGFRxR6JUJFU9HAsIJdhE0sCLJ9lztrb3QZaIRYRCoO_qwj2pVp0PZ9lD5K7U0HIqI6uCRf4S05s70-KhUNRoVXkUUtadSVDmEAmKB-7FBNLsY9XUIVMlnVOVuQGLpNOjSnQHVQ4P2Y0GzI_JMQ-XvjcrGdheQObCKSn1iGOkS4R3XYbkrIfLabjXd4Ja1lvD2XUjm63jlINwbcF8mvBweubU4YSZBjCwFxdXC3hNs3WQjJ8N-W4CZ-es2TX-xN3S9PacN4eJ0OIgOQXnlgkYToNMTs4buLjGDpp01nOy0ijAQ0hcpBxQWnxALnT5Dmav8fuTbN-EDPvI7DGgaJHk0qwuEhDvIM38eHWNkVfN1dQ9KDOgBCFaO5BRztHvUqUkeAXdDghE5OSjcIc6lI_hdBboLoduB35x6-rUiey1mXVtbhHnpb44B12O4x9HzX3a8ZezMfeVM4s5ZizutKZmkCH5yxGlVuVtrvmZqNs0-wq-KfKrf9W_oE8ymCOQzIwHKwAAAABJRU5ErkJggg.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://careers.spectrocloud.com/jobs/8348658-automation-engineer",
+            "job_title": "Automation Engineer",
+            "description": "Who We Are \nSpectro Cloud is the Kubernetes and AI infrastructure platform behind some of the most demanding AI environments in the world. Our PaletteAI platform, AI Inference Launchpad, and Instinct Coder solutions let operators stand up production-grade AI clusters — training, fine tuning, and inference — on any GPU, in any data center, at any scale. NeoClouds and specialty GPU cloud providers are one of the fastest-growing segments in the AI economy, and Spectro Cloud is the platform layer they trust to bring differentiated, multi-tenant, GPU-native services to market. \n\nAbout the Job\nAs an AI Automation Engineer, you will be part of internal efforts to advance AI adoption across the company. You will design, build, and maintain internally focused solutions that help promote agentic workflows and automations that improve employee productivity. \n\nThis role will require you to wear different hats; one moment you are building a technical solution, and the next you may be engaging with risk, compliance, and legal to help define guardrails for a product or tool rollout. You will lead proof-of-concept initiatives, engage with employees during AI Office Hours to provide advice, and work with our internal partners to establish AI processes and guardrails. You must be comfortable teaching and explaining ideas to non-technical audiences. \n\nYou are expected to have experience with various AI/ML workflows and AI development practices, primarily to advise, but also to shape the future of our products. We are an infrastructure-focused software company, so you are expected to have a strong understanding of infrastructure, spanning cloud and bare-metal environments. You should be comfortable creating automation solutions, with and without AI, that help us promote effective AI usage within the company. Experience deploying and managing applications in production will help you propose and build sustainable solutions.\n\nWe are seeking self-starters eager to help shape the future of this new team. We’re looking for someone who isn't afraid to share recommendations and guidance on AI initiatives and AI adoption within an organization. We face several unknowns that we must tackle together. If you enjoy working in a highly technical environment with autonomy, at a rapid pace, and with regular challenges, then this role is right for you. \n\nMinimum Qualifications\nWe don’t expect the ideal candidate to check every box, but the items below are things we look for when reviewing candidates. Do not let this discourage you from applying. \n\n\n● Bachelor's Degree or an Advanced Degree in Computer Science, Information Technology, or a similar field.\n● 4+ years of experience as a Software Engineer, SRE, ML Engineer, Solutions Architect, or similar technical role is required \n● 4+ years of experience maintaining and building production applications. \n● Possesses a broad knowledge and experience across AI topics, including agent based systems, model tuning, model deployment, MCP server development, and more. \n● Highly proficient with at least one of the following programming languages: Python, Go, or JavaScript/TypeScript (We prefer Go)\n● Experience with application testing and continuous integration/continuous delivery (CI/CD). This will come into play as you build and maintain solutions the AI team will own and support. \n● Project management experience. You are capable of leading and driving projects, such as proof-of-concept and the rollout of a new technical solution organization-wide. \n● Excellent communication skills, both written and oral. You will be expected to participate and lead office hours. You must be able to articulate technical concepts to engineers, non-engineers, and executives. \n● Experience with Infrastructure as Code, preferably Terraform. \n● Experience with public cloud providers (AWS, Azure, GCP, Oracle), and on-prem infrastructure. \n● Deep understanding of containers and how container orchestration systems work, such as Kubernetes.\n● Displays a passion for learning and exploring new technologies \n● A self-starter with a strong sense of ownership \n● Excellent problem-solving and analytical skills, with a proactive approach to challenges \n\n\n\nThe Hiring Process \nYour time is valuable, so we want to ensure we respect your time and the effort you put into the hiring process. The interview process is divided into four sections: a screening interview, a technical interview, and a culture and team fit interview. \n● Screening Interview—This is a thirty-minute interview during which we verify whether we are a good fit for each other. We’ll ask questions to learn more about your career experience. \n● Technical Interview - an hour interview where we verify your technical skills and knowledge. A take-home assignment is part of the interview and will be reviewed during the interview. \n● Culture/Team Interview—This is a thirty-minute interview. The questions here focus on your experience working in a team setting. Other questions check for organizational core values and culture fit.\n\nLocation This role can be worked from San Jose, CA or Austin, TX. We operate on a hybrid working model and are in the office 3 times a week, with optional WFH for the remainder of the week. Remote candidates can be considered, but preference will be given to individuals based in San Jose, CA or Austin, TX.\n\nThe total on-target earnings range for this role is between $160,000-192,000/year + Equity. Compensation will be based on experience and geographic market location.\n\nWork Authorization/Visa: Applicants are required to be eligible to lawfully work in the U.S. immediately; employer is unable to sponsor applicants for U.S. work authorization for this opportunity.",
+            "apply_options": [
+                {
+                    "title": "Spectro Cloud",
+                    "link": "https://careers.spectrocloud.com/jobs/8348658-automation-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=15c19e2cb80c5235&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "TalentDome - Infojini Inc",
+                    "link": "https://talentdome.infojiniconsulting.com/careers/389ff815-e886-4181-9365-f069d11a25c5/In92608044/details?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Peachtree-Group/Job/Maintenance-Engineer/-in-San-Jose,CA?jid=1a6f20bc0f178185&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/automation-engineer-nvd-san-jose-ca--58bf45b1-a43a-430d-a520-37fe5c5af995?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/automation-engineer-san-jose-ca--cb36fb4a-7c44-4c21-8842-982360510df6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/automation-engineer-mechanical_7ea1a771bcec6111826d15a20952835333d1a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "PEAK Technical Staffing USA",
+                    "link": "https://peaktechnical.com/echojobs/automation-engineer-san-jose-california-26-01275/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiU3BlY3RybyBDbG91ZCIsImh0aWRvY2lkIjoic2RsV2ZpLUhOcEhoQUZZZkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWOU9NazlQTlRGeFpsbHhhVmhSTlZvd1R6ZDNXWEJQYkVjelpVZEJlR0ZEVFZwdVFVbDJVMFpzTFVwdVRYWnJWMnR4ZVVKbE1tdzNRMmhWY0VZemJtNDVSVWxZVG05V00zWkxZbXhDVVdzNGNGRmFiVlkzTkRoRU0wWXpSVVo2Tm1zM2NYZzJiakZIYmpGdVNqZFZZak54Vms0elFVTnhYMWg2ZUUxUlkwNUlVV2syWms0U0YySTJXR0poZEdsVlJuUkVWalZPYjFCNU4ybEllVUZyR2lKQlJITnlPV1pVUlhBMFYxcEpaRmx6WHpsak9IZzRVakpyYzNCQmFEZEdkWEpCIiwiZmN2IjoiMyIsImZjX2lkIjoic2RsV2ZpLUhOcEhoQUZZZkFBQUFBQT09In0="
+        },
+        {
+            "title": "Automation Engineer, Lab Automation",
+            "company_name": "BoehringerPRD",
+            "location": "Ridgefield, CT",
+            "via": "Boehringer Ingelheim Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Master’s degree (e.g., MBA, MSc) or equivalent diploma in engineering with minimum three (3) years’ experience required",
+                        "Bachelor's degree with minimum five (5) years of experience required",
+                        "Very strong theoretical knowledge of principles, methods, and tools is required",
+                        "In-depth knowledge within the relevant area of expertise",
+                        "Demonstrates awareness of communication challenges, confidently interacts across diverse interfaces, and conducts negotiations effectively",
+                        "Must be legally authorized to work in the United States without restriction",
+                        "Must be willing to take a drug test and post-offer physical (if required)",
+                        "Must be 18 years of age or older",
+                        "Proficiency in modern programming/scripting languages, including:",
+                        "Additional languages such as Java, JavaScript, or similar",
+                        "Experience with system integration, APIs, and data interfaces in laboratory environments",
+                        "Strong experience with laboratory automation orchestration, preferably Cellario or equivalent platforms",
+                        "Experience in developing, maintaining, and optimizing scripts across major liquid handling platforms, including but not limited to:",
+                        "Other vendor-specific scripting environments as applicable",
+                        "Translating experimental protocols into robust, reusable automation methods"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Our competitive compensation and benefit programs reflect Boehringer Ingelheim's high regard for our employees",
+                        "The base salary range for this position is $128,000 to $192,000",
+                        "The position may be eligible for a role-specific discretionary bonus, relocation assistance, and/or other compensation elements",
+                        "We continuously review market data and may adjust salary ranges as needed in the future",
+                        "Actual compensation will be based on job-related factors such as skills, experience, qualifications, and other factors permitted by law",
+                        "Benefits include medical, dental, and vision coverage, retirement savings opportunities, paid time off, paid holidays, disability and life insurance benefits, and other company-sponsored benefits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Automation Engineer, Lab Automation will drive innovation and provide technical leadership in laboratory automation to deliver reliable, innovative, compliant, and efficient solutions",
+                        "This role will collaborate with business stakeholders and the global lab automation community to ensure solutions meet business requirements and align with global standards",
+                        "As an employee of Boehringer Ingelheim, you will actively contribute to the discovery, development, and delivery of our products to our patients and customers",
+                        "Project manager for lab automation projects (complex to highly complex automation systems)",
+                        "Responsible for the specification and implementation of innovative solutions, as well as further development and optimization of existing systems, within existing lab automation standards and blueprints",
+                        "Development and continuous improvement of technical standards, guidelines, and blueprints within a defined scope of responsibility",
+                        "Responsibility for a designated functional area in collaboration with internal and/or external partners",
+                        "Development of technical concepts and detailed engineering plans within a defined scope / sub-project",
+                        "Coordination and communication across heterogeneous and international interfaces",
+                        "Handling complex tasks and complex problem solving across all phases of the development process and across multiple disciplines",
+                        "Responsible for planning, design, installation and testing of technical systems (e.g., manufacturing systems, lab equipment, automation systems) in compliance with GMP and safety requirements",
+                        "Creation of lifecycle concepts, including maintenance strategies and execution of technical requirement analysis",
+                        "Provision of technical consulting services",
+                        "Ensure quality-, time-, and efficiency-compliant establishment, maintenance, and continuous improvement of all technical prerequisites for smooth and cost-effective operation in designated sub-areas",
+                        "Development of maintenance and servicing strategies for specific areas",
+                        "Lead specialist responsibility for at least one domain in a complex and challenging area of responsibility",
+                        "Specialist with a contributing and supporting role in ensuring smooth operations and fault-free processes",
+                        "High demands on decision-making with respect to frequency, potential impact (EHS and economic), and degree of autonomy",
+                        "Processes complex, operationally defined tasks based on in-depth domain expertise and analysis",
+                        "Develops advanced technical designs and contributes to the further development of global standards and blueprints",
+                        "Monitors and integrates the latest developments and trends within the respective field under consideration of global standards",
+                        "Tasks involve a strong analytical component and require cross-process thinking; the focus is on independently ensuring the integrity of the process chain within complex, operationally defined tasks",
+                        "Identifies the need for actions and changes within the area of expertise",
+                        "Works with difficult to highly complex systems (dedicated/single-purpose systems)",
+                        "The majority of responsibilities focus on extensive, function-specific operational tasks, as well as continuous development and optimization",
+                        "Development of innovative solutions",
+                        "Strongly domain-focused scope of work with clearly defined boundaries due to a high degree of autonomy",
+                        "Primarily responsible for operational decision-making within the assigned field of expertise",
+                        "Ensuring method standardization, error handling, and data traceability across platforms"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=ejcXILMsTpps148VAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02KPQvCMBBAce1PcPFmqYkILnXyC0EcpLiXpD2TSHpXchH6W_y11s3lweO94jMrqv07c29yYIIzuUCIqYSbsfAXVnBlC4ImtR4mvzC7iPOdz3mQSmuRqJzkaW5Vy71mQsujfrGVHxrxJuEQTcZms12PaiC3XBwYfQrkMN3rEwSCOnQOnwFjV8Lx8QWC71NNnQAAAA&shmds=v1_ARwrE22ZWPAIyQ9dmizdWq3yNx5S1qjdf_gmurOY97beHnevaQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=ejcXILMsTpps148VAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "source_link": "https://jobs.boehringer-ingelheim.com/job/Ridgefield%2C-CT-Automation-Engineer%2C-Lab-Automation-Unit/1440272333/",
+            "job_title": "Automation Engineer, Lab Automation",
+            "description": "Description The Automation Engineer, Lab Automation will drive innovation and provide technical leadership in laboratory automation to deliver reliable, innovative, compliant, and efficient solutions. This role will collaborate with business stakeholders and the global lab automation community to ensure solutions meet business requirements and align with global standards.   As an employee of Boehringer Ingelheim, you will actively contribute to the discovery, development, and delivery of our products to our patients and customers. Our global presence provides an opportunity for all employees to collaborate internationally, offering visibility and the opportunity to directly contribute to the company's success. We realize that our strength and competitive advantage lie with our people. We support our employees in several ways to foster a healthy working environment, meaningful work, mobility, networking, and work-life balance. Our competitive compensation and benefit programs reflect Boehringer Ingelheim's high regard for our employees.Compensation Data The base salary range for this position is $128,000 to $192,000. The position may be eligible for a role-specific discretionary bonus, relocation assistance, and/or other compensation elements. We continuously review market data and may adjust salary ranges as needed in the future. Actual compensation will be based on job-related factors such as skills, experience, qualifications, and other factors permitted by law. Benefits include medical, dental, and vision coverage, retirement savings opportunities, paid time off, paid holidays, disability and life insurance benefits, and other company-sponsored benefits. For additional information regarding our benefits and Total Rewards offerings, please click hereDuties & Responsibilities  Project manager for lab automation projects (complex to highly complex automation systems). Responsible for the specification and implementation of innovative solutions, as well as further development and optimization of existing systems, within existing lab automation standards and blueprints. Development and continuous improvement of technical standards, guidelines, and blueprints within a defined scope of responsibility. Responsibility for a designated functional area in collaboration with internal and/or external partners. Development of technical concepts and detailed engineering plans within a defined scope / sub-project Coordination and communication across heterogeneous and international interfaces. Handling complex tasks and complex problem solving across all phases of the development process and across multiple disciplines. Responsible for planning, design, installation and testing of technical systems (e.g., manufacturing systems, lab equipment, automation systems) in compliance with GMP and safety requirements. Creation of lifecycle concepts, including maintenance strategies and execution of technical requirement analysis. Provision of technical consulting services. Ensure quality-, time-, and efficiency-compliant establishment, maintenance, and continuous improvement of all technical prerequisites for smooth and cost-effective operation in designated sub-areas. Development of maintenance and servicing strategies for specific areas. Lead specialist responsibility for at least one domain in a complex and challenging area of responsibility. Specialist with a contributing and supporting role in ensuring smooth operations and fault-free processes. High demands on decision-making with respect to frequency, potential impact (EHS and economic), and degree of autonomy. Processes complex, operationally defined tasks based on in-depth domain expertise and analysis. Develops advanced technical designs and contributes to the further development of global standards and blueprints. Monitors and integrates the latest developments and trends within the respective field under consideration of global standards. Tasks involve a strong analytical component and require cross-process thinking; the focus is on independently ensuring the integrity of the process chain within complex, operationally defined tasks. Identifies the need for actions and changes within the area of expertise. Works with difficult to highly complex systems (dedicated/single-purpose systems). The majority of responsibilities focus on extensive, function-specific operational tasks, as well as continuous development and optimization. Development of innovative solutions. Strongly domain-focused scope of work with clearly defined boundaries due to a high degree of autonomy. Primarily responsible for operational decision-making within the assigned field of expertise. Requirements  Master’s degree (e.g., MBA, MSc) or equivalent diploma in engineering with minimum three (3) years’ experience required.  OR  Bachelor's degree with minimum five (5) years of experience required. Very strong theoretical knowledge of principles, methods, and tools is required. In-depth knowledge within the relevant area of expertise. Demonstrates awareness of communication challenges, confidently interacts across diverse interfaces, and conducts negotiations effectively.   Eligibility Requirements:  Must be legally authorized to work in the United States without restriction. Must be willing to take a drug test and post-offer physical (if required). Must be 18 years of age or older. Desired Skills, Experience and Abilities Proficiency in modern programming/scripting languages, including:             o    Python (strongly preferred)             o    Additional languages such as Java, JavaScript, or similar Experience with system integration, APIs, and data interfaces in laboratory environments. Strong experience with laboratory automation orchestration, preferably Cellario or equivalent platforms Experience in developing, maintaining, and optimizing scripts across major liquid handling platforms, including but not limited to:               o    Hamilton               o    Tecan               o    Beckman Coulter               o    Opentrons               o    Other vendor-specific scripting environments as applicable Translating experimental protocols into robust, reusable automation methods. Ensuring method standardization, error handling, and data traceability across platforms.",
+            "apply_options": [
+                {
+                    "title": "Boehringer Ingelheim Careers",
+                    "link": "https://jobs.boehringer-ingelheim.com/job/Ridgefield%2C-CT-Automation-Engineer%2C-Lab-Automation-Unit/1440272333/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=7128487ec1fee756&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobright",
+                    "link": "https://jobright.ai/jobs/info/6ab324c51e4847ddae918635?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career.io",
+                    "link": "https://career.io/job/automation-engineer-lab-automation-ridgefield-boehringer-ingelheim-c29dedad118b1f020cd7eff53c2bb215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://ridgefield.us.expertini.com/job/automation-engineer-lab-automation-ridgefield-boehringer-ingelheim-9f0cd4d1f22c4a69a1ec38dc6bc4c50c105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-ct-ridgefield-automation-engineer-lab-boehringer-ingelheim-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyLCBMYWIgQXV0b21hdGlvbiIsImNvbXBhbnlfbmFtZSI6IkJvZWhyaW5nZXJQUkQiLCJodGlkb2NpZCI6ImVqY1hJTE1zVHBwczE0OFZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMmREYjJSVFlVeDNTMkl4UTJscE5qZGxZbkphV0RSNWFWZE1iSFZEVVdWUVFVODNlVzgxUWtoS01rMXhOMjVTWVdSb1dVMUhlVXA0U0RGWGFHZHFSWFZMUTFCRWRHVnVYemRsUXpVeWVrWmpiRkJyVGpocU9FOUVRVmx1UzA5VkxXeEZWRVJvUkRKZmFqWXlhMnQ0VjNKU2FEaFpabmQ0T1d4aFltOUxjazlFVkhwMVZUUVNGMkkyV0dKaGRHbFZSblJFVmpWT2IxQjVOMmxJZVVGckdpSkJSSE55T1daU1dpMXJNVEZxWTJaUFFXdHdSVTVNVFdoeU0wbDJkVFpwWVROUiIsImZjdiI6IjMiLCJmY19pZCI6ImVqY1hJTE1zVHBwczE0OFZBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Automation Engineer",
+            "company_name": "Cbre Valuation",
+            "location": "New Castle, DE",
+            "via": "CareerBuilder",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=AMKlUOvcmIUQas4VAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCMBBAce0nON1cNBHBRSdpi-Dg6FqScCSRNBdyV-w_-NNWXN7yeLzms2na6yw0GYmUYcg-ZsQKe7iTBUZTXYBV3Ih8wu0liBQ-a82clGdZK6ccTZoyWlr0iyz_MHIwFUsyguPxdFhUyb6FzlaEp0nzfxYzPPANnWFJuIN--AIoxVbPjgAAAA&shmds=v1_ARwrE22p7E7akAGpVuNPVCwsxqu0nX34SyFwQS7olZOOdsSFNQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=AMKlUOvcmIUQas4VAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://www.careerbuilder.com/job-details/automation-engineer-new-castle-de--02a1879f-4ddf-4934-b999-dc7588a9b811",
+            "job_title": "Automation Engineer",
+            "description": "Aller au contenu\n\nDéveloppez votre carrière et votre potentiel chez CBRE\n\nMenu\n\nÀ propos de nousNotre entrepriseNotre culture basée sur les valeursJoignez-vous à notre communautéRecherche d'emploiConnexionDanskDeutschEnglish - USEspañol - ESEspañol - MXFrançais - CanadaFrançais - FranceItalianoNederlandsNorsk BokmålPolskiPortuguês - BrasilPortuguês - PTRomânSlovenina, Slovenský JazykSuomi, suomen kieliSvenskaTing VitTürkçeetina, eský jazyk -  - Automation Engineer\n\nAutomation Engineer\n\nRéférence du poste\n\n273214\n\nPosté\n\n23-avr-2026\n\nLigne de service\n\nGWS Segment\n\nType de rôle\n\nÀ plein temps\n\nCentres d\"intérêt\n\nBuilding Management, Ingénierie/Maintenance, Facility Management\n\nLocalisation(s)\n\nNew Castle - Delaware - United States of America\n\nAutomation Engineer\n\nCBRE is an equal opportunity employer that values diversity.\n\nJob Summary\n\nAt CBRE Global Workplace Solutions (GWS), Safety is our top priority! We maintain a safety-first culture in which CBRE employees return home in the same condition in which they reported to work. We're looking for a skilled and forward-thinking Ctrl Systems Engineer / Automation Engineer (AE) to join our growing team as we work to service one of the world's largest online retailers.\n\nWe offer competitive pay, robust benefits package, wellness programs, and a workplace environment that embraces diversity. Come join our global network of professionals supporting client operations across CBRE. Looking for growth and career advancement? Upon completing six months of successful service, associates may explore career advancement opportunities within the organization!\n\nRead on to learn more!\n\nAbout the Role\n\nIn this vital engineering role, you will be part of a team of controls and maintenance professionals who proactively support operations and provide customers with expert-level support based on the customer's technical problems related to their automated material handling equipment (MHE). Your expertise will be utilized in the continuous improvement and execution of the preventive maintenance process, with a focus on maximizing equipment reliability and operational performance of equipment such as conveyors, sortation systems, scanners, cameras, print and apply systems, SCADA deves and programs.\n\nWhat You'll Do\n\nPromote a safe working environment by complying with all applicable codes, regulations, governmental agencies, and company directives related to system operations and work safety.\n\nTroubleshoot and modify software programs for material handling control systems, including PLC/PC controllers, Allen Bradley Controllogix/Compactlogix PLC platform and RSLogix 5000 software package.\n\nAct as first level escalation in troubleshooting support, both on-site and remotely, as well as during and after business hours, to repair all MHE controls software systems. Respond quickly to emergency situations, summoning assistance as needed.\n\nInspect systems to ensure the operation of equipment is within design capabilities and achieves operational conditions prescribed by the client.\n\nOversee scope of development, work request initiation, scheduling, and inspection of work performed by outside contractors, which includes proprietary work, licensed installations, upgrades, and maintenance and inspection of specialized systems.\n\nEngineer process solutions and reliability improvement from concept to network implementation.\n\nMonitor Industrial networks such as Ethernet, ControlNet, DeviceNet, Profibus, AS-I, motor control systems, servo drives, frequency drives, and electrical distribution systems.\n\nMonitor material handling equipment metrics and partner with site team to resolve equipment electrical problems that create performance deficiencies.\n\nProactively and effectively communicate with multiple stakeholders including, but not limited to, leadership, operations and the maintenance team on technical issues and project timelines and production impacts.\n\nFacilitate analysis and reviews of failures and processes to provide recommendations to implement improvements or retraining to avoid future incidents.\n\nPerform controls of systems assessments to maintain and improve equipment reliability.\n\nClearly communicate technical issues, project timelines, and product impacts with site leadership, operations and the maintenance teams.\n\nCultivate positive working relationships with our Client and the Operations Maintenance team members.\n\nPerform other job-related duties as needed or assigned.\n\nWhat You'll Need\n\nApplicants must be currently authorized to work in the United States without the need for visa sponsorship now or in the future.\n\nBachelor\"s Degree preferred with 2-5 years of relevant experience. In lieu of a degree, a combination of experience and education may be considered.\n\nExperience in at least two engineering design cycles including specification, component selection and programming.\n\n2+ years of experience with Programmable Logic Controls (PLC) programs.\n\n2+ years of experience with robotics system components and controls.\n\n2+ years of experience with SCADA systems.\n\nAbility to be available and work a flexible schedule/shift/work area, including weekends, nights, and/or holidays.\n\nAbility to independently solve problems and carry out general instructions in standard situations with limited to no oversight.\n\nMeet the physical requirements of this role including stooping, standing, walking, climbing stairs/ladders, and the ability to lift/carry heavy loads of 50 lbs. or more.\n\nAbility to guide the exchange of sensitive, complicated, and difficult information, convey performance expectations, and handle problems.\n\nPreferred Qualifications\n\n2+ years apprenticeship or equivalent experience in Control Systems troubleshooting/ programming.\n\nExperience supporting a range of different conveyors and sortation systems.\n\nExperience with robotic maintenance.\n\nIn-depth knowledge of Microsoft Office products. Examples include Word, Excel, Outlook, etc.\n\nExtensive organizational skills with a strong inquisitive mindset.\n\nAdvanced math skills. Ability to calculate difficult figures such as percentages, fractions, and other financial-related calculations.\n\nCBRE Employee Benefits\n\nComprehensive medical, dental, vision\n\nDisability benefit program\n\n401k company matching\n\nPaid time off and holidays\n\nCompany paid life insurance\n\nPet insurance\n\nPaid parental leave\n\nWhy CBRE?\n\nWe invest in our employees' development. The core of our strategy is the view that development happens through three key activities: on-the-job learning, coaching and formal training. We provide employees with resources that support them in developing skills to enhance performance in their current role as well as for future roles.\n\nCBRE GWS\n\nCBRE Global Workplace Solutions (GWS) propose des prestations multi techniques et multi services afin d'assurer une gestion efficace et pérenne des services généraux de nos clients. CBRE GWS France traite ainsi toutes les facettes de la gestion des installations, en utilisant un modèle intégré qui combine des services directs et des sous-traitants spécialisés.\n\nFind out more\n\nPostuler\n\nPartager cet emploi :\n\nPartager\n\nPartager Automation Engineer avec LinkedInPartager Automation Engineer avec TwitterPartager Automation Engineer avec un ami par courrielRetour\n\nJoignez-vous à notre communauté de talents\n\nKeep up to date with exciting career\n\nopportunities and the latest news.\n\nS\"inscrire\n\nCBRE\n\nÀ propos de CBREResponsabilité de l'entrepriseCarrièresNewsroomRelations avec les investisseursNous contacterPolitique de confidentialitéConditions d'utilisationPlan du siteCookies settings Cookies settingsCopyright 2026 CBRE. All rights reserved.\n\n\nSkills:\nAllen-Bradley, Automation Engineering, Career Counseling, Communication Skills, Component Selection, Continuous Improvement, Control Systems, ControlLogix, Conveyor Systems, Cookies, Customer Relations, Customer Support/Service, Diversity, Electrical Components, Electricity, Emergency Response, English Language, Equipment Maintenance/Repair, Ethernet, Facilities Management, Failure Analysis, Government Regulations, Heavy Lifting, Identify Issues, Leadership, Life Insurance, LinkedIn, Materials Tracking, Mathematics, Metrics, Microsoft Excel, Microsoft Office, Microsoft Outlook, Microsoft Product Family, Microsoft Word, Motor Control Systems, Network Monitoring, Newsroom, Operational Support, Organizational Skills, Physical Demands, Preventative Maintenance, Problem Solving Skills, Programmable Logic Controller (PLC), Property Management, Reliability Engineering, Robotics Components, Safety/Work Safety, Servomechanism, Software Administration, Supervisory Control and Data Acquisition (SCADA), System Operations, Systems Analysis, Systems Engineering, Systems/Internals Programming, Technical/Engineering Design, Twitter\n\n\nCbre Valuation",
+            "apply_options": [
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/automation-engineer-new-castle-de--02a1879f-4ddf-4934-b999-dc7588a9b811?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/automation-engineer-new-castle-de--02a1879f-4ddf-4934-b999-dc7588a9b811?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/m/viewjob?jk=2633901741a425bf&from=serp&tk=1k57smuijh76l801&advn=9072750352806314&adid=459731861&ad=-6NYlbfkN0DEI-S0x8uMGOPuViGwssV00hA4_2JpG13MM_UcQpXmU-Wkqk5oauyHsoq2bS9OAmqXuNaiRtyz-1fSWdCWzzVqrILF_7p6hg_92e9K5nFdzM9ynNo3Qb666_zGLlNdLlmNQuuXVxFJDl6koGSlvgEfhwOiXELDMr5N6xSRUzGcmKoV1TxiLbEBS4j52AaE6Mx_iYz190RW2bmjcTUD4n8kiZTPkpSv2bPGb0e1Dgp9BF-EWq8ReEG4ZcUf3-GReBIVZT4-7gDCExtGb9e6QHACf-8JG2cJpDUGNjlQ1RBOSnnHkEcGqDbnpLNUVJpuP_ycUpvc5Yutm0ekU2EJpTeIBlB5jzTP9dQ-fTz7NHqxIiQVUwyfFUOmiFd-6yC1lhhALDuw9r-_7ZN3pNUoIv1G70VdP9a00IVqrYL5hcnHXi4iouTom9EDO4uICYjxdejIOrhED3G8xEMyMgFfVoDTxUFH6zCXG9xR5-kTI8oACgu9RGv_2KJXfhGT-wplLTw-52TZmArtWurvFhiApXJRrYWHywdgfpYuLZbE5937q3cHFv_IWn-swJvPYhamdv4R_pvYcbECbfm_Yadrbq-b7DaWTPF8iUMDWOj8BzlYFlr8YEx2nTMuExiOWBNRixPMxsjoVW4LqTB-w7Fpq6AfxZb29xW8S2abRDQNPle5kIorlZHuid1TvZ9bxwH2RW57qNYowcwtNzKgZMVDTiU9XETs9EGCcxbjwAUi60h-Vs6k_OeGDQRjoUAv83Be0388u3uv0JQsxwet56V0XtlLD66kEqeaVEHSjGTGMNXre1Me_wq3E58a-Qr6Cuz3QJLydgeoy171wCiVcEHRLZW2HMSLtfnBQSI%3D&xkcb=SoDq6_M2dnxUAkW0H50cbzkdCdPP&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/automation-engineer-cbre-new-castle--pureheal-28528_25298_4d6ba7a5c93f0e811cc09ebd8581915d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-28662-99539b807e042c26a7a2ece5537769d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiQ2JyZSBWYWx1YXRpb24iLCJodGlkb2NpZCI6IkFNS2xVT3ZjbUlVUWFzNFZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa1k0YlROb09XZEVMVFJtYlZscWVIWmFPVTlHZEV4RmN6bFFaMUYwYm14SWVYTkNiM1Z5UXkxaGFVeGlOVFUyYVZCUmVteHpiRnBXVTNreFdETkZOMU56YmxKdVowcGlZVmxhWkZGelZrOTJSSGxKU25oTVZtY3dWV3RVYUVNMGVVdGFUVzVqWWxGSWRreDFibWhGY1dKeldYZE9NbWxDZEdOMWNEUkNPVnBsUkZOemFXWVNGMkkyV0dKaGRHbFZSblJFVmpWT2IxQjVOMmxJZVVGckdpSkJSSE55T1daVFkwTndUbUkyZFdWcVUxRldhRkpVUW5aMVJXdGlVVFpCWVRkQiIsImZjdiI6IjMiLCJmY19pZCI6IkFNS2xVT3ZjbUlVUWFzNFZBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Automation Engineer",
+            "company_name": "Viega LLC",
+            "location": "McPherson, KS",
+            "via": "Dice",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Demonstrated skills in cost/benefit analysis",
+                        "Programming",
+                        "Proficiency in understanding programing logic",
+                        "Programming experience in college or industry",
+                        "PLC programming experience",
+                        "CAD",
+                        "Solidworks",
+                        "Auto CAD",
+                        "Catia",
+                        "Computer Skills",
+                        "Microsoft (Word, Excel, Outlook, PPT)",
+                        "SAP",
+                        "Education, Certification/License & Work Experience",
+                        "B.S. Engineering, preferably in Automation Engineering or equivalent years of work experience",
+                        "2 years of experience, preferably in automation",
+                        "Equivalent combinations of education and experience may be considered"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Compensation",
+                        "Base: $72,000.00 - $95,000.00 annually, based on specific compensable factors including, but not limited to education, work experience, and geographic market",
+                        "Bonus: This role will be eligible for participation in a discretionary annual bonus program, pursuant to which an employee may be awarded a percentage of their salary based on the company's performance and their own individual performance",
+                        "Medical, Telehealth, Dental, and Vision coverage, including infertility treatment, weight management, and physical therapy",
+                        "Wellness Program, including wellbeing platform, wellness challenges, WorkLife Navigator services, EAP, and mental health resources",
+                        "HSA with company contribution",
+                        "Health Care and Dependent Care FSA options",
+                        "401(k) plan with up to 7.5% total employer contribution, including an automatic 3% company contribution plus a competitive tiered match",
+                        "Employer-paid Short- and Long-Term Disability coverage",
+                        "Employer-paid Life and AD&D insurance, with additional voluntary coverage options",
+                        "Voluntary benefits including legal, accident, critical illness, and hospital indemnity insurance",
+                        "Growth & Time Off",
+                        "Up to $10,000 annually in tuition reimbursement, with an option for fully funded degree programs through Colorado Technical University",
+                        "22 days PTO",
+                        "9 company holidays plus 2 paid Volunteer Days",
+                        "Professional development opportunities designed to help employees continue building their careers"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This Automation Engineer is responsible for designing, programing, simulating, and tests a wide variety of automation systems in order to complete specific tasks within allotted cycle times",
+                        "This position will either lead or be a participant on numerous automation projects",
+                        "This position works closely with our automation vendors reviewing and optimizing their designs to suit our needs",
+                        "Assist in the design of automated systems",
+                        "Optimization of current automation cells",
+                        "Provide data for suggested modifications",
+                        "Review and evaluate code",
+                        "Evaluates all relevant ergonomic, safety, environmental and compliance considerations when reviewing processes, designs and implementations",
+                        "Interaction with manufacturing, maintenance, automation vendors, quality and other department supervisors or managers to solve and correct existing and expected manufacturing problems",
+                        "Train employees",
+                        "Work with Purchasing Team to secure necessary equipment",
+                        "Coordinate out-sourced work with vendors",
+                        "Demonstrate a knowledge of and commitment to Lean Manufacturing principles and techniques",
+                        "Attends meetings as required and/or assigned",
+                        "Performs other duties as required and/or assigned"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=bVStGTCJuAx_b-WvAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7CJ1uLpqI4KKTFBG0giC4liQcSSS9C7kIfQHf27r8y8fffFdNd_pUnkyNTHAmHwmxwAaubEHQFBdggQuzT9geQ61ZDlqLJOWlLpdTjifNhJZn_WYr_4wSTMGcTMVxt9_OKpPv2ldEb2AYeogEd_cIWIRpDbfnD6BtY82IAAAA&shmds=v1_ARwrE20piZh5gtt_1Z7xOejNjPkpxeNDlcDrvhcpmYIgJyqM2Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=bVStGTCJuAx_b-WvAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEV1FSr____7_P1qAABvABpvABhtABBzDiZtABNwAB1zCiS7nqNuABXNub3x7_Dx7e_Vxsm1lZvc0NOqhIvn4OKmfIN7JjeIRVGwjZPAp6t_MkCca3OOUVxrAAh9LTzj2dyXYmvFGzjXAAAAy0lEQVRIie2Syw6CMBBFZ0pLaQvlobxU1P__Si-SuDPpGJc9G2bBgZNOiTKZTOZP1EVRHpP-TCmYJrbd-33dx3ZwyaI7sWK_T8WZeTXJovUQR_zIThhmn966Dcx7q15YtUW6Rw5CJEslPrDWAtFelOKrsxMeN0EpWh_MTelGlFYSD2tAq946lMpEe8dx3rYoLSWq0LrMKE3f_oHpsZBRXHq0xobFpftlU6xUlGz_wAR43EhLifzM4CkuxbXrQwhyDWhj9E9iJpPJfOMFmqgG4-e-v00AAAAASUVORK5CYII.png",
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://www.dice.com/job-detail/1c9c0024-92c4-49ba-b5ff-ccbfa19eecdd",
+            "job_title": "Automation Engineer",
+            "description": "Job-ID: 17778; Location(s): McPherson KS \n\nThis Automation Engineer is responsible for designing, programing, simulating, and tests a wide variety of automation systems in order to complete specific tasks within allotted cycle times. This position will either lead or be a participant on numerous automation projects. This position works closely with our automation vendors reviewing and optimizing their designs to suit our needs. This position will also serve as trainer in the efficient operation and limits of our automated systems. \n\nWhat You'll Do:\n\nEssential Functions:\nAssist in the design of automated systems. Optimization of current automation cells. Provide data for suggested modifications. Review and evaluate code. Evaluates all relevant ergonomic, safety, environmental and compliance considerations when reviewing processes, designs and implementations.  Interaction with manufacturing, maintenance, automation vendors, quality and other department supervisors or managers to solve and correct existing and expected manufacturing problems. Train employees. Work with Purchasing Team to secure necessary equipment. Coordinate out-sourced work with vendors. Demonstrate a knowledge of and commitment to Lean Manufacturing principles and techniques. \nOther\nAttends meetings as required and/or assigned.Performs other duties as required and/or assigned\nWhat We're Looking For:\n\nKnowledge, Skills and Abilities \nDemonstrated skills in cost/benefit analysis Programming Proficiency in understanding programing logic Programming experience in college or industry PLC programming experience CAD Solidworks Auto CADCatia Computer Skills Microsoft (Word, Excel, Outlook, PPT) SAP \nEducation, Certification/License & Work Experience \nB.S. Engineering, preferably in Automation Engineering or equivalent years of work experience 2 years of experience, preferably in automation \nEquivalent combinations of education and experience may be considered.\n\nWondering if you should apply? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Viega, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you're excited about this role but don't check every box in the qualifications section, we encourage you to apply anyway. You may be just the right candidate for this or other positions we have in the future.\n\nTotal Rewards Package: \n\nCompensation\nBase: $72,000.00 - $95,000.00 annually, based on specific compensable factors including, but not limited to education, work experience, and geographic market.Bonus: This role will be eligible for participation in a discretionary annual bonus program, pursuant to which an employee may be awarded a percentage of their salary based on the company's performance and their own individual performance.\nBenefits\n\nHealth & Wellbeing\nMedical, Telehealth, Dental, and Vision coverage, including infertility treatment, weight management, and physical therapy.Wellness Program, including wellbeing platform, wellness challenges, WorkLife Navigator services, EAP, and mental health resources.HSA with company contribution. Health Care and Dependent Care FSA options.\nFinancial Security\n401(k) plan with up to 7.5% total employer contribution, including an automatic 3% company contribution plus a competitive tiered match.Employer-paid Short- and Long-Term Disability coverage.Employer-paid Life and AD&D insurance, with additional voluntary coverage options.Voluntary benefits including legal, accident, critical illness, and hospital indemnity insurance.\nGrowth & Time Off\nUp to $10,000 annually in tuition reimbursement, with an option for fully funded degree programs through Colorado Technical University.22 days PTO.9 company holidays plus 2 paid Volunteer Days.Professional development opportunities designed to help employees continue building their careers. \nYour contact person:\n\nChristopher Welsh -  - +1 \n\n#LI-DNI\n\nThe future needs people like you to shape it.\n\nApply to Viega now.",
+            "apply_options": [
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/1c9c0024-92c4-49ba-b5ff-ccbfa19eecdd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IHireTechnology",
+                    "link": "https://www.ihiretechnology.com/jobs/view/537812880?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "OPTresume",
+                    "link": "https://www.optresume.com/automation-engineer-job-in-mcpherson-ks-jobid-544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/automation-engineer-viega-gmbh-co-kg-mcpherson--fj-2354634925?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-2283-19dafa96b7997282fa648765fd019e46?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Abouteureka.com",
+                    "link": "https://abouteureka.com/workspread/job/automation-engineer-at-it-first-source-mcpherson-ks-ad43ea0bb1bfd8bejktk-YWJvdXRldX?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiVmllZ2EgTExDIiwiaHRpZG9jaWQiOiJiVlN0R1RDSnVBeF9iLVd2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJSd1QyVndNVlUzUkhwTVoxQlVjSGw2TWpsVmNXTkVSbWhoZVMxTWNpMU5TbTR6UjIxSWVrTlhPVU5mU2pWUVNIbFZVWEZSZFRJMVYyaGhXUzFFTlVSbExWTmpTRFU1Y1RJMFlUUTBhV1J1WkZGTFMzSXlURVE1TnpCZlkyazJaalIyYlRZdFZGcGphRjl0V0VaelRGOXBVM2xMU0VreldVNUpkRUpRV0RseFZHRnlOWFFTRjJJMldHSmhkR2xWUm5SRVZqVk9iMUI1TjJsSWVVRnJHaUpCUkhOeU9XWlJUMUJOVERjMmMwWkViWEEyZGpKM2NpMXhNbU5wZEhJMFUxWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJiVlN0R1RDSnVBeF9iLVd2QUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Lead Network Automation Engineer",
+            "company_name": "GD Information Technology",
+            "location": "Arlington, TX",
+            "via": "Teal",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Active TS/SCI security clearance",
+                        "Ability to work onsite in a secure customer environment",
+                        "Advanced proficiency developing Python scripts, modules, and applications for network infrastructure automation",
+                        "Advanced hands-on experience developing, troubleshooting, and maintaining Ansible playbooks and automation workflows",
+                        "Demonstrated experience automating network configuration deployments, device administration, software patching, or other network operational activities",
+                        "Working knowledge of enterprise routing and switching fundamentals, including TCP/IP, VLANs, routing protocols, and network device configuration",
+                        "Practical experience administering, troubleshooting, or automating enterprise network infrastructure",
+                        "Experience with multivendor networking environments such as Cisco, Juniper, Arista, or Aruba",
+                        "Experience using Git or comparable version control tools to maintain automation code",
+                        "Ability to translate network engineering requirements into functional automation solutions",
+                        "Understanding of automation testing, error handling, logging, change validation, and operational safeguards",
+                        "Ability to troubleshoot complex automation workflows and issues involving network devices, APIs, and automation systems",
+                        "Demonstrated ability to provide technical leadership, mentoring, or direction to other engineers",
+                        "Strong communication skills with the ability to engage network administrators, engineers, architects, and other technical stakeholders",
+                        "Ability to independently execute engineering requirements and deliver maintainable, production-ready solutions",
+                        "Experience documenting technical solutions and communicating implementation requirements, issues, and results",
+                        "Demonstrated success delivering network automation solutions in an enterprise or similarly complex networking environment",
+                        "US citizenship required",
+                        "Eight or more years of related experience are listed in the job qualifications; the description also states that relevant technical experience and proven engineering accomplishments will be prioritized over a specific number of years in a particular job title",
+                        "Experience automating Cisco IOS XE, IOS XR, Juniper JunOS, Arista EOS, or ArubaOS environments",
+                        "Understanding of BGP, OSPF, MPLS, or EVPN",
+                        "Experience with Python networking libraries, APIs, SSH-based automation, or structured network configuration management",
+                        "Experience with Jinja2 templates and automated network configuration generation",
+                        "Familiarity with Nornir, Netmiko, NAPALM, or equivalent network automation frameworks",
+                        "Experience with Ansible Automation Platform or AWX",
+                        "Experience with REST APIs, NETCONF, RESTCONF, or other programmatic network management interfaces",
+                        "Familiarity with CI/CD practices and automated testing for infrastructure automation",
+                        "Experience developing network configuration compliance, drift detection, or automated validation solutions",
+                        "Experience supporting Department of Defense, federal government, or other highly regulated enterprise environments",
+                        "Experience leading a small technical team or mentoring automation engineers",
+                        "Relevant certifications such as Cisco CCNP, Cisco DevNet, Juniper certifications, Red Hat Ansible certifications, or CompTIA Security+",
+                        "Bachelor's degree in Computer Science, Information Technology, Network Engineering, Cybersecurity, or a related discipline, or equivalent relevant experience"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The likely salary range is \\$127,500–\\$172,500; actual compensation may vary based on experience, geographic location, and contractual requirements",
+                        "The position is scheduled for 40 hours per week, with no travel required",
+                        "GDIT describes benefits that include medical, dental, vision, 401(k) with company match, paid time off, paid holidays, paid parental leave, disability and life insurance, and wellness offerings",
+                        "Comprehensive benefits and wellness packages",
+                        "401(k) with company match",
+                        "Competitive pay",
+                        "Paid time off, including vacation, sick and personal time, and holidays",
+                        "Medical plan options, some with Health Savings Accounts",
+                        "Dental plan options",
+                        "Vision plan",
+                        "Paid parental leave",
+                        "Military, bereavement, and jury duty leave",
+                        "Short- and long-term disability benefits",
+                        "Life, accidental death and dismemberment, personal accident, critical illness, and business travel and accident insurance are provided or available",
+                        "Full flex work weeks where possible",
+                        "AI-powered career tool identifying career steps and learning opportunities",
+                        "Internal mobility team focused on career goals"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "GDIT is seeking a Lead Network Automation Engineer to lead the development, implementation, and sustainment of automation solutions for a complex, multivendor enterprise network",
+                        "This hands-on technical leadership position combines network engineering fundamentals with advanced Python and Ansible expertise",
+                        "The role works with network administrators, engineers, architects, and customer stakeholders to turn technical requirements into scalable, reliable, maintainable automation",
+                        "The engineer will lead and mentor a small team, establish repeatable engineering practices, and improve operational efficiency, configuration consistency, and network reliability",
+                        "The position requires an active TS/SCI clearance and onsite work in a secure customer environment in Arlington, Virginia",
+                        "The role develops and maintains production-ready automation for network configuration management, provisioning, patching, maintenance, validation, monitoring, reporting, inventory, and operational data collection across multivendor environments",
+                        "It also establishes practices for source control, testing, documentation, deployment, and sustainment, and communicates progress, risks, and technical recommendations to engineering and program leadership",
+                        "Design, develop, test, deploy, and maintain network automation solutions using Python and Ansible",
+                        "Develop Ansible playbooks, Python scripts, and reusable modules for network configuration management, provisioning, patching, maintenance, and operational tasks",
+                        "Automate network configuration changes, software updates, configuration backups, compliance checks, and operational validation across multivendor environments",
+                        "Develop automation for Cisco, Juniper, Arista, Aruba, and other enterprise networking technologies",
+                        "Implement automated configuration validation, network state verification, and configuration drift detection",
+                        "Build automation for network monitoring, reporting, inventory management, and operational data collection",
+                        "Create reusable automation components and include appropriate error handling, logging, validation, and rollback capabilities",
+                        "Troubleshoot automation failures and integration challenges involving automation tools and network infrastructure",
+                        "Work with network administrators, engineers, and architects to understand requirements and operational challenges, then translate specifications into automation workflows",
+                        "Identify manual network administration processes that could be improved through automation",
+                        "Collaborate with infrastructure and cybersecurity teams to ensure solutions meet operational and security requirements",
+                        "Validate automation solutions with network engineering stakeholders before production deployment and provide technical recommendations",
+                        "Lead a small team of network automation engineers by providing technical direction, mentorship, and hands-on support",
+                        "Coordinate and assign development activities, conduct code reviews, and promote consistent development, testing, documentation, and version control practices",
+                        "Establish reusable development standards and support knowledge sharing and the development of junior and midlevel engineers",
+                        "Communicate progress, technical challenges, dependencies, and delivery risks to engineering and program leadership",
+                        "Enhance existing scripts and playbooks and expand the organization's automation capabilities",
+                        "Establish consistent source code management, testing, documentation, deployment, and production-control approaches",
+                        "Document workflows, dependencies, operating procedures, and troubleshooting guidance",
+                        "Measure automation effectiveness through task execution time, configuration consistency, reduced manual activity, and operational reliability"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=lsUFHBzDYbhe0o6pAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2NsQrCMBBAce0nON1ctBFBBJ0KSlHEqYNbSeOZRNO7kpxYf8cvtYLLWx6Pl30m2fqE-gpnlBfHB5RP4U6LZ4I9WU-IEeZw5BYS6mgcjKJitgGnWyfSp41SKYXCJhkrUxjuFBO2PKg7t-mHJjkdsQ9asFmuFkPRk83zagcHunH8z2o0jjiwfYMnKGPwZIVpBvXlC3STb5ylAAAA&shmds=v1_ARwrE21fYMsxaMrNDwdq6gxw5hmyExBGUJ-sZgGeH8sY10I_Gw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=lsUFHBzDYbhe0o6pAAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Full-time",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://www.tealhq.com/job/lead-network-automation-engineer_7ea1ae3e99af548feca4ee003e16800499b23",
+            "job_title": "Lead Network Automation Engineer",
+            "description": "About the position\n\nGDIT is seeking a Lead Network Automation Engineer to lead the development, implementation, and sustainment of automation solutions for a complex, multivendor enterprise network. This hands-on technical leadership position combines network engineering fundamentals with advanced Python and Ansible expertise. The role works with network administrators, engineers, architects, and customer stakeholders to turn technical requirements into scalable, reliable, maintainable automation. The engineer will lead and mentor a small team, establish repeatable engineering practices, and improve operational efficiency, configuration consistency, and network reliability. The position requires an active TS/SCI clearance and onsite work in a secure customer environment in Arlington, Virginia.\\n\\nThe role develops and maintains production-ready automation for network configuration management, provisioning, patching, maintenance, validation, monitoring, reporting, inventory, and operational data collection across multivendor environments. It also establishes practices for source control, testing, documentation, deployment, and sustainment, and communicates progress, risks, and technical recommendations to engineering and program leadership.\\n\\nThe likely salary range is \\$127,500–\\$172,500; actual compensation may vary based on experience, geographic location, and contractual requirements. The position is scheduled for 40 hours per week, with no travel required. GDIT describes benefits that include medical, dental, vision, 401(k) with company match, paid time off, paid holidays, paid parental leave, disability and life insurance, and wellness offerings. The role is onsite.\n\nResponsibilities\n\nDesign, develop, test, deploy, and maintain network automation solutions using Python and Ansible.Develop Ansible playbooks, Python scripts, and reusable modules for network configuration management, provisioning, patching, maintenance, and operational tasks.Automate network configuration changes, software updates, configuration backups, compliance checks, and operational validation across multivendor environments.Develop automation for Cisco, Juniper, Arista, Aruba, and other enterprise networking technologies.Implement automated configuration validation, network state verification, and configuration drift detection.Build automation for network monitoring, reporting, inventory management, and operational data collection.Create reusable automation components and include appropriate error handling, logging, validation, and rollback capabilities.Troubleshoot automation failures and integration challenges involving automation tools and network infrastructure.Work with network administrators, engineers, and architects to understand requirements and operational challenges, then translate specifications into automation workflows.Identify manual network administration processes that could be improved through automation.Collaborate with infrastructure and cybersecurity teams to ensure solutions meet operational and security requirements.Validate automation solutions with network engineering stakeholders before production deployment and provide technical recommendations.Lead a small team of network automation engineers by providing technical direction, mentorship, and hands-on support.Coordinate and assign development activities, conduct code reviews, and promote consistent development, testing, documentation, and version control practices.Establish reusable development standards and support knowledge sharing and the development of junior and midlevel engineers.Communicate progress, technical challenges, dependencies, and delivery risks to engineering and program leadership.Enhance existing scripts and playbooks and expand the organization's automation capabilities.Establish consistent source code management, testing, documentation, deployment, and production-control approaches.Document workflows, dependencies, operating procedures, and troubleshooting guidance.Measure automation effectiveness through task execution time, configuration consistency, reduced manual activity, and operational reliability.Requirements\n\nActive TS/SCI security clearance.Ability to work onsite in a secure customer environment.Advanced proficiency developing Python scripts, modules, and applications for network infrastructure automation.Advanced hands-on experience developing, troubleshooting, and maintaining Ansible playbooks and automation workflows.Demonstrated experience automating network configuration deployments, device administration, software patching, or other network operational activities.Working knowledge of enterprise routing and switching fundamentals, including TCP/IP, VLANs, routing protocols, and network device configuration.Practical experience administering, troubleshooting, or automating enterprise network infrastructure.Experience with multivendor networking environments such as Cisco, Juniper, Arista, or Aruba.Experience using Git or comparable version control tools to maintain automation code.Ability to translate network engineering requirements into functional automation solutions.Understanding of automation testing, error handling, logging, change validation, and operational safeguards.Ability to troubleshoot complex automation workflows and issues involving network devices, APIs, and automation systems.Demonstrated ability to provide technical leadership, mentoring, or direction to other engineers.Strong communication skills with the ability to engage network administrators, engineers, architects, and other technical stakeholders.Ability to independently execute engineering requirements and deliver maintainable, production-ready solutions.Experience documenting technical solutions and communicating implementation requirements, issues, and results.Demonstrated success delivering network automation solutions in an enterprise or similarly complex networking environment.US citizenship required.Eight or more years of related experience are listed in the job qualifications; the description also states that relevant technical experience and proven engineering accomplishments will be prioritized over a specific number of years in a particular job title.Nice-to-haves\n\nExperience automating Cisco IOS XE, IOS XR, Juniper JunOS, Arista EOS, or ArubaOS environments.Understanding of BGP, OSPF, MPLS, or EVPN.Experience with Python networking libraries, APIs, SSH-based automation, or structured network configuration management.Experience with Jinja2 templates and automated network configuration generation.Familiarity with Nornir, Netmiko, NAPALM, or equivalent network automation frameworks.Experience with Ansible Automation Platform or AWX.Experience with REST APIs, NETCONF, RESTCONF, or other programmatic network management interfaces.Familiarity with CI/CD practices and automated testing for infrastructure automation.Experience developing network configuration compliance, drift detection, or automated validation solutions.Experience supporting Department of Defense, federal government, or other highly regulated enterprise environments.Experience leading a small technical team or mentoring automation engineers.Relevant certifications such as Cisco CCNP, Cisco DevNet, Juniper certifications, Red Hat Ansible certifications, or CompTIA Security+.Bachelor's degree in Computer Science, Information Technology, Network Engineering, Cybersecurity, or a related discipline, or equivalent relevant experience.Benefits\n\nComprehensive benefits and wellness packages.401(k) with company match.Competitive pay.Paid time off, including vacation, sick and personal time, and holidays.Medical plan options, some with Health Savings Accounts.Dental plan options.Vision plan.Paid parental leave.Military, bereavement, and jury duty leave.Short- and long-term disability benefits.Life, accidental death and dismemberment, personal accident, critical illness, and business travel and accident insurance are provided or available.Full flex work weeks where possible.AI-powered career tool identifying career steps and learning opportunities.Internal mobility team focused on career goals.",
+            "apply_options": [
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/lead-network-automation-engineer_7ea1ae3e99af548feca4ee003e16800499b23?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/lead-network-automation-engineer-general-dynamics-information-technology-arlington--pureheal-29125_FC2A567E9B83525B36B1CD7AD380E217?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIE5ldHdvcmsgQXV0b21hdGlvbiBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkdEIEluZm9ybWF0aW9uIFRlY2hub2xvZ3kiLCJodGlkb2NpZCI6ImxzVUZIQnpEWWJoZTBvNnBBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa1ZxVmpoa1ltUmZRbWs0Ymxsc1YyWnJWRk13TUhoMFZsUktSbDlDYVVkR1ZscHlkaTF4YlMxUmMyTnFZbFpXUVdWS2VGWjBUSGxDUjFwWVlWRkllR2RzVkdsS09VUnBZVGwzWDI5RWVHbGpXbUp5YjB4UWJrTnROMmRGUzE5TGVYazFNa2xrTFMxb04zRlFlRUpoVEVaeGJtRkNWRkJsU0ZsNlZXdzViR3N4TVU5RFVtVVNGMkkyV0dKaGRHbFZSblJFVmpWT2IxQjVOMmxJZVVGckdpSkJSSE55T1daVVdDMW9ZWEppY0ZwclVIUkxNM1kwV1hSbFMxWktiSGc1YjA5biIsImZjdiI6IjMiLCJmY19pZCI6ImxzVUZIQnpEWWJoZTBvNnBBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "AUTOMATION ENGINEER III",
+            "company_name": "Spherion",
+            "location": "College Station, TX",
+            "via": "Spherion",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Education & Experience: Bachelor's degree in Engineering (Chemical, Electrical, Mechanical, Computer, or related) with 6-12+ years of automation/process control/OT experience in biopharmaceutical or regulated manufacturing",
+                        "Automation Platform Expertise: Demonstrated design, implementation, and lifecycle management skills in DCS, PLC, SCADA, and HMI platforms (e.g., DeltaV, Rockwell/Allen-Bradley, Siemens)",
+                        "Regulatory & Validation Compliance: In-depth working knowledge of FDA regulations (21 CFR Parts 210/211 and Part 11), ALCOA+ data integrity, Computerized System Validation (CSV), GAMP 5, and ISA-88/ISA-95 frameworks",
+                        "Commissioning & Qualification: Hands-on experience executing IQ/OQ/PQ validation protocols, deviation management, CAPA, and change control within GMP environments",
+                        "Bioprocessing Equipment: Experience supporting bioprocess systems such as single-use bioreactors, filtration (TFF), and chromatography systems",
+                        "OT/IT & Industrial Networking: Proficiency in OT asset management in Windows environments, Active Directory (AD) integration, industrial network architecture (switches, firewalls, VLANs), and cybersecurity principles (e.g., NIST, ISA/IEC 62443)",
+                        "Problem-Solving & Soft Skills: Excellent root cause analysis abilities, communication, documentation, and the capacity to balance hands-on work with strategic initiatives in a lean organization",
+                        "Advanced Bioprocessing: Direct experience with biopharmaceutical fill/finish systems",
+                        "Automation certifications (e.g., Emerson DeltaV, Siemens, or Rockwell Automation)",
+                        "Industrial cybersecurity or networking certifications (e.g., ISA/IEC 62443, CompTIA Security+, Cisco CCNA)",
+                        "IT certifications (e.g., Microsoft Certified Windows Server/Active Directory, Azure Fundamentals)",
+                        "Project Management certification (e.g., PMP)",
+                        "Infrastructure Knowledge: Practical experience managing virtualization platforms such as VMware and Hyper-V",
+                        "4-7 years",
+                        "Education & Experience: Bachelor's degree in Engineering (Chemical, Electrical, Mechanical, Computer, or related) with 6-12+ years of automation/process control/OT experience in biopharmaceutical or regulated manufacturing",
+                        "Automation Platform Expertise: Demonstrated design, implementation, and lifecycle management skills in DCS, PLC, SCADA, and HMI platforms (e.g., DeltaV, Rockwell/Allen-Bradley, Siemens)",
+                        "Regulatory & Validation Compliance: In-depth working knowledge of FDA regulations (21 CFR Parts 210/211 and Part 11), ALCOA+ data integrity, Computerized System Validation (CSV), GAMP 5, and ISA-88/ISA-95 frameworks",
+                        "Commissioning & Qualification: Hands-on experience executing IQ/OQ/PQ validation protocols, deviation management, CAPA, and change control within GMP environments",
+                        "Bioprocessing Equipment: Experience supporting bioprocess systems such as single-use bioreactors, filtration (TFF), and chromatography systems",
+                        "OT/IT & Industrial Networking: Proficiency in OT asset management in Windows environments, Active Directory (AD) integration, industrial network architecture (switches, firewalls, VLANs), and cybersecurity principles (e.g., NIST, ISA/IEC 62443)",
+                        "Problem-Solving & Soft Skills: Excellent root cause analysis abilities, communication, documentation, and the capacity to balance hands-on work with strategic initiatives in a lean organization",
+                        "Advanced Bioprocessing: Direct experience with biopharmaceutical fill/finish systems",
+                        "Industry Certifications:Automation certifications (e.g., Emerson DeltaV, Siemens, or Rockwell Automation)",
+                        "Industrial cybersecurity or networking certifications (e.g., ISA/IEC 62443, CompTIA Security+, Cisco CCNA)",
+                        "IT certifications (e.g., Microsoft Certified Windows Server/Active Directory, Azure Fundamentals)",
+                        "Project Management certification (e.g., PMP)",
+                        "Infrastructure Knowledge: Practical experience managing virtualization platforms such as VMware and Hyper-V"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay offered to a successful candidate will be based on several factors including the candidate's education, work experience, work location, specific job duties, certifications, etc",
+                        "In addition, Spherion offers a comprehensive benefits package, including: medical, prescription, dental, vision, AD&D, and life insurance offerings, short-term disability, and a 401K plan (all benefits are based on eligibility)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Automation Engineer III - Temporary serves as the senior technical authority responsible for leading the design, configuration, integration, and lifecycle management of process control, automation, and industrial IT/OT systems across Manufacturing, Quality Control, Analytical, and Process Development operations",
+                        "Located in College Station, TX, this role balances hands-on technical troubleshooting with strategic leadership, project execution, and cross-functional collaboration to ensure reliability, efficiency, and strict regulatory compliance in a biopharmaceutical setting",
+                        "The position also provides technical mentorship to junior automation engineers",
+                        "Technical Leadership & Lifecycle Management: Provide hands-on leadership for the design, configuration, integration, qualification, and lifecycle management of control systems across plant and lab operations",
+                        "System Troubleshooting & Root Cause Analysis: Lead advanced troubleshooting for process control systems???including PLC, DCS, SCADA, and equipment-level automation???to support uninterrupted GMP operations",
+                        "Project Execution & Qualification: Manage automation project implementations, requirement definitions, and vendor coordination while supporting commissioning and qualification (IQ/OQ/PQ) activities",
+                        "Compliance & Data Integrity: Ensure system configurations, electronic records, and audit trails comply with GxP, 21 CFR Part 11, and ALCOA+ data integrity standards",
+                        "Client Programs & Tech Transfer: Support tech transfer activities, client program customizations, client meetings, and regulatory inspections/audits",
+                        "Continuous Improvement: Identify and execute continuous improvement initiatives to optimize system reliability, scalability, and operational efficiency within a CDMO environment",
+                        "Mentorship: Offer technical guidance, coaching, and mentorship to junior automation engineers to build capability and promote engineering standardization",
+                        "Working hours: 8:00 AM - 5:00 PM",
+                        "Technical Leadership & Lifecycle Management: Provide hands-on leadership for the design, configuration, integration, qualification, and lifecycle management of control systems across plant and lab operations",
+                        "System Troubleshooting & Root Cause Analysis: Lead advanced troubleshooting for process control systems???including PLC, DCS, SCADA, and equipment-level automation???to support uninterrupted GMP operations",
+                        "Project Execution & Qualification: Manage automation project implementations, requirement definitions, and vendor coordination while supporting commissioning and qualification (IQ/OQ/PQ) activities",
+                        "Compliance & Data Integrity: Ensure system configurations, electronic records, and audit trails comply with GxP, 21 CFR Part 11, and ALCOA+ data integrity standards",
+                        "Client Programs & Tech Transfer: Support tech transfer activities, client program customizations, client meetings, and regulatory inspections/audits",
+                        "Continuous Improvement: Identify and execute continuous improvement initiatives to optimize system reliability, scalability, and operational efficiency within a CDMO environment",
+                        "Mentorship: Offer technical guidance, coaching, and mentorship to junior automation engineers to build capability and promote engineering standardization"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=yH_Rop2OG2E7gEpYAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CS7eLJqI4KJTkVIimIKt4FbSciSVmAu5DP0Kv1m7vPEV31UhymfX3MtONRoqXStdVQ9QSsEebjQAo0mjAwpQE1mP64vLOfJZSmYvLGeTp1GM9JEUcKBZvmnghZ6dSRi9ydgfT4dZxGC3mzY6TNN_mwJcyXu0CO1yUNhB9_oBlLRdypEAAAA&shmds=v1_ARwrE232GAgTkD_hSjOFKmAppqXM-mHJc3O3YcBvRZcNZOClbA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=yH_Rop2OG2E7gEpYAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba56f1736b777466fb651/images/r8lKkLWlif0nO6sa104sNY9aF0uwisWXrn7WS8JwiQ8.jpeg",
+            "extensions": [
+                "23 days ago",
+                "38 an hour",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "source_link": "https://www.spherion.com/jobs/automation-engineer-iii_college-station_47528485/",
+            "job_title": "AUTOMATION ENGINEER III",
+            "description": "The Automation Engineer III - Temporary serves as the senior technical authority responsible for leading the design, configuration, integration, and lifecycle management of process control, automation, and industrial IT/OT systems across Manufacturing, Quality Control, Analytical, and Process Development operations. Located in College Station, TX, this role balances hands-on technical troubleshooting with strategic leadership, project execution, and cross-functional collaboration to ensure reliability, efficiency, and strict regulatory compliance in a biopharmaceutical setting. The position also provides technical mentorship to junior automation engineers.\n\nResponsibilities:\nTechnical Leadership & Lifecycle Management: Provide hands-on leadership for the design, configuration, integration, qualification, and lifecycle management of control systems across plant and lab operations.   \nSystem Troubleshooting & Root Cause Analysis: Lead advanced troubleshooting for process control systems???including PLC, DCS, SCADA, and equipment-level automation???to support uninterrupted GMP operations.   \nProject Execution & Qualification: Manage automation project implementations, requirement definitions, and vendor coordination while supporting commissioning and qualification (IQ/OQ/PQ) activities.   \nCompliance & Data Integrity: Ensure system configurations, electronic records, and audit trails comply with GxP, 21 CFR Part 11, and ALCOA+ data integrity standards.   \nClient Programs & Tech Transfer: Support tech transfer activities, client program customizations, client meetings, and regulatory inspections/audits.   \nContinuous Improvement: Identify and execute continuous improvement initiatives to optimize system reliability, scalability, and operational efficiency within a CDMO environment.   \nMentorship: Offer technical guidance, coaching, and mentorship to junior automation engineers to build capability and promote engineering standardization.\n\nWorking hours: 8:00 AM - 5:00 PM\n\nSkills:\nEducation & Experience: Bachelor's degree in Engineering (Chemical, Electrical, Mechanical, Computer, or related) with 6-12+ years of automation/process control/OT experience in biopharmaceutical or regulated manufacturing.   \nAutomation Platform Expertise: Demonstrated design, implementation, and lifecycle management skills in DCS, PLC, SCADA, and HMI platforms (e.g., DeltaV, Rockwell/Allen-Bradley, Siemens).   \nRegulatory & Validation Compliance: In-depth working knowledge of FDA regulations (21 CFR Parts 210/211 and Part 11), ALCOA+ data integrity, Computerized System Validation (CSV), GAMP 5, and ISA-88/ISA-95 frameworks.   \nCommissioning & Qualification: Hands-on experience executing IQ/OQ/PQ validation protocols, deviation management, CAPA, and change control within GMP environments.   \nBioprocessing Equipment: Experience supporting bioprocess systems such as single-use bioreactors, filtration (TFF), and chromatography systems.   \nOT/IT & Industrial Networking: Proficiency in OT asset management in Windows environments, Active Directory (AD) integration, industrial network architecture (switches, firewalls, VLANs), and cybersecurity principles (e.g., NIST, ISA/IEC 62443).   \nProblem-Solving & Soft Skills: Excellent root cause analysis abilities, communication, documentation, and the capacity to balance hands-on work with strategic initiatives in a lean organization.\n\nEducation:\nBachelors\n\nExperience:\n4-7 years\n\nQualifications:\nAdvanced Bioprocessing: Direct experience with biopharmaceutical fill/finish systems.   \n\nIndustry Certifications:\nAutomation certifications (e.g., Emerson DeltaV, Siemens, or Rockwell Automation).   \nIndustrial cybersecurity or networking certifications (e.g., ISA/IEC 62443, CompTIA Security+, Cisco CCNA).   \nIT certifications (e.g., Microsoft Certified Windows Server/Active Directory, Azure Fundamentals).   \nProject Management certification (e.g., PMP).   \n\nInfrastructure Knowledge: Practical experience managing virtualization platforms such as VMware and Hyper-V.\n\n \nApply today!\n\n\n\n Spherion has helped thousands of people just like you find work happiness! Our experienced staff will listen carefully to your employment needs and then work diligently to match your skills and qualifications to the right job and company. Whether you're looking for temporary, temp-to-perm or direct hire opportunities, no one works harder for you than Spherion.\n \n Equal Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status.\n \n At Spherion, we welcome people of all abilities and want to ensure that our hiring and interview process meets the needs of all applicants. If you require a reasonable accommodation to make your application or interview experience a great one, please contact Callcenter@spherion.com.\n \n Pay offered to a successful candidate will be based on several factors including the candidate's education, work experience, work location, specific job duties, certifications, etc.  In addition, Spherion offers a comprehensive benefits package, including: medical, prescription, dental, vision, AD&D, and life insurance offerings, short-term disability, and a 401K plan (all benefits are based on eligibility). \n  \n\n\n\n\nkey responsibilities\n\nTechnical Leadership & Lifecycle Management: Provide hands-on leadership for the design, configuration, integration, qualification, and lifecycle management of control systems across plant and lab operations.   System Troubleshooting & Root Cause Analysis: Lead advanced troubleshooting for process control systems???including PLC, DCS, SCADA, and equipment-level automation???to support uninterrupted GMP operations.   Project Execution & Qualification: Manage automation project implementations, requirement definitions, and vendor coordination while supporting commissioning and qualification (IQ/OQ/PQ) activities.   Compliance & Data Integrity: Ensure system configurations, electronic records, and audit trails comply with GxP, 21 CFR Part 11, and ALCOA+ data integrity standards.   Client Programs & Tech Transfer: Support tech transfer activities, client program customizations, client meetings, and regulatory inspections/audits.   Continuous Improvement: Identify and execute continuous improvement initiatives to optimize system reliability, scalability, and operational efficiency within a CDMO environment.   Mentorship: Offer technical guidance, coaching, and mentorship to junior automation engineers to build capability and promote engineering standardization.\n\n\nexperience\n\n4-7 years\n\n\nskills\n\nEducation & Experience: Bachelor's degree in Engineering (Chemical, Electrical, Mechanical, Computer, or related) with 6-12+ years of automation/process control/OT experience in biopharmaceutical or regulated manufacturing.   Automation Platform Expertise: Demonstrated design, implementation, and lifecycle management skills in DCS, PLC, SCADA, and HMI platforms (e.g., DeltaV, Rockwell/Allen-Bradley, Siemens).   Regulatory & Validation Compliance: In-depth working knowledge of FDA regulations (21 CFR Parts 210/211 and Part 11), ALCOA+ data integrity, Computerized System Validation (CSV), GAMP 5, and ISA-88/ISA-95 frameworks.   Commissioning & Qualification: Hands-on experience executing IQ/OQ/PQ validation protocols, deviation management, CAPA, and change control within GMP environments.   Bioprocessing Equipment: Experience supporting bioprocess systems such as single-use bioreactors, filtration (TFF), and chromatography systems.   OT/IT & Industrial Networking: Proficiency in OT asset management in Windows environments, Active Directory (AD) integration, industrial network architecture (switches, firewalls, VLANs), and cybersecurity principles (e.g., NIST, ISA/IEC 62443).   Problem-Solving & Soft Skills: Excellent root cause analysis abilities, communication, documentation, and the capacity to balance hands-on work with strategic initiatives in a lean organization.\n\n\nqualifications\n\nAdvanced Bioprocessing: Direct experience with biopharmaceutical fill/finish systems.   Industry Certifications:Automation certifications (e.g., Emerson DeltaV, Siemens, or Rockwell Automation).   Industrial cybersecurity or networking certifications (e.g., ISA/IEC 62443, CompTIA Security+, Cisco CCNA).   IT certifications (e.g., Microsoft Certified Windows Server/Active Directory, Azure Fundamentals).   Project Management certification (e.g., PMP).   Infrastructure Knowledge: Practical experience managing virtualization platforms such as VMware and Hyper-V.\n\n\neducation\n\nBachelors",
+            "apply_options": [
+                {
+                    "title": "Spherion",
+                    "link": "https://www.spherion.com/jobs/automation-engineer-iii_college-station_47528485/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=aaf4dab276901499&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/automation-engineer-iii_7ea1ae606faf661d2a8511ae19071a81ba397?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/dS8QQ7M6LryAMpeg6_YLRlK53u3WY78bcWTqP2MkcFbxz707f8M0Zg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/automation-engineer-iii-college-station-tx--668849a6-e9a2-434d-998f-6718e41c972f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/matica-biotechnology/Job/Automation-Engineer-III/-in-College-Station,TX?jid=87dc1ec9a4a7fda7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/automation-engineer-iii-matica-biotechnology-college-station-tx--t7xk-826308511?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-4023-ff531a1509550c54ffe15ffc38586110?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBVVRPTUFUSU9OIEVOR0lORUVSIElJSSIsImNvbXBhbnlfbmFtZSI6IlNwaGVyaW9uIiwiaHRpZG9jaWQiOiJ5SF9Sb3AyT0cyRTdnRXBZQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzNjMlJrMTRURFJwZFVkYWNFMXJXVXRpWW5CMmIwVnJWMWx6TWpaVU56WjFNaTB4UWpSdlUwUlNRbkJzYjB0Q00yMVhUVlF0YjJkMFFtVXlNbVZpYWs0eGJYbDNSalpVZDNoTVZYTnZUVXRUYlZwYVpqZEJXVWhKTW1WSVNYZGxNMmRsY1dGMVpUUTFXRkpITTBWWWMxQm9YMlpOZHpNMWRrSkNVM2xTZWxvdE4waFJXbDhTRjJJMldHSmhkR2xWUm5SRVZqVk9iMUI1TjJsSWVVRnJHaUpCUkhOeU9XWlNVVWhhVVZOaVZHcHNRWE50Y21aWlRrVm5TWGhJTW5CYWVVUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ5SF9Sb3AyT0cyRTdnRXBZQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Supply Chain Automation Engineer - Consulting",
+            "company_name": "USA | Miebach Consulting Inc.",
+            "location": "Fishers, IN",
+            "via": "Miebach Consulting",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Candidates need a relevant bachelor's degree, 5–10 years of relevant supply chain engineering, distribution, material handling, automation, manufacturing, or consulting experience, and proficiency with Microsoft Excel and engineering analysis tools",
+                        "The posting states willingness to travel up to 40–60%",
+                        "The posting requires 5–10 years of experience in supply chain engineering, distribution, material handling, automation, manufacturing, or consulting",
+                        "A bachelor's degree in Industrial Engineering, Mechanical Engineering, Supply Chain Engineering, Logistics, or a related field is required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The role leads engineering workstreams, analyzes operations, develops facility and process designs, evaluates automation and material-handling technologies, and supports implementation",
+                        "The role leads and supports supply chain engineering workstreams, develops facility and process designs, performs operational and capacity analyses, evaluates automation technologies, supports implementation activities, and works with client stakeholders"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=mHOuojV3SfdcuZUUAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02OvQrCQBCEsc0jWG0t8SKCjVYh_hBBm2AdLmG5O7nsHtkLRPClfEPPzmbgg-GbyT6L7NhMIfgXVFY7gnKKPOjomOBExhHiCGuomGTy0ZFJcOUOBPXYW0itC7PxuDzYGIPsi0LEKyMxKXrV81AwYcdz8eROftGK1SMGryO2291mVoHMKn80Jbzh5rDTyfq3VlOvIN06O7E4Sg71_Quyx35_tAAAAA&shmds=v1_ARwrE21V0y6ZcOefDavpMC7HI2L5Kep-oe7lNCDaia5XXnizog&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=mHOuojV3SfdcuZUUAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAgMBAQAAAAAAAAAAAAAABAUCAwYHAf_EACsQAAEEAgIABAQHAAAAAAAAAAEAAgMRBCEFEhQxQWETIiNRBhUyUmOR0f_EABYBAQEBAAAAAAAAAAAAAAAAAAACAf_EABwRAQACAgMBAAAAAAAAAAAAAAABEQIiITFBEv_aAAwDAQACEQMRAD8A9xREQEREBERAREQLWL3sY0ve4Na0WSTQAUHm_EeDZ4N8jJfEQgmNtnqZGh-qOupcqLIHLDDyWdsqS4M1rQ6MHbXD4Oq2SL8_NB1Mk0UTO8sjGM_c51BZ2FyedFyWVj8jFI6btThDCICWvbTS0h36bFHVXdj7LLKyuVYJRA3Nkb8SU4zw2raAyuw6kk9i-roUD56QdPLNFEAZZGMBIaC41ZPkFXc3yb8AQRwtYZZnUDJfVo1s1s7I_snyBVZkszcnHmjmdlDJGY36YiuPoMhpY9pqtMA9fvY0pLeLdyWKW575xPjZcjsea6e1vYhvpRBbrY2FsV6ybrhp_CX4obz0mRCWx94mMka-O6exw0SDtp9tj3NFFO4HgMLhGyjDjoydQ53VoNNFNHygaC-rcvm9U4RlEbdrZaJMWOSZsp7dm-VOIW9FK0IcbF2DviTEggi5D6LIYETSXAyWf5Hf6paIIX5bDv5pfb6h0pMELYW9WXV3skrYiAiIgIiICIiAiIgIiIP_2Q.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://www.miebach.com/de/en/careers/opportunities/job-positions-in-north-america/usa-supply-chain-automation-engineer-consulting",
+            "job_title": "Supply Chain Automation Engineer - Consulting",
+            "description": "Miebach Consulting is hiring a Supply Chain Automation Engineer - Consulting in Fishers, IN and Dallas, TX. The role leads engineering workstreams, analyzes operations, develops facility and process designs, evaluates automation and material-handling technologies, and supports implementation. Candidates need a relevant bachelor's degree, 5–10 years of relevant supply chain engineering, distribution, material handling, automation, manufacturing, or consulting experience, and proficiency with Microsoft Excel and engineering analysis tools. Preferred experience includes AutoCAD, AnyLogic, FlexSim, WMS/WES/WCS, vendor selection, commissioning, implementation, and relevant certifications. Employment type: salaried, full time. Travel: up to 40–60%. \n\n\n\nFAQ Content\n\nWhat does the Supply Chain Automation Engineer - Consulting role involve?\n\n\n\nThe role leads and supports supply chain engineering workstreams, develops facility and process designs, performs operational and capacity analyses, evaluates automation technologies, supports implementation activities, and works with client stakeholders.\n\n\n\nWhere is the role located?\n\n\n\nThe posting lists Fishers, IN and Dallas, TX.\n\n\n\nIs the role remote or hybrid?\n\n\n\nThe posting does not specify remote or hybrid work.\n\n\n\nWhat is the employment type?\n\n\n\nThe publication workflow default is salaried, full time. The posting itself does not separately state employment type.\n\n\n\nHow much travel is required?\n\n\n\nThe posting states willingness to travel up to 40–60%.\n\n\n\nHow much experience is required?\n\n\n\nThe posting requires 5–10 years of experience in supply chain engineering, distribution, material handling, automation, manufacturing, or consulting.\n\n\n\nWhat education is required?\n\n\n\nA bachelor's degree in Industrial Engineering, Mechanical Engineering, Supply Chain Engineering, Logistics, or a related field is required.\n\n\n\nWhat technologies or expertise are relevant?\n\n\n\nThe posting references Microsoft Excel and engineering analysis tools, warehouse automation and material handling, AS/RS, AMRs, AGVs, conveyors, sortation, robotics, warehouse execution technologies, and preferred experience with AutoCAD, AnyLogic, FlexSim, WMS, WES, and WCS.\n\n\n\n ",
+            "apply_options": [
+                {
+                    "title": "Miebach Consulting",
+                    "link": "https://www.miebach.com/de/en/careers/opportunities/job-positions-in-north-america/usa-supply-chain-automation-engineer-consulting?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/supply-chain-automation-engineer-consulting-fishers-in--49b3b26e-cc90-46d6-985a-142c1376103b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Miebach/Job/Supply-Chain-Automation-Engineer-Consulting/-in-Fishers,IN?jid=bc87c774a7e68ffb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=124b6b736e0ceabd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://www.talent.com/view?id=634530866900045211&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010294082342&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs For Stevenage Fans",
+                    "link": "https://jobs.stevenagefc.com/jobs/supply-chain-automation-engineer-consulting-fishers-indiana/3021612178-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/OAW9v7e6P9H5wl1VoVt6hmTs1hZ2B7m_XFjYyaATfnVW6WNmUVWmdg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdXBwbHkgQ2hhaW4gQXV0b21hdGlvbiBFbmdpbmVlciAtIENvbnN1bHRpbmciLCJjb21wYW55X25hbWUiOiJVU0EgfCBNaWViYWNoIENvbnN1bHRpbmcgSW5jLiIsImh0aWRvY2lkIjoibUhPdW9qVjNTZmRjdVpVVUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNsOU5iaTF6YUROQlFqUk9RbmRSVUZGV2FtRmZlRVp2UWpKMk5tWjVhRWxxV25FelVFVnNkQzE2VjJGa04zbzJiMlpmYTBOMWNHSkViRmx3YlhORFdEbFpNMVJIT1V4WFJXMTBhVjlzWm5sYVEzaDZVR2h4YXkxck0xRlFkSGxRTXpCTWRrTkpiVk53VlVkT1V6VTVPRWRGZDFseGFqWnlkMjlKV0RkdFIxRkpUM05KYkVrU0YySTJXR0poZEdsVlJuUkVWalZPYjFCNU4ybEllVUZyR2lKQlJITnlPV1pSU25BM05YaDNUa0U0T1U4eGIwNHplR3QwUkdoSWVYbDVWWHBuIiwiZmN2IjoiMyIsImZjX2lkIjoibUhPdW9qVjNTZmRjdVpVVUFBQUFBQT09In0="
+        },
+        {
+            "title": "Automation Engineer",
+            "company_name": "Open Approach",
+            "location": "Burlington, VT",
+            "via": "ZipRecruiter",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Curious and self-directed",
+                        "You follow threads, read documentation nobody assigned you, and figure things out before asking for help",
+                        "Large language models, agentic workflows, and intelligent tooling are practical levers to you, not buzzwords",
+                        "Collaborative beyond being easy to work with",
+                        "You pull people in and bring them along, and you care whether the people around what you built can actually understand it",
+                        "You hold multiple threads without dropping them, communicate when things shift, and bring your own structure to a chaotic environment rather than waiting for one to appear",
+                        "Clear on the difference between interesting and useful, and disciplined enough to stay on the right side of that line even when things are moving fast",
+                        "Experience working with RMM platforms, PSA/ticketing systems, Microsoft 365 / Azure, Windows Server environments",
+                        "Experience working with APIs and automation frameworks",
+                        "Strong understanding of IT infrastructure (networking, servers, cloud services)",
+                        "Strong understanding of CI/CD, Git, version control, and build-to-scale mindset",
+                        "Ability to analyze workflows and identify automation opportunities",
+                        "Strong documentation and process design skills",
+                        "Ability to balance innovation with operational stability",
+                        "Hands-on experience with AI/LLM APIs (Anthropic, OpenAI, etc.) and prompt engineering for practical automation use cases",
+                        "Familiarity with agentic AI frameworks (e.g., LangChain, AutoGen, Semantic Kernel) or demonstrated ability to build multi-step AI-driven workflows",
+                        "Demonstrated curiosity and self-direction when it comes to exploring new AI capabilities and applying them to real business problems",
+                        "At least 5+ years of technical experience is required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Health, dental, and vision coverage with generous employer contributions",
+                        "Company-sponsored Life, STD/LTD Disability, and Workers’ Compensation",
+                        "401(k) with 4% match starting day one",
+                        "Generous PTO (starting at 16 days, plus paid holidays)",
+                        "Fully paid parental leave",
+                        "Smartphone stipend for on-call rotation (if applicable)",
+                        "Weekly company lunches, coffee, snacks, and a pet-friendly office"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We are seeking an Automation Engineer to define and lead our push deeper into automation across our Managed Services Provider (MSP) organization",
+                        "This role sits at the intersection of AI/ML, traditional scripting, and IT operations - building intelligent systems that improve how we run our business and deliver outcomes for clients, while balancing the needs of probabilistic and deterministic systems",
+                        "You will automate internal workflows and service delivery processes and, increasingly, design AI-driven solutions that let us operate at scale with minimal manual intervention",
+                        "It is a high-impact role that will directly shape our service quality, margin, scalability, and client experience",
+                        "Organized underneath all of it",
+                        "Responsibilities - Internal Operational Automation & AI",
+                        "Identify, design, and implement automation to streamline MSP operational workflows",
+                        "Integrate and automate workflows across RMM, PSA, monitoring, ticketing, and documentation platforms",
+                        "Collaborate with Service Desk, NOC, and Engineering teams with an eye to eliminate repetitive tasks",
+                        "Develop scripts, tools, and workflows with scalability in mind to reduce manual intervention and human error",
+                        "Build and deploy AI-powered internal tools using large language model APIs (e.g., Anthropic, OpenAI) to automate decision-making, content generation, and operational triage",
+                        "Design and maintain automated workflows that can handle multi-step operational tasks such as ticket enrichment, escalation routing, and documentation generation",
+                        "Identify internal processes where AI-assisted summarization, classification, or prediction can reduce technician workload and improve response quality",
+                        "Responsibilities - Advanced Client-Focused & AI-Driven Automation",
+                        "Design automated remediation for common client issues (e.g., service restarts, disk cleanup, patch failures)",
+                        "Implement event-driven automation triggered by monitoring alerts",
+                        "Automate client onboarding/offboarding processes",
+                        "Leverage APIs to integrate with cloud platforms (Azure, M365, AWS, etc.)",
+                        "Contribute to automation frameworks for client environments (e.g., provisioning, compliance checks, security baselines)",
+                        "Design and implement AI-driven automation for ticket triage, issue categorization, root cause identification, and automated client communications",
+                        "Develop client-facing deliverables such as automated health reports, anomaly summaries, and proactive alert narratives generated from telemetry data",
+                        "Partner with client-facing teams to identify opportunities where automation can reduce ticket volume, accelerate resolution, and improve client satisfaction scores",
+                        "Evaluate and integrate AI tooling and platforms (e.g., Claude Code / Cowork, AI-enabled RMM/PSA features, third-party LLM APIs) into client automation pipelines"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Automation+Engineer&htidocid=Iy_KYETlxCWlbtV8AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBBAce0nuHhz0UQEF50qiODiIq4lLUeSkt6F3BX6DX61cXnL473mu2nablGenUYmuJOPhFjgAE8eQNCVMUAVD2afcHsNqlku1ook40VrNZqRZ8uEA6924kH-6CW4gjk5xf50Pq4mk293r4wEXc6FXb1GgttSUiSvTHv4vH-OjflXjQAAAA&shmds=v1_ARwrE232-qEN3E-VQ2M5L1xCtAEvc7mdDOG3AIL2fcz4Z96scA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Automation+Engineer&htidocid=Iy_KYETlxCWlbtV8AAAAAA%3D%3D",
+            "extensions": [
+                "17 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.ziprecruiter.com/c/open-approach/Job/Automation-Engineer/-in-Burlington,VT?jid=cedd97e672d174fa",
+            "job_title": "Automation Engineer",
+            "description": "AUTOMATION ENGINEER\nLocation: Burlington, VT (Hybrid)\nEmployment Type: Full-time\n\n\n\n\nWHO WE ARE\n\nOpen Approach is a values-driven, client-focused IT services company based in Burlington, Vermont. We deliver exceptional managed technology and phenomenal client support to organizations across New England and beyond. We are a fast-growing Managed Services Provider (MSP) delivering secure, compliant IT solutions to clients in regulated industries. Our team partners with businesses to design and implement IT, cybersecurity, and compliance frameworks that meet strict standards such as NIST, DFARS, and CMMC.\n\n\n\n\nWe earn our clients’ business every month by staying relentlessly focused on their success. From the very first interaction to ongoing evolution, we aim to provide seamless experiences grounded in understanding, integrity, and practical solutions. We believe in making thoughtful, informed decisions and creating a lasting impact instead of quick fixes. This translates into long-term relationships with our clients that are rewarding on many levels.\n \nAt our core, we value equity, humility, excellence, accountability, innovation, and openness. These guide everything we do, from how we collaborate internally to how we support clients through complex technical challenges.\n\n\n\n\nWe are continually refining our team, enhancing our capabilities, and investing in talent to drive forward meaningful change. We embrace candid feedback, own our outcomes, and strive to improve every day. If that sounds like the kind of company you want to grow with, we would love to hear from you.\n\n\n\n\n\n\n\nTHE ROLE\n\nWe are seeking an Automation Engineer to define and lead our push deeper into automation across our Managed Services Provider (MSP) organization. This role sits at the intersection of AI/ML, traditional scripting, and IT operations - building intelligent systems that improve how we run our business and deliver outcomes for clients, while balancing the needs of probabilistic and deterministic systems.\n\n\n\n\nYou will automate internal workflows and service delivery processes and, increasingly, design AI-driven solutions that let us operate at scale with minimal manual intervention. It is a high-impact role that will directly shape our service quality, margin, scalability, and client experience.\n\n \n\nAnd feel free to show us what you're working on!\n\nAny links to your GitHub, scripts, or other coding projects you’ve written are always reviewed.\n\n\n\n\n\n\n\nWHO YOU ARE\n\n\nCurious and self-directed. You follow threads, read documentation nobody assigned you, and figure things out before asking for help. Large language models, agentic workflows, and intelligent tooling are practical levers to you, not buzzwords.Collaborative beyond being easy to work with. You pull people in and bring them along, and you care whether the people around what you built can actually understand it. You teach even when the job description does not say to.Organized underneath all of it. You hold multiple threads without dropping them, communicate when things shift, and bring your own structure to a chaotic environment rather than waiting for one to appear.Clear on the difference between interesting and useful, and disciplined enough to stay on the right side of that line even when things are moving fast.\n\n\n\nTHE SPECIFICS OF THE JOB\n\n\n\nResponsibilities - Internal Operational Automation & AI\n\nIdentify, design, and implement automation to streamline MSP operational workflows.Integrate and automate workflows across RMM, PSA, monitoring, ticketing, and documentation platforms.Collaborate with Service Desk, NOC, and Engineering teams with an eye to eliminate repetitive tasks.Develop scripts, tools, and workflows with scalability in mind to reduce manual intervention and human error.Build and deploy AI-powered internal tools using large language model APIs (e.g., Anthropic, OpenAI) to automate decision-making, content generation, and operational triage.Design and maintain automated workflows that can handle multi-step operational tasks such as ticket enrichment, escalation routing, and documentation generation.Identify internal processes where AI-assisted summarization, classification, or prediction can reduce technician workload and improve response quality.\n\n\n\nResponsibilities - Advanced Client-Focused & AI-Driven Automation\n\nDesign automated remediation for common client issues (e.g., service restarts, disk cleanup, patch failures).Implement event-driven automation triggered by monitoring alerts.Automate client onboarding/offboarding processes.Leverage APIs to integrate with cloud platforms (Azure, M365, AWS, etc.).Contribute to automation frameworks for client environments (e.g., provisioning, compliance checks, security baselines).Design and implement AI-driven automation for ticket triage, issue categorization, root cause identification, and automated client communications.Develop client-facing deliverables such as automated health reports, anomaly summaries, and proactive alert narratives generated from telemetry data.Partner with client-facing teams to identify opportunities where automation can reduce ticket volume, accelerate resolution, and improve client satisfaction scores.Evaluate and integrate AI tooling and platforms (e.g., Claude Code / Cowork, AI-enabled RMM/PSA features, third-party LLM APIs) into client automation pipelines.\nJob Requirements\n\n5+ years of experience in IT operations and DevOps (within an MSP or similar environment is strongly preferred).Professional coding experience (PowerShell required; Python strongly preferred, especially for AI/ML integrations and API development).Experience working with RMM platforms, PSA/ticketing systems, Microsoft 365 / Azure, Windows Server environments.Experience working with APIs and automation frameworks.Strong understanding of IT infrastructure (networking, servers, cloud services).Strong understanding of CI/CD, Git, version control, and build-to-scale mindset.Ability to analyze workflows and identify automation opportunities.Strong documentation and process design skills.Ability to balance innovation with operational stability.Hands-on experience with AI/LLM APIs (Anthropic, OpenAI, etc.) and prompt engineering for practical automation use cases.Familiarity with agentic AI frameworks (e.g., LangChain, AutoGen, Semantic Kernel) or demonstrated ability to build multi-step AI-driven workflows.Demonstrated curiosity and self-direction when it comes to exploring new AI capabilities and applying them to real business problems.\n\n\n\nExperience\n\nAt least 5+ years of technical experience is required. Compensation is negotiable depending on\nexperience.\n\n\n\n\n\n\n\nBENEFITS\n\nHealth, dental, and vision coverage with generous employer contributionsCompany-sponsored Life, STD/LTD Disability, and Workers’ Compensation401(k) with 4% match starting day oneGenerous PTO (starting at 16 days, plus paid holidays)Fully paid parental leaveSmartphone stipend for on-call rotation (if applicable)Weekly company lunches, coffee, snacks, and a pet-friendly office\n\n\n\n\n\nHOW NOT TO APPLY\n\nForget to write a good cover letter, so that we have no way of knowing how articulate you really areInclude a lot of grammatical and structural errors in your cover letter and resumeHide your personality so we can’t tell a thing about you, other than that you are highly efficient in Microsoft Word\n\n\nThank you for your interest, and best of luck in your search for work.\n\n\n\n\nLearn more about us at www.openapproach.com",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/open-approach/Job/Automation-Engineer/-in-Burlington,VT?jid=cedd97e672d174fa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/nA1g2BnkxQUoNTngqp2J-t6RKYpxXzmZhz6ufLzhDGACVZNCsDWXjA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=e6ccd9aa0ce8df31&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/automation-startup-engineer-stopa-anlagenbau-burlington-vt_88569686?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/automation-engineer_7ea1a88716253337a712a38e53ecc451634e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/4790243459431372419?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobright",
+                    "link": "https://jobright.ai/jobs/info/6abc5a7573339662c772397d?visit=automation-engineer-iv-(hybrid)-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010287715175&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBdXRvbWF0aW9uIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiT3BlbiBBcHByb2FjaCIsImh0aWRvY2lkIjoiSXlfS1lFVGx4Q1dsYnRWOEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxVmFSVjl6Umw5NGJqUjNPR3gxUlhoV1pWZENkMEZ2TjBGQmNXcENkelJzYVRWWGQwdDJRWGRmYW5kSExWQXdTVUYxTkhsSmVISkJTbk5OV25WNVdIRlRXWFJ5VjBSNFdWQkpjMkpEVkVVdFoyOHRTMEptVTA1eE1YZEpRbE50Y2xkalYwZFBkRXRwVW5KeldGSldja05RY1hWR1RHVlJRamhJUXpGaGIwbG5WR05WTmxBU0YySTJXR0poZEdsVlJuUkVWalZPYjFCNU4ybEllVUZyR2lKQlJITnlPV1pSWnpSSFRTMTVOblJrV1VsUU5YTk1NVEp4ZVRJMU9FWXdaMnRCIiwiZmN2IjoiMyIsImZjX2lkIjoiSXlfS1lFVGx4Q1dsYnRWOEFBQUFBQT09In0="
+        }
+    ]
+}

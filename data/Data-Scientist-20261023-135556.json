@@ -1,0 +1,831 @@
+{
+    "jobs_results": [
+        {
+            "title": "Lead Data Scientist, AdTech",
+            "company_name": "Launch Potato",
+            "location": "Anywhere",
+            "via": "Built In",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of hands-on applied data science with measurable business impact",
+                        "Your models drove paid media decisions: spend, bidding or ad serving",
+                        "Expert Python and SQL",
+                        "Large-scale ranking or recommendation systems",
+                        "Explaining tradeoffs to non-technical partners in plain terms",
+                        "Designing for auction feedback loops, selection bias and exploration",
+                        "Hands-on neural network work, such as embeddings of text, creative or user behavior",
+                        "AWS for data science: ECS, S3, Athena, SageMaker"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "BASE SALARY: $175,000 to $200,000 per year, paid semi-monthly",
+                        "Auto insurance takes most of your time to start, and scope broadens to other verticals over time",
+                        "Real ad budget spent in live auctions",
+                        "CI/CD deployment",
+                        "TOTAL COMPENSATION",
+                        "Base salary is set according to market rates for the nearest major metro and varies based on Launch Potato’s Levels Framework",
+                        "Your compensation package includes a base salary, profit-sharing bonus, and competitive benefits",
+                        "Launch Potato is a performance-driven company, which means once you are hired, future increases will be based on company and personal performance, not annual cost of living adjustments"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Feedback runs direct and lands with respect",
+                        "You'll build the models that decide which carrier each auto insurance shopper sees on our click wall",
+                        "The goal is to send every user to the carrier most likely to convert them, so carriers see our traffic convert and raise their bids",
+                        "Outcomes land weeks or months after the click, many sessions are sparse, the same shoppers come back, and the market drifts",
+                        "You frame problems directly with the business, find your own data, build and validate the model, and stay with it through deployment and monitoring",
+                        "An ML engineer works alongside you on the production side",
+                        "Carrier conversion data running in production models",
+                        "Automated marketplace bidding taken from proof of concept to scale",
+                        "A clear approach for repeat users and sparse sessions",
+                        "Production models that hold up through drift and changing objectives",
+                        "Output the business trusts and uses without rework",
+                        "You see how today's bids shape tomorrow's training data, and you've handled late labels, sparse features or drift",
+                        "You own models end to end: you find your own data, build through deployment and monitoring, and bring a point of view"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=hfNtyBLkk7azw-p7AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TLGRr0ZwEbLQKCIKkEKJ12Lssycm5G7Ir5Bv-2LMZmGKm-K6KqiHs4YKG0IZIbFFtB3X_oDDCHm7iQQnnLMJwFRkSrc-j2aQn51RTOaihxVAGeTth8rK4l3j9o9MRZ5oSGnXV8bCUEw_bTYMfzru75E4gMjw5GvXQZif9AbGcdhqUAAAA&shmds=v1_ARwrE23LV8Ut713I-ouM2YTSh6iKDRT5M7ium0zj0Tn_feNvBw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=hfNtyBLkk7azw-p7AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adb9fac8ffa70efad7fa6e9/images/MUcZd3vAt1IotiIgrItuJnLohTRdj-mSWox0g6RRnfo.jpeg",
+            "extensions": [
+                "4 days ago",
+                "175K–200K a year",
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://builtin.com/job/lead-data-scientist-adtech/11764076",
+            "job_title": "Lead Data Scientist, AdTech",
+            "description": "WHO ARE WE?\n\nLaunch Potato is the discovery and conversion company. We reach tens of millions of people every month through our brands, including FinanceBuzz, All About Cookies, and OnlyInYourState. We turn that attention into real outcomes for our partners, some of the world's leading companies.\n\nOur mission: create predictable, high-value customer acquisition at scale by connecting discovery, intent, and performance across category-leading consumer brands in finance, travel, and entertainment.\n\nWe run profitable and bootstrapped, with a South Florida HQ and a remote-first team across 18 countries.\n\nWHY JOIN US?You own outcomes here, not tasks. We measure work by impact, not activity. The pace is real, and change is constant, so the people who do best turn change into opportunity instead of waiting for it to settle. Feedback runs direct and lands with respect. Ordinary people make themselves extraordinary at Launch Potato.\n\nBASE SALARY: $175,000 to $200,000 per year, paid semi-monthly\n\nYOUR ROLE\n\nYou'll build the models that decide which carrier each auto insurance shopper sees on our click wall. The goal is to send every user to the carrier most likely to convert them, so carriers see our traffic convert and raise their bids. You'll also own the buying models behind our media spend, which are held to ROAS.\n\nCarrier conversion data (quotes, policies and acquisition cost) is now coming back to us, and you'll be the one who puts it to work in production. The hard part is the data. Outcomes land weeks or months after the click, many sessions are sparse, the same shoppers come back, and the market drifts. Our bids also decide which users we win, so the model shapes the data it learns from next.\n\nThis is a hands-on individual contributor role. You frame problems directly with the business, find your own data, build and validate the model, and stay with it through deployment and monitoring. An ML engineer works alongside you on the production side. Auto insurance takes most of your time to start, and scope broadens to other verticals over time.\n\nWe're remote first, and most of the company works East Coast hours.\n\nWHAT SUCCESS LOOKS LIKE\n\nBy day 60, you run our insurance marketplace media buying on your own.\n\nBy the end of your first year:\n\nClick wall serving that matches each user to the right carrierCarrier conversion data running in production modelsAutomated marketplace bidding taken from proof of concept to scaleA clear approach for repeat users and sparse sessionsProduction models that hold up through drift and changing objectivesOutput the business trusts and uses without reworkMUST HAVE\n\n5+ years of hands-on applied data science with measurable business impactYour models drove paid media decisions: spend, bidding or ad serving. Attribution and reporting alone don't qualify.You built what's on your resume and can explain it down to the loss function and architecture choice, neural network fundamentals includedYou see how today's bids shape tomorrow's training data, and you've handled late labels, sparse features or driftYou own models end to end: you find your own data, build through deployment and monitoring, and bring a point of viewExpert Python and SQLNICE TO HAVES\n\nReal ad budget spent in live auctionsLarge-scale ranking or recommendation systemsExplaining tradeoffs to non-technical partners in plain termsDesigning for auction feedback loops, selection bias and explorationHands-on neural network work, such as embeddings of text, creative or user behaviorAWS for data science: ECS, S3, Athena, SageMakerCI/CD deploymentTOTAL COMPENSATION\n\nBase salary is set according to market rates for the nearest major metro and varies based on Launch Potato’s Levels Framework. Your compensation package includes a base salary, profit-sharing bonus, and competitive benefits. Launch Potato is a performance-driven company, which means once you are hired, future increases will be based on company and personal performance, not annual cost of living adjustments.\n\n\n\nWant to accelerate your career? Apply now!\n\nSince day one, we've been committed to having a diverse, inclusive team and culture. We are proud to be an Equal Employment Opportunity company. We value diversity, equity, and inclusion. \n\nWe do not discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+            "apply_options": [
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/lead-data-scientist-adtech/11764076?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Launch-Potato/Job/Lead-Data-Scientist,-AdTech/-in-Remote,US?jid=e32cfe91fa71b897&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/lead-data-scientist-adtech-open-positions-10529731?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/lead-data-scientist-adtech_7ea1a77295a4ec5a75e00660d248682a6d7c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/lead-data-scientist-adtech-at-launch-potato-4482122350?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/launch-potato/lead-data-scientist-adtech-131365910/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/staff-data-scientist-marketing-roas-adtech-lead--northern--eeade021056ac7b69e3bef7aae48c4907?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Jobs USA",
+                    "link": "https://remoterush.mysmartpros.com/job/2744388?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgU2NpZW50aXN0LCBBZFRlY2giLCJjb21wYW55X25hbWUiOiJMYXVuY2ggUG90YXRvIiwiaHRpZG9jaWQiOiJoZk50eUJMa2s3YXp3LXA3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1d4R1JETlJVRGRYUlZOcmFHMDBiRnBSVnprd1RWQnlUbU40V1VZd1ZVdHVhVTVvU0dsUFJrRlFVVXMzZFc5UVVtTnBPVGxrVUVZd1MyazRiVmMwYkVsWlMzTTBjRzVtY21kbVMwZERlVWRvT1V0ck5WSkxORzB5V1VvMldIVmZWRWN0YzJjM09XVnlZbUpIVnpGblVGcHlSRlJYTFVsVmNVZGlTbDgzVDFoR2RYTmFjVUVTRjNKS1gySmhkbnBNU3paaFpEQlFSVkJ1VFVoUWNWRTBHaUpCUkhOeU9XWlVhSHBoZGxsU2VWbHBVRXBrTW1weGIwb3dkVTFoVEdkeVVqQjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJoZk50eUJMa2s3YXp3LXA3QUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Data Scientist: Use Data to Develop Legal Hypotheses (6463)",
+            "company_name": "New York State Office of the Attorney General",
+            "location": "United States",
+            "via": "Pitt Career Central - University Of Pittsburgh",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Advanced degree in economics, computer science, mathematics, applied statistics, engineering or similar disciplines with demonstrated research capability or bachelor’s degree and equivalent experience and training",
+                        "At least three (3) years of demonstrated qualitative, quantitative, or investigative research abilities",
+                        "Git/github familiarity",
+                        "Experience with the following technologies:",
+                        "Programming, scripting, and statistical languages (e.g., Python, R, use of dataframes)",
+                        "Data visualization software (e.g., Tableau, d3, altair, plotly, matplotlib, bokeh)",
+                        "Relational databases and advanced SQL queries",
+                        "Excellent oral, written, and presentation communication skills",
+                        "Ability to communicate technical concepts and results to non-technical audiences",
+                        "Highly organized, self-directed, and curious",
+                        "Personable and positive with a high level of integrity",
+                        "Interest in public policy and social/economic justice",
+                        "Linux command line tools",
+                        "Cloud, distributed, and container computing platforms (e.g",
+                        "AWS, Redshift, EC2, docker)",
+                        "Machine learning frameworks (e.g. supervised and unsupervised methods such as neural networks, random forests, and generalized linear models)",
+                        "Strong foundational background in mathematical statistics and probability, with knowledge of advanced statistical modeling and causal inference",
+                        "Demonstrated ability to apply statistical rigor to large, noisy datasets from first principles; knowledge of multivariate analysis, regression diagnostics, and validation methodologies"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary is $116,233 + $4,150 in location pay",
+                        "The salary for this position is $116,233 plus $4,150 in location pay",
+                        "We offer a comprehensive New York state benefits package, including paid leave, health, dental, vision, and retirement benefits, and family-friendly policies",
+                        "Additionally, OAG offers a robust Workplace Flexibilities Program with multiple options for employees, including telecommuting (up to two days per week) and alternative work schedules"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Data Scientist will utilize a vast array of tools to explore datasets, develop new databases, and use statistical modeling to detect anomalies in information pertinent to OAG investigations",
+                        "The goal of the Data Scientist at OAG is to ensure that our most complicated cases and policy arenas have the benefit of advanced analytical tools, methodologies, and strategic thinking to understand how otherwise elusive trends can be laid bare once we dive into the underlying data",
+                        "As part of an innovative team housed in the Executive Division, you will work with senior staff and divisions throughout OAG to support OAG's major initiatives, investigations, and policy development",
+                        "Utilizing a vast collection of public and confidential information, you will work with data covering the breadth of OAG’s purview building advanced analytic tools to inform investigations that affect the lives of all New Yorkers",
+                        "The OAG also advises the Executive branch of state government and defends actions and proceedings on behalf of the state",
+                        "Data can and does play a pivotal role in decisioning on a wide range of OAG’s work",
+                        "The Data Scientist will be primarily responsible for:",
+                        "All aspects of using data to develop and test legal hypotheses, including:",
+                        "Brainstorming with legal teams on the data required",
+                        "Acquiring data through public sources and assisting legal teams to acquire data from confidential sources to ensure the delivery of data sufficient for investigation",
+                        "Testing data for reliability",
+                        "Distilling and incorporating relevant academic and other analytical research",
+                        "Developing and executing appropriate methodologies for data exploration and analysis",
+                        "Clearly communicating findings verbally and through written reports and visualizations, including relevant limitations",
+                        "Continuously updating analysis in the face of feedback and new data",
+                        "Quantifying uncertainty in analytical findings",
+                        "Working closely with legal teams on all the aspects above and providing guidance and recommendations on decision making around data",
+                        "Additional responsibilities may include:",
+                        "Developing predictive modeling to detect anomalies",
+                        "Developing or programming new databases or data tools",
+                        "Writing fact and expert reports for submission to the court and defending analysis and findings in depositions",
+                        "Helping to maintain and improve the team’s shared computational infrastructure",
+                        "Staying informed of the latest advances in data tools and techniques and sharing newfound skills with the team",
+                        "Performing other duties as requested",
+                        "Writing Sample: In lieu of a writing sample, please provide a code sample (data ETL and/or analysis in python and/or SQL; this can be a link to a public github/gitlab repo)",
+                        "Please include a cover page to provide the reviewer with any relevant context or background information",
+                        "Reference List: Submit a list of three (3) references; supervisory references are preferred",
+                        "Include contact information and email addresses for each reference"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=FKz3JZUaew_f-s-6AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWOwUoDQRBE8ZpP8FRHI7grScwhgiAEIhIUDDnkFGbH2t3RcXqYbjT5TP_INbnUoXjFq9Hvxeht6cxh4wOTBbUFtkqcOhMs-c0oGWt2LuLpmMV6KhVX89l8OsYNnqWB0hXfQxJWIl3k5X1vlnVR16qx6tScBV95-aolsZFD_SGN_sdee1eYozPuJ3e3hyqn7vrhhT_YSfnEZhgSr20bPCEtBjcezaQkHrFiYhlOhYRtCsb3M65_USGTS9QAAAA&shmds=v1_ARwrE23uFj5SgNGV1y13dtYgzE_bNHL_9QAfC8gh5OPZRfjrEQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=FKz3JZUaew_f-s-6AAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "source_link": "https://careercentral.pitt.edu/jobs/new-york-state-office-of-the-attorney-general-data-scientist-use-data-to-develop-legal-hypotheses-6463/",
+            "job_title": "Data Scientist: Use Data to Develop Legal Hypotheses (6463)",
+            "description": "Executive Division\n\n\nResearch and Analytics Department—NYC\n\n\nData Scientist\n\n\nReference No. RAD_NYC_DAS_6463\n\n\nApplication Deadline is November 13, 2026\n\n\nSalary is $116,233 + $4,150 in location pay \n\n\nTo be considered for this opportunity, submit a complete application online at https://ag.ny.gov/job-postings/other \n\n\nGoal:\n\n\nThe Research and Analytics Department in the Office of the New York State Attorney General (OAG) is seeking candidates for a full-time Data Scientist position. Data Scientists at OAG bring their skills to bear across a wide variety of cases and investigations. The Data Scientist will utilize a vast array of tools to explore datasets, develop new databases, and use statistical modeling to detect anomalies in information pertinent to OAG investigations. The goal of the Data Scientist at OAG is to ensure that our most complicated cases and policy arenas have the benefit of advanced analytical tools, methodologies, and strategic thinking to understand how otherwise elusive trends can be laid bare once we dive into the underlying data.\n\n\nPurview:\n\n\nAs part of an innovative team housed in the Executive Division, you will work with senior staff and divisions throughout OAG to support OAG's major initiatives, investigations, and policy development. Our team researches and writes analytical reports garnering national attention, directs multi-million-dollar grant programs, and supports OAG’s major investigations. See for example: lawsuit against auto lender for deceptive practices, preliminary report on NYPD response to Protests, JUUL lawsuit and remediation, opioids lawsuit, lawsuit preserving affordable housing from illegal kickback scheme, and the FCC fake comments report. Utilizing a vast collection of public and confidential information, you will work with data covering the breadth of OAG’s purview building advanced analytic tools to inform investigations that affect the lives of all New Yorkers.\n\n\nEmploying over 2,000 people across New York state, OAG is both the “People's Lawyer” and the state's chief legal officer. The Data Scientist will support OAG work in numerous legal and regulatory arenas, including protecting the rights of investors and consumers, coordinating state-wide criminal investigations, promoting civil rights, economic and social justice, encouraging harm-reducing public health strategies, and preserving the state’s environment. The OAG also advises the Executive branch of state government and defends actions and proceedings on behalf of the state.\n\n\nDuties: \n\n\nData can and does play a pivotal role in decisioning on a wide range of OAG’s work. The Data Scientist will be primarily responsible for:\n\n\n\nAll aspects of using data to develop and test legal hypotheses, including:\nBrainstorming with legal teams on the data required\nAcquiring data through public sources and assisting legal teams to acquire data from confidential sources to ensure the delivery of data sufficient for investigation\nTesting data for reliability\nDistilling and incorporating relevant academic and other analytical research\nDeveloping and executing appropriate methodologies for data exploration and analysis\nClearly communicating findings verbally and through written reports and visualizations, including relevant limitations\nContinuously updating analysis in the face of feedback and new data\nQuantifying uncertainty in analytical findings \nWorking closely with legal teams on all the aspects above and providing guidance and recommendations on decision making around data \nAdditional responsibilities may include:\nDeveloping predictive modeling to detect anomalies\nDeveloping or programming new databases or data tools\nWriting fact and expert reports for submission to the court and defending analysis and findings in depositions\nHelping to maintain and improve the team’s shared computational infrastructure\nStaying informed of the latest advances in data tools and techniques and sharing newfound skills with the team\nPerforming other duties as requested\n\nQualifications/Skills:      \n\n\n\nAdvanced degree in economics, computer science, mathematics, applied statistics, engineering or similar disciplines with demonstrated research capability or bachelor’s degree and equivalent experience and training\nAt least three (3) years of demonstrated qualitative, quantitative, or investigative research abilities\nGit/github familiarity \nExperience with the following technologies:\nProgramming, scripting, and statistical languages (e.g., Python, R, use of dataframes)\nData visualization software (e.g., Tableau, d3, altair, plotly, matplotlib, bokeh)\nRelational databases and advanced SQL queries \nExcellent oral, written, and presentation communication skills\nAbility to communicate technical concepts and results to non-technical audiences\nHighly organized, self-directed, and curious\nPersonable and positive with a high level of integrity\nInterest in public policy and social/economic justice\nCandidates with additional experience in any of the following are preferred:\nLinux command line tools\nCloud, distributed, and container computing platforms (e.g. AWS, Redshift, EC2, docker)\nMachine learning frameworks (e.g. supervised and unsupervised methods such as neural networks, random forests, and generalized linear models) \nStrong foundational background in mathematical statistics and probability, with knowledge of advanced statistical modeling and causal inference  \nDemonstrated ability to apply statistical rigor to large, noisy datasets from first principles; knowledge of multivariate analysis, regression diagnostics, and validation methodologies\n\nThe salary for this position is $116,233 plus $4,150 in location pay. As an employee of OAG, you will join a team of dedicated individuals who work to serve the people of our state through a wide variety of occupations. We offer a comprehensive New York state benefits package, including paid leave, health, dental, vision, and retirement benefits, and family-friendly policies. Additionally, OAG offers a robust Workplace Flexibilities Program with multiple options for employees, including telecommuting (up to two days per week) and alternative work schedules.\n\n\nCandidates from diverse backgrounds are encouraged to apply. The OAG is an equal opportunity employer and is committed to workplace diversity.\n\n\nHow to Apply\n\n\nApplications must be submitted online via this link: \n\n\nhttps://lgr.ag.ny.gov/ords/f?p=136:10:::::P10_LGR_JOB_ID,P10_POSITIONTYPE,P10_LGR_WRITING_SAMPLE_IND:7244,18,Y\n\n\nApplicants must be prepared to submit a complete application consisting of the following:\n\n\n\n\nCover Letter: You may address your letter to the Legal Recruitment Unit. Indicate why you are interested in this position and what makes you a strong candidate. You may wish to include information about what life experiences you will bring to the position that will enhance OAG’s ability to better serve the diverse population of this state.\nResume\n\nWriting Sample: In lieu of a writing sample, please provide a code sample (data ETL and/or analysis in python and/or SQL; this can be a link to a public github/gitlab repo). Please include a cover page to provide the reviewer with any relevant context or background information.  \n\nReference List: Submit a list of three (3) references; supervisory references are preferred. For each reference, indicate the nature and duration of your relationship. Include contact information and email addresses for each reference. Please note that your references will not be contacted until after you interview for the position.\n\nThe OAG provides reasonable accommodations for applicants with disabilities. If you have questions regarding a position with OAG, the application process, or need assistance with submitting your application, please contact Legal Recruitment via email at recruitment@ag.ny.gov or phone at 212-416-8080.\n\n\nFor more information about OAG, please visit our website: ag.ny.gov",
+            "apply_options": [
+                {
+                    "title": "Pitt Career Central - University Of Pittsburgh",
+                    "link": "https://careercentral.pitt.edu/jobs/new-york-state-office-of-the-attorney-general-data-scientist-use-data-to-develop-legal-hypotheses-6463/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "MIT CAPD",
+                    "link": "https://capd.mit.edu/jobs/new-york-state-office-of-the-attorney-general-data-scientist-use-data-to-develop-legal-hypotheses-6463/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdDogVXNlIERhdGEgdG8gRGV2ZWxvcCBMZWdhbCBIeXBvdGhlc2VzICg2NDYzKSIsImNvbXBhbnlfbmFtZSI6Ik5ldyBZb3JrIFN0YXRlIE9mZmljZSBvZiB0aGUgQXR0b3JuZXkgR2VuZXJhbCIsImh0aWRvY2lkIjoiRkt6M0paVWFld19mLXMtNkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRGbEVTVXhxWlRZNE5XbFFjVWhSY3kxdlUwZDNiRFZpU205b1gzUjZlVzFrUldwMlJtSkNOV2Q1T1ROa2RGSnpTbk5CZFVweWQwbHplRnBTUlhGWFIzcG9SbkI0TkVwd2FXSlZXa3ByTW5oWGFVVkJkbkJSWVMxaUxVWk5YM2hUZWxCQ1owcFlObkEyZG1OelVtNXpPRkZxV0hvdFNYaDBXRWR2WWtSMGVqZEVaM1I1YUdVU0YzSktYMkpoZG5wTVN6WmhaREJRUlZCdVRVaFFjVkUwR2lKQlJITnlPV1pUU0cxalpuWmtZa3hUWjIxMlMwWXlNRUY0Ym5KTU9GODJlRkpCIiwiZmN2IjoiMyIsImZjX2lkIjoiRkt6M0paVWFld19mLXMtNkFBQUFBQT09In0="
+        },
+        {
+            "title": "Experienced Senior Data Scientist – Advanced Data Analytics, Predictive Modeling, and Machine Learning Expertise for Strategic Business Insights and Decision Making at blithequark",
+            "company_name": "Hireloom",
+            "location": "Anywhere",
+            "via": "Hireloom",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Essential Qualifications To be successful in this role, you will need A Bachelor's degree in a STEM field (science, technology, engineering, and mathematics) or a related discipline, with a minimum of 4 years of experience in data science, machine learning, quantitative analysis, or computational fields",
+                        "Advanced experience in SQL, Python, PySpark, or other programming languages, with a strong foundation in exploratory data analysis, feature engineering, and model selection",
+                        "At least 4 years of experience working with large-scale, complex datasets to create, optimize, and deploy machine learning, predictive, and forecasting models",
+                        "Experience with supervised and unsupervised learning techniques, including linear and logistic regression, time series modeling, generalized linear models, decision trees, support vector machines, and clustering algorithms",
+                        "Strong analytical and problem-solving skills, with the ability to convey technical concepts and insights to non-technical stakeholders",
+                        "Experience working in dynamic environments, prioritizing needs, and delivering results in a fast-paced setting",
+                        "Experience working with IoT (Internet of Things) and Edge AI technologies, with a strong understanding of their applications and potential",
+                        "Experience in Reinforcement Learning, with a strong foundation in the underlying algorithms and techniques",
+                        "Experience working in the healthcare industry, with a strong understanding of the challenges and opportunities in this sector",
+                        "Skills and Competencies To succeed in this role, you will need to possess a range of skills and competencies, including Strong technical skills in machine learning, data science, and programming languages such as Python, PySpark, and SQL",
+                        "Excellent analytical and problem-solving skills, with the ability to extract insights from complex data sets and communicate them effectively to stakeholders",
+                        "Strong collaboration and communication skills, with the ability to work effectively with cross-functional teams and communicate technical concepts to non-technical stakeholders",
+                        "Experience working in agile development environments, with a strong understanding of software development methodologies and tools such as GitHub and continuous integration and delivery",
+                        "Strong business acumen, with a strong understanding of the business context and the ability to drive business outcomes through data-driven insights and recommendations"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "These include Company-paid life insurance, with a range of other benefits including medical, prescription drugs, dental, and vision coverage",
+                        "A retirement savings plan, with a 401(k) matching program to support your long-term financial goals",
+                        "An employee stock purchase plan, with the opportunity to purchase company stock at a discounted rate",
+                        "Paid time off (PTO), with a range of holidays and paid parental leave to support your work-life balance",
+                        "A transportation benefit plan, with a range of other perks including an employee store discount and voluntary life and personal accident insurance",
+                        "Compensation and Benefits We offer a competitive salary range of $30-45 per hour, with a range of benefits and perks to support your well-being and success",
+                        "Our compensation package is designed to recognize and reward your skills and expertise, with opportunities for career advancement and professional development"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Senior Data Scientist, you will play a pivotal role in our organization, leveraging your expertise in machine learning, predictive analytics, and statistical modeling to provide actionable insights and strategic recommendations that inform business decisions",
+                        "This is a remote opportunity, offering the flexibility to work from anywhere, with occasional travel for business purposes",
+                        "Job Responsibilities As a Senior Data Scientist at blithequark, your primary responsibilities will include Developing and deploying advanced machine learning models and predictive analytics solutions to drive business outcomes, using techniques such as decision trees, regression, XGBoost, K-means, and anomaly detection",
+                        "Designing and implementing algorithms and statistical models to analyze complex data sets, identify patterns, and extract insights that inform business strategies",
+                        "Collaborating with cross-functional teams, including finance, research, software development, and business leadership, to define product requirements, provide analytical support, and communicate technical solutions and insights to both technical and non-technical stakeholders",
+                        "Utilizing cloud computing platforms, such as Azure and Databricks, and querying tools like Snowflake, to manage and analyze large-scale datasets",
+                        "Programming using a range of technologies, including Python, PySpark, Matplotlib, TensorFlow, and PyTorch, to build and deploy models and analytics solutions",
+                        "Applying software development methodologies, such as GitHub, continuous integration and delivery, and agile development, to ensure efficient and collaborative workflows",
+                        "Communicating complex technical concepts and insights to business clients and management teams, both verbally and in writing, to drive business decisions and strategy",
+                        "As a Senior Data Scientist, you will have the opportunity to Work on complex and challenging projects, with the opportunity to develop and deploy advanced machine learning models and predictive analytics solutions",
+                        "Collaborate with cross-functional teams, including finance, research, software development, and business leadership, to drive business outcomes and strategy",
+                        "Develop your skills and expertise in machine learning, data science, and programming languages, with access to training and development opportunities"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=pF6TmLIiLyiqy485AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2QTU7DQAyFBcveAFZeo5IgJDawKiriR1RCilhXzsRMTKd2GLtV2HEHDsFlOAUnYZqNF8_vfc_y7Od49nt0Nw6UmSRQBw0Ja4YlOkITiuhsDn9f37Do9jhZpt1CMH06B5vDS6aOg_OeYKUdJZY4B5QOVhh6FoJnwixFhamoAAneSkfjGZ0iB7jdWfGZwaMYx95tii8psLFK4WwOaXRoE3tPHzvMGziHJ23BCjv0UFz3qjHR6U3vPth1XZulKppjObIKuq1VqNWxftfWDmNtPWYaUjlhfXl1MVaDxLOTB86UVLfAAq_CfvhIQZD9A7VDKTwqAQAA&shmds=v1_ARwrE20vAoqACHnVbu-566M6_noA-4K-ocS1Pnb4ATC6ekiX3A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=pF6TmLIiLyiqy485AAAAAA%3D%3D",
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://hirefinity.p3d.66ghz.com/remote-jobs/experienced-senior-data-scientist-advanced-data-analytics-predictive-modeling-and-machine-learning-expertise-for-strategic-business-insights-and-decision-making-at-blithequark",
+            "job_title": "Experienced Senior Data Scientist – Advanced Data Analytics, Predictive Modeling, and Machine Learning Expertise for Strategic Business Insights and Decision Making at blithequark",
+            "description": "Introduction to blithequark and the Role At blithequark, we are passionate about harnessing the power of data science and advanced analytics to drive business growth, improve customer experiences, and foster a culture of innovation. As a Senior Data Scientist, you will play a pivotal role in our organization, leveraging your expertise in machine learning, predictive analytics, and statistical modeling to provide actionable insights and strategic recommendations that inform business decisions. This is a remote opportunity, offering the flexibility to work from anywhere, with occasional travel for business purposes. Job Responsibilities As a Senior Data Scientist at blithequark, your primary responsibilities will include Developing and deploying advanced machine learning models and predictive analytics solutions to drive business outcomes, using techniques such as decision trees, regression, XGBoost, K-means, and anomaly detection. Designing and implementing algorithms and statistical models to analyze complex data sets, identify patterns, and extract insights that inform business strategies. Collaborating with cross-functional teams, including finance, research, software development, and business leadership, to define product requirements, provide analytical support, and communicate technical solutions and insights to both technical and non-technical stakeholders. Utilizing cloud computing platforms, such as Azure and Databricks, and querying tools like Snowflake, to manage and analyze large-scale datasets. Programming using a range of technologies, including Python, PySpark, Matplotlib, TensorFlow, and PyTorch, to build and deploy models and analytics solutions. Applying software development methodologies, such as GitHub, continuous integration and delivery, and agile development, to ensure efficient and collaborative workflows. Communicating complex technical concepts and insights to business clients and management teams, both verbally and in writing, to drive business decisions and strategy. Essential Qualifications To be successful in this role, you will need A Bachelor's degree in a STEM field (science, technology, engineering, and mathematics) or a related discipline, with a minimum of 4 years of experience in data science, machine learning, quantitative analysis, or computational fields. Advanced experience in SQL, Python, PySpark, or other programming languages, with a strong foundation in exploratory data analysis, feature engineering, and model selection. At least 4 years of experience working with large-scale, complex datasets to create, optimize, and deploy machine learning, predictive, and forecasting models. Experience with supervised and unsupervised learning techniques, including linear and logistic regression, time series modeling, generalized linear models, decision trees, support vector machines, and clustering algorithms. Strong analytical and problem-solving skills, with the ability to convey technical concepts and insights to non-technical stakeholders. Experience working in dynamic environments, prioritizing needs, and delivering results in a fast-paced setting. Preferred Qualifications While not required, the following qualifications are preferred A Ph.D. in a STEM field or a related discipline, with a strong research background in machine learning, data science, or a related field. Experience working with IoT (Internet of Things) and Edge AI technologies, with a strong understanding of their applications and potential. Experience in Reinforcement Learning, with a strong foundation in the underlying algorithms and techniques. Experience working in the healthcare industry, with a strong understanding of the challenges and opportunities in this sector. Skills and Competencies To succeed in this role, you will need to possess a range of skills and competencies, including Strong technical skills in machine learning, data science, and programming languages such as Python, PySpark, and SQL. Excellent analytical and problem-solving skills, with the ability to extract insights from complex data sets and communicate them effectively to stakeholders. Strong collaboration and communication skills, with the ability to work effectively with cross-functional teams and communicate technical concepts to non-technical stakeholders. Experience working in agile development environments, with a strong understanding of software development methodologies and tools such as GitHub and continuous integration and delivery. Strong business acumen, with a strong understanding of the business context and the ability to drive business outcomes through data-driven insights and recommendations. Career Growth Opportunities and Learning Benefits At blithequark, we are committed to the growth and development of our employees, with a range of opportunities for career advancement and professional development. As a Senior Data Scientist, you will have the opportunity to Work on complex and challenging projects, with the opportunity to develop and deploy advanced machine learning models and predictive analytics solutions. Collaborate with cross-functional teams, including finance, research, software development, and business leadership, to drive business outcomes and strategy. Develop your skills and expertise in machine learning, data science, and programming languages, with access to training and development opportunities. Contribute to the development of our data science and analytics capabilities, with the opportunity to shape the direction of our organization and drive business growth. Work Environment and Company Culture At blithequark, we are passionate about creating a positive and inclusive work environment, with a range of benefits and perks to support the well-being and success of our employees. These include Company-paid life insurance, with a range of other benefits including medical, prescription drugs, dental, and vision coverage. A retirement savings plan, with a 401(k) matching program to support your long-term financial goals. An employee stock purchase plan, with the opportunity to purchase company stock at a discounted rate. Paid time off (PTO), with a range of holidays and paid parental leave to support your work-life balance. A transportation benefit plan, with a range of other perks including an employee store discount and voluntary life and personal accident insurance. Compensation and Benefits We offer a competitive salary range of $30-45 per hour, with a range of benefits and perks to support your well-being and success. Our compensation package is designed to recognize and reward your skills and expertise, with opportunities for career advancement and professional development. Conclusion If you are a motivated and experienced data scientist, with a passion for machine learning, predictive analytics, and strategic business insights, we encourage you to apply for this exciting opportunity at blithequark. With a range of benefits and perks, a positive and inclusive work environment, and opportunities for career growth and development, this is a unique chance to join a dynamic and innovative organization and make a real impact on our business and customers. Apply for this job",
+            "apply_options": [
+                {
+                    "title": "Hireloom",
+                    "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/experienced-senior-data-scientist-advanced-data-analytics-predictive-modeling-and-machine-learning-expertise-for-strategic-business-insights-and-decision-making-at-blithequark?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Altrix",
+                    "link": "https://altrix.likesyou.org/remote-jobs/experienced-full-stack-data-analyst-business-intelligence-and-predictive-modeling-at-careerzynith?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJFeHBlcmllbmNlZCBTZW5pb3IgRGF0YSBTY2llbnRpc3Qg4oCTIEFkdmFuY2VkIERhdGEgQW5hbHl0aWNzLCBQcmVkaWN0aXZlIE1vZGVsaW5nLCBhbmQgTWFjaGluZSBMZWFybmluZyBFeHBlcnRpc2UgZm9yIFN0cmF0ZWdpYyBCdXNpbmVzcyBJbnNpZ2h0cyBhbmQgRGVjaXNpb24gTWFraW5nIGF0IGJsaXRoZXF1YXJrIiwiY29tcGFueV9uYW1lIjoiSGlyZWxvb20iLCJodGlkb2NpZCI6InBGNlRtTElpTHlpcXk0ODVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURVIwYW5nNGNHOHpiM0F0Y0dSaGNFTndTVlV0ZVZab1JrVlJVblJaYm1aSGVVRXhXa0oxVVZKelRrZDNSbkZSZFRsdUxVeEVTM0pyY1hWaVUxTjVOVlZTWjNsMlJqRk1TV05sWlcwM2FteFJPRGhxUkZGcFdITjFja2hSWVVaU2MxQlhTbkZxV1RSM09WY3dOVVJaVm5RMlFVbGlXWFJmTVZZMVRHNU5TbmhsY0RoRVRsVVNGM0pLWDJKaGRucE1TelpoWkRCUVJWQnVUVWhRY1ZFMEdpSkJSSE55T1daUldXZHlTazlsV0ROcFlWUlVlSGRNVjNkRlN5MDVPR2RXVm1wUiIsImZjdiI6IjMiLCJmY19pZCI6InBGNlRtTElpTHlpcXk0ODVBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Only W2: Sr Data Scientist | SFO, CA [100%Remote] required only PST profiles",
+            "company_name": "Tror AI for everyone",
+            "location": "Anywhere",
+            "via": "Adzuna",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We are looking for a highly experienced Senior Data Scientist who can independently own complex business problems, apply strong critical thinking, and drive projects from problem definition through solution delivery",
+                        "The ideal candidate will be proactive, self-directed, and comfortable partnering directly with business stakeholders to translate ambiguous requirements into actionable data science solutions",
+                        "Proactively identify potential solutions without relying on highly prescriptive requirements or step-by-step direction",
+                        "Strong professional experience as a Data Scientist / Senior Data Scientist",
+                        "Excellent critical thinking and independent problem-solving capabilities",
+                        "Proven ability to take initiative and work autonomously with minimal supervision",
+                        "Strong stakeholder-facing and business communication skills",
+                        "Experience translating loosely defined business challenges into structured analytical solutions",
+                        "Strong hands-on experience with Python and SQL",
+                        "Experience with machine learning, statistical modeling, predictive analytics, and data analysis",
+                        "Ability to work with large and complex datasets",
+                        "Strong presentation and storytelling skills with the ability to explain complex findings in business-friendly language",
+                        "Critical Thinking & Problem Solving",
+                        "Independent Project Ownership / Autonomy",
+                        "Machine Learning & Statistical Modeling"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Own data science projects end-to-end, from problem identification and analysis through solution implementation",
+                        "Apply strong critical thinking and problem-solving skills to ambiguous and complex business challenges",
+                        "Partner closely with business stakeholders to understand objectives, challenges, and success criteria",
+                        "Translate business problems into appropriate data science, statistical, or machine learning solutions",
+                        "Analyze complex datasets to identify patterns, trends, opportunities, and actionable insights",
+                        "Develop, evaluate, and improve predictive models, machine learning models, and analytical solutions",
+                        "Clearly communicate technical findings and recommendations to both technical and non-technical audiences",
+                        "Take full ownership and accountability for project outcomes",
+                        "Collaborate effectively with Data Engineering, Analytics, Product, Technology, and business teams"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=kCJXfYVi7dJiM-59AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOwU4CQRBE45VP8FQXLkZ3VxIueCIQjVwwDoaDMWR2bHbHDNNLd2sg8Qf9K4dLvUPlVWr0dzUK65zO2E5mcIKlNw8XImWLaviFe1zfYjHH-33TjF_pwEYfEDp-R6FP8EV9cRsMwvuYSHGHFbdQ8hL6UuOJuUt0_dCbDTqra9VUdWreYqgCH2rO1PKp_uJWL7HT3gsNyRvtJtPmVA25uxlvhAXzZ-wL6IfkXCzEjLccrbxwZY70H-90yJHMAAAA&shmds=v1_ARwrE22SXI97XDmQo1jigwc0lZdXxMVlIjsd95BrWUOtubNLYQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=kCJXfYVi7dJiM-59AAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Work from home",
+                "Full-time"
+            ],
+            "source_link": "https://www.adzuna.com/details/5934823774",
+            "job_title": "Only W2: Sr Data Scientist | SFO, CA [100%Remote] required only PST profiles",
+            "description": "Job Title: Senior Data Scientist\n Location: SFO, CA [100%Remote] required only PST profiles\n Duration: 6 Months\n\n Job Summary\n We are looking for a highly experienced Senior Data Scientist who can independently own complex business problems, apply strong critical thinking, and drive projects from problem definition through solution delivery. The ideal candidate will be proactive, self-directed, and comfortable partnering directly with business stakeholders to translate ambiguous requirements into actionable data science solutions.\n\n Key Responsibilities\n Own data science projects end-to-end, from problem identification and analysis through solution implementation.\n Apply strong critical thinking and problem-solving skills to ambiguous and complex business challenges.\n Proactively identify potential solutions without relying on highly prescriptive requirements or step-by-step direction.\n Partner closely with business stakeholders to understand objectives, challenges, and success criteria.\n Translate business problems into appropriate data science, statistical, or machine learning solutions.\n Analyze complex datasets to identify patterns, trends, opportunities, and actionable insights.\n Develop, evaluate, and improve predictive models, machine learning models, and analytical solutions.\n Clearly communicate technical findings and recommendations to both technical and non-technical audiences.\n Take full ownership and accountability for project outcomes.\n Collaborate effectively with Data Engineering, Analytics, Product, Technology, and business teams.\n\n Required Qualifications\n Strong professional experience as a Data Scientist / Senior Data Scientist.\n Excellent critical thinking and independent problem-solving capabilities.\n Proven ability to take initiative and work autonomously with minimal supervision.\n Strong stakeholder-facing and business communication skills.\n Experience translating loosely defined business challenges into structured analytical solutions.\n Strong hands-on experience with Python and SQL.\n Experience with machine learning, statistical modeling, predictive analytics, and data analysis.\n Ability to work with large and complex datasets.\n Strong presentation and storytelling skills with the ability to explain complex findings in business-friendly language.\n\n Most Important Skills\n Critical Thinking & Problem Solving\n Independent Project Ownership / Autonomy\n Business Stakeholder Communication\n Python, SQL & Data Analysis\n Machine Learning & Statistical Modeling",
+            "apply_options": [
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/5934823774?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://www.talent.com/es/view?id=642428563348068965&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/only-w2-sr-data-scientist-sfo-ca-100remote-required-only-pst-profiles-tror-ai-for-everyone--fj-2422103984?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-4112-565a466e110e985aaf75286fe6cc89dd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/only-data-scientist-sfo-ca-jobs/6C1BEE35D2F55AF0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJPbmx5IFcyOiBTciBEYXRhIFNjaWVudGlzdCB8IFNGTywgQ0EgWzEwMCVSZW1vdGVdIHJlcXVpcmVkIG9ubHkgUFNUIHByb2ZpbGVzIiwiY29tcGFueV9uYW1lIjoiVHJvciBBSSBmb3IgZXZlcnlvbmUiLCJodGlkb2NpZCI6ImtDSlhmWVZpN2RKaU0tNTlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTME53VWxKNlVVWlZXalV3TWpKUmVGaGZWbk41WTJKaVp6aGZiVWMzYzFKTlRYWnpTR2RyTlVaalRHTjNhRXQ0TTJSQ1ZFY3hjRjlUYTJWc1EycERjamQxUVhadU56UTNlVzVXZERrelRVNHdhazVyWTNGNWEyNVFUV3RqZDJreU1IcFdOMkpKY1VwWU1FaG9ZMHh5Y1dsa2VGRmtOVk5OU0ZWelZsZGtRMVJGY1dONk5Xd1NGM0pLWDJKaGRucE1TelpoWkRCUVJWQnVUVWhRY1ZFMEdpSkJSSE55T1daVGFsVmhOVTlsTkdSTU1FNDJSM0J6VTAxYWJIcHRkMU5yVEVWMyIsImZjdiI6IjMiLCJmY19pZCI6ImtDSlhmWVZpN2RKaU0tNTlBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "AI & GenAI Data Scientist-Senior Associate",
+            "company_name": "PricewaterhouseCoopers LLP",
+            "location": "Denver, CO",
+            "via": "CareerBuilder",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "At least a Bachelor''s degree",
+                        "At least 3 years of experience",
+                        "Preference for at least one of the following fields of study: Accounting, Analytics/Data Science, Artificial Intelligence/Robotics, Business Administration/Management, Computer Science/Information Systems, Cybersecurity, Engineering, Mathematics/Statistics, Operations/Supply Chain, Project/Technology Management, Risk Management/Insurance",
+                        "Demonstrating AI and GenAI data science project delivery in client settings",
+                        "Applying machine learning, NLP, and statistical analysis methods",
+                        "Interpreting complex data to shape recommendations and insights",
+                        "For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles'' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws",
+                        "Accounting, Analysis Skills, Artificial Intelligence (AI), Automation, Business Administration, Computer Science, Data Analysis, Data Management, Data Mining, Data Modeling, Data Quality, Data Science, Data Sets, Data Visualization, Genetics, Information Technology & Information Systems, Insurance, Internet Security, Machine Learning, Mathematics, Mentoring, Natural Language Processing (NLP), Predictive Modeling, Problem Solving Skills, Python Programming/Scripting Language, R Programming Language, Risk Analysis, Risk Management, Robotics, Statistical Modeling, Statistics, Storytelling, Supply Chain Operations, Technical Leadership, Technical Writing, Test Design, Use Cases, Willing to Travel"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The salary range for this position is: $77,000 - $202,000",
+                        "Actual compensation within the range will be dependent upon the individual''s skills, experience, qualifications and location, and applicable employment laws",
+                        "All hired individuals are eligible for an annual discretionary bonus",
+                        "PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more",
+                        "To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As an AI & GenAI Data Scientist-Senior Associate you will leverage advanced analytics, statistical modeling, exploratory analysis, and data visualization to help solve business problems and inform decisions within our Data and Analytics Engineering practice",
+                        "As a Senior Associate you will analyze complex problems, manage assigned workstreams, build meaningful client connections, and guide junior team members while navigating ambiguity and deepening your technical skills",
+                        "In this role at PwC, you will contribute to AI-driven automation and cognitive solutions by turning large datasets into insights, supporting data-driven decision making, and developing deliverables that align with client needs and broader project objectives",
+                        "Analyzing complex client problems using statistical modeling, exploratory analysis, and data visualization techniques",
+                        "Developing data science workflows that translate large data sets into actionable insights for business decisions",
+                        "Building machine learning and predictive modeling solutions using Python, R, TensorFlow, or Scikit-learn",
+                        "Collaborating on AI and GenAI use cases that support data-driven transformation and advanced analytics delivery",
+                        "Designing, testing, and refining data models, data pipelines, and data quality checks for analytical solutions",
+                        "Interpreting results and recommendations for client teams through clear technical documentation and visual storytelling",
+                        "Applying AI fluency, analytical thinking, and data mining skills to identify patterns, risks, and opportunities",
+                        "Mentoring junior team members, reviewing assigned deliverables, and supporting their growth in technical skills",
+                        "Managing assigned workstreams while adapting to changing priorities, ambiguity, and client needs",
+                        "Collaborating across teams while managing ambiguity and shifting priorities",
+                        "Mentoring junior team members and reviewing workstream deliverables"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=OfP4iERZUkeC7Ug0AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMwQqCQBBA6eondJpTRKQbQZc6iYIUQoIfIOsy6IbNLDtT-U19ZXZ5D97hJd9VkudX2ECFtLi0aqF1Hkm9aNoieY6Qi7DzVhFSuHEPgja6EZigYh4mXF9G1SBnY0SmbBC16l3m-GmYsOfZPLiXPzoZbcQwLavueDrMWaBht22id_hZWhz5JVgwB4wCdd2AJyiR3hj3UNx_m0BpQK0AAAA&shmds=v1_ARwrE23exaXEHBwzcsXjb2Q2hcDT0TsofLejIQSxODyuTrMBIA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=OfP4iERZUkeC7Ug0AAAAAA%3D%3D",
+            "extensions": [
+                "7 days ago",
+                "77K–202K a year",
+                "Full-time",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://www.careerbuilder.com/job-details/ai-genai-data-scientist-senior-associate-denver-co--2e0d46ad-c443-4559-aed7-e2fc88236fa0",
+            "job_title": "AI & GenAI Data Scientist-Senior Associate",
+            "description": "Industry/Sector\n\nNot Applicable\n\nSpecialism\n\nData, Analytics & AI\n\nManagement Level\n\nSenior Associate\n\nJob Description & Summary\n\nThe Opportunity\n\nAs an AI & GenAI Data Scientist-Senior Associate you will leverage advanced analytics, statistical modeling, exploratory analysis, and data visualization to help solve business problems and inform decisions within our Data and Analytics Engineering practice. As a Senior Associate you will analyze complex problems, manage assigned workstreams, build meaningful client connections, and guide junior team members while navigating ambiguity and deepening your technical skills.\n\nIn this role at PwC, you will contribute to AI-driven automation and cognitive solutions by turning large datasets into insights, supporting data-driven decision making, and developing deliverables that align with client needs and broader project objectives.\n\nResponsibilities\n\nAnalyzing complex client problems using statistical modeling, exploratory analysis, and data visualization techniquesDeveloping data science workflows that translate large data sets into actionable insights for business decisionsBuilding machine learning and predictive modeling solutions using Python, R, TensorFlow, or Scikit-learnCollaborating on AI and GenAI use cases that support data-driven transformation and advanced analytics deliveryDesigning, testing, and refining data models, data pipelines, and data quality checks for analytical solutionsInterpreting results and recommendations for client teams through clear technical documentation and visual storytellingApplying AI fluency, analytical thinking, and data mining skills to identify patterns, risks, and opportunitiesMentoring junior team members, reviewing assigned deliverables, and supporting their growth in technical skillsManaging assigned workstreams while adapting to changing priorities, ambiguity, and client needsWhat You Must Have\n\nAt least a Bachelor''s degreeAt least 3 years of experienceWhat Sets You Apart\n\nPreference for at least one of the following fields of study: Accounting, Analytics/Data Science, Artificial Intelligence/Robotics, Business Administration/Management, Computer Science/Information Systems, Cybersecurity, Engineering, Mathematics/Statistics, Operations/Supply Chain, Project/Technology Management, Risk Management/InsuranceDemonstrating AI and GenAI data science project delivery in client settingsApplying machine learning, NLP, and statistical analysis methodsInterpreting complex data to shape recommendations and insightsCollaborating across teams while managing ambiguity and shifting prioritiesMentoring junior team members and reviewing workstream deliverablesTravel Requirements\n\nUp to 80%\n\nJob Posting End Date\n\nThe salary range for this position is: $77,000 - $202,000. Actual compensation within the range will be dependent upon the individual''s skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law.\n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.\n\nLearn more about how we work: https://pwc.to/how-we-work\n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles'' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines\n\n\nSkills:\nAccounting, Analysis Skills, Artificial Intelligence (AI), Automation, Business Administration, Computer Science, Data Analysis, Data Management, Data Mining, Data Modeling, Data Quality, Data Science, Data Sets, Data Visualization, Genetics, Information Technology & Information Systems, Insurance, Internet Security, Machine Learning, Mathematics, Mentoring, Natural Language Processing (NLP), Predictive Modeling, Problem Solving Skills, Python Programming/Scripting Language, R Programming Language, Risk Analysis, Risk Management, Robotics, Statistical Modeling, Statistics, Storytelling, Supply Chain Operations, Technical Leadership, Technical Writing, Test Design, Use Cases, Willing to Travel\n\n\nPricewaterhouseCoopers LLP\n\n\nPwC’s accounting practice originated in London well over a century ago. As times changed and PwC expanded worldwide, our commitment to clients—like you—never wavered. With us, you’re always supported by a global network of more than 223,000 people in 157 countries with one goal: to help your business thrive.\n\n\n\nPwC’s professional services include audit and assurance, tax and consulting that cover such areas as cybersecurity and privacy,  human resources, deals and forensics. We help resolve complex issues and identify opportunities across these industries.\n\n\n\nLet’s combine your ​aspirations with our world-class capabilities to achieve your goals.\n\n\n\nCompany Size:\n10,000 employees or more\n\n\nIndustry:\nAccounting and Auditing Services\n\n\n0\n\n\nWebsite:\nhttp://www.pwc.com/us/en.html",
+            "apply_options": [
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/ai-genai-data-scientist-senior-associate-denver-co--2e0d46ad-c443-4559-aed7-e2fc88236fa0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/ai-genai-data-scientist-senior-associate-pwc-denver-co_89404625?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ai-genai-data-scientist-senior-associate-at-pwc-4480596103?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LGBTQ Hire",
+                    "link": "https://lgbtqhire.com/denver-co/ai-genai-data-scientist-senior-associate/CB27B3E6562347118227FE042C2D1CF3/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The BIG Jobsite",
+                    "link": "https://us.thebigjobsite.com/details/F4FF793829F7CB7048B23B44648608CF/ai---genai-data-scientist-senior-associate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LifeworQ",
+                    "link": "https://lifeworq.com/job/5765dbb3-e5ce-47d0-b88d-41151e90302e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/ai-genai-data-scientist-senior-associate-pwc-denver-co-united-states--jobgoal-23672_5804C8FDA977FABDC241C4940BC0EFBC?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Tech Engineer Jobs",
+                    "link": "https://techengineerjobs.ai/listings/e9e8nbus8tmd-bf21d5f737586d1925f955a7-95673745?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBcdTAwMjYgR2VuQUkgRGF0YSBTY2llbnRpc3QtU2VuaW9yIEFzc29jaWF0ZSIsImNvbXBhbnlfbmFtZSI6IlByaWNld2F0ZXJob3VzZUNvb3BlcnMgTExQIiwiaHRpZG9jaWQiOiJPZlA0aUVSWlVrZUM3VWcwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdKa1MydHZUVGx0Y2tGd016TjZWbVZrTFVsTFRXVnlYMGxmWWpWMFRIRXdaa3QwZW1WNlpuVlBTMHhRTlRSTU5uRlNNRTlmUkhWUGNtNHpORmRhVEZaSWFrWnJkRkJhUkdRNWIzbDJkMDlrVERGdWVHOU9iQzAyZDNGbVRYVnhURGhmWkdWNVNXaGZWVWd6U2t3NGJ6SnRTMlIwZERoYWR6aHNYM2hXUm05TmRVNVdXVVFTRjNKS1gySmhkbnBNU3paaFpEQlFSVkJ1VFVoUWNWRTBHaUpCUkhOeU9XWlRZWEJ1UjJwUlUwOVNVamQwYWtaa1NWbFlhems0TkUxb1psSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJPZlA0aUVSWlVrZUM3VWcwQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Data Scientist VI",
+            "company_name": "Charter Communications",
+            "location": "Greenwood Village, CO",
+            "via": "Hiring Cafe",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree in computer science, statistics, operations research and/or equivalent combination of education and experience",
+                        "4+ years of experience in data manipulation and statistical modeling as a Scientist, Consultant, Architect, DBA, or Engineer",
+                        "4+ years of programming experience",
+                        "Ability to perform involved and independent research and analysis, effectively create and present data insights and recommendations to key stakeholders independently",
+                        "Demonstrated practical ability to determine where to invest time, synthesize actionable findings across diverse assignments, and present findings to audiences with diverse agendas and varying levels of technical expertise",
+                        "Extensive knowledge of core data science and machine learning principles and ability to identify and apply the appropriate techniques with minimal oversight",
+                        "Proficient in at least one data science toolkit such as Python or R and able to learn additional languages and functionality",
+                        "Comprehensive level SQL skills",
+                        "Experience with large data sets and proficient with big data tools such as Spark and Hive",
+                        "Familiarity with broader cloud-based infrastructure and ability to troubleshoot issues with guidance",
+                        "In-depth knowledge of advanced mathematical and statistical concepts and the ability to learn and apply new techniques independently",
+                        "Mastery of development of data tools and models, scripting, analysis and ETL, and ability to synthesize complex code",
+                        "Basic understanding of data architecture, data warehouse and data marts",
+                        "Strong command of statistical techniques and machine learning algorithms",
+                        "Proficient on data orchestration tooling like Airflow or AWS Step Functions",
+                        "Strong programming skills in Python and Scala with experience optimizing complex queries and data transformations for performance and cost efficiency",
+                        "Deep understanding of data modeling, distributed systems, and performance optimization for Big Data",
+                        "The ability to deliver work at a steady, predictable pace to achieve commitments, deliver complete solutions but release them in small batches, and identify and negotiate important tradeoffs",
+                        "Strong problem solver who ensures systems are built with longevity and creates innovative ways to resolve issues",
+                        "Experienced in production operations of developed software, software development methodologies, and applying appropriate software design patterns to the situation"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Data Scientist VI, you will utilize your analytical, statistical, and programming skills to clean, aggregate, and analyze large data sets, interpreting the results to drive impactful decisions for the organization, as well as mentoring more junior members of the team",
+                        "Visualize and report data findings creatively in a variety of visual formats that appropriately provide insight to the stakeholders and explain the importance of patterns in the data",
+                        "Lead large-scale exploratory data analyses for new data sources or new uses for existing data sources",
+                        "Collaborate with leadership and other stakeholders on project strategy, direction and changes",
+                        "Use time and resources effectively, prioritizing work, establishing and meeting timelines without oversight, and delivering multiple tasks at the same time",
+                        "Close technical debts and visualizes technology roadmaps",
+                        "Provide guidance and support to junior staff during response efforts",
+                        "Apply appropriate level of data maintenance, data quality control and validation of code, tools, and models",
+                        "Mentor Data Scientists I-IV"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=I-hTaA0oyeTd7YUKAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0TrLYU0ZwINlpGEG0shLRhcy6Xk8vucbtinuJzjc0UAzPVd1GtzmgIDx-JLapBe4Ut3KQHJSx-AGG4iIREy9NglvXonGqqgxpa9LWX0QlTL5N7Sa9_dDpgoZzQqNsfdlOdOaxdM0ujAo2M45ujn2thhTjvCxF_RJ7QxpQw0Aaa-w9_89FNmwAAAA&shmds=v1_ARwrE20sdePq7-EZsaJe8nUAowU1wTAnyHjN7K4n-UIvV_4opw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=I-hTaA0oyeTd7YUKAAAAAA%3D%3D",
+            "extensions": [
+                "19 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://hiringcafe.com/job/data-scientist-vi-charter-communications-greenwood-village-colorado-3uoayi0wsaxgjkbz",
+            "job_title": "Data Scientist VI",
+            "description": "This posting has been extended beyond the initial anticipated closing date.\n\n \n\nAre you ready to develop data-driven solutions that tackle Spectrum’s business challenges? As a Data Scientist VI, you will utilize your analytical, statistical, and programming skills to clean, aggregate, and analyze large data sets, interpreting the results to drive impactful decisions for the organization, as well as mentoring more junior members of the team. \n\n\n\n\n\n\n\nHow You’ll Make an Impact \n\nVisualize and report data findings creatively in a variety of visual formats that appropriately provide insight to the stakeholders and explain the importance of patterns in the data  Lead large-scale exploratory data analyses for new data sources or new uses for existing data sources  Collaborate with leadership and other stakeholders on project strategy, direction and changes  Use time and resources effectively, prioritizing work, establishing and meeting timelines without oversight, and delivering multiple tasks at the same time Close technical debts and visualizes technology roadmaps  Provide guidance and support to junior staff during response efforts  Apply appropriate level of data maintenance, data quality control and validation of code, tools, and models  Mentor Data Scientists I-IV Working Conditions \n\nOffice environment \n\n\n\n\n\nQUALIFICATIONS:\n\n \n\nWhat You’ll Bring to Spectrum \n\n \n\nRequired Qualifications \n\n \n\nEducation \n\nBachelor's degree in computer science, statistics, operations research and/or equivalent combination of education and experience Experience \n\n4+ years of experience in data manipulation and statistical modeling as a Scientist, Consultant, Architect, DBA, or Engineer 4+ years of programming experienceSkills \n\nAbility to perform involved and independent research and analysis, effectively create and present data insights and recommendations to key stakeholders independently Demonstrated practical ability to determine where to invest time, synthesize actionable findings across diverse assignments, and present findings to audiences with diverse agendas and varying levels of technical expertise  Extensive knowledge of core data science and machine learning principles and ability to identify and apply the appropriate techniques with minimal oversight  Proficient in at least one data science toolkit such as Python or R and able to learn additional languages and functionality  Comprehensive level SQL skills  Experience with large data sets and proficient with big data tools such as Spark and Hive Familiarity with broader cloud-based infrastructure and ability to troubleshoot issues with guidance  In-depth knowledge of advanced mathematical and statistical concepts and the ability to learn and apply new techniques independently  Mastery of development of data tools and models, scripting, analysis and ETL, and ability to synthesize complex code  Basic understanding of data architecture, data warehouse and data marts  Strong command of statistical techniques and machine learning algorithms   \n\nPreferred Qualifications \n\nExpert-level experience designing, developing, and maintaining scalable data pipelines and ETL/ELT workflows. Proficient on data orchestration tooling like Airflow or AWS Step Functions.\n• Strong programming skills in Python and Scala with experience optimizing complex queries and data transformations for performance and cost efficiency\n• Deep understanding of data modeling, distributed systems, and performance optimization for Big Data.\n• The ability to deliver work at a steady, predictable pace to achieve commitments, deliver complete solutions but release them in small batches, and identify and negotiate important tradeoffs.\n• Strong problem solver who ensures systems are built with longevity and creates innovative ways to resolve issues.\n• Experienced in production operations of developed software, software development methodologies, and applying appropriate software design patterns to the situation",
+            "apply_options": [
+                {
+                    "title": "Hiring Cafe",
+                    "link": "https://hiringcafe.com/job/data-scientist-vi-charter-communications-greenwood-village-colorado-3uoayi0wsaxgjkbz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Muse",
+                    "link": "https://www.themuse.com/jobs/spectrum/data-scientist-vi-17447d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/data-scientist-vi--greenwood-village--e2884850be471caf677f5ed37f5447bc2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/data-scientist-vi-spectrum-greenwood-village--pureheal-29125_42CC52F73E62C26A51E51AF95F3F95F1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "IT JobServe",
+                    "link": "https://it.jobserve.com/job-in-Greenwood-Village-Colorado-USA/DATA-SCIENTIST-VI-d4b702ea2676f38df4/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-4112-f49eecda776ffea026bedb5cd7ceef3f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-co-greenwood-village-data-scientist-vi-spectrum-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBWSSIsImNvbXBhbnlfbmFtZSI6IkNoYXJ0ZXIgQ29tbXVuaWNhdGlvbnMiLCJodGlkb2NpZCI6IkktaFRhQTBveWVUZDdZVUtBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbVJmYkVKWlEzb3hNVTlJVlZaTmNrdFVTbUpwUTI1Q0xVVlpjRzVZVUdGdWVUVTFhR1ZrU1dSaGFIb3RVWHBKT1d0RmFsOWZjWGw2VGxwRGNYZFdTbWgzUkZOcFZUazJSRkZCUlVzeVoydDJiRzVoVVMxUVJERlhhemRJZG04NFdsODNVMHMwY1ZSTFEwMDJVVUl6YzJWNlZWWTRjVmhDWmpOSllYUnZNVjlxYW5GUlRXc1NGM0pLWDJKaGRucE1TelpoWkRCUVJWQnVUVWhRY1ZFMEdpSkJSSE55T1daVFJWRmtSUzFMZW1oSGNsVkJZMWc0T1hKV1J6SjZkbUpFVkZkQiIsImZjdiI6IjMiLCJmY19pZCI6IkktaFRhQTBveWVUZDdZVUtBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Junior level Bioinformatics Data Scientist-Genomics",
+            "company_name": "KPG99 INC",
+            "location": "Anywhere",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Must have Pharma/Biopharmaceutical",
+                        "Must have Bioinformatics and understanding of complex genomics datasets",
+                        "Must have worked with NGS datasets"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "First month will be 20hrs a week for training then move to 40hrs a week"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=z7LAwffDpTeT4Pu2AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAyAYVz7CE6ZhfZEcKhuKhQriFCcy7XGNnJNyiVKX8j31C7_8A9f8l0kZflmkggBPxjgQEL8lDh4o1bh5M1D1RKykVpaIMsw_xRKaUDRx7YHYShEuoDLfW826s451ZB1ajOStTI4YWxkci9pdE6tvY84Bm9Yb7brKRu5Wy0vtyLP4Xw9AjHcmQwfUP0N1B-89pW1qAAAAA&shmds=v1_ARwrE20iLTljTxbIxy2zk7dvtUZNy95XOm4hwWFtEiVQ4SoeLg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=z7LAwffDpTeT4Pu2AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adb9fac8ffa70efad7fa6e9/images/kAYDooo61qoRvhNpixv_b6BRPRCfIFH6aognKNak1f0.jpeg",
+            "extensions": [
+                "2 days ago",
+                "Work from home",
+                "Contractor"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/junior-level-bioinformatics-data-scientist-genomics-at-kpg99-inc-4482180125",
+            "job_title": "Junior level Bioinformatics Data Scientist-Genomics",
+            "description": "Role : Junior level Bioinformatics Data Scientist-Genomics\n\nLocation : Remote\n\nInterview : Video\n\nDuration : 12-month contract\n\n\n\n\nFirst month will be 20hrs a week for training then move to 40hrs a week\n\n\n\n\nMust Haves:\n\nMust have Pharma/BiopharmaceuticalMust have Bioinformatics and understanding of complex genomics datasetsMust have worked with NGS datasetsPreferred: Experience with workflow orchestration tools such as Nextflow, Snakemake, or similar platforms",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/junior-level-bioinformatics-data-scientist-genomics-at-kpg99-inc-4482180125?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/junior-level-bioinformatics-data-scientist-genomics-kpg99-inc--fj-2426492207?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgbGV2ZWwgQmlvaW5mb3JtYXRpY3MgRGF0YSBTY2llbnRpc3QtR2Vub21pY3MiLCJjb21wYW55X25hbWUiOiJLUEc5OSBJTkMiLCJodGlkb2NpZCI6Ino3TEF3ZmZEcFRlVDRQdTJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa2xTUVhreVFXaFBNR3RsZG5OdWRqaE5lazgxWlVscE5Yb3hNazV4VUdKbVV6WmpZV0l4UTI1aVNWcEVVRnBSY0RadmREbDRkWGxDWTJGQ1QwRktlazVHT0hKbE5GOVJhM3BvUmpJMWNrZDBZMGxZYlVwVVZGOWxiMlUyVTBsWFYxRklTMVpQWlc1ZmRrRmtZa1JtYlZCSlMyOXBiV1ZOWVVObE5FOHpVR0ZxVG10RFFsZ1NGM0pLWDJKaGRucE1TelpoWkRCUVJWQnVUVWhRY1ZFMEdpSkJSSE55T1daUlUxVnNZMWR6TXpWVVVHWlJOa3N4TkMxM1QzUmxOVnBwUmpOQiIsImZjdiI6IjMiLCJmY19pZCI6Ino3TEF3ZmZEcFRlVDRQdTJBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Data Scientist/Machine Learning Engineer - Reston, VA",
+            "company_name": "Hirefinity",
+            "location": "Anywhere",
+            "via": "Hirefinity",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Minimum of five (5) years of experience in data science or machine learning engineering",
+                        "Strong programming skills in Python and familiarity with SQL, R, or other data languages",
+                        "Experience with data visualization tools (e.g., Power BI, Tableau, matplotlib)",
+                        "Proficiency in ML tools and platforms such as scikit-learn, TensorFlow, PyTorch, or Azure ML",
+                        "Experience working with cloud environments, version control systems, and MLOps tools"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Medical, dental, vision, life, and disability insurance",
+                        "401(k) retirement savings plan with company match",
+                        "Paid time off, sick leave, and paid holidays",
+                        "Tuition reimbursement and professional development support",
+                        "Discretionary bonuses and other performance-based incentives",
+                        "Employee Assistance Program (EAP), wellness initiatives, and employee discounts"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role enables the transformation of business challenges into actionable insights and intelligent applications by analyzing large datasets, building predictive models, and collaborating on AI/ML product initiatives",
+                        "The Data Scientist / ML Engineer works closely with stakeholders to prototype, test, and scale machine learning use cases that improve internal operations and support external customer offerings",
+                        "This role plays a critical part in shaping the company's data science capabilities, ensuring analytical rigor, and deploying models that enhance business outcomes, automate manual processes, and contribute to digital innovation",
+                        "Partner with product, engineering, and analytics teams to translate business needs into machine learning solutions",
+                        "Contribute to the organization's AI/ML strategy and model development roadmap",
+                        "Collaborate with internal teams to identify data sources, develop data pipelines, and validate models",
+                        "Analyze business workflows to uncover opportunities for predictive modeling, AI-powered optimization, and automation",
+                        "Support and mentor analysts and developers in applying machine learning techniques to real-world challenges",
+                        "Participate in cross-functional innovation and product development initiatives",
+                        "Share findings and insights with business stakeholders to support data-driven decision making",
+                        "Design, build, and deploy machine learning models and data pipelines across structured and unstructured datasets",
+                        "Perform data wrangling, feature engineering, and exploratory data analysis to uncover patterns and model features",
+                        "Conduct hypothesis testing, A/B testing, and apply statistical and predictive modeling techniques",
+                        "Train and optimize supervised, unsupervised, and deep learning models for performance, scalability, and generalization",
+                        "Work with ML frameworks and cloud services (e.g., Azure ML, TensorFlow, PyTorch, scikit-learn)",
+                        "Develop MLOps practices for monitoring, logging, and retraining deployed models",
+                        "Support the integration of models into enterprise platforms, APIs, and front-end applications",
+                        "Create and maintain reusable code libraries, templates, and automation scripts to streamline the ML development lifecycle",
+                        "Collaborate with DevOps and Infrastructure teams to build scalable model deployment pipelines",
+                        "Design and implement performance monitoring and alerting systems for production ML models",
+                        "Continuously evaluate model effectiveness and retrain as needed using feedback loops and real-world data",
+                        "Ensure all work aligns with security, privacy, and compliance standards related to data handling and model governance",
+                        "Document methodology, code, experiments, and model performance metrics to ensure transparency, reproducibility, and collaboration"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=C1osWCTwlI8FbUFgAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBBFsc0RtJlaNCuCjVaCokhsDNrKZh13R-JMyEwRb-QxXZvHf_B5xXdUVDtvHupAyEZq7uxDIkao0PdMHGHPMTv2MIcLqgnP4LbNcpIGNJ9CAmE4iMQWx5tk1unaOdW2jGreKJRB3k4YGxncSxr9467J99i13vC-XC2GsuM4nRypxycx2QeI4ZoHPqDOEdQfX9QNcKsAAAA&shmds=v1_ARwrE22EEhWg9UmCM74B0Bk-DE2tuJCMCjJfJuIOT2EsiJWlLw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=C1osWCTwlI8FbUFgAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "Work from home",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://hirefinity.x4t.10001mb.com/remote-jobs/data-scientist-machine-learning-engineer-reston-va",
+            "job_title": "Data Scientist/Machine Learning Engineer - Reston, VA",
+            "description": "About the position Bowman has an opportunity for a Data Scientist/Machine Learning Engineer to join our team in Reston, VA. At Bowman, we believe in creating opportunities for aspiring people to thrive and achieve ambitious goals. That's why a career at Bowman is more than a job. It is an opportunity to be part of a diverse and engaged community of professionals, to be treated as a respected and valued member of a motivated team and to be empowered to do exceptional work that advances the best interest of everyone involved. We recognize the importance of creating a work environment that is both rewarding to our employees and supportive of our unwavering commitment to provide unparalleled service to our clients. The Data Scientist / Machine Learning (ML) Engineer supports the organization's AI and automation goals by developing, training, and deploying machine learning models and data-driven solutions. This role enables the transformation of business challenges into actionable insights and intelligent applications by analyzing large datasets, building predictive models, and collaborating on AI/ML product initiatives. The Data Scientist / ML Engineer works closely with stakeholders to prototype, test, and scale machine learning use cases that improve internal operations and support external customer offerings. This role plays a critical part in shaping the company's data science capabilities, ensuring analytical rigor, and deploying models that enhance business outcomes, automate manual processes, and contribute to digital innovation. Responsibilities • Partner with product, engineering, and analytics teams to translate business needs into machine learning solutions. • Contribute to the organization's AI/ML strategy and model development roadmap. • Collaborate with internal teams to identify data sources, develop data pipelines, and validate models. • Analyze business workflows to uncover opportunities for predictive modeling, AI-powered optimization, and automation. • Support and mentor analysts and developers in applying machine learning techniques to real-world challenges. • Participate in cross-functional innovation and product development initiatives. • Share findings and insights with business stakeholders to support data-driven decision making. • Design, build, and deploy machine learning models and data pipelines across structured and unstructured datasets. • Perform data wrangling, feature engineering, and exploratory data analysis to uncover patterns and model features. • Conduct hypothesis testing, A/B testing, and apply statistical and predictive modeling techniques. • Train and optimize supervised, unsupervised, and deep learning models for performance, scalability, and generalization. • Work with ML frameworks and cloud services (e.g., Azure ML, TensorFlow, PyTorch, scikit-learn). • Develop MLOps practices for monitoring, logging, and retraining deployed models. • Support the integration of models into enterprise platforms, APIs, and front-end applications. • Create and maintain reusable code libraries, templates, and automation scripts to streamline the ML development lifecycle. • Collaborate with DevOps and Infrastructure teams to build scalable model deployment pipelines. • Design and implement performance monitoring and alerting systems for production ML models. • Continuously evaluate model effectiveness and retrain as needed using feedback loops and real-world data. • Ensure all work aligns with security, privacy, and compliance standards related to data handling and model governance. • Document methodology, code, experiments, and model performance metrics to ensure transparency, reproducibility, and collaboration. Requirements • Bachelor's degree in Computer Science, Data Science, Statistics, Engineering, or related field; advanced degree preferred. • Minimum of five (5) years of experience in data science or machine learning engineering. • Strong programming skills in Python and familiarity with SQL, R, or other data languages. • Experience with data visualization tools (e.g., Power BI, Tableau, matplotlib). • Proficiency in ML tools and platforms such as scikit-learn, TensorFlow, PyTorch, or Azure ML. • Experience working with cloud environments, version control systems, and MLOps tools. Nice-to-haves • Familiarity with large language models, NLP, or AI-assisted tools is a plus. Benefits • Medical, dental, vision, life, and disability insurance • 401(k) retirement savings plan with company match • Paid time off, sick leave, and paid holidays • Tuition reimbursement and professional development support • Discretionary bonuses and other performance-based incentives • Employee Assistance Program (EAP), wellness initiatives, and employee discounts",
+            "apply_options": [
+                {
+                    "title": "Hirefinity",
+                    "link": "https://hirefinity.x4t.10001mb.com/remote-jobs/data-scientist-machine-learning-engineer-reston-va?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdC9NYWNoaW5lIExlYXJuaW5nIEVuZ2luZWVyIC0gUmVzdG9uLCBWQSIsImNvbXBhbnlfbmFtZSI6IkhpcmVmaW5pdHkiLCJodGlkb2NpZCI6IkMxb3NXQ1R3bEk4RmJVRmdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURGR1YkZCVU9FZzJTWHBwTUc1UVp6UjJhbTlMYkhVNVYxaHBibTFZUWpOTWFuUlRVakZSTVY5aE1FY3hkamR2Y25aYVZsSXhUSGs0VTBKQmRXdHRSVFUzTFVoV1JYQlBNWGhGZUVwaGFIVlJZbEpCYTJSdWNuRkRVMWx5ZEdWSVZHWTRTVWRFZERWSmEzWTNRakUzVGxoM2RuZFBSVE0yTUVZeGREaEpVMkV5ZVhwcGFEa1NGM0pLWDJKaGRucE1TelpoWkRCUVJWQnVUVWhRY1ZFMEdpSkJSSE55T1daU05URTNXVTlFWTE5MlZpMUJOSFpLVWtSVlpqUk5SMlZoZW1abiIsImZjdiI6IjMiLCJmY19pZCI6IkMxb3NXQ1R3bEk4RmJVRmdBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Data Scientist (Remote)",
+            "company_name": "Maximus",
+            "location": "Anywhere",
+            "via": "Monster",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=CNS_taPXWBGouiWbAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CV7co4omInipxwqCIIJ9QNnGJYmk2ZBdoa_wzeIcpvkuGnNBRehdpKxRFNZPmlhpA3u48QhCWF0AznBl9omW56BapLVWJBkvihqdcTxZzjTybN88yr9BAlYqCZWG4-kwm5L9dnXHOU4fgZih48QVXwx9qTF72UH3-AE34rihkQAAAA&shmds=v1_ARwrE23hdy94S8hFJY8u2gkafWtQYjNsacFl9M30cx0CHuILrw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=CNS_taPXWBGouiWbAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAbFBMVEX___9QLpFEGovDvNZOK5BGHYw7AIdDF4s9BohLJo9JIo0-DYksAIGTg7jNx91cP5hrU6De2umGdLDn5O_5-Pu2rM7v7PRxWqOkl8KAbaza1eaMe7Odj75XN5XTzeF0XqWrn8a9tNJlS5x6ZahpG7UcAAACBElEQVRIiaVX2baDIAx0wb3VWpfazW7__4-3VgUyEOvpnUdCMGGGJDo-oHWsaHGf0288HdHV7lhEZNsmd5yL5-oIzja_bUA3bT-HCbIY-6ZfHpItohjDh9XISLMO6NlhNa4_MrKc7NDxkJAN2WM27FNiiDrqd4-IOT0qkwuhnHS_ElIRS7ZaM17h1HJlNJjHfWX-1Ybe3AEurvVoQFk1Wzo9GOHV4IgcJ4W07LRgwhz9GFV9goksizpAeupwP54DLWx-TkUFJAKZzjnAxCkakN5NWkYq1VUjjhxl5RCsTi6gFpxI3gIRrsGEQg_SU-XgllIBIzqQ3l4GE3dLfpRtch-L33MI2-MFMVXPhGR74uS51lGyPcG7rPaEhxv3ax1LkF66wB9FQ4NNb99d_ueIoSZrQ_31coCOaC0dKACjHzD4WXJPKnLV875keqEf1EpduJgrPmRV1Q5JuPBNLB2xrGpD6RA8ny9arLJmNny6Wfri_KA8alVtKo-N3a-iDGqhzZ0uthdkbAGyysgZwd4CUGqyqrUqA1vT8aHNKanpmgiNIQikpg07dPIyJLjjpFZCKwfRd5zUDHLpEHRipfaWU7IwBLFSG9Ajv8p05KRmux5NUQ9WahOe9k6EY6f5CrAshCMnrNQUIKbx8rac1HTAQDfQldNhPmOqmmsM8_hbwDzzCvf9ATUJGtkKdDdDAAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "11 days ago",
+                "Work from home",
+                "Full-time",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "source_link": "https://www.monster.com/job-openings/data-scientist-remote-colorado-springs-co--f8053c79-eca3-427c-9f7c-37404a61f378",
+            "job_title": "Data Scientist (Remote)",
+            "description": "Essential Duties and Responsibilities:\n\n- Perform hands-on data analysis and modeling with huge data sets.\n\n- Apply data mining, NLP, and machine learning (both supervised and unsupervised) to improve relevance and personalization algorithms.\n\n- Work side-by-side with product managers, software engineers, and designers in designing experiments and minimum viable products.\n\n- Discover data sources, get access to them, import them, clean them up, and make them \"model-ready.\"\n\n- Create and refine features from the underlying data.\n\n- Run regular A/B tests, gather data, perform statistical analysis, draw conclusions on the impact of your optimizations and communicate results to peers and leaders.\n\n- Explore new design or technology shifts in order to determine how they might connect with the customer benefits we wish to deliver.\n\n-Collect, validate, clean, integrate, and analyze data from multiple sources, including the Human Performance Data Management System (HPDMS). \n\n-Conduct exploratory, statistical, and predictive analyses to identify trends, correlations, risks, and opportunities related to human performance and mission readiness. \n\n-Develop and maintain databases, spreadsheets, reports, and automated dashboards that communicate program performance and outcomes. \n\n-Support survey design, administration, analysis, and interpretation to inform program improvements. \n\n-Collaborate with program staff, biostatisticians, clinicians, and other cross-functional partners to translate findings into actionable recommendations. \n\n-Develop, document, and refine analytical methods, models, and tools that address complex operational and health-related challenges. \n\n-Present analytical findings clearly to technical and nontechnical stakeholders while protecting sensitive information. \n\n-Perform other duties as assigned. \n\nMinimum Requirements \n\n- Bachelor's degree in relevant field of study and 3+ years of relevant professional experience required, or equivalent combination of education and experience.\n\n- Advanced degree in Computer Science, Information Systems, Business Analytics, Mathematics, Statistics, Engineering, Business Administration or a related field preferred.\n\n- 1-3+ years of professional experience with applying quantitative research in optimizing human decisions using technologies like machine learning and/or deep learning.\n\n- 1+ years using major machine learning/deep learning frameworks (e.g., Scikit-learn, PyTorch, TensorFlow and Keras) and algorithms (e.g., CNN, GAN, LSTM, RNN, XGBOOST).\n\n- 1+ years of data engineering experience with modern big data analytics architectures (Hadoop, SQL, HIVE, Spark, Snowflake, etc.) on major cloud platforms (e.g., AWS, Azure, Google Cloud).\n\n- 1+ years programming skill in Python, Scala, or Julia.\n\n- Working knowledge with modern cloud-based data storage and compute environments (e.g., AWS Sagemaker, Databricks in Azure, AI-platform in GCP, etc.).\n\n- Experience deploying ML models into discovery/production environment to drive insights using MLOps a plus.\n\n- Experience working in an agile delivery model a plus.\n\n- Demonstrated leadership and self-direction. Willingness to both teach others and learn new techniques.\n\n- Ability to communicate complex ideas in a clear, precise, and actionable manner.\n\n- Excellent communication and presentation skills, with the ability to articulate new ideas and concepts to technical and non-technical partners.\n\n- PowerBI experience a plus.\n\nJob Specific Requirements:\n\n-Bachelor's degree in data science, statistics, mathematics, computer science, or a related field. \n\n-Demonstrated experience using statistical analysis tools, database systems, and data visualization platforms. \n\n-Experience preparing, analyzing, and interpreting complex datasets. \n\n-Ability to communicate technical findings to diverse audiences. \n\n-Security: Requires anactive Secret security clearanceand U.S. citizenship. \n\n-Survey Design & Analysis: Assist in designing surveys, collecting, and analyzing survey data to inform program improvements Collaboration: Work with cross-functional teams, including biostatisticians, to develop data-driven recommendations for SOF and family support initiatives. \n\n-Technical Solutions: Develop and refine analytical methods and tools to address complex operational and health-related challenges. \n\n-Experience supporting government, defense, military health, or human performance programs. \n\n-Experience developing automated dashboards, predictive models, or decision-support tools. \n\n-Knowledge of data governance, privacy, security, and quality-control practices. \n\n-Familiarity with multidisciplinary health, performance, or readiness data. \n\n-Skills: Proficiency in data analysis tools, statistical software, database systems, and visualization platforms. \n\n-Experience: Experience with government or defense-related data projects is preferred. \n\n#MAXHP #maxcleared\n\nEEO Statement \n\n Maximus is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, age, national origin, disability, veteran status, genetic information and other legally protected characteristics. \n\nPay Transparency \n\n Maximus compensation is based on various factors including but not limited to job location, a candidate's education, training, experience, expected quality and quantity of work, required travel (if any), external market and internal value analysis including seniority and merit systems, as well as internal pay alignment. Annual salary is just one component of Maximus's total compensation package. Other rewards may include short- and long-term incentives as well as program-specific awards. Additionally, Maximus provides a variety of benefits to employees, including health insurance coverage, life and disability insurance, a retirement savings plan, paid holidays and paid time off. Compensation ranges may differ based on contract value but will be commensurate with job duties and relevant work experience. An applicant's salary history will not be used in determining compensation. Maximus will comply with regulatory minimum wage rates and exempt salary thresholds in all instances. \n\nAccommodations\nMaximus provides reasonable accommodations to individuals requiring assistance during any phase of the employment process due to a disability, medical condition, or physical or mental impairment. If you require assistance at any stage of the employment process-including accessing job postings, completing assessments, or participating in interviews,-please contact People Operations at applicantaccom@maximus.com. \n\nMinimum Salary \n\n $ \n\n90,400.00 \n\nMaximum Salary \n\n $ \n\n129,400.00 \n\n\n\n\nRemote\n\nSkills:\nA/B Testing, Agile Modeling, Algorithms, Amazon Web Services (AWS), Analysis Skills, Analytical Method Development, Apache Hadoop, Apache Hive, Apache Spark, Artificial Intelligence (AI), Big Data, Biostatistics, Business Administration, Business Analysis, Cloud Computing, Communication Skills, Compensation Management, Computer Programming, Computer Science, Computer Systems, Cross-Functional, Data Analysis, Data Collection, Data Management, Data Mining, Data Modeling, Data Science, Data Sets, Data Storage, Data Visualization, Database Administration, Database Programming, Database Technology, Decision Support, Deep Learning, Engineering, Experiment Design, GCP (Good Clinical Practices), Government, Human Health, Information Technology & Information Systems, Information/Data Security (InfoSec), Leadership, Machine Learning, Mathematics, Microsoft Windows Azure, Military, Natural Language Processing (NLP), Performance Management, Power BI, Predictive Modeling, Presentation/Verbal Skills, Privacy Controls, Production Systems, Python Programming/Scripting Language, Quality Control, Quantitative Research, Regulations, Reporting Dashboards, SQL (Structured Query Language), Scala Programming Language, Software Design, Software Engineering, Spreadsheets, Statistical Analysis System (SAS), Statistics, Statistics Software, Survey Design, Training/Teaching, Trend Analysis, United States Citizen, Value Analysis, Willing to Travel\n\n\nMaximus\n\n\nMAXIMUS provides business services to help governments operate health and human services programs, mostly at the state and national levels. The company's health services segment offers outsourced program management and administrative services,\n\nCompany Size:\n5,000 to 9,999 employees\n\n\nIndustry:\nHealthcare Services\n\n\n0\n\n\nWebsite:\nhttps://www.maximus.com/",
+            "apply_options": [
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/data-scientist-remote-colorado-springs-co--f8053c79-eca3-427c-9f7c-37404a61f378?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EQuest Jobs",
+                    "link": "https://jobs.equest.com/jobs/CO/maximus/data-scientist-remote-489863932.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://www.talent.com/view?id=631695471265907203&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAoUmVtb3RlKSIsImNvbXBhbnlfbmFtZSI6Ik1heGltdXMiLCJodGlkb2NpZCI6IkNOU190YVBYV0JHb3VpV2JBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTakJhUlRrM1gxUlZlbWd0TTBkRVFpMHlTbEpIZW5KS2NrdEZhMmN0UkVaVmQyUkVUakJGVURsTmQxRjBSbXgyWTFwRlEwb3pjbnBqTUcxQ2NXbDRkMUZuVFdKVlVGQm5iVkJhT1hZd01GaFlXREV4Tld4U1IwcFNOM2RzYUVGV05qVmthWEZ1UXpKUmNXUjZkMWxvUzNCNGVYaHllVTFsVFRKQ09FaHpjbmx6ZDBKbVRWb1NGM0pLWDJKaGRucE1TelpoWkRCUVJWQnVUVWhRY1ZFMEdpSkJSSE55T1daUlVDMWxRbTlXYUVGTGVIVm9TaloyVlZveWJVeGpVV0pXV0RsMyIsImZjdiI6IjMiLCJmY19pZCI6IkNOU190YVBYV0JHb3VpV2JBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Data Scientist, Operations Research",
+            "company_name": "Cardinal Health",
+            "location": "Cheyenne, WY",
+            "via": "Snagajob",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ability to work as part of a team as the key analytical resource",
+                        "Excellent communication skills with an ability to explain quantitative analysis in simple business terms",
+                        "Intellectual curiosity, humility, genuine respect and desire to help others",
+                        "Bias for action and passion for driving change",
+                        "Distribution center network design and capacity planning",
+                        "Warehouse process improvement",
+                        "Inventory management: stocking strategies and replenishment policies",
+                        "Sales and operations planning (resource management in response to demand changes)",
+                        "Ability to work as part of a team as the key analytical resource",
+                        "Excellent communication skills with an ability to explain quantitative analysis in simple business terms",
+                        "Intellectual curiosity, humility, genuine respect and desire to help others",
+                        "Bias for action and passion for driving change",
+                        "Ability to travel up to 5%"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$94,900 - $122,000",
+                        "Cardinal Health offers a wide variety of benefits and programs to support health and well-being",
+                        "Medical, dental and vision coverage",
+                        "Paid time off plan",
+                        "Health savings account (HSA)",
+                        "401k savings plan",
+                        "Access to wages before pay day with myFlexPay",
+                        "Flexible spending accounts (FSAs)",
+                        "Short- and long-term disability coverage",
+                        "Work-Life resources",
+                        "Paid parental leave",
+                        "Healthy lifestyle programs",
+                        "The salary range listed is an estimate",
+                        "Pay at Cardinal Health is determined by multiple factors including, but not limited to, a candidate’s geographical location, relevant education, experience and skills and an evaluation of internal pay equity",
+                        "$94,900 - $122,000",
+                        "Cardinal Health offers a wide variety of benefits and programs to support health and well-being",
+                        "Medical, dental and vision coverage",
+                        "Paid time off plan",
+                        "Health savings account (HSA)",
+                        "401k savings plan",
+                        "Access to wages before pay day with myFlexPay",
+                        "Flexible spending accounts (FSAs)",
+                        "Short- and long-term disability coverage",
+                        "Work-Life resources",
+                        "Paid parental leave",
+                        "Healthy lifestyle programs"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "*_What Data Science contributes to Cardinal Health_**",
+                        "The Data and Analytics Function oversees the analytics life-cycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage",
+                        "This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling",
+                        "Data Science applies base, scientific methodologies from various disciplines, techniques and tools that extracts knowledge and insight from data to solve complex business problems on large data sets, integrating multiple systems",
+                        "Distribution center network design and capacity planning",
+                        "Facility layout and design; warehouse capacity and utilization",
+                        "Inventory management: stocking strategies and replenishment policies",
+                        "Transportation planning: first mile, middle mile, and final mile",
+                        "Sales and operations planning (resource management in response to demand changes)",
+                        "As a Data Scientist in Supply Chain Operations, you will apply your knowledge of business processes, systems, data, and analytical tools to explore and identify root causes of problems",
+                        "You will forecast future demand, build optimization and simulation models, and communicate actionable insights",
+                        "You will work with cross-functional project teams to ideate, develop, and recommend solutions",
+                        "Listen to clients and ask questions to clearly define business problems",
+                        "Perform exploratory analysis to determine root causes of problems and confirm/disprove hypotheses",
+                        "Develop predictive models to forecast future volumes that will drive capacity/resource needs",
+                        "Develop customer and product segmentation models and design our supply chain to support differentiated services",
+                        "Build optimization and simulation models to recommend capacity investments, resource plans, policy changes, and process changes to improve supply chain performance",
+                        "Develop prescriptive models using 3rd party optimization/simulation software and custom-build models",
+                        "Recommend solutions",
+                        "Work with Data Engineers to create data models for analyses",
+                        "Ability to travel up to 5%",
+                        "Applies comprehensive knowledge and a thorough understanding of concepts, principles, and technical capabilities to perform varied tasks and projects",
+                        "May contribute to the development of policies and procedures",
+                        "Works on complex projects of large scope",
+                        "Develops technical solutions to a wide range of difficult problems",
+                        "Solutions are innovative and consistent with organization objectives",
+                        "Completes work; independently receives general guidance on new projects",
+                        "Work reviewed for purpose of meeting objectives",
+                        "May act as a mentor to less experienced colleagues",
+                        "*_What Data Science contributes to Cardinal Health_**",
+                        "The Data and Analytics Function oversees the analytics life-cycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage",
+                        "This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling",
+                        "Data Science applies base, scientific methodologies from various disciplines, techniques and tools that extracts knowledge and insight from data to solve complex business problems on large data sets, integrating multiple systems",
+                        "Facility layout and design; warehouse capacity and utilization",
+                        "Transportation planning: first mile, middle mile, and final mile",
+                        "As a Data Scientist in Supply Chain Operations, you will apply your knowledge of business processes, systems, data, and analytical tools to explore and identify root causes of problems",
+                        "You will forecast future demand, build optimization and simulation models, and communicate actionable insights",
+                        "You will work with cross-functional project teams to ideate, develop, and recommend solutions",
+                        "Listen to clients and ask questions to clearly define business problems",
+                        "Perform exploratory analysis to determine root causes of problems and confirm/disprove hypotheses",
+                        "Develop predictive models to forecast future volumes that will drive capacity/resource needs",
+                        "Develop customer and product segmentation models and design our supply chain to support differentiated services",
+                        "Build optimization and simulation models to recommend capacity investments, resource plans, policy changes, and process changes to improve supply chain performance",
+                        "Develop prescriptive models using 3rd party optimization/simulation software and custom-build models",
+                        "Recommend solutions",
+                        "Work with Data Engineers to create data models for analyses",
+                        "Applies comprehensive knowledge and a thorough understanding of concepts, principles, and technical capabilities to perform varied tasks and projects",
+                        "May contribute to the development of policies and procedures",
+                        "Works on complex projects of large scope",
+                        "Develops technical solutions to a wide range of difficult problems",
+                        "Completes work; independently receives general guidance on new projects",
+                        "Work reviewed for purpose of meeting objectives",
+                        "May act as a mentor to less experienced colleagues"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=iytBTQXi6_EdRf3oAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3LsQrCQAyAYVz7CC5mFu2J4FLHCoqLoIM4lfQMvZMzOS4Z6qv4tCq4_PANf_WeVM0ODeHiI7FFtQWcMhW0KKxwJiUsPsASjtLDH8KwFxkSTbfBLGvjnGqqB7Xv5msvTydMvYzuIb3-0mnAQjmhUbferMY68zCftVjukTHBgTBZgMjQBnoRMy3gevsAgFoUQ50AAAA&shmds=v1_ARwrE23awEPDXeUoESwZe-3sJjhSnQRn6pAq8wOawNQ5VmZ5UA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=iytBTQXi6_EdRf3oAAAAAA%3D%3D",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "Dental insurance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://www.snagajob.com/jobs/1294136472",
+            "job_title": "Data Scientist, Operations Research",
+            "description": "US-Nationwide-FIELD\n      \n    Full time\n      \n    20186864\n      \n    **_What Data Science contributes to Cardinal Health_**\n      \n    The Data and Analytics Function oversees the analytics life-cycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage. This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling. Data Science applies base, scientific methodologies from various disciplines, techniques and tools that extracts knowledge and insight from data to solve complex business problems on large data sets, integrating multiple systems.\n      \n    **_Department/Team Overview_**\n      \n    We are looking for a Data Scientist, Operations Research Analyst to join our Decision Science Solutions (DS2) team. Our mission is to improve our pharmaceutical supply chain’s performance to better service our pharmacy customers, so that they can focus on their patients. The DS2 team consists of Supply Chain Data Scientists, Operations Research Analysts, Data Analysts, and Data Engineers. We work cross-functionally to solve problems leveraging a variety of skillsets and perspectives to achieve the best outcomes. We perform analyses, recommend solutions, and build products to enable better decision making in the following areas:\n      \n    + Distribution center network design and capacity planning\n      \n    + Facility layout and design; warehouse capacity and utilization\n      \n    + Warehouse process improvement\n      \n    + Labor management and automation\n      \n    + Inventory management: stocking strategies and replenishment policies\n      \n    + Transportation planning: first mile, middle mile, and final mile\n      \n    + Sales and operations planning (resource management in response to demand changes)\n      \n    **_Responsibilities_**\n      \n    As a Data Scientist in Supply Chain Operations, you will apply your knowledge of business processes, systems, data, and analytical tools to explore and identify root causes of problems. You will forecast future demand, build optimization and simulation models, and communicate actionable insights. You will work with cross-functional project teams to ideate, develop, and recommend solutions. Specific responsibilities are to:\n      \n    + Listen to clients and ask questions to clearly define business problems.\n      \n    + Perform exploratory analysis to determine root causes of problems and confirm/disprove hypotheses.\n      \n    + Develop predictive models to forecast future volumes that will drive capacity/resource needs.\n      \n    + Develop customer and product segmentation models and design our supply chain to support differentiated services.\n      \n    + Build optimization and simulation models to recommend capacity investments, resource plans, policy changes, and process changes to improve supply chain performance.\n      \n    + Develop prescriptive models using 3rd party optimization/simulation software and custom-build models.\n      \n    + Recommend solutions. Summarize the financial and operational impact of the recommendation and pros/cons of alternatives considered.\n      \n    + Work with Data Engineers to create data models for analyses.\n      \n    **_Qualifications_**\n      \n    + 2-4 years of experience, preferred\n      \n    + Bachelor's degree in a quantitative field, or equivalent work experience, preferred\n      \n    + MS/MBA with focus in Data Science, Operations Research, Industrial Engineering, or Statistics preferred\n      \n    + Demonstrated ability to apply Data Science and Operations Research techniques to logistics and supply chain management problems preferred\n      \n    + Experience with Structured Query Language (SQL) and working with databases preferred\n      \n    + Experience with data analysis tools such as R, Python, SQL, Alteryx, Tableau, and SAS preferred\n      \n    + Experience with Strategic Network Design, Simulation (e.g., AnyLogic), or Mathematical Programming (e.g., CPLEX) software preferred\n      \n    + Ability to work as part of a team as the key analytical resource\n      \n    + Excellent communication skills with an ability to explain quantitative analysis in simple business terms\n      \n    + Intellectual curiosity, humility, genuine respect and desire to help others\n      \n    + Bias for action and passion for driving change\n      \n    + Ability to travel up to 5%\n      \n    **_What is expected of you and others at this level_**\n      \n    + Applies comprehensive knowledge and a thorough understanding of concepts, principles, and technical capabilities to perform varied tasks and projects\n      \n    + May contribute to the development of policies and procedures\n      \n    + Works on complex projects of large scope\n      \n    + Develops technical solutions to a wide range of difficult problems\n      \n    + Solutions are innovative and consistent with organization objectives\n      \n    + Completes work; independently receives general guidance on new projects\n      \n    + Work reviewed for purpose of meeting objectives\n      \n    + May act as a mentor to less experienced colleagues\n      \n    **Anticipated salary range:**  $94,900 - $122,000\n      \n    **Bonus eligible:**  No\n      \n    **Benefits:**  Cardinal Health offers a wide variety of benefits and programs to support health and well-being.\n      \n    + Medical, dental and vision coverage\n      \n    + Paid time off plan\n      \n    + Health savings account (HSA)\n      \n    + 401k savings plan\n      \n    + Access to wages before pay day with myFlexPay\n      \n    + Flexible spending accounts (FSAs)\n      \n    + Short- and long-term disability coverage\n      \n    + Work-Life resources\n      \n    + Paid parental leave\n      \n    + Healthy lifestyle programs\n      \n    **Application window anticipated to close:**  11/2/2026 *if interested in opportunity, please submit application as soon as possible.\n      \n    The salary range listed is an estimate. Pay at Cardinal Health is determined by multiple factors including, but not limited to, a candidate’s geographical location, relevant education, experience and skills and an evaluation of internal pay equity.\n      \n    Cardinal Health supports an inclusive workplace that values diversity of thought, experience and background. We celebrate the power of our differences to create better solutions for our customers by ensuring employees can be their authentic selves each day. Cardinal Health is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law.\n      \n    _To read and review this privacy notice click_  here (https://www.cardinalhealth.com/content/dam/corp/email/documents/corp/cardinal-health-online-application-privacy-policy.pdf)\n      \n    Headquartered in Dublin, Ohio, Cardinal Health, Inc. (NYSE: CAH) is a distributor of pharmaceuticals, a global manufacturer and distributor of medical and laboratory products, and a provider of performance and data solutions for healthcare facilities.\n      \n    We are a crucial link between the clinical and operational sides of healthcare, delivering end‑to‑end solutions and data‑driving insights that advance healthcare and improve lives every day. With deep partnerships, diverse perspectives and innovative digital solutions, we build connections across the continuum of care.\n      \n    With more than 50 years of experience, we seize the opportunity to address healthcare's most complicated challenges — now, and in the future.\n      \n    View Cardinal Health on YouTube (http://youtube.com/user/CardinalHealth)\n      \n    If your personal information has changed and needs edited, please contact your recruiter for assistance. If you have not yet been contacted by a recruiter, please email us at cardinalcareers@cardinalhealth.com for assistance. \n     US-Nationwide-FIELD\n      \n    Full time\n      \n    20186864\n      \n    **_What Data Science contributes to Cardinal Health_**\n      \n    The Data and Analytics Function oversees the analytics life-cycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage. This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling. Data Science applies base, scientific methodologies from various disciplines, techniques and tools that extracts knowledge and insight from data to solve complex business problems on large data sets, integrating multiple systems.\n      \n    **_Department/Team Overview_**\n      \n    We are looking for a Data Scientist, Operations Research Analyst to join our Decision Science Solutions (DS2) team. Our mission is to improve our pharmaceutical supply chain’s performance to better service our pharmacy customers, so that they can focus on their patients. The DS2 team consists of Supply Chain Data Scientists, Operations Research Analysts, Data Analysts, and Data Engineers. We work cross-functionally to solve problems leveraging a variety of skillsets and perspectives to achieve the best outcomes. We perform analyses, recommend solutions, and build products to enable better decision making in the following areas:\n      \n    + Distribution center network design and capacity planning\n      \n    + Facility layout and design; warehouse capacity and utilization\n      \n    + Warehouse process improvement\n      \n    + Labor management and automation\n      \n    + Inventory management: stocking strategies and replenishment policies\n      \n    + Transportation planning: first mile, middle mile, and final mile\n      \n    + Sales and operations planning (resource management in response to demand changes)\n      \n    **_Responsibilities_**\n      \n    As a Data Scientist in Supply Chain Operations, you will apply your knowledge of business processes, systems, data, and analytical tools to explore and identify root causes of problems. You will forecast future demand, build optimization and simulation models, and communicate actionable insights. You will work with cross-functional project teams to ideate, develop, and recommend solutions. Specific responsibilities are to:\n      \n    + Listen to clients and ask questions to clearly define business problems.\n      \n    + Perform exploratory analysis to determine root causes of problems and confirm/disprove hypotheses.\n      \n    + Develop predictive models to forecast future volumes that will drive capacity/resource needs.\n      \n    + Develop customer and product segmentation models and design our supply chain to support differentiated services.\n      \n    + Build optimization and simulation models to recommend capacity investments, resource plans, policy changes, and process changes to improve supply chain performance.\n      \n    + Develop prescriptive models using 3rd party optimization/simulation software and custom-build models.\n      \n    + Recommend solutions. Summarize the financial and operational impact of the recommendation and pros/cons of alternatives considered.\n      \n    + Work with Data Engineers to create data models for analyses.\n      \n    **_Qualifications_**\n      \n    + 2-4 years of experience, preferred\n      \n    + Bachelor's degree in a quantitative field, or equivalent work experience, preferred\n      \n    + MS/MBA with focus in Data Science, Operations Research, Industrial Engineering, or Statistics preferred\n      \n    + Demonstrated ability to apply Data Science and Operations Research techniques to logistics and supply chain management problems preferred\n      \n    + Experience with Structured Query Language (SQL) and working with databases preferred\n      \n    + Experience with data analysis tools such as R, Python, SQL, Alteryx, Tableau, and SAS preferred\n      \n    + Experience with Strategic Network Design, Simulation (e.g., AnyLogic), or Mathematical Programming (e.g., CPLEX) software preferred\n      \n    + Ability to work as part of a team as the key analytical resource\n      \n    + Excellent communication skills with an ability to explain quantitative analysis in simple business terms\n      \n    + Intellectual curiosity, humility, genuine respect and desire to help others\n      \n    + Bias for action and passion for driving change\n      \n    + Ability to travel up to 5%\n      \n    **_What is expected of you and others at this level_**\n      \n    + Applies comprehensive knowledge and a thorough understanding of concepts, principles, and technical capabilities to perform varied tasks and projects\n      \n    + May contribute to the development of policies and procedures\n      \n    + Works on complex projects of large scope\n      \n    + Develops technical solutions to a wide range of difficult problems\n      \n    + Solutions are innovative and consistent with organization objectives\n      \n    + Completes work; independently receives general guidance on new projects\n      \n    + Work reviewed for purpose of meeting objectives\n      \n    + May act as a mentor to less experienced colleagues\n      \n    **Anticipated salary range:**  $94,900 - $122,000\n      \n    **Bonus eligible:**  No\n      \n    **Benefits:**  Cardinal Health offers a wide variety of benefits and programs to support health and well-being.\n      \n    + Medical, dental and vision coverage\n      \n    + Paid time off plan\n      \n    + Health savings account (HSA)\n      \n    + 401k savings plan\n      \n    + Access to wages before pay day with myFlexPay\n      \n    + Flexible spending accounts (FSAs)\n      \n    + Short- and long-term disability coverage\n      \n    + Work-Life resources\n      \n    + Paid parental leave\n      \n    + Healthy lifestyle programs\n      \n    **Application window anticipated to close:**  11/2/2026 *if interested in opportunity, please submit application as soon as possible.\n      \n    The salary range listed is an estimate. Pay at Cardinal Health is determined by multiple factors including, but not limited to, a candidate’s geographical location, relevant education, experience and skills and an evaluation of internal pay equity.\n      \n    Cardinal Health supports an inclusive workplace that values diversity of thought, experience and background. We celebrate the power of our differences to create better solutions for our customers by ensuring employees can be their authentic selves each day. Cardinal Health is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law.\n      \n    _To read and review this privacy notice click_  here (https://www.cardinalhealth.com/content/dam/corp/email/documents/corp/cardinal-health-online-application-privacy-policy.pdf)\n      \n    Headquartered in Dublin, Ohio, Cardinal Health, Inc. (NYSE: CAH) is a distributor of pharmaceuticals, a global manufacturer and distributor of medical and laboratory products, and a provider of performance and data solutions for healthcare facilities.\n      \n    We are a crucial link between the clinical and operational sides of healthcare, delivering end‑to‑end solutions and data‑driving insights that advance healthcare and improve lives every day. With deep partnerships, diverse perspectives and innovative digital solutions, we build connections across the continuum of care.\n      \n    With more than 50 years of experience, we seize the opportunity to address healthcare's most complicated challenges — now, and in the future.\n      \n    View Cardinal Health on YouTube (http://youtube.com/user/CardinalHealth)\n      \n    If your personal information has changed and needs edited, please contact your recruiter for assistance. If you have not yet been contacted by a recruiter, please email us at cardinalcareers@cardinalhealth.com for assistance.",
+            "apply_options": [
+                {
+                    "title": "Snagajob",
+                    "link": "https://www.snagajob.com/jobs/1294136472?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/cardinal-health/data-scientist-operations-research-28129994/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobMESH",
+                    "link": "https://jobmesh.io/job/1ed914de-5409-43f3-a01c-fcdebf82bec4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Expertini",
+                    "link": "https://cheyenne.us.expertini.com/job/data-scientist-operations-research-cheyenne-cardinal-health-e885c9aae62740c8b96365a5cb2659fa105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgT3BlcmF0aW9ucyBSZXNlYXJjaCIsImNvbXBhbnlfbmFtZSI6IkNhcmRpbmFsIEhlYWx0aCIsImh0aWRvY2lkIjoiaXl0QlRRWGk2X0VkUmYzb0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMyTktjbmx5Y1VseE1UTktUVTlvUTFOTWNtaHZUazVEYUhKYWEydENORjkxTURKS1ltbFZUSFJYTjNWUVRVZFBiRXMwWlU5MU1tdEdRVTFzZUhkbmFHWm1kRTUyV1dsQmJHNTFjM3BsWXpjMlUzZENOV3RMU2xaVmMxTjNXbmRXYkdGYVdra3pjQzFKYmtGamFUVnZaa2wyWlc0dGMwUXRVV2g2YmtvNGExQjNaRUZKU1VFU0YzSktYMkpoZG5wTVN6WmhaREJRUlZCdVRVaFFjVkUwR2lKQlJITnlPV1pTTjNCNWRWOWpjbnBtTFcxM1QxSnZhbE40YkdkV09WTXlUM0JuIiwiZmN2IjoiMyIsImZjX2lkIjoiaXl0QlRRWGk2X0VkUmYzb0FBQUFBQT09In0="
+        }
+    ]
+}

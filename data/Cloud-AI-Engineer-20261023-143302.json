@@ -1,0 +1,611 @@
+{
+    "jobs_results": [
+        {
+            "title": "Forward Engineer – AI, Cloud & Orchestration",
+            "company_name": "Jobot Consulting",
+            "location": "Providence, RI",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "This is an exciting opportunity for a hands-on engineer who enjoys solving complex business challenges, developing cutting-edge technology, and bringing innovative solutions from concept to production",
+                        "The ideal candidate is a technically versatile problem-solver with strong experience in Generative AI, Microsoft Azure, software development, enterprise integrations, and workflow automation",
+                        "Design, develop, and deploy enterprise-grade AI applications, intelligent agents, copilots, and automated workflows",
+                        "Develop Retrieval-Augmented Generation (RAG) solutions and enterprise knowledge architectures",
+                        "Observability, SRE & Operational Intelligence",
+                        "Integrate structured and unstructured enterprise data into AI and automation solutions",
+                        "8+ years of experience in software engineering, cloud engineering, solution architecture, DevOps, SRE, automation, or related technical disciplines",
+                        "Proven experience designing, developing, and deploying enterprise-scale technology solutions",
+                        "Strong hands-on expertise with Microsoft Azure and cloud architecture",
+                        "Practical experience with Generative AI, Large Language Models (LLMs), and AI-powered applications",
+                        "Experience building or integrating AI agents, agentic workflows, or intelligent automation solutions",
+                        "Experience developing APIs and integrating complex enterprise systems",
+                        "Solid understanding of distributed systems, cloud infrastructure, and modern application architectures",
+                        "Experience with workflow automation and orchestration",
+                        "Familiarity with observability, monitoring, and enterprise operations",
+                        "Understanding of enterprise data integration, security, and governance",
+                        "Strong communication skills with the ability to collaborate directly with business executives, customers, and technical teams",
+                        "AI & LLMs: OpenAI, Anthropic Claude, Claude Code, Azure OpenAI, AI agents, RAG, vector databases, and agentic frameworks",
+                        "Cloud & DevOps: Microsoft Azure, Azure DevOps, AWS, Kubernetes, containers, Infrastructure as Code, and CI/CD",
+                        "Automation & Integration: Python, REST APIs, event-driven architecture, workflow orchestration, and enterprise integration platforms",
+                        "Observability & Operations: Grafana, Azure Monitor, ServiceNow, SRE, automated remediation, and FinOps",
+                        "Enterprise Platforms: Microsoft 365, Copilot, enterprise data platforms, and business process automation",
+                        "We're looking for someone who can do more than design an impressive architecture",
+                        "Engage directly with business and IT leaders to understand complex operational challenges",
+                        "Translate business needs into practical, scalable technical solutions",
+                        "Collaborate across software engineering, infrastructure, security, data, and business teams",
+                        "Thrive in environments where requirements evolve and creative problem-solving is essential",
+                        "Balance innovation with security, reliability, cost, and measurable business value",
+                        "You understand how to connect the entire technology ecosystem:",
+                        "If you're a hands-on engineer who enjoys working across AI, cloud, software development, and enterprise automation—and wants to see your solutions make a real difference—we'd love to connect",
+                        "Sometimes Jobot is required to perform background checks with your authorization",
+                        "Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary: $90 - $110 per hour",
+                        "Jobot Consultant Benefits",
+                        "As a W2 contractor through Jobot, you’ll have access to a comprehensive benefits package designed to support your health, well-being, and financial security:",
+                        "Medical Insurance – Multiple plans available, including PPO and HDHP options",
+                        "Dental Insurance – Coverage for preventive, basic, and major services",
+                        "Vision Insurance – Includes exams, lenses, frames, and contact lenses",
+                        "Financial Benefits",
+                        "401(k) Retirement Plan – Includes employer match to help you save for the future",
+                        "Weekly Direct Deposit – Reliable and convenient payment schedule",
+                        "Time Off",
+                        "Paid Sick Leave – In accordance with state and local laws",
+                        "Paid Holidays – Select paid holidays may apply depending on contract length and client",
+                        "Access to Jobot’s Dedicated Support Team – For payroll, HR, and benefits questions",
+                        "Career Support – Ongoing access to a recruiter who advocates for your career goals"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Unlike traditional architecture or consulting positions, this role combines deep technical engineering expertise with direct customer engagement",
+                        "You'll work closely with business leaders, technical stakeholders, and engineering teams to understand challenges, design solutions, write code, and deliver measurable business outcomes",
+                        "Build solutions using leading LLM platforms, including OpenAI, Anthropic Claude, and Microsoft Azure AI",
+                        "Integrate AI capabilities into existing enterprise applications, business processes, and operational environments",
+                        "Rapidly transform business requirements into prototypes, minimum viable products (MVPs), and production-ready solutions",
+                        "Evaluate emerging AI technologies and identify practical applications that deliver measurable business value",
+                        "Enterprise Orchestration & Integration",
+                        "Design and implement intelligent workflows connecting applications, APIs, enterprise data, infrastructure, AI agents, and business processes",
+                        "Automate complex processes spanning multiple systems, departments, and technologies",
+                        "Develop event-driven workflows that monitor conditions, analyze data, recommend actions, and trigger automated responses",
+                        "Integrate business rules, approval processes, governance controls, and human-in-the-loop decision-making",
+                        "Identify opportunities to eliminate manual processes, improve operational efficiency, and streamline enterprise workflows",
+                        "Cloud Architecture & Engineering",
+                        "Design and implement secure, scalable cloud and hybrid-cloud solutions, primarily within Microsoft Azure",
+                        "Develop and support cloud modernization, application integration, and infrastructure automation initiatives",
+                        "Work with cloud networking, compute, storage, identity, security, containers, and data services",
+                        "Evaluate existing enterprise environments and recommend practical future-state architectures",
+                        "Apply cloud cost optimization and FinOps principles to engineering decisions",
+                        "Software Development & DevOps",
+                        "Design and develop production-quality software, APIs, integrations, and automation solutions",
+                        "Write clean, scalable, maintainable code, preferably using Python and modern development frameworks",
+                        "Integrate enterprise applications using REST APIs, webhooks, event streams, and other integration technologies",
+                        "Implement CI/CD pipelines, DevOps practices, and Infrastructure as Code where appropriate",
+                        "Build reusable automation components and integration frameworks",
+                        "Design and integrate observability solutions across cloud platforms, applications, infrastructure, and enterprise systems",
+                        "Leverage tools such as Grafana, Azure Monitor, and ServiceNow to improve operational visibility",
+                        "Correlate logs, metrics, traces, and events to identify issues and improve system performance",
+                        "Apply AI-driven analytics to anomaly detection, root-cause analysis, predictive operations, and automated remediation",
+                        "Support reliability engineering practices, including service-level indicators (SLIs), service-level objectives (SLOs), and operational readiness",
+                        "Develop data pipelines and integrations that support intelligent applications",
+                        "Incorporate security, identity management, access controls, and data protection into solution designs",
+                        "Support responsible AI adoption through appropriate governance, auditability, human oversight, and compliance controls",
+                        "Move seamlessly between strategic discussions, solution design, and hands-on development",
+                        "Communicate complex technical concepts clearly to nontechnical stakeholders",
+                        "Take ownership of solutions from initial discovery through implementation and production",
+                        "You might spend the morning collaborating with enterprise leaders to understand a business challenge, the afternoon designing an AI-enabled solution, and the following days writing code, integrating platforms, and bringing that solution into production",
+                        "You'll have the chance to solve challenging business problems, work directly with enterprise customers, influence technical direction, and build solutions that deliver meaningful operational impact"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=zRgJbOzGHHOCFQRiAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBBFsc0RrAYLC4lZEWy0khAlNooXCJvNsFlZZ8LORlN6By_huTyJsfnwHo-ffCZJceDw1KGBgqwjxADf1xv2ZQq5576BOZyDaVFi0NExwRJOXIOgHi2MfGS2Hqe7NsZOtkqJ-MxKHGOTGb4rJqx5UDeu5T-VtDpg53XEar1ZDVlHdjEbLzlCziS9j44sOIJL4IdrkAymcC1_LZEHhasAAAA&shmds=v1_ARwrE23OgGUSRe19qWy3aNhE7IWwXL2DIP9SZ9O7u3cffw9C5w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=zRgJbOzGHHOCFQRiAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba85ea33d2b0af99ad587/images/wfFoMwj5EG43NekEGfHMHywi--A8mKqf885ZogV0Ne0.jpeg",
+            "extensions": [
+                "11 days ago",
+                "90–110 an hour",
+                "Contractor",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/forward-engineer-%E2%80%93-ai-cloud-orchestration-at-jobot-consulting-4476044268",
+            "job_title": "Forward Engineer – AI, Cloud & Orchestration",
+            "description": "Want to learn more about this role and Jobot Consulting? Click our Jobot Consulting logo and follow\nour LinkedIn page!\n\n\nJob details:\nThis Jobot Consulting Job is hosted by: Merwan Zattam\nAre you a fit? Easy Apply now by clicking the \"Easy Apply\" button\nand sending us your resume.\nSalary: $90 - $110 per hour\n\n\nA bit about us:\n\nWe are a leading strategic service provider with over 25 years of experience helping organizations transform their technology infrastructure to drive business success. Our team specializes in delivering innovative IT solutions across cloud services, cybersecurity, networking, data center modernization, and managed services.\n\nWith a client-centric approach, we empower businesses to overcome complex IT challenges and accelerate their digital transformation. Our solutions are tailored to meet the needs of mid-market and enterprise clients across a wide range of industries, including healthcare, finance, government, and education.\n\nBacked by a deep bench of certified experts and strategic partnerships with top-tier technology providers, we offer a comprehensive portfolio that includes cloud architecture and migration, disaster recovery, security operations, IT modernization, and more. Our mission is to help organizations not just keep up—but stay ahead—in an ever-evolving technology landscape.\n\n\nWhy join us?\n\nJobot Consultant Benefits\nAs a W2 contractor through Jobot, you’ll have access to a comprehensive benefits package designed to support your health, well-being, and financial security:\n\nHealth & Wellness\nMedical Insurance – Multiple plans available, including PPO and HDHP options\n\nDental Insurance – Coverage for preventive, basic, and major services\n\nVision Insurance – Includes exams, lenses, frames, and contact lenses\n\nFinancial Benefits\n401(k) Retirement Plan – Includes employer match to help you save for the future\n\nWeekly Direct Deposit – Reliable and convenient payment schedule\n\nTime Off\nPaid Sick Leave – In accordance with state and local laws\n\nPaid Holidays – Select paid holidays may apply depending on contract length and client\n\nAdditional Perks\nAccess to Jobot’s Dedicated Support Team – For payroll, HR, and benefits questions\n\nCareer Support – Ongoing access to a recruiter who advocates for your career goals\n\nOption to Convert – Many Jobot contracts include potential for full-time hire\n\n\nJob Details\n\nForward Engineer – AI, Cloud & Orchestration\nLocation: Providence, RI (Onsite with some remote flexibility)\nEmployment Type: Contract-to-hire\nLevel: Senior / Principal Individual Contributor\n\nAbout the Opportunity\nWe are seeking a highly skilled and innovative Forward Engineer – AI, Cloud & Orchestration to help enterprise organizations design, build, and deploy next-generation solutions leveraging artificial intelligence, cloud technologies, automation, and intelligent orchestration.\nThis is an exciting opportunity for a hands-on engineer who enjoys solving complex business challenges, developing cutting-edge technology, and bringing innovative solutions from concept to production.\nUnlike traditional architecture or consulting positions, this role combines deep technical engineering expertise with direct customer engagement. You'll work closely with business leaders, technical stakeholders, and engineering teams to understand challenges, design solutions, write code, and deliver measurable business outcomes.\nThe ideal candidate is a technically versatile problem-solver with strong experience in Generative AI, Microsoft Azure, software development, enterprise integrations, and workflow automation.\n\nWhat You'll Be Doing\nAI Engineering & Intelligent Automation\n\n\n\tDesign, develop, and deploy enterprise-grade AI applications, intelligent agents, copilots, and automated workflows.\tBuild solutions using leading LLM platforms, including OpenAI, Anthropic Claude, and Microsoft Azure AI.\tDevelop Retrieval-Augmented Generation (RAG) solutions and enterprise knowledge architectures.\tIntegrate AI capabilities into existing enterprise applications, business processes, and operational environments.\tRapidly transform business requirements into prototypes, minimum viable products (MVPs), and production-ready solutions.\tEvaluate emerging AI technologies and identify practical applications that deliver measurable business value.\nEnterprise Orchestration & Integration\n\tDesign and implement intelligent workflows connecting applications, APIs, enterprise data, infrastructure, AI agents, and business processes.\tAutomate complex processes spanning multiple systems, departments, and technologies.\tDevelop event-driven workflows that monitor conditions, analyze data, recommend actions, and trigger automated responses.\tIntegrate business rules, approval processes, governance controls, and human-in-the-loop decision-making.\tIdentify opportunities to eliminate manual processes, improve operational efficiency, and streamline enterprise workflows.\nCloud Architecture & Engineering\n\tDesign and implement secure, scalable cloud and hybrid-cloud solutions, primarily within Microsoft Azure.\tDevelop and support cloud modernization, application integration, and infrastructure automation initiatives.\tWork with cloud networking, compute, storage, identity, security, containers, and data services.\tEvaluate existing enterprise environments and recommend practical future-state architectures.\tApply cloud cost optimization and FinOps principles to engineering decisions.\nSoftware Development & DevOps\n\tDesign and develop production-quality software, APIs, integrations, and automation solutions.\tWrite clean, scalable, maintainable code, preferably using Python and modern development frameworks.\tIntegrate enterprise applications using REST APIs, webhooks, event streams, and other integration technologies.\tImplement CI/CD pipelines, DevOps practices, and Infrastructure as Code where appropriate.\tBuild reusable automation components and integration frameworks.\nObservability, SRE & Operational Intelligence\n\tDesign and integrate observability solutions across cloud platforms, applications, infrastructure, and enterprise systems.\tLeverage tools such as Grafana, Azure Monitor, and ServiceNow to improve operational visibility.\tCorrelate logs, metrics, traces, and events to identify issues and improve system performance.\tApply AI-driven analytics to anomaly detection, root-cause analysis, predictive operations, and automated remediation.\tSupport reliability engineering practices, including service-level indicators (SLIs), service-level objectives (SLOs), and operational readiness.\nData, Security & AI Governance\n\tIntegrate structured and unstructured enterprise data into AI and automation solutions.\tDevelop data pipelines and integrations that support intelligent applications.\tIncorporate security, identity management, access controls, and data protection into solution designs.\tSupport responsible AI adoption through appropriate governance, auditability, human oversight, and compliance controls.\nWhat We're Looking For\nRequired Qualifications\n\t8+ years of experience in software engineering, cloud engineering, solution architecture, DevOps, SRE, automation, or related technical disciplines.\tProven experience designing, developing, and deploying enterprise-scale technology solutions.\tStrong hands-on expertise with Microsoft Azure and cloud architecture.\tPractical experience with Generative AI, Large Language Models (LLMs), and AI-powered applications.\tExperience building or integrating AI agents, agentic workflows, or intelligent automation solutions.\tStrong programming and software development skills, with Python strongly preferred.\tExperience developing APIs and integrating complex enterprise systems.\tSolid understanding of distributed systems, cloud infrastructure, and modern application architectures.\tExperience with workflow automation and orchestration.\tFamiliarity with observability, monitoring, and enterprise operations.\tUnderstanding of enterprise data integration, security, and governance.\tStrong communication skills with the ability to collaborate directly with business executives, customers, and technical teams.\nPreferred Technical Experience\nExperience with several of the following technologies and disciplines is highly desirable:\n\tAI & LLMs: OpenAI, Anthropic Claude, Claude Code, Azure OpenAI, AI agents, RAG, vector databases, and agentic frameworks.\tCloud & DevOps: Microsoft Azure, Azure DevOps, AWS, Kubernetes, containers, Infrastructure as Code, and CI/CD.\tAutomation & Integration: Python, REST APIs, event-driven architecture, workflow orchestration, and enterprise integration platforms.\tObservability & Operations: Grafana, Azure Monitor, ServiceNow, SRE, automated remediation, and FinOps.\tEnterprise Platforms: Microsoft 365, Copilot, enterprise data platforms, and business process automation.\tExperience supporting healthcare, financial services, or other highly regulated enterprise environments is a plus.\nBeyond the Technical Skills\nWe're looking for someone who can do more than design an impressive architecture.\nThe ideal candidate will be able to:\n\tEngage directly with business and IT leaders to understand complex operational challenges.\tTranslate business needs into practical, scalable technical solutions.\tMove seamlessly between strategic discussions, solution design, and hands-on development.\tCommunicate complex technical concepts clearly to nontechnical stakeholders.\tCollaborate across software engineering, infrastructure, security, data, and business teams.\tTake ownership of solutions from initial discovery through implementation and production.\tThrive in environments where requirements evolve and creative problem-solving is essential.\tBalance innovation with security, reliability, cost, and measurable business value.\nThe Ideal Candidate\nWe're looking for a builder, not just an architect.\nYou might spend the morning collaborating with enterprise leaders to understand a business challenge, the afternoon designing an AI-enabled solution, and the following days writing code, integrating platforms, and bringing that solution into production.\nYou understand how to connect the entire technology ecosystem:\n\nBusiness Processes → Data → AI → Applications → Cloud → Observability → Automation → Business Outcomes\nYou're curious, adaptable, technically broad, and passionate about turning emerging technologies into real-world enterprise solutions.\n\nWhy This Opportunity?\nThis position offers the opportunity to work at the forefront of enterprise AI innovation, combining advanced software engineering, cloud architecture, and intelligent automation. You'll have the chance to solve challenging business problems, work directly with enterprise customers, influence technical direction, and build solutions that deliver meaningful operational impact.  If you're a hands-on engineer who enjoys working across AI, cloud, software development, and enterprise automation—and wants to see your solutions make a real difference—we'd love to connect.\n\nInterested in hearing more? Easy Apply now by clicking the \"Easy Apply\" button.\n\nJobot is an Equal Opportunity Employer. We provide an inclusive work environment that celebrates diversity and all qualified candidates receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, age (40 and over), disability, military status, genetic information or any other basis protected by applicable federal, state, or local laws. Jobot also prohibits harassment of applicants or employees based on any of these protected categories. It is Jobot’s policy to comply with all applicable federal, state and local laws respecting consideration of unemployment status in making hiring decisions.\n\nSometimes Jobot is required to perform background checks with your authorization. Jobot will consider qualified candidates with criminal histories in a manner consistent with any applicable federal, state, or local law regarding criminal backgrounds, including but not limited to the Los Angeles Fair Chance Initiative for Hiring and the San Francisco Fair Chance Ordinance.\n\nInformation collected and processed as part of your Jobot candidate profile, and any job applications, resumes, or other information you choose to submit is subject to Jobot's Privacy Policy, as well as the Jobot California Worker Privacy Notice and Jobot Notice Regarding Automated Employment Decision Tools which are available at jobot.com/legal.\n\nBy applying for this job, you agree to receive calls, AI-generated calls, text messages, or emails from Jobot, and/or its agents and contracted partners. Frequency varies for text messages. Message and data rates may apply. Carriers are not liable for delayed or undelivered messages. You can reply STOP to cancel and HELP for help. You can access our privacy policy here: jobot.com/privacy-policy\n\n\nWant to learn more about this role\nand Jobot Consulting?\nClick our Jobot Consulting logo and follow our LinkedIn page!",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/forward-engineer-%E2%80%93-ai-cloud-orchestration-at-jobot-consulting-4476044268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/forward-engineer-ai-cloud-orchestration-jobot-consulting-providence-ri--t7xk-880920851?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGb3J3YXJkIEVuZ2luZWVyIOKAkyBBSSwgQ2xvdWQgXHUwMDI2IE9yY2hlc3RyYXRpb24iLCJjb21wYW55X25hbWUiOiJKb2JvdCBDb25zdWx0aW5nIiwiaHRpZG9jaWQiOiJ6UmdKYk96R0hIT0NGUVJpQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzFGdldTMW1UWGRTYzNWcFpHeERjSEpIZDNwMGFIaERkMmhaV2xSMWJrcEdSRXRTYjNWb1EzTnhWamd4WWtSTWFVOXdiazFJUmtoMU1VMXBPRkIzUkdrNWJERktkRFJ5WTE5RU0wUkNUa0pmYm5wMGRXaHNUbEJtT0VkaVJtOWtPRGRrVmtKNGEzVmFlVmxsTUZScFRYZHZjVnBUWnpkUWQwcFVNalZRU2tKRFJ6aHJabWdTRjFnMmFtSmhkbUZCUmw4eWFqVk9iMUIzT0VOSWVVRm5HaUpCUkhOeU9XWlRiV1Z5WmpKWVVXZ3djbTE2ZW1SblpHbG1ZVjkyVEhvM2FtWlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJ6UmdKYk96R0hIT0NGUVJpQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Senior Cloud / AI Developer",
+            "company_name": "Orion Innovation",
+            "location": "Anywhere",
+            "via": "Jobgether",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong professional experience developing backend services and APIs in Java",
+                        "Hands-on experience designing, deploying, and operating applications on GCP, using serverless and/or container-based approaches",
+                        "Experience designing and implementing RESTful APIs, including authentication/authorization patterns and integration with other services",
+                        "Experience integrating AI capabilities into applications and familiarity with basic evaluation/monitoring concepts",
+                        "Knowledge of secure engineering practices, including least privilege, service accounts, secrets management, encryption in transit/at rest, and audit logging",
+                        "Familiarity with CI/CD and infrastructure-as-code and Git-based development workflows",
+                        "Strong troubleshooting skills for cloud applications, including defect triage, performance tuning, and production support with observability tools",
+                        "Strong collaboration and communication skills across engineering, QA, DevOps, product, and security stakeholders",
+                        "Over Thirteen (13) years’ of relevant experience",
+                        "A degree from an accredited College/University in the applicable field of services is required",
+                        "If the individual's degree is not in the applicable field then four additional years of related experience is required",
+                        "Note: Special credentials (licenses and/or certifications) may be required at the Task Order level on a case-specific basis"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Senior Cloud / AI Developer designs, develops, and maintains Java-based, cloud-native applications on GCP that support business workflows",
+                        "This role builds secure, scalable services",
+                        "The position collaborates closely with DevOps, QA, Product Management, and security stakeholders to deliver reliable solutions that meet performance, security, and compliance expectations",
+                        "Design, develop, and maintain Java-based applications for cloud environments, using modern engineering practices",
+                        "and cloud-native patterns",
+                        "Implement cloud-native solutions on GCP to support ingestion, processing, storage, retrieval, and distribution workflows",
+                        "Create and maintain RESTful APIs for seamless integration with internal services and external partners, including versioning, documentation, and backward compatibility",
+                        "Implement AI-enabled capabilities for use cases",
+                        "Identify, troubleshoot, and resolve technical issues and defects in cloud applications, including root-cause analysis and preventative fixes",
+                        "Ensure applications meet security standards and applicable compliance requirements through secure coding practices, authorization controls, encryption, auditing, and policy-aligned data handling",
+                        "Develop and maintain CI/CD pipelines and infrastructure-as-code for repeatable deployments and environment consistency in partnership with DevOps",
+                        "Implement observability practices including logging, metrics, tracing, alerting, and operational documentation/runbooks",
+                        "Work closely with cross-functional teams including DevOps, QA, and Product Management to plan, deliver, test, and support high-quality software solutions",
+                        "Participate in architecture/design reviews, code reviews, and technical documentation; contribute to shared standards and best practices",
+                        "Typically performs all functional duties independently"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=iTGrE_uRGNLXUyluAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCMBRFce0nOMibBRspuOgkClIXBwfHktZHEonvhrxY-hv-sXU5nOWc6ruomjtLQKZTxOdJho4tnXnkiMSZNnRFT8o2D54gdAFc5OXBl5J0b4xqrJ0WW8JQD3gbCPeYzAu9_tGpt5lTtIW7Zred6iRuvbrlMK9aEYxzOGsQelj1QVyB_ACghwtFlAAAAA&shmds=v1_ARwrE23RDC5Q9KTirv-98gcw3Qg_v5Xhakn68rP1YWS7sWzDqw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=iTGrE_uRGNLXUyluAAAAAA%3D%3D",
+            "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAZlBMVEUAAAD///8BAQH+/v77+/uJiYn39/d0dHTPz88FBQUcHBzj4+PY2NghISHLy8vIyMi5ubk4ODigoKDv7+9mZmaDg4Oampqzs7OPj4/AwMAwMDBJSUlQUFASEhJeXl6rq6spKSlCQkJH3kGkAAACDUlEQVRIie2V647jIAyFHUhzT5OmTXpJm+m8/0uOMTaBhNHur5VW6pFmqoA/OBgDAB999B9K0f+yesX61O9YCVAtX0VT1013OFGwJ3iNB6t2h1bDOXEqLgEJcOGOemdoZExr+9e9wQevtjOZttwdG30wTdIcPPBsueTkQ7i8JolodKRxSgMXm/kKmS+ULNQ41RRxC7mJm9FgoOwFpQUzHjjM6UkCdVpfp6lbs9ub7UUwl2SHE/YSVy/03d4c+U1eMXWyal8PiTq6pu/MmxKdSkQZgDJ+Q/k1UrDIKlvztToNSq+wreksDWaOgWPJfLfuj8e1tZvQgcqZnTC2Sm1Odej0xCE3j8OBa1mkgpEnvIc5ne1oSR6CbK/DhiOD+QbUpmw8kKxKNIKP1NYVloPyD6a1qtGqilpFp7au7hCCNjl6rQoCZ5ccU8hanAZXgT0ZOn06ELP3xet6oiNN4Pm1Bb0CoGaFdcAFoM+t6+5hCz7kSK0lN3sl13D3ZQd6RU6d8L4lms/ZDDPvfl3tQXessLufBjxWmsHenFWrK+xBtwy9/hKYVeulssRAU+d0SVnMyi7ryZcCX4shSJfV5tYwGrFn4E28QmzGtTQ9aarBmsFnDKSvQ+ZBOP3xYZwsvNqmjIPms90+AcaI7NQAMVCqWx6duzw6+GTkVu846CdKnjkVHoW/U/nnkI8++qf6AZX7E6Q1K74bAAAAAElFTkSuQmCC24",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "source_link": "https://jobgether.com/offer/6a8d0c561de6f4542a57ad9c-senior-cloud-ai-developer",
+            "job_title": "Senior Cloud / AI Developer",
+            "description": "This a Full Remote job, the offer is available from: United States\n\n \n\nOrion Innovation is a premier, award-winning, global business and technology services firm.  Orion delivers game-changing business transformation and product development rooted in digital strategy, experience design, and engineering, with a unique combination of agility, scale, and maturity.  We work with a wide range of clients across many industries including financial services, professional services, telecommunications and media, consumer products, automotive, industrial automation, professional sports and entertainment, life sciences, ecommerce, and education.\n\nSummary: \n\n\nThe Senior Cloud / AI Developer designs, develops, and maintains Java-based, cloud-native applications on GCP that support business workflows. This role builds secure, scalable services. The position collaborates closely with DevOps, QA, Product Management, and security stakeholders to deliver reliable solutions that meet performance, security, and compliance expectations.\n\n\nKEY RESPONSIBILITES\n\n\n\nDesign, develop, and maintain Java-based applications for cloud environments, using modern engineering practices. and cloud-native patterns.\nImplement cloud-native solutions on GCP to support ingestion, processing, storage, retrieval, and distribution workflows.\nCreate and maintain RESTful APIs for seamless integration with internal services and external partners, including versioning, documentation, and backward compatibility\nImplement AI-enabled capabilities for use cases.\nIdentify, troubleshoot, and resolve technical issues and defects in cloud applications, including root-cause analysis and preventative fixes.\nEnsure applications meet security standards and applicable compliance requirements through secure coding practices, authorization controls, encryption, auditing, and policy-aligned data handling.\nDevelop and maintain CI/CD pipelines and infrastructure-as-code for repeatable deployments and environment consistency in partnership with DevOps.\nImplement observability practices including logging, metrics, tracing, alerting, and operational documentation/runbooks.\nWork closely with cross-functional teams including DevOps, QA, and Product Management to plan, deliver, test, and support high-quality software solutions.\nParticipate in architecture/design reviews, code reviews, and technical documentation; contribute to shared standards and best practices.\n\n\nREQUIRED SKILLS\n\n\n\nStrong professional experience developing backend services and APIs in Java.\nHands-on experience designing, deploying, and operating applications on GCP, using serverless and/or container-based approaches.\nExperience designing and implementing RESTful APIs, including authentication/authorization patterns and integration with other services.\nExperience integrating AI capabilities into applications and familiarity with basic evaluation/monitoring concepts.\nKnowledge of secure engineering practices, including least privilege, service accounts, secrets management, encryption in transit/at rest, and audit logging.\nFamiliarity with CI/CD and infrastructure-as-code and Git-based development workflows.\nStrong troubleshooting skills for cloud applications, including defect triage, performance tuning, and production support with observability tools.\nStrong collaboration and communication skills across engineering, QA, DevOps, product, and security stakeholders.\n\nPreferred Qualifications\n\n\n\nExposure to Agile methodologies and Software Development Life Cycle (SDLC) practices.\nFamiliarity with change/configuration management tools (for example: VersionOne, ServiceNow) and/or Application Lifecycle Management (ALM) practices.\nHands-on exposure to container or serverless concepts (for example: Docker, Kubernetes fundamentals, or managed/serverless deployments).\n\nAdditional Required Skills/Experience:\n\n\n\nOver Thirteen (13) years’ of relevant experience.\nA degree from an accredited College/University in the applicable field of services is required. If the individual's degree is not in the applicable field then four additional years of related experience is required.\nTypically performs all functional duties independently.\n\nNote: Special credentials (licenses and/or certifications) may be required at the Task Order level on a case-specific basis.\n\nOrion is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, citizenship status, disability status, genetic information, protected veteran status, or any other characteristic protected by law.\n\n\nCandidate Privacy Policy\n\n\nOrion Systems Integrators, LLC and its subsidiaries and its affiliates (collectively, “Orion,” “we” or “us”) are committed to protecting your privacy. This Candidate Privacy Policy (orioninc.com) (“Notice”) explains:\n\n\n\nWhat information we collect during our application and recruitment process and why we collect it;\nHow we handle that information; and\nHow to access and update that information.\n\nYour use of Orion services is governed by any applicable terms in this notice and our general Privacy Policy.\n\n\nThis offer from \"Orion Innovation\" has been enriched by Jobgether.com and got a 0% flex score.",
+            "apply_options": [
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6a8d0c561de6f4542a57ad9c-senior-cloud-ai-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ2xvdWQgLyBBSSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJPcmlvbiBJbm5vdmF0aW9uIiwiaHRpZG9jaWQiOiJpVEdyRV91UkdOTFhVeWx1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEROQlZGRkxSbGRPVkcwdFdIQnhVbFZ4WDJwYVNUbFdiMmxmV1drNVZFcGZNbXd6UzJsZlJFaEROekZ6VGxCb2VYYzFlWGx1U1hsVGFVNW9SVWsyV0VZMGVIWmxZek5DZEdONVIxcGxWbmR6TW1GcldrWnBVRE5pTVdOM1NGSlhZM0ZRVVVSdmRtNXpiMGwwY1U5dVRITXdNVzlpVlRGSVYzQmtZbE5TV0dONFNWRkdhRWNTRjFnMmFtSmhkbUZCUmw4eWFqVk9iMUIzT0VOSWVVRm5HaUpCUkhOeU9XWlNSVzl1WVZWQlgwMHpjRFJXZURGcWFrTlhhSFpPWkZsQlZqSjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJpVEdyRV91UkdOTFhVeWx1QUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Senior Staff Cloud AI Engineer",
+            "company_name": "Google",
+            "location": "Sunnyvale, CA",
+            "via": "Trabajo.org",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The role involves leading complex, secure simulation environments and end-to-end evaluation pipelines"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=Ym8q3Sksu5Aum4l-AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXMsQrCMBAAUFz7A4LTzaKJCF10KkVE135ASeo1TYl3JXeV-hH-s4jLG1_xWRVlgxQ5Q6Ou76FOPD-gusGFQiTEDHu4swdBl7sBmODKHBJuzoPqJCdrRZIJok5jZzp-Wib0vNiRvfxoZXAZp-QU22N5WMxEYbv-JxAJmpno_XIJd1BXX8jkILGQAAAA&shmds=v1_ARwrE22ePx4NqQuc1YkycFPjG18UAjDVZC2V6hRDZ_nA4B7R_A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=Ym8q3Sksu5Aum4l-AAAAAA%3D%3D",
+            "extensions": [
+                "12 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://us.trabajo.org/job-2283-4bc28aa3aadc83fd57eaf4391f0e81cc",
+            "job_title": "Senior Staff Cloud AI Engineer",
+            "description": "Google's engineers build next-generation technologies at scale, tackling AI, distributed systems, and data storage challenges. The teams push the state-of-the-art in AI and collaborate with product groups to deliver real-world impact.\n\nGoogle Cloud AI Research focuses on innovative problems that scale to enterprise deployments, with an emphasis on governance for CISOs, auditors, and IT teams. The role involves leading complex, secure simulation environments and end-to-end evaluation pipelines.\nJ-18808-Ljbffr",
+            "apply_options": [
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-2283-4bc28aa3aadc83fd57eaf4391f0e81cc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU3RhZmYgQ2xvdWQgQUkgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJodGlkb2NpZCI6IlltOHEzU2tzdTVBdW00bC1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMGhxZWt3MFdrUlFiRkJFYlZCd05FTTNaak00ZG1zelQxTTBhRkZzVjNKbFpFSjRURWhmTmpRNGQzb3pjRVo2TjBsaGVuSmtOSHBpVVVSeVpIRkxSbGcwTUc5V1ptRk1iRVp1VWpSblEzZDVkREJ4YXpScE1GTXhNakZoTnpkWlEwczROSEowWkhGVGJUSllYeTA1VUVKUk1tOUhaRE5hWkY5bFkzTlBkVFJzTkcxNFJtOFNGMWcyYW1KaGRtRkJSbDh5YWpWT2IxQjNPRU5JZVVGbkdpSkJSSE55T1daUlZtaFNUekpNVW5Vd1lsbGxZME5rU1RkalNWWXdiWFZNWW1WUiIsImZjdiI6IjMiLCJmY19pZCI6IlltOHEzU2tzdTVBdW00bC1BQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Sr Staff AI Engineer",
+            "company_name": "Palo Alto Networks, Inc.",
+            "location": "Santa Clara, CA",
+            "via": "Palo Alto Networks",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Note-While the Company will consider applicants who have current work authorization and require a transfer of an existing H-1B visa, the Company is not currently considering applicants who require new visa sponsorship (including new H-1B petitions) or individuals currently in OPT/CPT status who will require future sponsorship to maintain work authorization",
+                        "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience",
+                        "Minimum of 8 years of software engineering experience with demonstrated technical leadership across complex, production-scale systems",
+                        "Deep expertise in full-stack and distributed systems engineering",
+                        "Demonstrated experience setting architecture and technical direction across multiple services, applications, or engineering teams",
+                        "Production experience designing and building AI-integrated systems using LLMs, RAG, tool calling, and agentic workflows",
+                        "Strong understanding of AI evaluation, guardrails, model reliability, security, latency, and production observability",
+                        "Strong understanding of APIs, enterprise data, system integration, cloud-native architecture, and production operations",
+                        "Proven ability to translate ambiguous business problems into clear technical architectures and execution strategies",
+                        "Track record of establishing technical standards and influencing senior engineers and cross-functional stakeholders"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/com-missioned roles) is expected to be the annual range listed below",
+                        "The offered compensation may also include restricted stock units and a bonus",
+                        "$163,200.00 - $264,000.00/yr"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Sr Staff AI Engineer, you will set the technical direction across complex initiatives and define architectural standards for scalable systems",
+                        "You will tackle ambiguous technical problems, remaining hands-on while multiplying your impact through technical leadership and mentorship",
+                        "Your work will shape the architecture and AI-native engineering practices used across our broader portfolio of enterprise applications",
+                        "Set architectural vision and technical direction for AI-first enterprise applications and platforms spanning multiple business domains",
+                        "Lead the architecture and delivery of complex cross-team systems across full-stack applications, cloud-native services, and applied AI",
+                        "Establish reusable engineering standards, reference architectures, and shared capabilities for AI-first systems, including agentic workflows and RAG",
+                        "Partner with senior leaders to translate ambiguous, high-impact problems into clear technical strategies and influence broader direction",
+                        "Drive AI-native engineering practices and modern development workflows using tools like Cursor and Claude Code to improve velocity",
+                        "Mentor senior engineers, raise engineering standards, and multiply technical impact across the broader organization"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=6niuOfkqwQWnKilAAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCQAwAUFz7CU6Zbb0TwUWnUkTqIEI_oKRHeq2eSbkE9E_8XfENr_iuirLL0BmOI9QtnDnOTJRhC1cZQAlzmEAYLiIx0fo0mS169F41uaiGNgcX5OWFaZCPf8ig_3qdMNOS0KjfH3Yft3DclHdMAnUygRvZW_JTK2g5OJgZOmRDaBJmrKCpf468_KOaAAAA&shmds=v1_ARwrE210c61TYfG94Kjalwsk1zLWrBPMg91YlHUY6YQAhbntNg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=6niuOfkqwQWnKilAAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba85ea33d2b0af99ad587/images/3VRRHWMLhBp6X9Ulj8G4Q5lfgbrVVIKpSudtHTK4Myk.png",
+            "extensions": [
+                "16 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-ai-engineer/47263/101714091136",
+            "job_title": "Sr Staff AI Engineer",
+            "description": "Our Mission\n\n\n\nAt Palo Alto Networks®, we’re united by a shared mission—to protect our digital way of life. We thrive at the intersection of innovation and impact, solving real-world problems with cutting-edge technology and bold thinking. Here, everyone has a voice, and every idea counts. If you’re ready to do the most meaningful work of your career alongside people who are just as passionate as you are, you’re in the right place.\n\n\n\nWho We Are\n\n\n\nIn order to be the cybersecurity partner of choice, we must trailblaze the path and shape the future of our industry. This is something our employees work at each day and is defined by our values: Disruption, Collaboration, Execution, Integrity, and Inclusion. We weave AI into the fabric of everything we do and use it to augment the impact every individual can have. If you are passionate about solving real-world problems and ideating beside the best and the brightest, we invite you to join us!\n\n\n\nWe believe collaboration thrives in person. That’s why most of our teams work from the office full time, with flexibility when it’s needed. This model supports real-time problem-solving, stronger relationships, and the kind of precision that drives great outcomes.\n\nJob Summary\n\n\n\nThe Team\n\nInformation Technology - The Information Technology department is responsible for building and maintaining the enterprise systems, infrastructure, and applications that power the company's business workflows and operations.\n\n\nJob Summary\n\nThe IT Engineering team builds AI-first enterprise systems that power critical business workflows across the company. As a Sr Staff AI Engineer, you will set the technical direction across complex initiatives and define architectural standards for scalable systems. You will tackle ambiguous technical problems, remaining hands-on while multiplying your impact through technical leadership and mentorship. Your work will shape the architecture and AI-native engineering practices used across our broader portfolio of enterprise applications.\n\n\nKey Responsibilities\n\nSet architectural vision and technical direction for AI-first enterprise applications and platforms spanning multiple business domains.Lead the architecture and delivery of complex cross-team systems across full-stack applications, cloud-native services, and applied AI.Establish reusable engineering standards, reference architectures, and shared capabilities for AI-first systems, including agentic workflows and RAG.Partner with senior leaders to translate ambiguous, high-impact problems into clear technical strategies and influence broader direction.Drive AI-native engineering practices and modern development workflows using tools like Cursor and Claude Code to improve velocity.Mentor senior engineers, raise engineering standards, and multiply technical impact across the broader organization.\n\nQualifications \n\nNote-While the Company will consider applicants who have current work authorization and require a transfer of an existing H-1B visa, the Company is not currently considering applicants who require new visa sponsorship (including new H-1B petitions) or individuals currently in OPT/CPT status who will require future sponsorship to maintain work authorization.  \n\n\nRequired Qualifications\n\nBachelor’s or Master’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.Minimum of 8 years of software engineering experience with demonstrated technical leadership across complex, production-scale systems.Deep expertise in full-stack and distributed systems engineering.Demonstrated experience setting architecture and technical direction across multiple services, applications, or engineering teams.Production experience designing and building AI-integrated systems using LLMs, RAG, tool calling, and agentic workflows.Strong understanding of AI evaluation, guardrails, model reliability, security, latency, and production observability.Strong understanding of APIs, enterprise data, system integration, cloud-native architecture, and production operations.Proven ability to translate ambiguous business problems into clear technical architectures and execution strategies.Track record of establishing technical standards and influencing senior engineers and cross-functional stakeholders.\nPreferred Qualifications\n\nProficiency in TypeScript, Node.js/NestJS, React, Python, and SQL.Experience with RAG architectures, vector databases, semantic search, retrieval, and context engineering.Experience with LangChain/LangGraph, MCP, A2A protocols, and production agentic architectures.Experience establishing evaluation frameworks, LLM security controls, prompt injection defenses, and input/output validation.Experience with applied machine learning, data science, predictive modeling, or statistical analysis techniques.Experience with Docker, Kubernetes, event-driven systems, and modern cloud infrastructure.Experience using AI-native development environments such as Cursor, Claude Code, or Windsurf in professional workflows.Experience building reusable enterprise platforms or shared technical capabilities adopted across multiple teams.\n\n\nCompensation Disclosure\n\n\n\nThe compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/com-missioned roles) is expected to be the annual range listed below. The offered compensation may also include restricted stock units and a bonus. A description of our employee benefits may be found here.\n\n\n\n$163,200.00 - $264,000.00/yr\n\nOur Commitment \n\n\n\nWe’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.\n\n\n\nWe are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at  accommodations@paloaltonetworks.com.\n\n\n\nPalo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.\n\n\n\nAll your information will be kept confidential according to EEO guidelines.\n\n\n\nIs role eligible for Immigration Sponsorship?: Yes",
+            "apply_options": [
+                {
+                    "title": "Palo Alto Networks",
+                    "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-ai-engineer/47263/101714091136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/sr-staff-ai-engineer-at-palo-alto-networks-4474849518?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LocalJobs.com",
+                    "link": "https://www.localjobs.com/job/santa-clara-ca-sr-staff-ai-engineer-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=7ee3dbeabb8e8432&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "DE Jobs",
+                    "link": "https://dejobs.org/santa-clara-ca/sr-staff-ai-engineer/5A97ACA8D79543EE9A1A7DB2EFEFED8F/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/5923123171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Nexxt",
+                    "link": "https://www.nexxt.com/jobs/sr-staff-ai-engineer-santa-clara-ca-3435109722-job.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "US Jobs With Visa Sponsorship",
+                    "link": "https://visajob.us/jobs/877591-sr-staff-ai-engineer-palo-alto-networks?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTciBTdGFmZiBBSSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IlBhbG8gQWx0byBOZXR3b3JrcywgSW5jLiIsImh0aWRvY2lkIjoiNm5pdU9ma3F3UVduS2lsQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMxWm5ZVkJNZEdSalZVcE1kMkp6UzBOdlRWOXVXbnBYZGxvd1VYRXRUMVEyY1RoS2IwOTJNM2w0VlhFMFVXcFBlVjgxWDBReFoyMXRPRkZXV1VGRFN6QXhNWEJQYjNCNmEzTTFia3N0YUV4cmVEWm5UMGg2VW1KTFZYTnhTMjA0YVZCQlUycFVZMmhmTURZM2NWTnpPRVJvYWpWNmEyZFRhVlpWVVdaM01UQkllVWhsVUV3U0YxZzJhbUpoZG1GQlJsOHlhalZPYjFCM09FTkllVUZuR2lKQlJITnlPV1pSWmpkNVZqbHZTR1Z0V0V3d1VrdDNlakZ3VWtZNVNFaGhNelZuIiwiZmN2IjoiMyIsImZjX2lkIjoiNm5pdU9ma3F3UVduS2lsQUFBQUFBQT09In0="
+        },
+        {
+            "title": "IT Systems Engineer: Cloud Infrastructure | Bellevue, WA, USA",
+            "company_name": "CoreWeave",
+            "location": "Bellevue, WA",
+            "via": "EFinancialCareers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "7-10 years of experience as a Systems, Cloud, or Infrastructure Engineer supporting production environments",
+                        "Strong hands-on GCP experience, including networking, IAM, compute, storage, security, and observability in multi-project environments",
+                        "Working experience with at least one additional public cloud platform, preferably Azure or AWS, and the ability to apply equivalent infrastructure concepts across cloud providers",
+                        "Strong hands-on experience using Terraform to provision and manage cloud infrastructure, including reusable modules, remote state, plan review, troubleshooting, and CI/CD-based deployment",
+                        "Working knowledge of cloud networking, including VPCs/VNets, subnets, routing, DNS, firewalls, load balancers, peering, VPNs, and private connectivity",
+                        "Experience managing IAM, service accounts, workload identities, secrets, and least-privilege access",
+                        "Experience using Git-based development workflows, pull requests, code reviews, and automated validation",
+                        "Experience operating Linux and Windows workloads in the cloud, including deployment, configuration, patching, hardening, and troubleshooting",
+                        "Experience implementing monitoring, logging, alerting, dashboards, and operational runbooks for cloud infrastructure and workloads",
+                        "Proficiency in at least one scripting language, such as Python, Bash, or PowerShell",
+                        "Demonstrated ability to troubleshoot production issues across infrastructure, networking, IAM, operating systems, and application dependencies",
+                        "Clear communication of technical decisions, risks, and trade-offs to technical and non-technical stakeholders",
+                        "You're deeply hands-on with cloud platforms-especially GCP-and enjoy building infrastructure as code with Terraform across multi-cloud environments",
+                        "You have strong problem-solving skills with a proactive, analytical mindset and thrive troubleshooting production issues across infrastructure, networking, and IAM",
+                        "You have excellent communication skills, a demonstrated ability to mentor others, and enjoy collaborating across teams in a fast-paced environment",
+                        "This position requires access to export controlled information",
+                        "To conform to U.S. Government export regulations applicable to that information, applicant must either be (A) a U.S. person, defined as a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (green card holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee under 8 U.S.C. § 1158, (B) eligible to access the export controlled information without a required export authorization, or (C) eligible and reasonably likely to obtain the required export authorization from the applicable U.S. government agency",
+                        "CoreWeave may, for legitimate business reasons, decline to pursue any export licensing process"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base salary range for this role is $182,000 to $242,000",
+                        "The starting salary will be determined by job-related knowledge, skills, experience, and the market location",
+                        "In addition to base salary, our total rewards package includes a discretionary bonus, equity awards, and a comprehensive benefits program (all based on eligibility)",
+                        "The range we've posted represents the typical compensation range for this role",
+                        "To determine actual compensation, we review the market rate for each candidate which can include a variety of factors",
+                        "In addition to a competitive salary, we offer a variety of benefits to support your needs",
+                        "The benefits below reflect our US-based offerings for full-time employees; for roles in other locations, benefits vary and are shared during the hiring process",
+                        "Medical, dental, and vision insurance - 100% paid for by CoreWeave",
+                        "Company-paid Life Insurance",
+                        "Voluntary supplemental life insurance",
+                        "Short and long-term disability insurance",
+                        "Flexible Spending Account",
+                        "Health Savings Account",
+                        "Tuition Reimbursement",
+                        "Ability to Participate in Employee Stock Purchase Program (ESPP)",
+                        "Mental Wellness Benefits through Spring Health",
+                        "Family-Forming support provided by Carrot",
+                        "Paid Parental Leave",
+                        "Flexible, full-service childcare support with Kinside",
+                        "401(k) with a generous employer match",
+                        "Flexible PTO",
+                        "Catered lunch each day in our office and data center locations"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will work hands-on across our internal cloud foundations: landing zones, hybrid connectivity to data centers, and the infrastructure behind identity, collaboration, IT operations, and internal tooling",
+                        "You will also mentor junior engineers and contribute to team-level technical decisions",
+                        "Cloud foundations and architecture (GCP, Azure and AWS)",
+                        "Provision and manage cloud resources within established landing zones, including compute, storage, IAM, and workload configuration",
+                        "Manage IAM, service accounts, Workload Identity Federation, and Secret Manager for internal workloads, aligned with security baselines established by the cloud council",
+                        "Build and maintain Infrastructure as Code using Terraform, including GCP-specific modules for project factory and IAM",
+                        "Partner with Security and Networking teams to implement approved zero-trust and defense-in-depth patterns for internal cloud services",
+                        "Contribute to cloud migrations and integrations tied to company growth, including acquisitions and platform consolidations",
+                        "You will build and operate the cloud infrastructure behind CoreWeave's internal IT platforms and enterprise tooling",
+                        "Core enterprise platforms in GCP projects, multi-tenant Azure, and AWS",
+                        "Shared internal services: VDI, bastion hosts, internal APIs, job runners, and internal tooling",
+                        "GCP-native workloads on GKE, Cloud Run, or Compute Engine",
+                        "Operations, reliability, and automation",
+                        "Maintain the reliability of internal cloud environments, including performance, capacity, cost, and security posture",
+                        "Set up and maintain monitoring, alerting, and logging across GCP, Azure, and AWS environments",
+                        "Implement, test, and maintain backup, disaster recovery, and failover configurations based on defined recovery requirements",
+                        "Identify bottlenecks and propose fixes across performance, security, and scalability",
+                        "Build automation for common workflows using Cloud Build, GitHub Actions, or similar pipelines",
+                        "Contribute to CI/CD pipelines for infrastructure deployment and management",
+                        "Troubleshoot production issues, participate in incident response, and contribute to root-cause analysis and corrective actions",
+                        "Mentorship and collaboration",
+                        "Support and mentor less-experienced engineers through troubleshooting, documentation, code reviews, and knowledge sharing",
+                        "Be a reliable technical resource for the team",
+                        "Work with engineers across teams on system integrations",
+                        "Explain technical ideas and trade-offs to engineers and non-engineers alike",
+                        "This role operates across GCP, Azure, and AWS",
+                        "Act Like an Owner",
+                        "Empower EmployeesDeliver Best-in-Class Client Experiences",
+                        "Export Control Compliance"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=k3gR0Z8LpGwtcKcPAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1XNsQ6CMBAA0LjyBzrdbJAaExeckBiDKxhGU-oJmNIjvSvBxG_yG42jy1tf9FlEVVFB-WLBgeHk2t4h-hRyS-EOhXt4zeKDkeAR3nBEa3EKGEOdxXAtM9jAhRpg1N50QA7ORK3F1aETGTlVitkmLYuW3iSGBkUOG5rVkxr-ceNOexytFrzt9ts5GV27XubksUY9IfTu7_wC3pdlWbEAAAA&shmds=v1_ARwrE22rNhDUXPhvga30hjlzStMnsrRwZfaEEoaXn0qLyAORnA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=k3gR0Z8LpGwtcKcPAAAAAA%3D%3D",
+            "extensions": [
+                "29 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.efinancialcareers.com/jobs-United_States-WA-Bellevue-IT_Systems_Engineer_Cloud_Infrastructure.id24742990",
+            "job_title": "IT Systems Engineer: Cloud Infrastructure | Bellevue, WA, USA",
+            "description": "IT Systems Engineer: Cloud Infrastructure\r\n\r\n\r\n\r\nCoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at www.coreweave.com.\r\n\r\n \r\n\r\n \r\nAbout the Team: \r\n\r\n \r\n\r\n TheIT Engineering at CoreWeave designs, builds, and operates the systems that enable our employees and acquired organizations to work securely and efficiently at scale. The team partners closely with Security, Business Development, PeopleOps, and Corporate functions to deliver resilient, standardized, and automation-first IT solutions that support CoreWeave's rapid growth.\r\n\r\n \r\nAbout the Role: \r\n\r\n \r\n\r\n CoreWeave is hiring an IT Systems Engineer (Cloud Infrastructure) to build and operate the GCP, Azure, and AWS platforms that power our internal IT and enterprise systems. The role covers cloud infrastructure, enterprise IT, and the operational reliability of the platforms those systems run on.\r\n\r\n \r\n\r\n You will work hands-on across our internal cloud foundations: landing zones, hybrid connectivity to data centers, and the infrastructure behind identity, collaboration, IT operations, and internal tooling. \r\n\r\n \r\n\r\n The work is execution-heavy. You will also mentor junior engineers and contribute to team-level technical decisions.\r\n\r\n \r\nWhat you'll do \r\n\r\n \r\nCloud foundations and architecture (GCP, Azure and AWS) \r\n\r\n \r\n  \r\n \r\n• Provision and manage cloud resources within established landing zones, including compute, storage, IAM, and workload configuration. \r\n \r\n• Manage IAM, service accounts, Workload Identity Federation, and Secret Manager for internal workloads, aligned with security baselines established by the cloud council.  \r\n \r\n• Build and maintain Infrastructure as Code using Terraform, including GCP-specific modules for project factory and IAM. \r\n \r\n• Partner with Security and Networking teams to implement approved zero-trust and defense-in-depth patterns for internal cloud services \r\n \r\n• Contribute to cloud migrations and integrations tied to company growth, including acquisitions and platform consolidations. \r\n  \r\n Infrastructure you'll own \r\n \r\n \r\n \r\n You will build and operate the cloud infrastructure behind CoreWeave's internal IT platforms and enterprise tooling. \r\n \r\n \r\n  \r\n \r\n• Core enterprise platforms in GCP projects, multi-tenant Azure, and AWS \r\n \r\n• Shared internal services: VDI, bastion hosts, internal APIs, job runners, and internal tooling \r\n \r\n• GCP-native workloads on GKE, Cloud Run, or Compute Engine \r\n  \r\n Operations, reliability, and automation \r\n \r\n \r\n  \r\n \r\n• Maintain the reliability of internal cloud environments, including performance, capacity, cost, and security posture. \r\n \r\n• Set up and maintain monitoring, alerting, and logging across GCP, Azure, and AWS environments. \r\n \r\n• Implement, test, and maintain backup, disaster recovery, and failover configurations based on defined recovery requirements. \r\n \r\n• Identify bottlenecks and propose fixes across performance, security, and scalability. \r\n \r\n• Build automation for common workflows using Cloud Build, GitHub Actions, or similar pipelines. \r\n \r\n• Contribute to CI/CD pipelines for infrastructure deployment and management. \r\n \r\n• Troubleshoot production issues, participate in incident response, and contribute to root-cause analysis and corrective actions. \r\n  \r\n Mentorship and collaboration \r\n \r\n \r\n  \r\n \r\n• Support and mentor less-experienced engineers through troubleshooting, documentation, code reviews, and knowledge sharing. \r\n \r\n• Be a reliable technical resource for the team. \r\n \r\n• Work with engineers across teams on system integrations. \r\n \r\n• Explain technical ideas and trade-offs to engineers and non-engineers alike. \r\n  \r\n What you bring \r\n \r\n \r\n \r\n This role operates across GCP, Azure, and AWS. GCP is where most new work lands, so that's where we look for the most depth. \r\n \r\n \r\n Required qualifications \r\n \r\n \r\n Required Qualifications \r\n \r\n \r\n  \r\n \r\n• 7-10 years of experience as a Systems, Cloud, or Infrastructure Engineer supporting production environments. \r\n \r\n• Strong hands-on GCP experience, including networking, IAM, compute, storage, security, and observability in multi-project environments. \r\n \r\n• Working experience with at least one additional public cloud platform, preferably Azure or AWS, and the ability to apply equivalent infrastructure concepts across cloud providers. \r\n \r\n• Strong hands-on experience using Terraform to provision and manage cloud infrastructure, including reusable modules, remote state, plan review, troubleshooting, and CI/CD-based deployment. \r\n \r\n• Working knowledge of cloud networking, including VPCs/VNets, subnets, routing, DNS, firewalls, load balancers, peering, VPNs, and private connectivity. \r\n \r\n• Experience managing IAM, service accounts, workload identities, secrets, and least-privilege access. \r\n \r\n• Experience using Git-based development workflows, pull requests, code reviews, and automated validation. \r\n \r\n• Experience operating Linux and Windows workloads in the cloud, including deployment, configuration, patching, hardening, and troubleshooting. \r\n \r\n• Experience implementing monitoring, logging, alerting, dashboards, and operational runbooks for cloud infrastructure and workloads. \r\n \r\n• Proficiency in at least one scripting language, such as Python, Bash, or PowerShell. \r\n \r\n• Demonstrated ability to troubleshoot production issues across infrastructure, networking, IAM, operating systems, and application dependencies. \r\n \r\n• Clear communication of technical decisions, risks, and trade-offs to technical and non-technical stakeholders. \r\n  \r\n Preferred Qualifications \r\n \r\n \r\n  \r\n \r\n• Experience using AI-assisted development tools to accelerate infrastructure engineering, scripting, troubleshooting, and documentation. \r\n \r\n• Familiarity with agentic AI concepts and experience building AI-enabled, end-to-end automation or operational workflows. \r\n \r\n• Experience integrating AI models or agents with enterprise systems, APIs, cloud services, and automation platforms. \r\n  \r\n \r\n \r\n Wondering if you're a good fit? We believe in investing in our people and value candidates who bring unique backgrounds-even if you don't check every box. Here are a few qualities we've found make someone successful on our team. If some of this describes you, we'd love to talk. \r\n \r\n \r\n  \r\n \r\n• You're deeply hands-on with cloud platforms-especially GCP-and enjoy building infrastructure as code with Terraform across multi-cloud environments. \r\n \r\n• You have strong problem-solving skills with a proactive, analytical mindset and thrive troubleshooting production issues across infrastructure, networking, and IAM. \r\n \r\n• You have excellent communication skills, a demonstrated ability to mentor others, and enjoy collaborating across teams in a fast-paced environment. \r\n  \r\n Why CoreWeave? \r\n \r\n \r\n \r\n At CoreWeave, we work hard, have fun, and move fast! We're in an exciting stage of hyper-growth that you will not want to miss out on. We're not afraid of a little chaos, and we're constantly learning. Our team cares deeply about how we build our product and how we work together, which is represented through our core values: \r\n \r\n \r\n  \r\n \r\n• Be Curious at Your Core \r\n \r\n• Act Like an Owner \r\n \r\n• Empower EmployeesDeliver Best-in-Class Client Experiences \r\n \r\n• Achieve More Together \r\n  \r\n \r\n We support and encourage an entrepreneurial outlook and independent thinking. We foster an environment that encourages collaboration and enables the development of innovative solutions to complex problems. As we get set for takeoff, the growth opportunities within the organization are constantly expanding. You will be surrounded by some of the best talent in the industry, who will want to learn from you, too. Come join us! \r\n \r\n \r\n \r\n The base salary range for this role is $182,000 to $242,000. The starting salary will be determined by job-related knowledge, skills, experience, and the market location. We strive for both market alignment and internal equity when determining compensation. In addition to base salary, our total rewards package includes a discretionary bonus, equity awards, and a comprehensive benefits program (all based on eligibility). \r\n \r\n \r\n \r\n \r\n What We Offer \r\n \r\n \r\n \r\n The range we've posted represents the typical compensation range for this role. To determine actual compensation, we review the market rate for each candidate which can include a variety of factors. These include qualifications, experience, interview performance, and location. \r\n \r\n \r\n \r\n In addition to a competitive salary, we offer a variety of benefits to support your needs. The benefits below reflect our US-based offerings for full-time employees; for roles in other locations, benefits vary and are shared during the hiring process. These include: \r\n \r\n \r\n  \r\n \r\n• Medical, dental, and vision insurance - 100% paid for by CoreWeave \r\n \r\n• Company-paid Life Insurance  \r\n \r\n• Voluntary supplemental life insurance  \r\n \r\n• Short and long-term disability insurance  \r\n \r\n• Flexible Spending Account \r\n \r\n• Health Savings Account \r\n \r\n• Tuition Reimbursement  \r\n \r\n• Ability to Participate in Employee Stock Purchase Program (ESPP) \r\n \r\n• Mental Wellness Benefits through Spring Health  \r\n \r\n• Family-Forming support provided by Carrot \r\n \r\n• Paid Parental Leave  \r\n \r\n• Flexible, full-service childcare support with Kinside \r\n \r\n• 401(k) with a generous employer match \r\n \r\n• Flexible PTO \r\n \r\n• Catered lunch each day in our office and data center locations \r\n \r\n• A casual work environment \r\n \r\n• A work culture focused on innovative disruption \r\n  \r\n \r\n \r\n California Applicants \r\n \r\n \r\n \r\n California Consumer Privacy Act \r\n \r\n \r\n \r\n \r\n Equal Opportunity & Accommodations \r\n \r\n \r\n \r\n CoreWeave is an equal opportunity employer, committed to fostering an inclusive and supportive workplace. All qualified applicants and candidates will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. \r\n \r\n \r\n \r\n As part of this commitment and consistent with the Americans with Disabilities Act (ADA), CoreWeave will ensure that qualified applicants and candidates with disabilities are provided reasonable accommodations for the hiring process, unless such accommodation would cause an undue hardship. If reasonable accommodation is needed, please contact: careers@coreweave.com. \r\n \r\n \r\n \r\n \r\n Export Control Compliance \r\n \r\n \r\n \r\n This position requires access to export controlled information. To conform to U.S. Government export regulations applicable to that information, applicant must either be (A) a U.S. person, defined as a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (green card holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee under 8 U.S.C. § 1158, (B) eligible to access the export controlled information without a required export authorization, or (C) eligible and reasonably likely to obtain the required export authorization from the applicable U.S. government agency. CoreWeave may, for legitimate business reasons, decline to pursue any export licensing process.",
+            "apply_options": [
+                {
+                    "title": "EFinancialCareers",
+                    "link": "https://www.efinancialcareers.com/jobs-United_States-WA-Bellevue-IT_Systems_Engineer_Cloud_Infrastructure.id24742990?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJVCBTeXN0ZW1zIEVuZ2luZWVyOiBDbG91ZCBJbmZyYXN0cnVjdHVyZSB8IEJlbGxldnVlLCBXQSwgVVNBIiwiY29tcGFueV9uYW1lIjoiQ29yZVdlYXZlIiwiaHRpZG9jaWQiOiJrM2dSMFo4THBHd3RjS2NQQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hRdFlrRnVSMnhSVjA5UldUVm5NelJ5UVd4Qk5EZDZUVTV0Y0c1WlkxZzVkWFJIT1ZReWFtZHhNbHB6TjBrNVgyVldkRWxZVmxGR1RESm1iMVpmWjJVd2FTMHhja05zUkhvdFVEa3dURmM1TWxwSU5sOWZRVEppY0cxQmJFRldNR000ZUVNM1oxQkhPRGxLTlZodmJYSTBlbmwyVEVOVU0yd3lZVE16TFZseU1VeFBSeTBTRjFnMmFtSmhkbUZCUmw4eWFqVk9iMUIzT0VOSWVVRm5HaUpCUkhOeU9XWlRUMGRSUWw5dk16UldPV3MyYnkxc1pXMVpVWE14T1hkT1ltTkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJrM2dSMFo4THBHd3RjS2NQQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Engineering Manager, Google Cloud AI/ML",
+            "company_name": "PwC",
+            "location": "Washington, DC",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "At least a Bachelor's degree",
+                        "At least 5 years of experience",
+                        "Leading Google Cloud AI/ML engineering teams and client workstreams",
+                        "Building with Google Vertex AI, LangChain, and LangGraph",
+                        "Applying Python, machine learning, and NLP in delivery",
+                        "Coaching teams through agent orchestration and prompt engineering",
+                        "Driving retrieval-augmented generation, guardrails, and vector databases",
+                        "For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The salary range for this position is: $99,000 - $232,000",
+                        "Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws",
+                        "All hired individuals are eligible for an annual discretionary bonus",
+                        "PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Engineering Manager, Google Cloud AI/ML you will lead the design and delivery of Google Cloud AI and machine learning solutions within our Data & Analytics Engineering practice",
+                        "As a Manager you will lead teams, coach junior professionals, manage client accounts, and drive assigned workstreams with autonomous judgment while balancing quality, timelines, and changing client needs",
+                        "In this role at PwC, you will guide technical delivery across cloud-native development and testing efforts, support solution design from concept through implementation, and bring together data, analytics, and AI capabilities to address complex business needs",
+                        "Leading Google Cloud AI and machine learning engineering workstreams from planning through delivery",
+                        "Managing technical teams that build generative AI solutions for client-facing use cases",
+                        "Guiding the design, development, and deployment of LLM based applications, agent orchestration, and retrieval augmented generation patterns",
+                        "Reviewing architecture choices, code quality, and testing approaches for Python based AI solutions and digital tooling",
+                        "Directing model evaluation, prompt engineering, guardrails, and LLMOps activities across multiple delivery tracks",
+                        "Coordinating solution development using Google Vertex AI, LangChain, LangGraph, and LLM APIs",
+                        "Coaching team members on machine learning, natural language processing, and AI fluency in applied project settings",
+                        "Identifying opportunities to improve AI delivery methods, accelerate implementation, and expand reusable solution assets",
+                        "Maintaining client relationships through clear progress updates, issue resolution, and active management of expectations",
+                        "Managing Generative AI, LLMOps, and model evaluation initiatives"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=9x87LnQK_5k6oADyAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3NsQrCMBCAYVy7uzjdLLURwUVBkCiiWHBzLNd6JJF4V3IR-yA-sAou__TBX7xHxWbPLjBRCuygRkZHqYSDiIsENsrzBtujqc8wg5O0oISp8yD8J5O1z7nXlTGqsXKaMYeu6uRhhKmVwdyl1V8a9Zioj5ipWSznQ9Wzm44vLwuB4Yrqv_8sXMLOfgCxIW-clwAAAA&shmds=v1_ARwrE21jqsQREwh_aDSisEN2F6vQ0SjlSIkpI3x5jHwflNV3RQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=9x87LnQK_5k6oADyAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba85ea33d2b0af99ad587/images/Q6o8iZNMja_S2wFz84DJBQDrF_CEltw2iGLg85SF8x0.jpeg",
+            "extensions": [
+                "23 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/engineering-manager-google-cloud-ai-ml-at-pwc-4474114704",
+            "job_title": "Engineering Manager, Google Cloud AI/ML",
+            "description": "The Opportunity\n\nAs a Engineering Manager, Google Cloud AI/ML you will lead the design and delivery of Google Cloud AI and machine learning solutions within our Data & Analytics Engineering practice. As a Manager you will lead teams, coach junior professionals, manage client accounts, and drive assigned workstreams with autonomous judgment while balancing quality, timelines, and changing client needs. In this role at PwC, you will guide technical delivery across cloud-native development and testing efforts, support solution design from concept through implementation, and bring together data, analytics, and AI capabilities to address complex business needs.\n\nResponsibilities\n\n\n\n Leading Google Cloud AI and machine learning engineering workstreams from planning through delivery Managing technical teams that build generative AI solutions for client-facing use cases Guiding the design, development, and deployment of LLM based applications, agent orchestration, and retrieval augmented generation patterns Reviewing architecture choices, code quality, and testing approaches for Python based AI solutions and digital tooling Directing model evaluation, prompt engineering, guardrails, and LLMOps activities across multiple delivery tracks Coordinating solution development using Google Vertex AI, LangChain, LangGraph, and LLM APIs Coaching team members on machine learning, natural language processing, and AI fluency in applied project settings Identifying opportunities to improve AI delivery methods, accelerate implementation, and expand reusable solution assets Maintaining client relationships through clear progress updates, issue resolution, and active management of expectations\n\nWhat You Must Have\n\n At least a Bachelor's degree At least 5 years of experience\n\nWhat Sets You Apart\n\n Leading Google Cloud AI/ML engineering teams and client workstreams Managing Generative AI, LLMOps, and model evaluation initiatives Building with Google Vertex AI, LangChain, and LangGraph Applying Python, machine learning, and NLP in delivery Coaching teams through agent orchestration and prompt engineering Driving retrieval-augmented generation, guardrails, and vector databases\n\nThe salary range for this position is: $99,000 - $232,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance\n\nAs PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. \n\nPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.\n\nLearn more about how we work: https://pwc.to/how-we-work\n\nFor only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.\n\nApplications will be accepted until the position is filled or the posting is removed, unless otherwise set forth on the following webpage. Please visit this link for information about anticipated application deadlines: https://pwc.to/us-application-deadlines",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/engineering-manager-google-cloud-ai-ml-at-pwc-4474114704?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/engineering-manager-google-cloud-ai-ml-washington-dc--b8c0e2ee-d90e-4f8f-a889-665cf70b66a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/engineering-manager-google-cloud-ai-ml-pwc-washington-dc_89193933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Bandana.com",
+                    "link": "https://bandana.com/jobs/d2696fd9-830b-4f1a-bdf2-d76e02deb034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "OpenSkills",
+                    "link": "https://openskills.dev/jobs/1061153?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career.com",
+                    "link": "https://www.career.com/job/pwc/engineering-manager-google-cloud-ai-ml/j202610010559215204870?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-dc-washington-engineering-manager-google-cloud-ai-ml-pwc-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Next Talent Hunt",
+                    "link": "https://www.nexttalenthunt.com/jobs/e99cdc7d-d292-4eda-b7a9-232d170442f1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJFbmdpbmVlcmluZyBNYW5hZ2VyLCBHb29nbGUgQ2xvdWQgQUkvTUwiLCJjb21wYW55X25hbWUiOiJQd0MiLCJodGlkb2NpZCI6Ijl4ODdMblFLXzVrNm9BRHlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVmRtZERJelFWbzJSME5qZDJaemVVUjNSWFZrUldoYVRGZ3hiMTlyY1dsRlpIWnpVekk1ZERnMVRWUmFhbTAxYW5CelFVWlBWVVpmVURjMFlVdzFZblkwWjJOR1FUUkdUazkwTURsWlgyNXlhSEoyY2xoM2FucHZSVXB1YTNOU2NVMURaa2RXV0hSWmJsOVZkR2RaZUZsV1lWWkhUa1JoY0hwT1dqbGxZbXB1TVZGblpIVVNGMWcyYW1KaGRtRkJSbDh5YWpWT2IxQjNPRU5JZVVGbkdpSkJSSE55T1daVU9IRlZURFJVVm10dFNDMWpaR1ZmTkV4eGFtbExNbVJ2VlV4biIsImZjdiI6IjMiLCJmY19pZCI6Ijl4ODdMblFLXzVrNm9BRHlBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Cloud Platform Engineer AI Trainer DevOps 🏆",
+            "company_name": "DataAnnotation",
+            "location": "Reno, NV",
+            "via": "DevITjobs",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We require fluency in English at a native or bilingual level",
+                        "We require proficiency in at least one of the following languages or frameworks: JavaScript, TypeScript, Python, C, C#, C++, React, Go, Java, Kotlin, or Swift",
+                        "We look for strong writing ability and excellent grammar",
+                        "We require a bachelors degree, either completed or currently in progress",
+                        "We prefer prior experience as a Software Developer, Coder, Software Engineer, or Programmer",
+                        "We only consider candidates located in the US, Canada, UK, Ireland, Australia, or New Zealand"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Cloud Platform Engineer AI Trainer 💰 Salary: $104,000 - 208,000 per year",
+                        "Salary: $104,000 - 208,000 per year",
+                        "We offer fully remote work, a flexible schedule that lets us choose projects and hours, and competitive hourly pay of up to $100+ USD depending on performance and project availability"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We design and solve a wide range of coding challenges used to train AI systems",
+                        "We write clear, high-quality code examples and thorough explanations",
+                        "We review AI-generated code for correctness, efficiency, and readability",
+                        "We provide detailed feedback that helps improve future AI models",
+                        "We work on programming tasks such as building applications, solving technical problems, and analyzing data through visualization and insights",
+                        "We complete a short assessment to demonstrate our suitability before paid work becomes available"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=cSaArk4K19FOROXnAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsc0RUk0tmhXBRqtggmihImIbNnHcRDYzy84qOYGtR9AjegST5vOa9370HUX52vLjCkerw419CzmZhhA9pFs4e92zhwyfByfw-7xfMIUdlyCofVUDE2yYjcV4VYfgZKmUiE2MBB2aKqm4VUxYcqfuXMowhdTao-vfsJgvZl3iyIzjTAedEvGg9c2G4ITEE9hf_gxZbfijAAAA&shmds=v1_ARwrE20AInWwex9w6vYrcLBesR2Y9n883RhvL6JjVUwnL6JytQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=cSaArk4K19FOROXnAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba85ea33d2b0af99ad587/images/ZlK9TISpY-RCPAuaSCLW_rn5q34LdyugbSYsqLBajqA.jpeg",
+            "extensions": [
+                "104K–208K a year",
+                "Full-time"
+            ],
+            "source_link": "https://devitjobs.com/jobs/DataAnnotation-Cloud-Platform-Engineer-AI-Trainer",
+            "job_title": "Cloud Platform Engineer AI Trainer DevOps 🏆",
+            "description": "Cloud Platform Engineer AI Trainer 💰 Salary: $104,000 - 208,000 per year \n\nAt DataAnnotation we are looking for a DevOps engineer!\n\n\n🛠️ Our tech stack:\nAI, C#, Cloud, Java, JavaScript, Kotlin, Machine Learning, Python, React, Swift, TypeScript, DevOps\n\n\n\n📝 Rquirements:\n - We require fluency in English at a native or bilingual level.\n- We require proficiency in at least one of the following languages or frameworks: JavaScript, TypeScript, Python, C, C#, C++, React, Go, Java, Kotlin, or Swift.\n- We look for strong writing ability and excellent grammar.\n- We require a bachelors degree, either completed or currently in progress.\n- We prefer prior experience as a Software Developer, Coder, Software Engineer, or Programmer.\n- We only consider candidates located in the US, Canada, UK, Ireland, Australia, or New Zealand.\n- We are looking for applicants who can work as independent contractors in a remote setting.\n\n\n\n👩‍💻👨‍💻 Your responsibilities are:\n - We design and solve a wide range of coding challenges used to train AI systems.\n- We write clear, high-quality code examples and thorough explanations.\n- We review AI-generated code for correctness, efficiency, and readability.\n- We provide detailed feedback that helps improve future AI models.\n- We work on programming tasks such as building applications, solving technical problems, and analyzing data through visualization and insights.\n- We complete a short assessment to demonstrate our suitability before paid work becomes available.\n\n\n\nView this job and over 500 other transparent jobs with salaries (💰💰💰) & tech stacks (🛠️) on DevITJobs\n\nCategory: DevOps Developer / Engineer\nLocation address: North Virginia Street 1664, Reno, United States\n\nSalary: $104,000 - 208,000 per year\n\nBenefits & perks that we offer: \n\n\nDataAnnotation - More about us and the role: \nWe are DataAnnotation, a growing remote team focused on advancing AI technology through practical coding work. Our community includes more than 100,000 professionals across front-end, back-end, full-stack, machine learning, and related engineering fields, all contributing to real-world AI impact. We offer fully remote work, a flexible schedule that lets us choose projects and hours, and competitive hourly pay of up to $100+ USD depending on performance and project availability. This is a contract opportunity, and we support a work style that can fit alongside other commitments or serve as a primary focus. Our platform is available only in the US, Canada, UK, Ireland, Australia, and New Zealand.\n\nAre you looking for DevOps jobs in Reno?",
+            "apply_options": [
+                {
+                    "title": "DevITjobs",
+                    "link": "https://devitjobs.com/jobs/DataAnnotation-Cloud-Platform-Engineer-AI-Trainer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDbG91ZCBQbGF0Zm9ybSBFbmdpbmVlciBBSSBUcmFpbmVyIERldk9wcyDwn4+GIiwiY29tcGFueV9uYW1lIjoiRGF0YUFubm90YXRpb24iLCJodGlkb2NpZCI6ImNTYUFyazRLMTlGT1JPWG5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbDluTkV3MldtOUJXbkE1VVhOblkyUkJVSGxyWTBsNVJ6TkpUbVp0VFhKS01IRnJYekZCUW5vMVRtSmhTMUY0ZFZabVVYTnVabEJ5ZGtSRlQzVTRTbmhoZFRCcVEwUnZNR2RNUkUxV1kyWlVlVTl6TkV3d05ERm1jRFpET0ZGc1owOXRNbGxuVWtsR0xXWTRkbUkyYlVoRU9Fd3pkbWxEYW1WdWMybHNORTExYVMxdmFXMFNGMWcyYW1KaGRtRkJSbDh5YWpWT2IxQjNPRU5JZVVGbkdpSkJSSE55T1daVGJXMVFVR2RYTVd4dWVubDRkRk4xUlZRM1MxaDBVbkY0TjA5MyIsImZjdiI6IjMiLCJmY19pZCI6ImNTYUFyazRLMTlGT1JPWG5BQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Senior Cloud AI Ops Engineer – Hybrid (San Ramon)",
+            "company_name": "PTC",
+            "location": "San Ramon, CA",
+            "via": "Talents By Vaia",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience: 5 years required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will manage Kubernetes clusters, automate infrastructure with Terraform/Ansible, and collaborate with security and development teams to improve CI/CD and observability",
+                        "The role emphasizes AI-assisted incident triage, root-cause analysis, and reducing toil, with on-call rotation and capacity planning"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Cloud+AI+Engineer&htidocid=kPEFs9wiYlOOgQTWAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3NsQrCMBAAUFw7OzndqKKNCC46lSJqF0XdS9IebSS9C7kIdfMf_AD_zS8RF5e3vuQ9SIoLkuUAueN7DdkBjl5gS40lxACf5wv2DxNsDeOLJjjrjmkCcyjYgKAOVQtMsGNuHI42bYxe1kqJuLSRqKOt0oo7xYSGe3VjIz9KaXVA73TEcrla9KmnZjo8XXOwBP9mBnn2BaCNa7-iAAAA&shmds=v1_ARwrE232bRfL0CVLb--sQ4ZCDnP8VMcQvyMf-QfXL8K0eQFrdg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Cloud+AI+Engineer&htidocid=kPEFs9wiYlOOgQTWAAAAAA%3D%3D",
+            "extensions": [
+                "120K–180K a year",
+                "Full-time"
+            ],
+            "source_link": "https://talents.vaia.com/companies/ptc/san-ramon/senior-cloud-ai-ops-engineer-hybrid-san-ramon-148029282/",
+            "job_title": "Senior Cloud AI Ops Engineer – Hybrid (San Ramon)",
+            "description": "ServiceMax is seeking a Senior Cloud Operations Engineer, AI Ops (Cloud) to help run and optimize cloud infrastructure across AWS in a hybrid setting out of San Ramon, CA. You will manage Kubernetes clusters, automate infrastructure with Terraform/Ansible, and collaborate with security and development teams to improve CI/CD and observability.\n\nThe role emphasizes AI-assisted incident triage, root-cause analysis, and reducing toil, with on-call rotation and capacity planning.\n\n #J-18808-Ljbffr\n\nExperience: 5 years required",
+            "apply_options": [
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/ptc/san-ramon/senior-cloud-ai-ops-engineer-hybrid-san-ramon-148029282/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQ2xvdWQgQUkgT3BzIEVuZ2luZWVyIOKAkyBIeWJyaWQgKFNhbiBSYW1vbikiLCJjb21wYW55X25hbWUiOiJQVEMiLCJodGlkb2NpZCI6ImtQRUZzOXdpWWxPT2dRVFdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMU5hVldJMldHY3pialpMZDBSclZtRTViMkpKVFdOblVVVkhkV1ZXTjAxU1IyUXdiVFpYYmpCdGJsOTRWMlpKZGtzeVgydHdTa3BpUzFCV1VtVkNMV3RCZWw4ek1IWklNWFJzV0VGU1RuZE5SVEV6Tm1NeVUxSnNhRXh3U2w4MWRFWndXVVJtWld0UWJXdDZOM0Z6ZGxaU01uVXdRVFZYTVZGT1JVdEhTVmhJVjNWS2NVNFNGMWcyYW1KaGRtRkJSbDh5YWpWT2IxQjNPRU5JZVVGbkdpSkJSSE55T1daVWJUQlNPR1l0WmsxRmVIRllhMlkwVDB3eGRGcHVNbW94TTIxUiIsImZjdiI6IjMiLCJmY19pZCI6ImtQRUZzOXdpWWxPT2dRVFdBQUFBQUE9PSJ9"
+        }
+    ]
+}

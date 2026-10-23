@@ -1,0 +1,895 @@
+{
+    "jobs_results": [
+        {
+            "title": "Data Analytics Manager",
+            "company_name": "Ashby",
+            "location": "Anywhere",
+            "via": "Jobs - Ashby",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Can you develop and amplify the data practices that let a small team do excellent work?",
+                        "Ashby’s Operating Principles place principled thinking ahead of reflexively leaning on prior experience or convention",
+                        "Have exceptional analytical judgment",
+                        "You can calibrate the depth and rigor of an analysis to the decision at hand: knowing when precision matters, when uncertainty is material, and when additional work would not change the outcome",
+                        "You bring readers along through the problem context, data considered, assumptions, meaningful cleaning or reduction steps, caveats, statistical pitfalls, and practical conclusion",
+                        "Are a strong visual and written communicator",
+                        "You care about clear tables and charts, meaningful labels and definitions, coherent narratives, and making complex work understandable without overstating certainty",
+                        "Have deep hands-on SQL experience, plus working fluency with dbt-style data modeling, cloud data warehouses, and BI tools",
+                        "You do not need to have owned a warehouse as a Data Engineer, but you should be comfortable working across the analytical data stack",
+                        "Have led, managed, or functionally acted as a manager for data practitioners in a high-growth company",
+                        "Formal people-management experience is valuable, but not required if you have demonstrated equivalent judgment, coaching, hiring, and team-leadership abilities",
+                        "Bring a product-manager-like instinct for finding the core need behind a request, understanding users and business context, and turning ambiguous questions into useful work",
+                        "Are pragmatic and intellectually flexible",
+                        "You see data as one important input to good judgment alongside qualitative research, collaboration, user understanding, and clear thinking",
+                        "Are intimately familiar with the B2B SaaS industry, workflows and organizational structures",
+                        "Have an eye and instinct for simplicity over complexity in all matters",
+                        "Have experience in a growth-stage, product-oriented technology company and are energized by helping a lean team scale",
+                        "You are looking for a pure-management role removed from the details of analytical work",
+                        "You will need to be comfortable getting hands-on as you learn the team and helping analysts work through difficult problems",
+                        "You have only worked in an environment where analysis begins after another team has fully prepared the data",
+                        "Fluency with SQL in a modern data warehouse is essential",
+                        "You would rather use a metric, dashboard, experiment, or process by default than first ask what degree of evidence is actually needed to make a good decision",
+                        "You are looking for consumer-scale data infrastructure projects",
+                        "You have never formally managed a data team",
+                        "In general, a primary consideration is whether or not data is needed to help clarify points of uncertainty",
+                        "Technical Screen (45 min)",
+                        "(45 mins) Data Team: Analysis and Collaboration",
+                        "(30 mins) Business Partnership",
+                        "(30 mins) Chat with a Founder",
+                        "(15 mins) Follow-Up Conversation + Debrief with the Hiring Manager"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive salary and equity",
+                        "10-year exercise window for stock options",
+                        "You shouldn’t feel pressure to purchase stock options if you leave Ashby - do it when you feel financially comfortable",
+                        "Unlimited PTO, and we will encourage you to take it",
+                        "A minimum of 12 weeks of fully paid parental leave, covered by Ashby",
+                        "Generous equipment, software, and office furniture budget",
+                        "$100/month education budget with more expensive items (like conferences) covered with manager approval",
+                        "If you’re in the US, we offer top-tier health insurance for you and your dependents, with 100% of premiums covered by Ashby"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will manage Ashby’s three Data Analysts: two core analysts and one analyst focused on Revenue Operations",
+                        "Our Data Engineer will initially continue to report directly to me, so this role is deliberately more focused on the analytical side of the team while remaining a close partner in the broader data ecosystem",
+                        "The primary result of your successful management will be a team of analysts with excellent judgment, strong technical methods, clear communication, and a deep sense of ownership",
+                        "Great analysts combine technical judgment, curiosity, communication, business context, and a willingness to own work end to end",
+                        "Ashby’s Data team is lean, and our practices will need to evolve as the company becomes more complex",
+                        "I see this role as an opportunity to improve the ways we prioritize work, review it, share knowledge, maintain quality, and collaborate",
+                        "That will become more challenging as Ashby grows across products, regions, systems, and business functions",
+                        "AI will affect how our analysts work, how the company self-serves analytical questions, and how other teams use internal business data",
+                        "Much of that work depends on trusted, well-modeled, appropriately accessible warehouse-derived data",
+                        "You will help the Data team explore and evaluate the relevant tools, workflows, and partnerships—bringing ambition, practicality, and a high bar for accuracy",
+                        "Your responsibilities as a Data Analytics Manager",
+                        "To understand the role, it helps to understand how our team works today",
+                        "As a rough sketch, the team receives work through a standardized request process",
+                        "You will have a lot of leverage in aiding this process well",
+                        "You should expect to get hands-on with analytical work as you learn the business and the team, and to remain close enough to the work to guide its quality well",
+                        "Can produce and evaluate transparent, rigorous analysis",
+                        "You can appreciate the whole distribution as much as a point estimator",
+                        "Ashby analysts are expected to work across the stack, from modeling through final analysis and dashboards",
+                        "Data questions lend themselves to ongoing \"what about...\" or \"what if...\" explorations, which can be important in some situations but are not always necessary",
+                        "Hiring Manager Screen (30 mins)",
+                        "Assessment: Mini Analysis and Write-up (45min)",
+                        "Final Round - Virtual Onsite (~2.5, can be split into multiple days)",
+                        "(45 mins) Data Team: Analysis and Productivity"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=IQn1HNnMoOrlrBh8AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7AQ5ONwtNRHDRqSAIgpM4l0s8kkh6V3o3tLsfbl3e9prvpmmvaAgdY12sRIUHMiaaoIW7BFDCKWYQhptIqrS7ZLNRz96rVpfUcE0uyuCFKcjsPxL0T68ZJxorGvXH02F2I6f9ttMcFigMLy5Gb3iun_QHjvBXd4cAAAA&shmds=v1_ARwrE21VRxR_MJ6D664qp7tsMNoCkEYUEMJbUPIt_6TpY57Xag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=IQn1HNnMoOrlrBh8AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAb1BMVEVSRtj___9MP9eVj-WbleZWS9lPQ9hkWtxDNNZKPddJO9f7-v5pX9xGONZENtZcUdrHxPG4tO1uZd09LdWloOmDe-GRiuXx8Px9deDDwPBgVdvi4fhza96tqOuhnOiHgOLZ1_bQzfPq6fo2I9SxretzI2dNAAACDElEQVRIic3W24KCIBAG4AFtBDyspzLLytp9_2dcNBNU0Oiq_2p33S8JZ0aAEFLffsAhgddKBCSMGLo4QFp4Hcy5E-vDSgIpc3cARQV7t3UOERmcPnHAfdh9BKn3TRA5lXGH2HgHGctDXoHsTLoE5qdlhxj1jvwJRxhnT1jFjlBUT0j2xv2xQnobHLknTpC1L0h2pu2xQfwZHSlN22OD4qLgw9R3NsgqTTaGtVogHsPfaoS1YXssMLlnRaZuaVirBXJyormC_rJgzZCXZwbsMcJz8SYsKo-DKNUto8X2GCE23bfSH2W2KFgjTNK0-0eteML3ICd5tzTuqVve5pVugtyvnvsfK9jOn4gJssdQnUmq5Ak3oWx9GosurFHwIjahbP3wFQXng8AAeXiIhgS1kke6AekhjHEI18puNgiWkLXa02aqRQjgKpT1otWX3s9XvgrFn97weFJwOggWkIWTCTyM8z45rkA8kqN-nfsK1vEKZPfpNMSdgpNBMIPdd5qWiPykMfqbawaL-3zb9RbRB8EUJgd52Zscl6hWr2QvzLB3UkL8Ki_BqNYhJMyFCSZjx4fDWBO1Vjl9LtwAMc-DLlHTDN2H8scoGCN_G9_Pk6WiyvIv0wtfds7ZgpbzyEb4FTzb4Wk1SQqGN8p2EOXR-uouURY1yMMTi_vz3rvhDNruMC-HZn31HVL2rfYP2egZGbYm_I0AAAAASUVORK5CYII.png",
+            "extensions": [
+                "9 days ago",
+                "150K–240K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://jobs.ashbyhq.com/ashby/db46ff5d-e469-4bba-b8af-c55ac04f311f",
+            "job_title": "Data Analytics Manager",
+            "description": "About this Role👋 Hi, I’m Kevin. I manage the Data team and our analytics products at Ashby. I’m hiring our first Data Analytics Manager at an important point in Ashby’s growth, and I hope you have the patience to read a job posting that may be a little unconventional.\n\nYou will manage Ashby’s three Data Analysts: two core analysts and one analyst focused on Revenue Operations. Our Data Engineer will initially continue to report directly to me, so this role is deliberately more focused on the analytical side of the team while remaining a close partner in the broader data ecosystem.\n\nThe primary result of your successful management will be a team of analysts with excellent judgment, strong technical methods, clear communication, and a deep sense of ownership. I am looking for someone who can help that team do better work, choose better work, and grow into the next stage of Ashby alongside the company.\n\nRather than begin with a long list of tools or years of experience, I want to share four questions that sit at the center of this role. If you apply, your answer should be “yes” to each. Should we get a chance to talk, what I will really want to understand is the nuance: your unique how, why, and what behind your answers.\n\nCan you identify and hire talented people?\n\nWe will continue to grow the analyst team, and you will play a meaningful role in finding and assessing future teammates. Great analysts combine technical judgment, curiosity, communication, business context, and a willingness to own work end to end. Can you recognize that combination in others?\n\nCan you develop and amplify the data practices that let a small team do excellent work?\n\nAshby’s Data team is lean, and our practices will need to evolve as the company becomes more complex. I see this role as an opportunity to improve the ways we prioritize work, review it, share knowledge, maintain quality, and collaborate.\n\nCan you lead the team through the transition from broad shared context to meaningful specialization?\n\nToday, each analyst can know a great deal about the company and data stack. That will become more challenging as Ashby grows across products, regions, systems, and business functions. We will need to develop stronger domain context and clearer ways of working without turning the team into a set of narrow, disconnected specialists.\n\nCan you help the Data team navigate the rapidly evolving implications of AI?\n\nAI will affect how our analysts work, how the company self-serves analytical questions, and how other teams use internal business data. Much of that work depends on trusted, well-modeled, appropriately accessible warehouse-derived data. You will help the Data team explore and evaluate the relevant tools, workflows, and partnerships—bringing ambition, practicality, and a high bar for accuracy.\n\nThese questions add up to a simple reality: Ashby is growing quickly, and the surrounding data needs are becoming more complex. We are becoming a multi-product, global company with more business systems and larger team dynamics. This is a great opportunity at a great company, but it will be hard and consequential work. I am looking for a manager who is excited to help shape the Data function and build an excellent team for its current and future members.\n\n\nYour responsibilities as a Data Analytics ManagerTo understand the role, it helps to understand how our team works today.\n\nData Analysts at Ashby are full-stack members of the Data team. We do not have a traditional split where Analytics Engineers build models and Data Analysts perform analysis only on prepared datasets. Our analysts work across raw and modeled data, contribute to dbt models and metric definitions, conduct deep analysis, build dashboards and other internal data products, and collaborate directly with partners throughout the company.\n\nAs a rough sketch, the team receives work through a standardized request process. Anyone can make a request; we triage it, assess the actual need, and decide whether it can be addressed quickly or should become a more deliberate project with a kickoff and plan. We do not currently organize ourselves around universal SLAs, sprints, or points. Instead, we aim to be good partners: communicate clearly, assess capacity honestly, prioritize thoughtfully, and make deliberate choices about what not to do. You will have a lot of leverage in aiding this process well.\n\nAshby’s Operating Principles place principled thinking ahead of reflexively leaning on prior experience or convention. In practice, that means work at Ashby does not always start with “let’s get all the data and metrics.” Data is one useful tool for resolving uncertainty; it is not automatically the first or only tool. That said, as the company matures and more teams optimize their work, demand for data will likely continue to grow. You will help us meet that demand with good judgment.\n\n\nWhy You Should or Shouldn’t ApplyAt Ashby’s current size, this is a player-coach role. You should expect to get hands-on with analytical work as you learn the business and the team, and to remain close enough to the work to guide its quality well.\n\nYou could be a strong fit if you:\n\nHave exceptional analytical judgment. You can calibrate the depth and rigor of an analysis to the decision at hand: knowing when precision matters, when uncertainty is material, and when additional work would not change the outcome.\n\nCan produce and evaluate transparent, rigorous analysis. You bring readers along through the problem context, data considered, assumptions, meaningful cleaning or reduction steps, caveats, statistical pitfalls, and practical conclusion.\n\nAre a strong visual and written communicator. You care about clear tables and charts, meaningful labels and definitions, coherent narratives, and making complex work understandable without overstating certainty.\n\nHave deep hands-on SQL experience, plus working fluency with dbt-style data modeling, cloud data warehouses, and BI tools. You do not need to have owned a warehouse as a Data Engineer, but you should be comfortable working across the analytical data stack.\n\nHave led, managed, or functionally acted as a manager for data practitioners in a high-growth company. Formal people-management experience is valuable, but not required if you have demonstrated equivalent judgment, coaching, hiring, and team-leadership abilities.\n\nBring a product-manager-like instinct for finding the core need behind a request, understanding users and business context, and turning ambiguous questions into useful work.\n\nAre pragmatic and intellectually flexible. You see data as one important input to good judgment alongside qualitative research, collaboration, user understanding, and clear thinking.\n\nAre intimately familiar with the B2B SaaS industry, workflows and organizational structures.\n\nHave an eye and instinct for simplicity over complexity in all matters.\n\nHave experience in a growth-stage, product-oriented technology company and are energized by helping a lean team scale.\n\nYou can appreciate the whole distribution as much as a point estimator.\n\nPut another way, you shouldn’t apply if:You are looking for a pure-management role removed from the details of analytical work. You will need to be comfortable getting hands-on as you learn the team and helping analysts work through difficult problems.\n\nYou have only worked in an environment where analysis begins after another team has fully prepared the data. Ashby analysts are expected to work across the stack, from modeling through final analysis and dashboards.\n\nSpreadsheet-only analytical work is your preferred mode. Fluency with SQL in a modern data warehouse is essential.\n\nYou would rather use a metric, dashboard, experiment, or process by default than first ask what degree of evidence is actually needed to make a good decision.\n\nYou are looking for consumer-scale data infrastructure projects. We have a large and interesting dataset (see our Talent Trends reports!), but we are a B2B SaaS company. Relative to many B2C services, we are small but mighty.\n\nYou are seeking an in-person work experience. Ashby is remote, although there are employee hotspots around the world and we meet in person at various events throughout the year.\n\nYou have never formally managed a data team.\n\nNaturally, this role is important and represents a combination of different skills. You may not meet every dimension perfectly, and that’s OK. If the dot product of your skill vector with this requirements vector is close to 1, please consider applying, but please note it does not have to be 1.0.\n\n\nData Culture at AshbyAt Ashby, we draw a clear distinction between when to look to data for \"the answer\" and when to use data to aid principled thinking for decision making. In general, a primary consideration is whether or not data is needed to help clarify points of uncertainty. When data is considered necessary, a secondary consideration is to what depth data will be required. Data questions lend themselves to ongoing \"what about...\" or \"what if...\" explorations, which can be important in some situations but are not always necessary.\n\nWith these dynamics in mind, we do not foster an environment where every decision we make should be backed by data, but we do foster an environment where teammates ask whether or not data will fit the task at hand well. This, in turn, allows us to operate a lean team focused on projects where data provides true leverage to our overall business and product goals.\n\nAs a related but distinct point, Ashby’s data culture, as far as transparency and access goes, is very open. We share company-wide access to our financial standings, progress, goals, and generally make any data and reporting results broadly available. Outside of constraints related to whether a teammate has access to a particular tool, there are close to no constraints on access the state of the company as told by data or reporting. In general, we would like to continue and extend open access to data throughout the company (with your help!), but with consideration and not as a substitute for principled thinking :)\n\n\n\nInterview ProcessOur interview process is thorough, but we aim to be respectful of the total candidate time invested. We aim to ensure each person that joins the team is the right fit for Ashby and will provide ample information for you to determine if Ashby is the right fit for you. The expected process for this role is as follows:\n\nHiring Manager Screen (30 mins)\n\nTechnical Screen (45 min)\n\nAssessment: Mini Analysis and Write-up (45min)\n\nFinal Round - Virtual Onsite (~2.5, can be split into multiple days)\n\n(45 mins) Data Team: Analysis and Productivity\n\n(45 mins) Data Team: Analysis and Collaboration\n\n(30 mins) Business Partnership\n\n(30 mins) Chat with a Founder\n\n(15 mins) Follow-Up Conversation + Debrief with the Hiring Manager\n\nNote: please do not reach out to the broader Ashby team requesting more information or time to connect. We will diligently review all applications in detail after the public posting period is over.\n\n\nBenefitsCompetitive salary and equity.\n\n10-year exercise window for stock options. You shouldn’t feel pressure to purchase stock options if you leave Ashby - do it when you feel financially comfortable.\n\nUnlimited PTO, and we will encourage you to take it.\n\nA minimum of 12 weeks of fully paid parental leave, covered by Ashby. For folks outside the US, it may be longer to be in line with regional requirements.\n\nGenerous equipment, software, and office furniture budget. Get what you need to be happy and productive!\n\n$100/month education budget with more expensive items (like conferences) covered with manager approval.\n\nIf you’re in the US, we offer top-tier health insurance for you and your dependents, with 100% of premiums covered by Ashby. In other countries, we provide high-quality supplemental health insurance for you and your dependents, also fully covered by us.\n\nAshby’s success hinges on hiring great people and creating an environment where we can be happy, feel challenged, and do our best work. We’re being deliberate about building that environment from the ground up. I hope that excites you enough to apply.\n\n\nIf you've made it this far and are excited about Ashby, please apply and follow us on LinkedIn to stay up to date!\n\nAshby provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.\n\nAshby is committed to a fair and transparent hiring process. We confirm that this advertisement is for an active, existing vacancy within our organization. Please be advised that we may use artificial intelligence-driven tools to assist our recruitment team in screening, assessing, and selecting candidates for this position.",
+            "apply_options": [
+                {
+                    "title": "Jobs - Ashby",
+                    "link": "https://jobs.ashbyhq.com/ashby/db46ff5d-e469-4bba-b8af-c55ac04f311f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ferrovial",
+                    "link": "https://www.ferrovial.com/en/job-offers/data-analytics-manager/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Workday",
+                    "link": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/HRBP-Data-Analytics-Manager_1036542?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/data-analytics-manager-ashby-9780725?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/bcc62d0a-8fa2-465e-be32-bcea089fc0a8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Wellfound",
+                    "link": "https://wellfound.com/jobs/4634439-data-analytics-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "USA Remote Jobs Mysmartpros",
+                    "link": "https://remoteworld.mysmartpros.com/job/remote-data-analytics-manager-438157d1/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Haystack",
+                    "link": "https://haystackapp.io/jobs/9e76a303-e06f-445c-8eab-1b726a228115?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5dGljcyBNYW5hZ2VyIiwiY29tcGFueV9uYW1lIjoiQXNoYnkiLCJodGlkb2NpZCI6IklRbjFITm5Nb09ybHJCaDhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURkpGTWpaaWNtZzNaR0V6UkhWWVNYUnhSVlV5T1c5T2JIUnlYemd4VEc1TmJrRkxiVmwyYVc1MlYwdGZYMDVOZW1ndFNWQnZkbEZtZEdkaFdISktNVU40UWpWaVQxSm5ZVUpvY0VkbFEwYzBkek5MTUhKNGFuTkliM05zZWpCTU9YZFROR1ZuVG1kT2JtdHZSRk16Um5SWk5UQlZVbXhTTTAxa2FFcHZkMmxxVUZWM1Zra1NGM1UyV0dKaGIxY3hRbVZ0ZURWT2IxQTBjRFp2TmxGckdpSkJSSE55T1daUk16QnBWR2syYW10VlFqWnNTM016TTNCV1NHc3djbkZhWW01MyIsImZjdiI6IjMiLCJmY19pZCI6IklRbjFITm5Nb09ybHJCaDhBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "International Digital Analytics Manager",
+            "company_name": "Monster Energy",
+            "location": "United States",
+            "via": "Monster",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=FX6LE3IPzXn2GCQXAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQrCQBBFsc0RbJxaMCuCjYIQUEQhlViHyTpsVtaZsDNFchnP6tr8x2ver76L6nRjo8xoURgTnGOIVtgUmS16hRYZA2XYwF16UMLsBxCGq0hItDwOZqMenFNNdVArIV97-Thh6mVyb-n1P50OmGlMaNTt9tupHjmsV62wlnu4MOUwQ2R4cjR6waOESH_OvbA4oQAAAA&shmds=v1_ARwrE22K379cwjfPjYAoNOSqHsDGvPw4mMkMANEbBxgImqAbaA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=FX6LE3IPzXn2GCQXAAAAAA%3D%3D",
+            "extensions": [
+                "10 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://www.monster.com/job-openings/international-digital-analytics-manager--2faf2aba-c7eb-4e95-82c1-b359d5aab206",
+            "job_title": "International Digital Analytics Manager",
+            "description": "About Monster Energy: Forget about blending in. That's not our style. We're the risk-takers, the trailblazers, the game-changers. We're not perfect, and we don't pretend to be. We're raw, unfiltered, and a bit unconventional. But our drive is unrivaled, just like our athletes. The power is in your hands to define what success looks like and where you want to take your career. It's not just about what we do, but about who we become along the way. We are much more than a brand here. We are a way of life, a mindset. Join us. \n\nA Day in the Life:In the role of International Digital Analytics Manager, you’ll fuel the international digital growth of Monster’s diverse brand portfolio, transforming data into actionable strategies that power performance across web, social, paid media, search, and promotions. You’ll support the Analytics Director in defining the roadmap and designing impactful measurement frameworks, unlocking consumer insights, and implementing best-in-class analytics solutions that drive smarter marketing decisions and accelerate brand for international markets.\n\nThe Impact You'll Make:Analyze performance across paid social, online video, programmatic, CTV (Connected TV) , search, websites, organic social, creators, CRM (Customer Relationship Management), and eCommerce. Integrate additional media and commercial data where available to provide a comprehensive view of marketing effectiveness. Act as a data storyteller by creating dashboards and presentations that effectively convey actionable insights for technical and non-technical audiences.Use Tealium or equivalent CDP (Customer Data Platform) solutions to analyze first-party data and develop audience segments based on consumer behavior, engagement, and lifecycle stage. Partner with CRM and media teams to define use cases for acquisition, engagement, retention, and reactivation.Build and maintain detailed reports and dashboards in Power BI and Excel, focusing on key performance indicators across different data sources, including website traffic, e-commerce, and CRM metrics. Ensure data accuracy and integrity across all marketing platforms and tools.Work cross-functionally with a global team to monitor campaign KPIs and data sources. Ensure alignment of marketing insights and recommendations with overarching campaign strategies and objectives.Collaborate with relevant teams on tagging and pixel implementation using Google Tag Manager to ensure accurate tracking and reporting of marketing activities.Design, implement, and analyze A/B tests to optimize marketing strategies and personalize site experiences and Identify opportunities to improve conversion rates and implement strategies to enhance user experience and increase sales.Manage development of dashboards and analysis to answer strategic questions for the businessExplore and evaluate emerging AI technologies, including AI agents and agentic workflows, to identify opportunities to automate repetitive analytics tasks, accelerate insight generation, and improve marketing effectiveness.Create institutional knowledge on analytics and educate senior leadership on digital and multi-channel customer trendsUse web analytics tools effectively with vast amounts of data in new and evolving environments and looking at data across platformsWork with business stakeholders to define and evolve reporting/tagging requirements and tools that enable the team to better measure performance and drive actionable insightsConduct regular data audits to ensure data hygiene and accuracy, and troubleshoot data feeds and integrations as needed Who You Are:Prefer a Bachelor's Degree in the field of -- Marketing, Business Analytics, Data Science, Statistics, or a related field.Additional Experience Desired: Between 3-5 years of experience in Power BI, Tableau, Google Analytics 4Additional Experience Desired: Between 3-5 years of experience in data analysis and reporting, Consumer Packaged Goods (CPG) industry preferred.Proven track record of working with top-tier B2C brands and digital marketing platforms. Strong curiosity and learning mindset, with demonstrated interest in emerging AI technologies, including generative AI, AI agents, and agentic workflows. Ability to identify practical applications of AI within marketing analytics and translate experimentation into measurable business value. Computer Skills Desired: Knowledge of Excel, R and SQL; familiarity with business intelligence tools (e.g. Tableau, SAS)Preferred Certifications: Google Analytics 4, Google Tag ManagerAdditional Knowledge or Skills to be Successful in this role: Proven track record of working with top-tier B2C brands and digital marketing platforms.Monster Energy provides competitive total compensation. The estimated annual salary range for this position is listed below. Actual compensation may vary based on skills, qualifications, experience, and work location.\n\nPay Range\n\n$103,275 - $125,000USD\n\nFor United States applicants:\nEqual Opportunity Employer/Protected Veterans/Individuals with Disabilities\nThis employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor.\nRead our privacy policy here: \n\n\nSkills:\nA/B Testing, Analysis Skills, Artificial Intelligence (AI), Artificial Intelligence (AI) Agents, Audience Development, Auditing, Brand Marketing (Branding), Business Analysis, Business Intelligence Software, Campaigns, Computer Skills, Consumer Packaged Goods, Cross-Functional, Customer Relationship Management (CRM), Customer/Client Research, Customer/Consumer Behavior, Data Analysis, Data Quality, Data Science, Emerging Technology, Global Branding, Google Analytics, Identify Issues, Internet Search, Internet Video, Leadership, Marketing, Marketing Software, Marketing Strategy, Metrics, Microsoft Excel, Multiplatform/Cross-Platform, Online Marketing, Performance Analysis, Performance Metrics, Power BI, R Programming Language, Reporting Dashboards, Revenue Growth, SQL (Structured Query Language), Statistical Analysis System (SAS), Statistics, Tableau, Use Cases, User Interface/Experience (UI/UX), Web Analytics, Website Conversion, Website Traffic, eCommerce\n\n\nMonster Energy",
+            "apply_options": [
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/international-digital-analytics-manager--2faf2aba-c7eb-4e95-82c1-b359d5aab206?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/digital-analytics-manager-neighborly--t7xk-832029314?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/international-digital-analytics-manager--2faf2aba-c7eb-4e95-82c1-b359d5aab206?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/catalyst-brands/manager-digital-analytics-116975676/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobnova",
+                    "link": "https://jobnova.ai/dashboard/jobs/detail/8b2761058f310fc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Flexrecruit",
+                    "link": "https://flexrecruit.liveblog365.com/remote-jobs/remote-digital-analytics-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CatchRecruit",
+                    "link": "https://catchrecruit.k9w.social-networking.me/remote-jobs/digital-analytics-manager-2-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJbnRlcm5hdGlvbmFsIERpZ2l0YWwgQW5hbHl0aWNzIE1hbmFnZXIiLCJjb21wYW55X25hbWUiOiJNb25zdGVyIEVuZXJneSIsImh0aWRvY2lkIjoiRlg2TEUzSVB6WG4yR0NRWEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXTm1hVkIyYVhaVk1HSkphbk5FZFRFNVowaGtjbmRXUWs5TFl6aG1lVWR4WlV0WVVqaHZWa2hqZW01VmFsWnRORzVDTlhsRE9XNW9lRUpxZFc1UlJETTVWbkZsZUhadVdHbzVaV05FWTFsV01EbFBWa05yVFZkMVJHWmZObVJhVTFVMlgwUjRRazVhTXpWbVVIRjFNMEowTTJweVVFdGpVVWRVVjFaVWMyRnFSRlE1WlhFU0YzVTJXR0poYjFjeFFtVnRlRFZPYjFBMGNEWnZObEZyR2lKQlJITnlPV1pVTVhJelEyMHlXSFJHY1hwZk5qVTRPRzVUUlRnNVNuSXlSbEZuIiwiZmN2IjoiMyIsImZjX2lkIjoiRlg2TEUzSVB6WG4yR0NRWEFBQUFBQT09In0="
+        },
+        {
+            "title": "Manager, Analytics & Strategy (Revenue Operations)",
+            "company_name": "DAVITA",
+            "location": "Denver, CO",
+            "via": "DaVita Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "This individual will oversee a team of analysts, and the ideal candidate combines strong business acumen, revenue cycle knowledge, analytical agility, and leadership capability",
+                        "In addition, this leader should have a passion for solving operational problems, and an ability to work well as part of a fast-paced team",
+                        "Validate results through critical thinking, business context, and analytical rigor",
+                        "Bachelor’s or Master’s degree in Health Informatics, Public Health, Data Science, Statistics, or a related field. -- Required",
+                        "Experience with using AI with daily workflow to improve business outcomes - Required",
+                        "5-10 years of total work experience in progressive roles -- Required",
+                        "2+ years of direct people leadership experience – Required",
+                        "Advanced proficiency in all Microsoft Office applications, specifically Excel – Required",
+                        "Experience analyzing business operations, data, or processes -- Required",
+                        "Demonstrated experience leading analytical, reporting, or business intelligence teams and initiatives– Required",
+                        "Experience translating complex business problems into data-driven insights and recommendations.- Required",
+                        "Ability to influence stakeholders and drive outcomes through analytical problem solving and communication",
+                        "Up to 30%"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Award-winning education and training across multiple career paths to help you reach your potential",
+                        "Performance-based rewards based on stellar individual and team contributions",
+                        "A comprehensive benefits package designed to enhance your health, your financial well-being and your future",
+                        "Dedication, above all, to caring for patients suffering from chronic kidney failure across the nation",
+                        "More than just pay, our DaVita Rewards package connects teammates to what matters most",
+                        "Teammates are eligible to begin receiving benefits on the first day of the month following or coinciding with one month of continuous employment",
+                        "Below are some of our benefit offerings",
+                        "Comprehensive benefits: Medical, dental, vision, 401(k) match, paid time off, PTO cash out",
+                        "Support for you and your family: Family resources, EAP counseling sessions, access Headspace®, backup child and elder care, maternity/paternity leave and more",
+                        "Professional development programs: DaVita offers a variety of programs to help strong performers grow within their career and also offers on-demand virtual leadership and development courses through DaVita’s online training platform StarLearning",
+                        "The Salary Range for the role is $78,000.00 - $119,000.00 per year",
+                        "New York Exempt: New York City and Long Island: $66,300.00/year, Nassau, Suffolk, and Westchester counties: $66,300.00/year, Remainder of New York state: $62,353.20/year New York Non-exempt: New York City and Long Island: $17.00/hour, Nassau, Suffolk, and Westchester counties: $17.00/hour, Remainder of New York state: $16.00/hour",
+                        "DaVita offers a competitive total rewards package, which includes a 401k match, healthcare coverage and a broad range of other benefits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This position is responsible for leading a team of analysts focused on delivering business intelligence, strategic insights, and operational decision support to key stakeholders across and beyond Revenue Operations",
+                        "We are seeking a leader who excels at navigating ambiguity, solving complex business problems, driving innovation through problem solving, and developing high-performing analyst teams while driving meaningful business outcomes",
+                        "As a leader within Periscope, this individual will help shape the future direction of analytics and business intelligence capabilities while supporting the team's broader mission of advancing operational performance through actionable insights and continuous improvement",
+                        "As a leader of analysts, this individual will be responsible for ensuring work is done timely and correctly by their team, as well as helping to develop these analysts to the next stage of their career",
+                        "Communications will be tailored to differing audiences and there will be frequent opportunities to strategize and deliver persuasive recommendations to senior leaders",
+                        "Drive Business Performance & Strategy",
+                        "Establish team priorities, goals, and success metrics aligned to broader organizational objectives",
+                        "Ensure high-quality, timely delivery of insights, recommendations, and analytical work products; takes full accountability for team’s results",
+                        "Translate complex business challenges and high-level strategy into structured analyses and actionable recommendations",
+                        "Manage work across multiple stakeholders and initiatives",
+                        "Communicate proactively and present insights clearly to leaders at multiple levels of the organization; delivers persuasive recommendations to senior audiences",
+                        "Apply critical thinking to remove barriers, resolve issues, and drive sustainable solutions",
+                        "Leadership & Team Development",
+                        "Coach and develop a high-performing team of analysts",
+                        "Create an environment focused on accountability, continuous learning, and professional growth",
+                        "Provide meaningful feedback, career development support, and performance coaching",
+                        "Foster strong team engagement and collaboration",
+                        "Help analysts strengthen business acumen, analytical thinking, communication, and leadership skills",
+                        "·Champion DaVita Mission & Values while modeling effective leadership behaviors",
+                        "Advance Analytical & Technical Excellence",
+                        "Guide analytical approaches and ensure appropriate use of data to support business decisions",
+                        "Ability to break large, ambiguous problems into manageable components",
+                        "Leverage analytical tools and technologies to increase efficiency, visibility, and insight generation",
+                        "Promote strong documentation, process discipline, and knowledge sharing across the team",
+                        "Takes on additional special projects (as required)"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=10Qi5sGVU2JxVGisAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQvCMBBGce3s5HSTqGgjgotOxYJUkIKKq6ThSCvxLuRiaf-Mv9V2-YbHg_clv0lSXDVpi2ENGWnXx8YIzOEeg45oe1jcsEX6IpQeB9QwyRI2cOEKBHUwNTDBmdk6nB3rGL0clBJxqZU46CY1_FFMWHGn3lzJOC-pdUDvhsJrt992qSe7mubZs3hk0BDkSO146FT-AV0Tk-ShAAAA&shmds=v1_ARwrE22WtzmHQadhXUSt980IRgxLU35USjwP56mQByclEhyH1g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=10Qi5sGVU2JxVGisAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba5bbc346ed47df0e99de/images/m7miOuRuCve7QJMt9TIOBuqjC0JHM4P2p1Y8jUL6R7k.png",
+            "extensions": [
+                "26 days ago",
+                "Full-time",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://careers.davita.com/job/R0472685/Manager-Analytics-Strategy-Revenue-Operations",
+            "job_title": "Manager, Analytics & Strategy (Revenue Operations)",
+            "description": "Posting Date\n\n08/20/2026\n\n\n\n2000 16th St, Denver, Colorado, 80202-5117, United States of America\n\n\n\nDaVita is hiring a Manager, Analytics & Strategy (Revenue Operations) for the Midstream Revenue Cycle Analytics & Strategy Team within Revenue Operations (ROPS), known as Team Periscope. This position is responsible for leading a team of analysts focused on delivering business intelligence, strategic insights, and operational decision support to key stakeholders across and beyond Revenue Operations. We are seeking a leader who excels at navigating ambiguity, solving complex business problems, driving innovation through problem solving, and developing high-performing analyst teams while driving meaningful business outcomes.\n\n\n\nThis individual will oversee a team of analysts, and the ideal candidate combines strong business acumen, revenue cycle knowledge, analytical agility, and leadership capability. As a leader within Periscope, this individual will help shape the future direction of analytics and business intelligence capabilities while supporting the team's broader mission of advancing operational performance through actionable insights and continuous improvement. As a leader of analysts, this individual will be responsible for ensuring work is done timely and correctly by their team, as well as helping to develop these analysts to the next stage of their career. Communications will be tailored to differing audiences and there will be frequent opportunities to strategize and deliver persuasive recommendations to senior leaders.  In addition, this leader should have a passion for solving operational problems, and an ability to work well as part of a fast-paced team.\n\n\n\nESSENTIAL DUTIES AND RESPONSIBILITIES\n\n\n\nDrive Business Performance & Strategy\n\nEstablish team priorities, goals, and success metrics aligned to broader organizational objectives.Ensure high-quality, timely delivery of insights, recommendations, and analytical work products; takes full accountability for team’s resultsTranslate complex business challenges and high-level strategy into structured analyses and actionable recommendations.Manage work across multiple stakeholders and initiatives.Communicate proactively and present insights clearly to leaders at multiple levels of the organization; delivers persuasive recommendations to senior audiencesApply critical thinking to remove barriers, resolve issues, and drive sustainable solutions.\n\nLeadership & Team Development\n\nCoach and develop a high-performing team of analysts.Create an environment focused on accountability, continuous learning, and professional growth.Provide meaningful feedback, career development support, and performance coaching.Foster strong team engagement and collaboration.Help analysts strengthen business acumen, analytical thinking, communication, and leadership skills.·Champion DaVita Mission & Values while modeling effective leadership behaviors.\n\nAdvance Analytical & Technical Excellence\n\nGuide analytical approaches and ensure appropriate use of data to support business decisions.Ability to break large, ambiguous problems into manageable components.Validate results through critical thinking, business context, and analytical rigor.Leverage analytical tools and technologies to increase efficiency, visibility, and insight generation.Promote strong documentation, process discipline, and knowledge sharing across the team.\n\nTakes on additional special projects (as required)\n\n\n\nEDUCATION AND EXPERIENCE\n\nBachelor’s or Master’s degree in Health Informatics, Public Health, Data Science, Statistics, or a related field. -- RequiredExperience with using AI with daily workflow to improve business outcomes - Required5-10 years of total work experience in progressive roles -- Required2+ years of direct people leadership experience – RequiredAdvanced proficiency in all Microsoft Office applications, specifically Excel – Required Experience analyzing business operations, data, or processes -- RequiredDemonstrated experience leading analytical, reporting, or business intelligence teams and initiatives– RequiredExperience translating complex business problems into data-driven insights and recommendations.- RequiredAbility to influence stakeholders and drive outcomes through analytical problem solving and communication. – RequiredExperience with Tableau, SQL, Alteryx, GCP/Big Query, data warehousing, or similar analytical tools – PreferredExperience within healthcare revenue cycle or healthcare operations – Preferred\n\nTravel Requirements\n\n- Up to 30%\n\n \nHere is what you can expect when you join our Village:\n\nA \"community first, company second\" culture based on Core Values that really matter.Clinical outcomes consistently ranked above the national average.Award-winning education and training across multiple career paths to help you reach your potential.Performance-based rewards based on stellar individual and team contributions.A comprehensive benefits package designed to enhance your health, your financial well-being and your future.Dedication, above all, to caring for patients suffering from chronic kidney failure across the nation. Enter text here\nJoin us as we pursue our vision \"To Build the Greatest Healthcare Community the World has Ever Seen.\"\n\nWhy wait? Explore a career with DaVita today.\n\nGo to http://careers.davita.com to learn more or apply.\n\n\n\nWhat We’ll Provide:\n\nMore than just pay, our DaVita Rewards package connects teammates to what matters most. Teammates are eligible to begin receiving benefits on the first day of the month following or coinciding with one month of continuous employment. Below are some of our benefit offerings.\n\nComprehensive benefits: Medical, dental, vision, 401(k) match, paid time off, PTO cash outSupport for you and your family: Family resources, EAP counseling sessions, access Headspace®, backup child and elder care, maternity/paternity leave and moreProfessional development programs: DaVita offers a variety of programs to help strong performers grow within their career and also offers on-demand virtual leadership and development courses through DaVita’s online training platform StarLearning.\n\n#LI-JH4\n\n\n\n\n\nAt DaVita, we strive to be a community first and a company second.  We want all teammates to experience DaVita as \"a place where I belong.\"  Our goal is to embed belonging into everything we do in our Village, so that it becomes part of who we are. We are proud to be an equal opportunity workplace and comply with state and federal affirmative action requirements. Individuals are recruited, hired, assigned and promoted without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, protected veteran status, or any other protected characteristic.\n\n\n\n\n\nThis position will be open for a minimum of three days.\n\n\n\n\n\nThe Salary Range for the role is $78,000.00 - $119,000.00 per year.\n\n\n\n  \n\n \n\nIf a candidate is hired, they will be paid at least the minimum wage according to their geographical jurisdiction and the exemption status for the position.\n\n\n\nNew York Exempt: New York City and Long Island: $66,300.00/year, Nassau, Suffolk, and Westchester counties: $66,300.00/year, Remainder of New York state: $62,353.20/year New York Non-exempt: New York City and Long Island: $17.00/hour, Nassau, Suffolk, and Westchester counties: $17.00/hour, Remainder of New York state: $16.00/hour\n\n\n\nWashington Exempt: $80,168.40/year Washington Non-exempt: Bellingham: $19.13/hour, Burien: $21.71/hour, Everette: $20.77/hour, Unincorporated King County: $20.82/hour, Renton: $21.57/hour, Seattle: $21.30/hour, Tukwila: $21.65/hour, Remainder of Washington state: $17.13/hourFor location-specific minimum wage details, see the following link: DaVita.jobs/WageRates\n\n\n\n\n\nCompensation for the role will depend on a number of factors, including a candidate’s qualifications, skills, competencies and experience. DaVita offers a competitive total rewards package, which includes a 401k match, healthcare coverage and a broad range of other benefits. Learn more at https://careers.davita.com/benefits  \n\n   \n\nColorado Residents: Please do not respond to any questions in this initial application that may seek age-identifying information such as age, date of birth, or dates of school attendance or graduation. You may also redact this information from any materials you submit during the application process.  You will not be penalized for redacting or removing this information.",
+            "apply_options": [
+                {
+                    "title": "DaVita Careers",
+                    "link": "https://careers.davita.com/job/R0472685/Manager-Analytics-Strategy-Revenue-Operations?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=d73e8f43b94846ef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/manager-analytics-strategy-revenue-operations-denver-co--d5a8d0bb-f0ca-4f71-8a5e-65a3ae5bf93f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/2ddIusey7pUlDBXZ19s5-O1DvuwhojSYFcNZvkCQnrofkgAm-vv3sw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Terra.do",
+                    "link": "https://www.terra.do/climate-jobs/job-board/manager-engineering-pv-performance-analytics-8412667/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/product-manager-analytics-dashboards-bi-modernization--denver--ee0f22340a5d0966043543a9d92207b58?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/manager-talent-people-analytics-breakthrubeveragegroup-denver-co_88266673?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/rowan-digital-infrastructure-pty/Job/Manager,-Safety-Systems-&-Analytics/-in-Denver,CO?jid=9b40b0fa8e3a9d17&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYW5hZ2VyLCBBbmFseXRpY3MgXHUwMDI2IFN0cmF0ZWd5IChSZXZlbnVlIE9wZXJhdGlvbnMpIiwiY29tcGFueV9uYW1lIjoiREFWSVRBIiwiaHRpZG9jaWQiOiIxMFFpNXNHVlUySnhWR2lzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEZaSFJUaDRNazU1VFV0MlkwVk1Xa0ZWWWxKckxUQlNaa1ZsVkRscFUyMXJXRWw2V1c1aWVWcHBMVFptYlhnek1WVk1Oekp0UjJRMmJIbGpNVmR6U2preGEzUnhNa2N3YW0weVFVRXpUak5EVjA4eFVsRmxOV1ZvVGs5Qk5tVTBMWGcxVDAwNFZuVmlWM2x2WmpCQ1RVTXlVakZuZWpGMWVVWlZZa296T1U5dFVHVXRNMjBTRjNVMldHSmhiMWN4UW1WdGVEVk9iMUEwY0Radk5sRnJHaUpCUkhOeU9XWlNORGRPV0hSWU1VTkVSemxVTmpOU1ZsUkZRbFozVlZoRmEyUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiIxMFFpNXNHVlUySnhWR2lzQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Financial Analytics Manager",
+            "company_name": "TeamHealth",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We are looking for someone who enjoys coaching, mentoring, and helping others grow, whether through formal people leadership experience or by leading cross-functional teams and projects",
+                        "The ideal candidate is highly analytical, enjoys solving complex business problems, thrives in fast-paced environments, and is ready to expand their leadership responsibilities while continuing to grow their career within a healthcare operations setting",
+                        "This role is particularly well suited for an emerging finance leader, senior analyst, or early-career manager looking to leverage strong analytical skills while developing as a people leader",
+                        "You approach finance through operational and analytical lens, using data to influence decisions and improve business performance",
+                        "You thrive in fast-paced environments where priorities evolve and ambiguity is part of the work",
+                        "You enjoy solving complex business problems and turning data into actionable insights",
+                        "You build strong relationships and communicate effectively with senior leaders and operational stakeholders",
+                        "You are highly organized and produce clear, professional documentation and presentations",
+                        "You demonstrate strong critical thinking, intellectual curiosity, and a continuous improvement mindset",
+                        "You enjoy mentoring, coaching, and helping others develop their skills and careers",
+                        "You are interested in growing your leadership capabilities and expanding your impact within a healthcare organization",
+                        "Bachelor’s degree in finance, Accounting, Business, Healthcare Administration, Economics, Statistics, or a related field",
+                        "5+ years of experience in healthcare finance, financial analytics, data analytics, decision support, operational finance, business analytics, strategic finance, healthcare performance management, or related disciplines",
+                        "Experience supporting forecasting, budgeting, operational performance analysis, business planning, workforce planning, financial modeling, or strategic decision-making",
+                        "Strong analytical skills with the ability to translate data into meaningful business recommendations",
+                        "Experience presenting insights and recommendations to operational leaders, executives, and other key stakeholders",
+                        "Advanced Microsoft Excel skills including data analysis, modeling, pivot tables, and reporting",
+                        "Ability to work Eastern Time Zone business hours",
+                        "Limited travel may be required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Opportunities for career growth and professional development",
+                        "An inclusive culture where everyone feels valued, respected, and empowered to belong",
+                        "Comprehensive medical, dental, and vision coverage beginning the first of the month following 30 days of employment",
+                        "401(k) plan with discretionary company match",
+                        "Generous paid time off to support work-life balance",
+                        "Eight paid company holidays each year",
+                        "Company-provided equipment for eligible remote positions"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Join TeamHealth in a highly visible finance leadership role supporting one of the organization's largest and most complex business groups!",
+                        "The Financial Analytics Manager sits at the intersection of healthcare operations, financial analytics, and business strategy",
+                        "The person in this role will partner closely with operational and finance leaders to evaluate business performance, identify trends and opportunities, and provide the insights needed to support key business decisions",
+                        "In addition to serving as a strategic business partner, this role will lead and develop a small team of analysts",
+                        "In this role, you will support the financial and operational performance of a large, highly visible healthcare business through analytics, leadership, business partnership, and strategic problem solving",
+                        "Lead forecasting, planning, financial analytics, and business performance activities",
+                        "Manage quarterly Net APC reviews and present data-driven recommendations to leadership",
+                        "Oversee incentive compensation administration, including data validation, reporting, and analysis",
+                        "Analyze financial and operational performance to identify trends, risks, and opportunities",
+                        "Develop actionable insights that support operational decision-making and business performance improvement",
+                        "Enhance reporting, analytics, and decision-support capabilities to meet evolving business needs",
+                        "Lead, coach, and develop a team of analysts while fostering accountability and collaboration",
+                        "Prioritize team deliverables and drive process improvement initiatives",
+                        "Perform ad hoc analysis and financial modeling to support strategic initiatives",
+                        "Maintain a hands-on role in analytics, forecasting, reporting, business performance measurement, and operational decision support",
+                        "#LI-Remote #LI-TA"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=ZosyVePD5o8fY6efAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ7CMAxAUbH2CLB4RqJBlVhgYgGExATMlROsJCi1o9pDuQRnpix_e7_5LprulBk5ZCxwZCwfy0HhhoyRRtjAVTwo4RgSCMNZJBZaHpJZ1b1zqqWNajijNsjghMnL5N7i9Z9eE45UCxr13W47tZXjevUgHC6ExRJkhidnoxfc5wnpDwvLKCaRAAAA&shmds=v1_ARwrE20ZAjyD6-EE5o-AuXLd-F6twgtfyIT9HvKLoMG-dIS3LQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=ZosyVePD5o8fY6efAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba5bbc346ed47df0e99de/images/CW8aKPnqDx9PbWYembe5BuePxI100LADxneN__ipUVY.jpeg",
+            "extensions": [
+                "14 days ago",
+                "Work from home",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://www.indeed.com/viewjob?jk=ea9572da0ddbed5e",
+            "job_title": "Financial Analytics Manager",
+            "description": "09-Oct-2026\n\n\n \n \n  Financial Analytics Manager\n \n \n  United States\n\n\n \n \n  External Job Description and Responsibilities\n\n\n  Join TeamHealth in a highly visible finance leadership role supporting one of the organization's largest and most complex business groups! \n\n\n    The Financial Analytics Manager sits at the intersection of healthcare operations, financial analytics, and business strategy. The person in this role will partner closely with operational and finance leaders to evaluate business performance, identify trends and opportunities, and provide the insights needed to support key business decisions. \n\n\n    In addition to serving as a strategic business partner, this role will lead and develop a small team of analysts. We are looking for someone who enjoys coaching, mentoring, and helping others grow, whether through formal people leadership experience or by leading cross-functional teams and projects. \n\n\n    The ideal candidate is highly analytical, enjoys solving complex business problems, thrives in fast-paced environments, and is ready to expand their leadership responsibilities while continuing to grow their career within a healthcare operations setting. This role is particularly well suited for an emerging finance leader, senior analyst, or early-career manager looking to leverage strong analytical skills while developing as a people leader. \n\nWhat You'll Do \n\n    In this role, you will support the financial and operational performance of a large, highly visible healthcare business through analytics, leadership, business partnership, and strategic problem solving \n\nKey Responsibilities\n\n\n  \n   Lead forecasting, planning, financial analytics, and business performance activities.\n   Manage quarterly Net APC reviews and present data-driven recommendations to leadership.\n   Oversee incentive compensation administration, including data validation, reporting, and analysis.\n   Analyze financial and operational performance to identify trends, risks, and opportunities.\n   Develop actionable insights that support operational decision-making and business performance improvement.\n   Enhance reporting, analytics, and decision-support capabilities to meet evolving business needs.\n   Lead, coach, and develop a team of analysts while fostering accountability and collaboration.\n   Prioritize team deliverables and drive process improvement initiatives.\n   Perform ad hoc analysis and financial modeling to support strategic initiatives.\n   Maintain a hands-on role in analytics, forecasting, reporting, business performance measurement, and operational decision support.\n  #LI-Remote #LI-TA\n \n \n\n\n \n  Requirements\n\n\n  What Makes You Successful\n\n\n  \n   You approach finance through operational and analytical lens, using data to influence decisions and improve business performance.\n   You thrive in fast-paced environments where priorities evolve and ambiguity is part of the work.\n   You enjoy solving complex business problems and turning data into actionable insights.\n   You build strong relationships and communicate effectively with senior leaders and operational stakeholders.\n   You are highly organized and produce clear, professional documentation and presentations.\n   You demonstrate strong critical thinking, intellectual curiosity, and a continuous improvement mindset.\n   You enjoy mentoring, coaching, and helping others develop their skills and careers.\n   You are interested in growing your leadership capabilities and expanding your impact within a healthcare organization.\n  You Bring\n  \n   Bachelor’s degree in finance, Accounting, Business, Healthcare Administration, Economics, Statistics, or a related field.\n   5+ years of experience in healthcare finance, financial analytics, data analytics, decision support, operational finance, business analytics, strategic finance, healthcare performance management, or related disciplines.\n   2 years of formal people leadership is preferred; however, candidates with strong coaching, mentoring, project management, or cross-functional leadership experience will also be considered.\n   Experience supporting forecasting, budgeting, operational performance analysis, business planning, workforce planning, financial modeling, or strategic decision-making.\n   Strong analytical skills with the ability to translate data into meaningful business recommendations.\n   Experience presenting insights and recommendations to operational leaders, executives, and other key stakeholders.\n   Advanced Microsoft Excel skills including data analysis, modeling, pivot tables, and reporting.\n   Experience supporting healthcare operations, hospital systems, or physician groups, provider organizations strongly preferred.\n   Experience with Hyperion, Essbase, Oracle EPM, Workday Adaptive Planning, or similar analytics and planning tools is a plus.\n   Ability to work Eastern Time Zone business hours.\n   Limited travel may be required.\n  \n  \nWhy TeamHealth\n  \n\n   At TeamHealth, you'll join a culture built around collaboration, innovation, and purpose. TeamHealth is proud to be the leading physician practice in the U.S. providing exceptional patient care, together. \n  \n\n  \n\n   TeamHealth has been recognized as one of the \"165 Top Places to Work in Healthcare\" for 2026 by Becker's Hospital Review. TeamHealth has also been recognized by Newsweek as one of America's Greatest Workplaces in Health Care for 2025. \n  \n\n  \n\n   We continue to grow across the U.S. from our clinicians to corporate employees. \n  \n\n  \nJoin Us!\n  \n\n   If you're passionate about transforming talent acquisition through technology, AI innovation, and operational excellence, we'd love to hear from you. Join TeamHealth and help build a best-in-class recruiting technology ecosystem that empowers our teams and delivers exceptional experiences for candidates and hiring leaders alike. \n  \n\n  \nWhat We Offer\n  \n   Opportunities for career growth and professional development\n   An inclusive culture where everyone feels valued, respected, and empowered to belong\n   Comprehensive medical, dental, and vision coverage beginning the first of the month following 30 days of employment\n   401(k) plan with discretionary company match\n   Generous paid time off to support work-life balance\n   Eight paid company holidays each year\n   Company-provided equipment for eligible remote positions\n  \n \n \n\n\n \n  Location\n\n\n  Remote\n\n\n \n \n  Working Level\n\n\n  Full-Time\n\n\n \n Financial Analytics Manager | TeamHealth",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=ea9572da0ddbed5e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/seatex/financial-analytics-manager-104753776/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/financial-analytics-manager-bridge-specialty-group--ss-us-dpbwa1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido",
+                    "link": "https://us.jobrapido.com/jobpreview/796646340615471104?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-28646-8ef1745bd2cb27db0e6c43bbab8bf497?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-financial-analytics-manager-united-states-teamhealth-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGaW5hbmNpYWwgQW5hbHl0aWNzIE1hbmFnZXIiLCJjb21wYW55X25hbWUiOiJUZWFtSGVhbHRoIiwiaHRpZG9jaWQiOiJab3N5VmVQRDVvOGZZNmVmQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25BNFFtRTFaRUpETjNoclluQlZlbFp0YVVkS2NETkVZalpoY25aRVVGZExhRzV5VG1kMGFUVlRSVWMxY2tGaVRGaFpWVVpPVFhkZk1YbGtRemhYVjNwa09IcGxlVTF4V2pKRk1tOHhjemhRTlU5TmRGUnFhRXhPTXpoNWNsa3lTbUU0TUVwR00yeG1SV0l6U0dGVlVrOVNhRFYzUnkxd1luaE1kbTVqTkd4M2RsVXlUWE1TRjNVMldHSmhiMWN4UW1WdGVEVk9iMUEwY0Radk5sRnJHaUpCUkhOeU9XWlJlR1ZZU2pCSlRXUnhaVlpKZGxWT1EyRm9XbGhqVFVoV2FteEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJab3N5VmVQRDVvOGZZNmVmQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Vice President, Marketing Analytics Manager, Small Business",
+            "company_name": "JP Morgan Chase",
+            "location": "United States (+5 others)",
+            "via": "Simplify",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "6+ years of marketing data and analytics experience, including campaign measurement and performance insights",
+                        "Hands-on experience developing campaign test designs, estimation proformas, and actual performance measurement",
+                        "Master’s degree in a related field, or Bachelor’s degree plus 5+ years of relevant experience",
+                        "Demonstrated ability to translate complex quantitative topics into clear, stakeholder-ready recommendations",
+                        "Experience partnering with Marketing, Finance, and technical teams to deliver analytics aligned to business goals",
+                        "Proficiency with SQL and at least one analytical programming language (Python, SAS, or R)",
+                        "Experience working with relational databases and big data platforms, including Snowflake",
+                        "Strong structured problem-solving skills and analytical reasoning",
+                        "Working knowledge of extract, transform, and load concepts and how data flows impact analytic outcomes",
+                        "Experience with self-serve business intelligence tools for dashboarding and automated reporting",
+                        "Strong written and oral communication skills, including presenting complex findings simply for senior audiences"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You’ll lead end-to-end analytics across acquisition campaigns—turning complex data into clear insights that influence where we invest, who we target, and how we measure success",
+                        "You’ll partner closely with Marketing, Finance, Modeling, and Data and Analytics teams to design tests, interpret results, and improve outcomes over time",
+                        "As a Vice President, Marketing Analytics Manager on the Small Business Decision Sciences team, you will manage and deliver analytics across the marketing campaign lifecycle—from opportunity planning and business case development to test design, execution support, reporting, and financial performance measurement",
+                        "You will operate with a consultative mindset, building strong relationships with senior stakeholders while keeping work aligned to campaign calendars and business priorities",
+                        "You will bring technical depth and analytical creativity to improve measurement rigor and help teams act on insights",
+                        "You will help ensure results are repeatable, well-documented, and decision-ready",
+                        "Lead financial and analytical optimization of marketing programs across opportunity sizing, targeting, test design, execution support, performance reporting, and insights",
+                        "Own stakeholder relationship management and delivery for assigned marketing partners, including intake, prioritization, scoping, timelines, and outputs",
+                        "Drive experimentation strategy and measurement rigor by framing hypotheses, designing test and control approaches, defining success metrics, and delivering post-test readouts",
+                        "Apply predictive models and measurement learnings to guide ongoing marketing investment planning and optimization across audience, offer, channel, and funding decisions",
+                        "Build analytic assets and frameworks to evaluate incrementality, profitability, and return on investment (for example, forecast versus actual performance)",
+                        "Leverage and help evolve the analytics toolset, including Snowflake and emerging artificial intelligence–enabled analytical applications, to improve speed and consistency of insights",
+                        "Collaborate with cross-functional partners to ensure solutions are implementable, controlled, and aligned to standards",
+                        "Define data requirements to monitor targeting and performance, and partner with data teams to address gaps, quality, and lineage considerations",
+                        "Maintain processes and controls that support measurement quality, repeatability, and auditability",
+                        "Coach and develop junior team members, setting standards for analytical methods, documentation, and stakeholder-ready storytelling"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=tvJX5ODzf8EW1-vzAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBCAYVz7CE43S21EcNFJHYRCoVh0Ldf2SKLpXclF0OfyBa3LP_zDl30X2fXue4I6kvqBOOVQYXxS8mzhyBg-yfc6P0ZLMYdmxBDg9FLPpAprKKUDJYy9A2G4iNhAy4NLadK9MaqhsJpwRopeRiNMnbzNQzr9p1WHkaaAidrtbvMuJrYrKGuoJFpkODtUAs9wY59ogGaWSH9dMQHStgAAAA&shmds=v1_ARwrE23T-vNBW1lNeBXXrWevAGl5l79mQ9vGnsE7GJOAa7JM1g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=tvJX5ODzf8EW1-vzAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba5bbc346ed47df0e99de/images/R6WpsPBei4tFfCx4qWaO7HJDhlHrO1nHHCr-f4CkWCY.jpeg",
+            "extensions": [
+                "19 days ago",
+                "118,750–205,000 a year",
+                "Full-time"
+            ],
+            "source_link": "https://simplify.jobs/p/5b8bcdf8-e575-4d99-8581-482fddb26a19/Vice-President-Marketing-Analytics-Manager",
+            "job_title": "Vice President, Marketing Analytics Manager, Small Business",
+            "description": "Help shape how JPMorganChase wins and grows small business relationships through smarter marketing decisions. You’ll lead end-to-end analytics across acquisition campaigns—turning complex data into clear insights that influence where we invest, who we target, and how we measure success. You’ll partner closely with Marketing, Finance, Modeling, and Data and Analytics teams to design tests, interpret results, and improve outcomes over time. If you enjoy combining rigor, strategy, and storytelling, you’ll find room to grow and make an impact here. \n\n\nJob summary \n\n\nAs a Vice President, Marketing Analytics Manager on the Small Business Decision Sciences team, you will manage and deliver analytics across the marketing campaign lifecycle—from opportunity planning and business case development to test design, execution support, reporting, and financial performance measurement. You will operate with a consultative mindset, building strong relationships with senior stakeholders while keeping work aligned to campaign calendars and business priorities. You will bring technical depth and analytical creativity to improve measurement rigor and help teams act on insights. You will help ensure results are repeatable, well-documented, and decision-ready. \n\n\nJob responsibilities\n\n\n\nLead financial and analytical optimization of marketing programs across opportunity sizing, targeting, test design, execution support, performance reporting, and insights\nOwn stakeholder relationship management and delivery for assigned marketing partners, including intake, prioritization, scoping, timelines, and outputs\nDrive experimentation strategy and measurement rigor by framing hypotheses, designing test and control approaches, defining success metrics, and delivering post-test readouts\nApply predictive models and measurement learnings to guide ongoing marketing investment planning and optimization across audience, offer, channel, and funding decisions\nBuild analytic assets and frameworks to evaluate incrementality, profitability, and return on investment (for example, forecast versus actual performance)\nLeverage and help evolve the analytics toolset, including Snowflake and emerging artificial intelligence–enabled analytical applications, to improve speed and consistency of insights\nCollaborate with cross-functional partners to ensure solutions are implementable, controlled, and aligned to standards\nDefine data requirements to monitor targeting and performance, and partner with data teams to address gaps, quality, and lineage considerations\nMaintain processes and controls that support measurement quality, repeatability, and auditability\nCoach and develop junior team members, setting standards for analytical methods, documentation, and stakeholder-ready storytelling\n\nRequired qualifications, capabilities, and skills \n\n\n\n6+ years of marketing data and analytics experience, including campaign measurement and performance insights\nHands-on experience developing campaign test designs, estimation proformas, and actual performance measurement\nMaster’s degree in a related field, or Bachelor’s degree plus 5+ years of relevant experience\nDemonstrated ability to translate complex quantitative topics into clear, stakeholder-ready recommendations\nExperience partnering with Marketing, Finance, and technical teams to deliver analytics aligned to business goals\nProficiency with SQL and at least one analytical programming language (Python, SAS, or R)\nExperience working with relational databases and big data platforms, including Snowflake\nStrong structured problem-solving skills and analytical reasoning\nWorking knowledge of extract, transform, and load concepts and how data flows impact analytic outcomes\nExperience with self-serve business intelligence tools for dashboarding and automated reporting\nStrong written and oral communication skills, including presenting complex findings simply for senior audiences\n\nBase Pay/Salary: Chicago,IL $118,750.00-$195,000.00; Jersey City,NJ $133,000.00-$205,000.00",
+            "apply_options": [
+                {
+                    "title": "Simplify",
+                    "link": "https://simplify.jobs/p/5b8bcdf8-e575-4d99-8581-482fddb26a19/Vice-President-Marketing-Analytics-Manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJWaWNlIFByZXNpZGVudCwgTWFya2V0aW5nIEFuYWx5dGljcyBNYW5hZ2VyLCBTbWFsbCBCdXNpbmVzcyIsImNvbXBhbnlfbmFtZSI6IkpQIE1vcmdhbiBDaGFzZSIsImh0aWRvY2lkIjoidHZKWDVPRHpmOEVXMS12ekFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFN6VmZZVEJTYkZGTlVuZDJhbFJ5YzNoQ1NXOW1OV1pFV21wa1gwdFpabU16ZWt3eVpGUmlPWGcxVVVaWlVrOXpZbTlGZGxkeGVWcDJRelJtTUhwNFFYSlBWMmREWTBadlFtcHBSazVqVFRSaWNVUXhhM3BGUzI1VmMzZFlWM2w2WW5CalVtc3lSemxRVURBdGREVkVRazFQUVdGU2FqSkNWRXBWYkhKNlJGbHVWM1J2V2xVU0YzVTJXR0poYjFjeFFtVnRlRFZPYjFBMGNEWnZObEZyR2lKQlJITnlPV1pSUzNGZlRFcExYM2h3TW01RlRUbFliRE55VVVKc2JYUkRWamxCIiwiZmN2IjoiMyIsImZjX2lkIjoidHZKWDVPRHpmOEVXMS12ekFBQUFBQT09In0="
+        },
+        {
+            "title": "Marketing & Operations Analytics Manager",
+            "company_name": "SKE Risepoint",
+            "location": "United States",
+            "via": "Workday",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=Nra5dpZC2bKyipIqAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAyAYVz7CA6SyUGwJ4KLDuIgglIEi3NJa7ienslxyVBfxme1Lv_2_cV3UuwrzC-ywB7mcE2U0YKwwoExfix0ChUyesqwhLO0oIS560EYTiI-0nTXmyXdOqcaS682-q7s5O2EqZXBPaXVfxrtMVOKaNSsN6uhTOwXs_pyhFtQShLYIDDcORg9oB4_pD8MR59woQAAAA&shmds=v1_ARwrE22Qk63g7Oul4v6ACeOpLOkKDGYab21FOCQQYtYvZvqLIg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=Nra5dpZC2bKyipIqAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://risepoint.wd503.myworkdayjobs.com/en-US/Risepoint/job/Strategy---Analytics-Manager_JR101313",
+            "job_title": "Marketing & Operations Analytics Manager",
+            "description": "Risepoint is an education technology company that helps regional universities launch and grow online programs for modern learners. Risepoint supports more than 100 universities and colleges across five countries, with programs concentrated in high-demand fields including nursing, healthcare, teaching, business, technology, and public service. Our suite of products and services supports the full student journey and each university’s long-term goals. Together, we increase access to affordable education that delivers a strong return on investment for learners and meets employer and community needs. Learn more at risepoint.com. About This Opportunity Risepoint partners with leading universities to expand access to high-quality online education, and Partner Strategy & Analytics team sits at the center of how those partnerships grow and perform. We're looking for a Marketing & Operations Analytics Manager who can turn complex, full-funnel partner data — from lead generation through yield — into the strategic narrative that shapes how Risepoint invests in and grows its portfolio of partner institutions. This role is built for someone who thrives at the intersection of rigorous analysis and cross-functional leadership. You'll own analytical workstreams end-to-end, from framing the right question to delivering the insight that moves a decision, while partnering closely with Integrated Marketing, Channel Marketing, Partner Management, and Operations teams. You'll be expected to spot the data quality issue before it becomes a stakeholder problem, build the pipelines that make partner performance monitoring reliable, and use AI-assisted tools like Claude and Databricks Genie to work faster without ever outsourcing your judgment. As the team grows, you'll also start building and coaching the analysts around you — this is a role with real room to grow into people leadership. If you want a seat where your analysis directly informs how a national portfolio of university partnerships is managed and grown, this is that seat. The Impact You Will Make You'll be the analytical backbone behind partner growth strategy. Your work on enrollment funnel performance — lead gen through yield — will directly shape the conversations and decisions that determine how Risepoint supports long-term partner growth. You'll protect the integrity of the data leadership relies on. By catching errors, discontinuities, and reconciliation gaps before they surface downstream, you'll build a level of trust in the numbers that lets stakeholders move faster and with more confidence. You'll build infrastructure that outlasts any single analysis. The pipelines and reporting workflows you design — in partnership with BI and data engineering — will become the foundation partner performance monitoring runs on well beyond your own day-to-day work. You'll set the pace for how the team works. By embedding tools like Claude and Databricks Genie into daily practice, you'll help define what an AI-first analytical function actually looks like at Risepoint — faster analysis, sharper communication, same rigor. You'll turn data into decisions. Through the KPIs you establish and the insights you translate into clear recommendations, you'll give executives and department heads a direct line from performance data to action. You'll grow the people around you. As the team expands, your coaching and project leadership will shape how new analysts think about partner data — building capability that compounds over time, not just output for the moment. How You Will Bring Our Mission to Life What You Will Do Cross-Functional Initiative Leadership: Drive and coordinate multi-stakeholder analytical initiatives across departmental boundaries, serving as a thought partner and initiative lead for Integrated Marketing, Channel Marketing, Partner Management Team, and other operations teams; own workstreams end-to-end from problem framing through insight delivery with minimal direction. Strategic Data-Driven Analysis: Handle highly detailed and complex partner performance data across the full enrollment funnel, from lead generation through yield, and facilitate internal stakeholder conversations that build strategies supporting long-term partner growth. Data Quality and Diagnostic Rigor: Proactively surface errors, discontinuities, and reconciliation gaps in partner data before they reach stakeholders, approaching each inconsistency as a signal worth tracing to its source rather than an edge case to dismiss. Analytical Infrastructure: Build and maintain the analytical pipelines and reporting workflows that underpin partner performance monitoring, collaborating with BI and data engineering teams to ensure data access, consistency, and appropriate governance AI-Assisted Productivity: Contribute to Risepoint's AI-first analytical practices by incorporating tools like Claude and Databricks Genie into day-to-day workflows to accelerate analysis and communication; AI is a productivity tool here, not a replacement for analytical judgment, and the expectation is full ownership of and accountability for the work product Strategic Project Execution: Take a leading role in the end-to-end strategic initiative design, management, execution, and impact assessment, leveraging analytical rigor and strong stakeholder management skills, including effective engagement with senior leadership. Proactively identify opportunities for performance improvement through data lens and translate insights into actionable initiatives to earn buy-ins from stakeholders. Performance Measurement: Establish and monitor key performance indicators to track the effectiveness of partner programs and analytical initiatives; surface actionable opportunities from performance data and translate them into recommendations leadership can act on Stakeholder Engagement: Communicate findings and insights to diverse stakeholders, including executives, department heads, and operational teams, through compelling presentations, structured briefings, and data visualizations that connect technical analysis to strategic People Management: Build a strong team with other team members some are expected to report to the Manager eventually by coaching, instructing, and drive projects as a team What Success Looks Like Analytical Rigor and Intellectual Curiosity: The ability to conceive and execute quantitative analysis independently, pressure-test your own findings, and approach data inconsistencies as questions worth answering. Communication and Influence: Exceptional written and verbal communication skills; the ability to translate complex technical findings into strategic recommendations for stakeholders at all levels, including those with no data background, and to drive alignment without direct authority Cross-Functional Mindset: Collaborative instinct and comfort operating across teams; you function as a connector between data infrastructure and business strategy, and you bring a service orientation to stakeholder relationships Structured Thinking Under Ambiguity: You bring frameworks to unstructured problems, communicate your reasoning transparently, and know when to move forward with imperfect information versus when to escalate uncertainty. Attention to Detail: Strong ability to manage multiple concurrent workstreams and maintain analytical accuracy under time pressure; you validate before you publish and catch discrepancies before they reach stakeholders. How Impact Will be Measured Partner performance improvement is the ultimate impact measurement. Partner Strategy & Analytics team strives to impact partners by supporting internal stakeholders with data-driven strategic insights and recommendations Trust thought partnership with internal leaders is another key success indicator as a Manager of Strategy & Analytics Experience That Matters Most 5+ years’ experience in an analytical or strategy leadership role (strategy, business analytics, business operations, corporate finance, business transformation) and/or in a professional services organization (consulting, private equity, investment banking) Strong proficiency in Databricks and advanced SQL, including CTE structuring, query performance optimization, and fundamental window functions, with foundational knowledge of data governance and data engineering principles. Familiarity with AI productivity tools like Claude and Databricks Genie, prompt engineering, and natural language query interfaces Advanced Excel skills, including Power Query M for data transformation workflows and DAX for calculated measures. Working experience with business intelligence and data visualization platforms such as Power BI or Tableau Demonstrated ability to conceive and execute quantitative analysis and deliver data-driven insights with strong analytical and problem-solving skills Bachelor’s degree with proven record of achievement and quantitative proficiency Experience That’s Great to Have Proven track record in using Databricks, SQL, AI tools and data analysis to clean data, extract insights, and communicate takeaways to leadership in a professional setting Agile workstyle to meet evolving business needs in a dynamic and fast-paced work environment that Master's degree or equivalent experience in data analytics, business intelligence, or data science is a plus. Risepoint is an equal-opportunity employer and supports a diverse and inclusive workforce. Reliable. Empowered. Adaptable. Customer-centric. Heart. These are some of the words that describe Risepoint employees. We have spent the past nearly 20 years helping universities grow by expanding access to affordable, life-changing education for working adults. As an education technology company that provides trusted partnership and expertise to more than 125 universities and colleges, we primarily work with regional universities, helping them create online programs in critical areas such as nursing, teaching, business, and public service. We are dedicated to increasing access to affordable education so that more students can improve their careers and their communities.",
+            "apply_options": [
+                {
+                    "title": "Workday",
+                    "link": "https://risepoint.wd503.myworkdayjobs.com/en-US/Risepoint/job/Strategy---Analytics-Manager_JR101313?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/marketing-operations-leader-automation-campaigns-analytics--united-states--e732d4a9351b8d9de28b8ea4d24736b59?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Welcome To The Jungle",
+                    "link": "https://www.welcometothejungle.com/en/companies/sandboxaq/jobs/marketing-operations-analytics-manager-ai-simulation_us_l6nihfd3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/sandboxaq/a858ed65-e5dd-4c0b-9934-e25517607c35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/marketing-growth-analytics-operations-intern-peru-in--fcfaef8c-8599-41ce-a80f-ea595302ef35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/marketing-operations-analytics-manager-ai-simulation/11167214?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6ab66aa7865119c687f06f63-marketing-operations-analytics-manager-ai-simulation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jaabz Jobs",
+                    "link": "https://jaabz.com/jobs/277190-marketing-operations-analytics-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgXHUwMDI2IE9wZXJhdGlvbnMgQW5hbHl0aWNzIE1hbmFnZXIiLCJjb21wYW55X25hbWUiOiJTS0UgUmlzZXBvaW50IiwiaHRpZG9jaWQiOiJOcmE1ZHBaQzJiS3lpcElxQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1VndExWcEtkbXRGTkcxSWFVWTBiblozUkdkSlNGZFRVMHhqV2tKelVVSk1lbmhKY2pOVk9WbE1PVFp4U3pOdU5IaG9TR3RtUm1NMFkzWnRhMlp3VjJKdlIzcFNPRzFRYjNOMlYxRklkSE5xYzI1NlZuRkxlRWd0TkdJeVMwMW1Sa2gyZVVzNU5rUTJOMGxQWjI5clEwWXRlbEZ0YmxkME4yWk5TVWx2YUd0VVNuUmxObEFTRjNVMldHSmhiMWN4UW1WdGVEVk9iMUEwY0Radk5sRnJHaUpCUkhOeU9XWlRNRXR1VlRsNE0ybFBNa3BUTkdzNGNGRnJSR3BGT1had1kwRlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJOcmE1ZHBaQzJiS3lpcElxQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Sr. Marketing Strategy and Analytics Manager",
+            "company_name": "Twilio",
+            "location": "Anywhere",
+            "via": "Twilio Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply",
+                        "5+ years of experience in Marketing Analytics, GTM Strategy, Revenue Operations, or Business Intelligence within a high-growth B2B SaaS or technology organization",
+                        "Advanced Technical Stack: Mastery of complex SQL and proficiency in Python (or R) for data extraction, manipulation, statistical analysis, and pipeline automation",
+                        "CRM & GTM Tech Stack Depth: Strong functional understanding of Salesforce (SFDC) data architecture, campaign hierarchies, lead routing rules, and marketing automation platforms",
+                        "Commercial Acumen & Executive Presence: Exceptional communication skills with demonstrated experience partnering directly with Director/VP-level leaders to turn data insights into operational decisions",
+                        "Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Working at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more",
+                        "Offerings vary by location",
+                        "Please note this role is open to candidates outside of California, Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Vermont, Washington D.C., and Washington State",
+                        "Based in Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, Vermont or Washington D.C. : $128,560 - $160,700",
+                        "This role may be eligible to participate in Twilio's equity plan and corporate bonus plan",
+                        "All roles are generally eligible for the following benefits: health care insurance, 401(k) retirement account, paid sick time, paid personal time off, paid parental leave",
+                        "The successful candidate's starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Marketing Strategy and Analytics Manager to serve as the dedicated operational business partner to our Social Impact marketing leadership",
+                        "Sitting at the intersection of Go-To-Market (GTM) Strategy, marketing operations, and advanced data modeling, you won't just report on what happened, you will design the automation, attribution, and account prioritization engines that drive what happens next",
+                        "The Analytics Strategist ready to drive decisions: You have deep technical data chops (SQL, Python, modeling) but want to move beyond reporting to directly author investment proposals, influence leadership, and see your analyses translate into decisions being made",
+                        "The Specialized Marketer ready for full-lifecycle ownership: You have deep subject-matter expertise in one domain (such as demand generation, marketing ops, or lifecycle marketing) and are ready to expand your runway to own the entire marketing engine, from top-of-funnel triggers and budget allocation to field event ROI and executive scorecards",
+                        "Act as Strategic GTM Business Partner: Drive regular operating rhythms, quarterly pipeline generation (PG) OKR targets, QBR data packs, and marketing budget allocation frameworks alongside marketing leadership",
+                        "Lead Investment Proposals & Impact Modeling: Architect rigorous business cases, scenario models, and ROI forecasts to secure investment for new marketing programs; evaluate capital trade-offs across channels and stress-test the expected pipeline return and payback periods before launch",
+                        "Lead Pipeline Automation & Marketing Triggers: Design, script, and operationalize automated marketing triggers in Python/SQL notebooks to power high-converting marketing plays and feed targeted accounts directly into sales workflows",
+                        "Architect Attribution & Single Source of Truth: Own end-to-end pipeline attribution models across sales, marketing, and partner channels; maintain rep-level marketing metrics integrated directly into Frontline Manager (FLM) data packs and leadership scorecards",
+                        "Drive Account Tiering & Routing: Operationalize advanced account tiering and segmentation logic across Salesforce (SFDC) and 6sense/Segment to optimize lead routing, demand generation campaigns, and Account-Based Marketing (ABM) outreach",
+                        "Advanced Commercial Modeling: Partner with broader central data science teams on company wide marketing frameworks (like Marketing Mix Modeling), while independently owning custom scenario analysis (e.g., ASP impact of bundling, Customer Lifetime Value/LFTV cohorting, and field event ROI modeling)",
+                        "Maintain & Modernize GTM Data Infrastructure: Curate and optimize our Looker, Tableau, and SFDC reporting assets, managing SQL logic via GitHub version control, dashboard glossaries, and automated data QA processes",
+                        "Data Visualization & BI: Proven track record building enterprise-grade executive scorecards and self-serve dashboards in Tableau and Looker",
+                        "We prioritize connection and opportunities to build relationships with our customers and each other",
+                        "For this role, approximately 15% travel is anticipated to help you connect in-person in a meaningful way"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=IZfBhEWGjVVDiREkAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0FBKupBXdFsNFKLATBKlqHSTJsVteZsDNgchYv69q86j3-r76L6lxnBzfML7LIAWrLaBRmQO7hxJhmi50WgTFQhg1cpQUlzN0AwnARCYlWx8Fs1IP3qskFNSyR6-TthamVyT-l1T8aHTDTmMpEs9tvJzdyWC_vn5iiQGR4cDTqy4ki6A8c-NQmngAAAA&shmds=v1_ARwrE20oh_T43LGcVJ_ynwXt2GW5iCLowWFv24zk19ps39kb1Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=IZfBhEWGjVVDiREkAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://jobs.twilio.com/careers/job/1099556061737",
+            "job_title": "Sr. Marketing Strategy and Analytics Manager",
+            "description": "Who we are \n\nAt Twilio, we're shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n\nOur dedication to remote-first work, and strong culture of connection and global inclusion means that no matter your location, you're part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we're acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.  \n.\n\nHiring and how we work\n\nWe use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions! \n\nAlso, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.   \n.\n\nSee yourself at Twilio\n\nJoin the team as Twilio's next Sr. Marketing Strategy and Analytics Manager, Social Impact.\n\nAbout the job\n\nTwilio.org is seeking a Sr. Marketing Strategy and Analytics Manager to serve as the dedicated operational business partner to our Social Impact marketing leadership. Sitting at the intersection of Go-To-Market (GTM) Strategy, marketing operations, and advanced data modeling, you won't just report on what happened, you will design the automation, attribution, and account prioritization engines that drive what happens next. This is an ideal opportunity for:\n\n  * The Analytics Strategist ready to drive decisions: You have deep technical data chops (SQL, Python, modeling) but want to move beyond reporting to directly author investment proposals, influence leadership, and see your analyses translate into decisions being made.\n  * The Specialized Marketer ready for full-lifecycle ownership: You have deep subject-matter expertise in one domain (such as demand generation, marketing ops, or lifecycle marketing) and are ready to expand your runway to own the entire marketing engine, from top-of-funnel triggers and budget allocation to field event ROI and executive scorecards.\n\n\n\nResponsibilities\n\nIn this role, you'll:\n\n  * Act as Strategic GTM Business Partner: Drive regular operating rhythms, quarterly pipeline generation (PG) OKR targets, QBR data packs, and marketing budget allocation frameworks alongside marketing leadership.\n  * Lead Investment Proposals & Impact Modeling: Architect rigorous business cases, scenario models, and ROI forecasts to secure investment for new marketing programs; evaluate capital trade-offs across channels and stress-test the expected pipeline return and payback periods before launch.\n  * Lead Pipeline Automation & Marketing Triggers: Design, script, and operationalize automated marketing triggers in Python/SQL notebooks to power high-converting marketing plays and feed targeted accounts directly into sales workflows.\n  * Architect Attribution & Single Source of Truth: Own end-to-end pipeline attribution models across sales, marketing, and partner channels; maintain rep-level marketing metrics integrated directly into Frontline Manager (FLM) data packs and leadership scorecards.\n  * Drive Account Tiering & Routing: Operationalize advanced account tiering and segmentation logic across Salesforce (SFDC) and 6sense/Segment to optimize lead routing, demand generation campaigns, and Account-Based Marketing (ABM) outreach.\n  * Advanced Commercial Modeling: Partner with broader central data science teams on company wide marketing frameworks (like Marketing Mix Modeling), while independently owning custom scenario analysis (e.g., ASP impact of bundling, Customer Lifetime Value/LFTV cohorting, and field event ROI modeling).\n  * Maintain & Modernize GTM Data Infrastructure: Curate and optimize our Looker, Tableau, and SFDC reporting assets, managing SQL logic via GitHub version control, dashboard glossaries, and automated data QA processes.\n\n\n\nQualifications \n\nTwilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!\n\n*Required:\n\n  * 5+ years of experience in Marketing Analytics, GTM Strategy, Revenue Operations, or Business Intelligence within a high-growth B2B SaaS or technology organization.\n  * Advanced Technical Stack: Mastery of complex SQL and proficiency in Python (or R) for data extraction, manipulation, statistical analysis, and pipeline automation.\n  * Data Visualization & BI: Proven track record building enterprise-grade executive scorecards and self-serve dashboards in Tableau and Looker.\n  * CRM & GTM Tech Stack Depth: Strong functional understanding of Salesforce (SFDC) data architecture, campaign hierarchies, lead routing rules, and marketing automation platforms.\n  * Commercial Acumen & Executive Presence: Exceptional communication skills with demonstrated experience partnering directly with Director/VP-level leaders to turn data insights into operational decisions.\n\n\n\nDesired:\n\n  * Experience working with customer data platforms and intent tools (e.g., Segment, 6sense, Marketo).\n  * Experience with Marketing Modeling, multi-touch attribution, and lifetime value (CLV/LFTV) analyses.\n  * Familiarity with Git/GitHub workflows for analytics version control.\n  * Genuine passion or prior experience in the social impact, non-profit, or public sector technology domains.\n\n\n\nLocation\n\nThis role will be remote, but is not eligible to be hired in CA, CT, NJ, NY, PA, WA.\n\nTravel \n\nWe prioritize connection and opportunities to build relationships with our customers and each other. For this role, approximately 15% travel is anticipated to help you connect in-person in a meaningful way. \n\nWhat We Offer\n\nWorking at Twilio offers many benefits, including competitive pay, generous time off, ample parental and wellness leave, healthcare, a retirement savings program, and much more. Offerings vary by location.\n\nCompensation\n\n*Please note this role is open to candidates outside of California, Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, New Jersey, New York, Vermont, Washington D.C., and Washington State. The information below is provided for candidates hired in those locations only.\n\nThe estimated pay ranges for this role are as follows:\n\n  * Based in Colorado, Hawaii, Illinois, Maryland, Massachusetts, Minnesota, Vermont or Washington D.C. : $128,560 - $160,700.\n  * Based in New York, New Jersey, Washington State, or California (outside of the San Francisco Bay area): $136,000 - $170,000.\n  * Based in the San Francisco Bay area, California: $151,120 - $188,900.\n  * This role may be eligible to participate in Twilio's equity plan and corporate bonus plan. All roles are generally eligible for the following benefits: health care insurance, 401(k) retirement account, paid sick time, paid personal time off, paid parental leave.\n\n\n\nThe successful candidate's starting salary will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location.\n\nApplication deadline information (required for ALL US jobs)\n\nApplications for this role are intended to be accepted until October 31, 2026, but may change based on business needs. \n\nTwilio thinks big. Do you?\n\nWe like to solve problems, take initiative, pitch in when needed, and are always up for trying new things. That's why we seek out colleagues who embody our values — something we call Twilio Magic. Additionally, we empower employees to build positive change in their communities by supporting their volunteering and donation efforts.\n\nSo, if you're ready to unleash your full potential, do your best work, and be the best version of yourself, apply now! If this role isn't what you're looking for, please consider other open positions.\n\n.\n\nStay alert to recruitment fraud\n\nWe care about your safety. Scammers sometimes impersonate Twilio recruiters through fake job postings, emails, websites, or messages. Please ensure you are engaging with an official @twilio.com email address. We will never ask for payment, gift cards, cryptocurrency, or banking information during the recruiting process. We do not make job offers without a formal interview process or conduct interviews exclusively through text-based messaging apps.  \n  \n.\n\nTwilio is proud to be an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. Additionally, Twilio participates in the E-Verify program in certain locations, as required by law.",
+            "apply_options": [
+                {
+                    "title": "Twilio Careers",
+                    "link": "https://jobs.twilio.com/careers/job/1099556061737?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=c3974307de3f7386&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/sr-marketing-strategy-and-analytics-manager_7ea1ae9b9ba567c4a570590817da370c223e5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6ab63fd8865119c687ee8795-sr.-marketing-strategy-and-analytics-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Anywhere Job",
+                    "link": "https://www.remoteanywherejob.com/en/job/sr-marketing-strategy-and-analytics-manager-42131?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Companies | Sway Ventures Job Board",
+                    "link": "https://talent.swayvc.com/companies/sendgrid/jobs/93354683-sr-marketing-strategy-and-analytics-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hirewell",
+                    "link": "https://hirewell.social-networking.me/remote-jobs/sr-marketing-strategy-and-analytics-manager-85b69246?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gTWFya2V0aW5nIFN0cmF0ZWd5IGFuZCBBbmFseXRpY3MgTWFuYWdlciIsImNvbXBhbnlfbmFtZSI6IlR3aWxpbyIsImh0aWRvY2lkIjoiSVpmQmhFV0dqVlZEaVJFa0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFcFdlbVpNUkdsNVpuRm5Sa0ZxUTI1RFpVZFRURTFuUVZvd2RXUnpiRmxCU1VRMmExUXhRMGMzUTNCaWR6WkhWSGc0VDNaVFQzQXlVR00yYW05bVNuaDZiWFprTm5ScU5GTmpaREpOU1VseFpUZGZjVmRQZG05NlVIZEtVMDVmVEdGTU1FTm1ZWGxsVFhSd2NXTnVTR1JtUlV4RmEzbERiMjEyUlRKbWFrbEJaVlpDT1hRU0YzVTJXR0poYjFjeFFtVnRlRFZPYjFBMGNEWnZObEZyR2lKQlJITnlPV1pSU1RoaFUwbzVWRmg0VVVWU2NYWm9NRVZhVmpGSU9YUm9RWFJCIiwiZmN2IjoiMyIsImZjX2lkIjoiSVpmQmhFV0dqVlZEaVJFa0FBQUFBQT09In0="
+        },
+        {
+            "title": "Analytics Manager",
+            "company_name": "Sigmax Media",
+            "location": "Denver, CO",
+            "via": "BeBee",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong analytical skills with experience in Analytics and Data Analytics to interpret complex data sets and generate meaningful insights",
+                        "Proficiency in Statistics to perform rigorous analysis, modeling, and hypothesis testing that supports evidence-based decisions",
+                        "Ability to create clear and compelling Data Visualization to communicate findings to technical and non-technical stakeholders",
+                        "Experience using modern analytics and business intelligence tools (e.g., SQL, Python/R, Tableau, Power BI, Looker or similar)",
+                        "Demonstrated ability to define and track KPIs, build dashboards, and support performance measurement for digital and media initiatives",
+                        "Excellent communication skills, with the ability to translate complex analysis into concise recommendations",
+                        "Proven experience working in a remote environment, managing priorities, and collaborating across distributed teams",
+                        "Bachelor’s degree in a quantitative field (e.g., Statistics, Mathematics, Data Science, Economics, Computer Science) or equivalent practical experience",
+                        "Prior experience in media, digital marketing, or a data-focused role is beneficial"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Team members collaborate across disciplines, including editorial, marketing, product, and technology, to deliver impactful insights",
+                        "This full-time remote Analytics Manager role is responsible for leading data-driven initiatives that support strategic and operational decisions across Sigmax Media",
+                        "Manager will oversee the collection, validation, and analysis of data from multiple sources, creating reports and dashboards that provide clear, actionable insights for stakeholders",
+                        "Daily responsibilities include designing analytical frameworks, conducting statistical and trend analyses, and presenting findings to leadership and cross-functional teams",
+                        "The role also involves collaborating with product, marketing, and content teams to define key performance indicators, optimize campaigns, and improve audience understanding",
+                        "Manager will mentor team members, help refine analytics processes, and contribute to the selection and implementation of analytics tools and best practices"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=0KAydzTSp92HTFqRAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CZ1uFNFEBBedREEQioMfUK71SFLSu5ALEmd_XF3e9prPolmeGOO7hFGhQ0ZHGTZwkwGUMI8ehOEq4iK1R19K0oO1qtE4LfhLZpTZCtMg1U4y6J9ePWZKEQv1u_22msRu1T6Cm7FCR8-AEBguxC_Kazjfv67AURyGAAAA&shmds=v1_ARwrE21bTQkW_IBG3XfePvXbcpiMWE-4ZRdbo4EUToF-98wdLQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=0KAydzTSp92HTFqRAAAAAA%3D%3D",
+            "extensions": [
+                "9 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://bebee.com/us/jobs/analytics-manager-sigmax-media-denver--pureheal-29125_F5394FC39161082D55C2CAC6CF25C2AF",
+            "job_title": "Analytics Manager",
+            "description": "Company Description\nSigmax Media is a digital-first organization focused on using data and analytics to drive media strategy, audience engagement, and business growth. The company values evidence-based decision-making and leverages modern analytics tools to optimize content performance and operational efficiency. Team members collaborate across disciplines, including editorial, marketing, product, and technology, to deliver impactful insights.\n\n\nSigmax\nMedia fosters a remote-friendly, inclusive work environment that supports continuous learning and professional development.\n\n\nRole Description\nThis full-time remote Analytics Manager role is responsible for leading data-driven initiatives that support strategic and operational decisions across Sigmax Media.\n\n\nThe Analytics\nManager will oversee the collection, validation, and analysis of data from multiple sources, creating reports and dashboards that provide clear, actionable insights for stakeholders. Daily responsibilities include designing analytical frameworks, conducting statistical and trend analyses, and presenting findings to leadership and cross-functional teams. The role also involves collaborating with product, marketing, and content teams to define key performance indicators, optimize campaigns, and improve audience understanding.\n\n\nThe Analytics\nManager will mentor team members, help refine analytics processes, and contribute to the selection and implementation of analytics tools and best practices.\n\n\nQualifications\nStrong analytical skills with experience in Analytics and Data Analytics to interpret complex data sets and generate meaningful insights.\n\n\nProficiency in Statistics to perform rigorous analysis, modeling, and hypothesis testing that supports evidence-based decisions.\n\n\nAbility to create clear and compelling Data Visualization to communicate findings to technical and non-technical stakeholders.\n\n\nExperience using modern analytics and business intelligence tools (e.g., SQL, Python/R, Tableau, Power BI, Looker or similar).\n\n\nDemonstrated ability to define and track KPIs, build dashboards, and support performance measurement for digital and media initiatives.\n\n\nExcellent communication skills, with the ability to translate complex analysis into concise recommendations.\n\n\nProven experience working in a remote environment, managing priorities, and collaborating across distributed teams.\n\n\nBachelor’s degree in a quantitative field (e.g., Statistics, Mathematics, Data Science, Economics, Computer Science) or equivalent practical experience.\n\n\nPrior experience in media, digital marketing, or a data-focused role is beneficial.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/analytics-manager-sigmax-media-denver--pureheal-29125_F5394FC39161082D55C2CAC6CF25C2AF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-28652-e73cdfe4609fc31d3e614e21c6a76512?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-co-denver-analytics-manager-sigmax-media-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBbmFseXRpY3MgTWFuYWdlciIsImNvbXBhbnlfbmFtZSI6IlNpZ21heCBNZWRpYSIsImh0aWRvY2lkIjoiMEtBeWR6VFNwOTJIVEZxUkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNuVXRVVVpTWm1aNE5qaDZNVXhEWkVOMU9IbDZialkxUTNjelFuQTNNVTlGZWtST01XWmpNV1pYVFV4emNXUlhjRWh1Y2pWSVRYQjRNMnRvV1VRME5HdFpaMU5oWjFkZlVIQkRNa05YU2twbFV6UnNRbGx4VEV4MVdUQm9NWGxrVlhkRlFWWmxRMlZ1Vm5RNU9XdHJPVmt5U2xkVGVVaG9jR0ZKWm1KVVFtSTRXVU5oVFdvU0YzVTJXR0poYjFjeFFtVnRlRFZPYjFBMGNEWnZObEZyR2lKQlJITnlPV1pSTm5Wa1JVUlhibFZhZWtodGMySjNVR2hyY1hGMFQxZDFXbEozIiwiZmN2IjoiMyIsImZjX2lkIjoiMEtBeWR6VFNwOTJIVEZxUkFBQUFBQT09In0="
+        },
+        {
+            "title": "Client Analytics Manager",
+            "company_name": "MBMS - Medical Billing and Management Services",
+            "location": "United States",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Are you someone who loves turning data into insights, solving problems, and building strong client relationships?",
+                        "Analytical – You enjoy digging into data and finding the story behind the numbers",
+                        "Client-focused – You understand that great service is about anticipating needs, not simply responding to requests",
+                        "A strong communicator – You can explain complex information clearly to both technical and non-technical audiences",
+                        "A problem solver – You naturally look for solutions and opportunities for improvement",
+                        "Confident and collaborative – You’re comfortable working directly with clients, vendors, and internal teams",
+                        "Curious – You enjoy learning about healthcare, industry trends, technology, and business strategy",
+                        "Organized – You can manage multiple clients, projects, deadlines, and priorities",
+                        "Adaptable – You are comfortable learning new technologies and adjusting as business needs evolve",
+                        "Professional certifications such as CMPE, CHBME, or CHDA are valued but are not required",
+                        "Occasional travel to MBMS offices in Reading, Newark, State College, and Somerset may also be required",
+                        "Prolonged periods of sitting and working at a computer",
+                        "Ability to lift up to 15 pounds occasionally",
+                        "Analytics + Healthcare + Client Strategy + Relationship Building",
+                        "If you enjoy working with data but don’t want to spend your entire day behind a spreadsheet—and you enjoy working with people, solving problems, and making an impact—this could be the role for you"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay: $95,000.00 - $100,000.00 per year",
+                        "401(k)",
+                        "Dental insurance",
+                        "Health insurance",
+                        "Paid time off",
+                        "Work Location: Remote"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Drive Client Success",
+                        "MBMS is looking for a Client Analytics Manager (CAM) who can do more than analyze numbers—you’ll use data, communication, and business insight to help our healthcare clients make smarter decisions and improve their financial performance",
+                        "As a Client Analytics Manager, you’ll serve as a trusted advisor and strategic partner to our clients",
+                        "You’ll work closely with healthcare practices to understand their challenges, identify opportunities, translate complex information into meaningful insights, and help deliver solutions that make a measurable difference",
+                        "This is an ideal opportunity for someone who enjoys a combination of analytics, healthcare, client consulting, relationship management, and problem-solving",
+                        "Be a Trusted Client Partner",
+                        "Build strong, lasting relationships with healthcare practices and their leadership teams",
+                        "Serve as a knowledgeable, responsive resource and advocate for your clients",
+                        "Meet with clients to discuss performance, challenges, opportunities, and industry trends",
+                        "Present financial and operational insights in a way that is clear, meaningful, and actionable",
+                        "Identify opportunities to enhance services and create additional value for clients",
+                        "Turn Data Into Strategy",
+                        "Analyze revenue cycle and month-end financial results",
+                        "Identify trends in revenue, payer mix, procedure mix, charges, and other key performance indicators",
+                        "Develop revenue projections and cash-flow analyses",
+                        "Benchmark client performance against comparable organizations and industry data",
+                        "Conduct carrier impact analyses and annual fee schedule reviews",
+                        "Develop recommendations based on your findings",
+                        "Solve Problems & Identify Opportunities",
+                        "Proactively identify client challenges, opportunities, and potential threats",
+                        "Partner with internal teams to develop practical solutions",
+                        "Communicate significant issues proactively, including the cause, expected timeframe, financial impact, resolution plan, and prevention strategies",
+                        "Facilitate special projects and initiatives that improve client outcomes",
+                        "Bring forward ideas that can improve services for both individual clients and MBMS as a whole",
+                        "Build Reporting & Business Intelligence",
+                        "Prepare monthly, quarterly, and year-end financial reporting packages",
+                        "Develop ad-hoc reports and analyses based on client needs",
+                        "Create meaningful dashboards and visualizations using Microsoft Power BI",
+                        "Utilize advanced Excel capabilities, including formulas, pivot tables, and charts",
+                        "Support data validation and integrity",
+                        "Help streamline reporting and develop new KPIs, measures, aggregations, and dynamic visualizations",
+                        "Provide training to internal and external teams on reporting tools",
+                        "Support Payer Contract Analysis",
+                        "Partner with the Contract Variance Manager to review third-party payer contracts",
+                        "Analyze contract terms and fee schedules",
+                        "Monitor reimbursement and audit payments against contracted rates",
+                        "Communicate findings and opportunities to clients",
+                        "Stay Ahead of Healthcare Trends",
+                        "You’ll be expected to stay informed about changes and trends affecting the healthcare industry, revenue cycle management, reimbursement, and medical practice operations—and bring that knowledge to your client relationships",
+                        "At MBMS, the Client Analytics Manager isn’t simply a reporting role",
+                        "You’ll have the opportunity to sit at the intersection of data, healthcare, technology, and client strategy",
+                        "Your insights can help practices understand their financial performance, identify opportunities, address challenges, and make better business decisions",
+                        "You’ll also collaborate across MBMS teams including Client Services, Operations, Coding, Credentialing, MIPS, and Marketing/Development, giving you exposure to a broad range of healthcare business functions",
+                        "This position includes some travel for client meetings, with frequency varying based on client needs"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=Eh-lNaE12Rgt2ITKAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OMQrCQBBFsfUIVlMLZkWw0UKMhSCkCtZhshk2I5uZsLNIPJVXNAGb3733_vq7WrtbZJIMV8H4yewNKhQMlGAHD23BCJPvQQXuqiHS5tznPNrJObNYBMs4Q4XXwalQq5N7aWvLNNZjojFipuZw3E_FKGF7qcqqns0VdewxQskxsgRA6f7dYTlTU3qzJwMWeApn6qCeQ2Q_RXkhobIAAAA&shmds=v1_ARwrE21eQa6vOhaC0sHGfY_g4X2cqLuPQrNHRv_K_mRWXmkQkg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=Eh-lNaE12Rgt2ITKAAAAAA%3D%3D",
+            "extensions": [
+                "18 days ago",
+                "95K–100K a year",
+                "Full-time",
+                "No degree mentioned",
+                "Dental insurance",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.indeed.com/viewjob?jk=051aa484c08c8be2",
+            "job_title": "Client Analytics Manager",
+            "description": "Make Data Matter. Build Relationships. Drive Client Success.\n\n\nAre you someone who loves turning data into insights, solving problems, and building strong client relationships?\n\n\nMBMS is looking for a Client Analytics Manager (CAM) who can do more than analyze numbers—you’ll use data, communication, and business insight to help our healthcare clients make smarter decisions and improve their financial performance.\n\n\nAs a Client Analytics Manager, you’ll serve as a trusted advisor and strategic partner to our clients. You’ll work closely with healthcare practices to understand their challenges, identify opportunities, translate complex information into meaningful insights, and help deliver solutions that make a measurable difference.\n\n\nThis is an ideal opportunity for someone who enjoys a combination of analytics, healthcare, client consulting, relationship management, and problem-solving.\n\n\nWhat You’ll Do\n\n\nBe a Trusted Client Partner\n\n\n\n Build strong, lasting relationships with healthcare practices and their leadership teams.\n Serve as a knowledgeable, responsive resource and advocate for your clients.\n Meet with clients to discuss performance, challenges, opportunities, and industry trends.\n Present financial and operational insights in a way that is clear, meaningful, and actionable.\n Identify opportunities to enhance services and create additional value for clients.\n\nTurn Data Into Strategy\n\n\n\n Analyze revenue cycle and month-end financial results.\n Identify trends in revenue, payer mix, procedure mix, charges, and other key performance indicators.\n Develop revenue projections and cash-flow analyses.\n Benchmark client performance against comparable organizations and industry data.\n Conduct carrier impact analyses and annual fee schedule reviews.\n Develop recommendations based on your findings.\n\nSolve Problems & Identify Opportunities\n\n\n\n Proactively identify client challenges, opportunities, and potential threats.\n Partner with internal teams to develop practical solutions.\n Communicate significant issues proactively, including the cause, expected timeframe, financial impact, resolution plan, and prevention strategies.\n Facilitate special projects and initiatives that improve client outcomes.\n Bring forward ideas that can improve services for both individual clients and MBMS as a whole.\n\nBuild Reporting & Business Intelligence\n\n\n\n Prepare monthly, quarterly, and year-end financial reporting packages.\n Develop ad-hoc reports and analyses based on client needs.\n Create meaningful dashboards and visualizations using Microsoft Power BI.\n Utilize advanced Excel capabilities, including formulas, pivot tables, and charts.\n Support data validation and integrity.\n Help streamline reporting and develop new KPIs, measures, aggregations, and dynamic visualizations.\n Provide training to internal and external teams on reporting tools.\n\nSupport Payer Contract Analysis\n\n\n\n Partner with the Contract Variance Manager to review third-party payer contracts.\n Analyze contract terms and fee schedules.\n Monitor reimbursement and audit payments against contracted rates.\n Communicate findings and opportunities to clients\n\nStay Ahead of Healthcare Trends\n\n\nYou’ll be expected to stay informed about changes and trends affecting the healthcare industry, revenue cycle management, reimbursement, and medical practice operations—and bring that knowledge to your client relationships.\n\n\nWhat We’re Looking For\n\n\nWe’re looking for someone who is:\n\n\n\n Analytical – You enjoy digging into data and finding the story behind the numbers.\n Client-focused – You understand that great service is about anticipating needs, not simply responding to requests.\n A strong communicator – You can explain complex information clearly to both technical and non-technical audiences.\n A problem solver – You naturally look for solutions and opportunities for improvement.\n Confident and collaborative – You’re comfortable working directly with clients, vendors, and internal teams.\n Curious – You enjoy learning about healthcare, industry trends, technology, and business strategy.\n Organized – You can manage multiple clients, projects, deadlines, and priorities.\n Adaptable – You are comfortable learning new technologies and adjusting as business needs evolve.\n\nSkills & Experience\n\n\nPreferred qualifications include:\n\n\n\n Advanced Microsoft Excel skills, including formulas, pivot tables, and charts.\n Experience with Power BI or similar business intelligence/visualization platforms.\n Experience working with data analytics, financial reporting, or revenue cycle information.\n Strong presentation and client relationship skills.\n Ability to analyze trends and translate findings into actionable recommendations.\n Bachelor’s degree preferred.\n Healthcare, medical billing, revenue cycle, practice management, or analytics experience is a plus.\n\nProfessional certifications such as CMPE, CHBME, or CHDA are valued but are not required.\n\n\nA Role With Real Client Impact\n\n\nAt MBMS, the Client Analytics Manager isn’t simply a reporting role.\n\n\nYou’ll have the opportunity to sit at the intersection of data, healthcare, technology, and client strategy.\n\n\nYour insights can help practices understand their financial performance, identify opportunities, address challenges, and make better business decisions.\n\n\nYou’ll also collaborate across MBMS teams including Client Services, Operations, Coding, Credentialing, MIPS, and Marketing/Development, giving you exposure to a broad range of healthcare business functions.\n\n\nTravel\n\n\nThis position includes some travel for client meetings, with frequency varying based on client needs. Occasional travel to MBMS offices in Reading, Newark, State College, and Somerset may also be required.\n\n\nPhysical Requirements\n\n\n\n Prolonged periods of sitting and working at a computer.\n Ability to lift up to 15 pounds occasionally.\n\nWhy This Role?\n\n\nAnalytics + Healthcare + Client Strategy + Relationship Building\n\n\nIf you enjoy working with data but don’t want to spend your entire day behind a spreadsheet—and you enjoy working with people, solving problems, and making an impact—this could be the role for you.\n\n\nMBMS reserves the right to revise this job description as business needs evolve. This description represents the general responsibilities and requirements of the position and is not intended to be an exhaustive list of all duties.\n\n\nPay: $95,000.00 - $100,000.00 per year\n\n\nBenefits:\n\n\n\n 401(k)\n Dental insurance\n Health insurance\n Paid time off\n\nWork Location: Remote",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=051aa484c08c8be2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/client-analytics-manager_7ea1aa0387c4f083b953a5dced78664e77220?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Rocketship",
+                    "link": "https://www.remoterocketship.com/us/company/findly/jobs/client-analytics-manager-atlanta-hybrid/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Karkidi",
+                    "link": "https://www.karkidi.com/job-details/83618-client-analytics-manager-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/client-analytics-manager-mbms-llc-pennsylvania--t7xk-858866943?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HireFast",
+                    "link": "https://hirefast.g8r.social-networking.me/remote-jobs/remote-client-analytics-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-5003-17e6734ffced3dff94f8907fecdafd1e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDbGllbnQgQW5hbHl0aWNzIE1hbmFnZXIiLCJjb21wYW55X25hbWUiOiJNQk1TIC0gTWVkaWNhbCBCaWxsaW5nIGFuZCBNYW5hZ2VtZW50IFNlcnZpY2VzIiwiaHRpZG9jaWQiOiJFaC1sTmFFMTJSZ3QySVRLQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU21SQlMwYzJiRmxyUVZVMU4xQmZUVlZyY21sd01VeENiVU15VGxKRlExWk9kM0ZaWVMxa00wZGlZMDFPVFZndFVFMTJTRWxyVUV4M2NUUnhjSE5ZYlc5NlkxOVljVmN6UkhaTllWSnJlVU5qZFV4UFdtcFhNVW95WldOMk5FeEpWVWRHWXkxemRrUndhVlF3TjFkSE9GUjFaeTFWUkUwelYzQnlaamw1Y0RKcVpISk9TM01TRjNVMldHSmhiMWN4UW1WdGVEVk9iMUEwY0Radk5sRnJHaUpCUkhOeU9XWlNWWGRNUkRRNVgwSnRjbEZKWkZwNFMxOVlOREp4TVVWSE1HWm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJFaC1sTmFFMTJSZ3QySVRLQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Sr. Analytics Manager - User Growth & Engagement",
+            "company_name": "Redfin Corporation",
+            "location": "United States",
+            "via": "Workday",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "About you You have a 9+ year career in digital and product analytics, with a track record on consumer-facing products at scale",
+                        "5+ years of experience directly leading analytics teams",
+                        "People leadership experience at this scale is required for this role",
+                        "Deep, hands-on expertise in A/B and multivariate testing, including experimental design, power and sample sizing, interaction effects, guardrails, sequential testing, and the judgment to know when a result is real",
+                        "Strong working experience with Snowflake and strong SQL, including performance-aware queries, data modeling, and building reusable analytical layers",
+                        "Strong Tableau experience, including building analytical products others rely on rather than one-off dashboards",
+                        "Demonstrated, practical use of AI in an analytics workflow, with specific examples of how it changed your team's speed, quality, or leverage",
+                        "Strong statistical and causal reasoning foundation, including approaches for when a clean randomized test isn't possible, such as incrementality, quasi-experimental design, and holdouts",
+                        "Proficiency in Python or R for analysis",
+                        "Experience owning funnel, activation, engagement, retention, and conversion measurement for a consumer product",
+                        "Excellent communication and stakeholder management skills, with a track record of influencing senior product and business leaders",
+                        "Experience with rentals or subscription B2C growth, including lead quality and monetization measurement",
+                        "Experience building experimentation platforms, metric layers, or self-serve analytics that outlived your involvement in them",
+                        "Background in a regulated industry, with an understanding of how compliance constraints shape testing and targeting",
+                        "Bachelor's degree in a quantitative field, or equivalent practical experience"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "We go above and beyond to give you the support you need on an individual level and offer all sorts of ways to help you live your best life",
+                        "We are proud to offer eligible team members perks and health benefits that will help you have peace of mind",
+                        "Redfin’s clients can see homes first with on-demand tours, easily apply for a home loan with Rocket Mortgage, and save thousands in fees while working with a top local agent",
+                        "The compensation for this position is $170,000-$230,000",
+                        "The position may also be eligible for an annual bonus, incentives, and other employment-related benefits including, but not limited to, medical, dental, and vision benefits, 401K retirement plan, and paid-time off",
+                        "The information regarding compensation and other benefits included in this paragraph is the company’s current, good faith estimate at the time of posting",
+                        "[Compensation and benefits are subject to modification from time to time as the Company, in its sole and exclusive discretion, deems appropriate.]"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Analytics Manager to lead a team of analysts covering activation and optimization across Redfin and Rentals",
+                        "Your team optimizes user-facing product experiences and programs through experimentation, measurement, and analysis that improve engagement, retention, conversion, and inventory outcomes across the for-sale and rentals B2C funnels",
+                        "This is a senior, hands-on leadership role",
+                        "You will lead and develop a large team while staying close to the work yourself, shaping methodology, raising the quality bar, and serving as the analytical voice senior product and business leaders turn to on the hardest growth questions",
+                        "About the role Lead, coach, and develop a team of 7-8 analytics professionals, setting clear priorities, structuring the team for coverage across for-sale and rentals, and raising the analytical quality bar across the group",
+                        "Own the experimentation program for product activation and optimization, including test design, sample sizing, guardrail metrics, sequential and multivariate approaches, observability, and honest interpretation of results",
+                        "Drive measurement and optimization of user-facing product experiences and lifecycle programs that move engagement, retention, conversion, and inventory outcomes",
+                        "Own rentals B2C growth analytics: renter acquisition and activation, search and discovery, lead quality, listing and inventory health, and the tradeoffs between renter demand and supply-side outcomes",
+                        "Build durable measurement foundations, including KPI frameworks, funnel and cohort diagnostics, dashboards, and a recurring business review rhythm that leaders actually use",
+                        "Design and maintain scalable analytical assets in Snowflake, including well-modeled datasets, shared metric definitions, and self-serve Tableau analytics that reduce one-off request volume",
+                        "Partner closely with Product, Engineering, Design, and Finance on complex cross-functional growth problems, and represent analytics in senior forums",
+                        "Set the analytical strategy for major product and growth investments, helping teams understand performance, unit economics, incrementality, and tradeoffs and owns the quarterly analytics roadmap, prioritizing the highest-impact opportunities",
+                        "Embed AI into how the team works, accelerating exploratory analysis, code generation, documentation, and synthesis, with guardrails appropriate to a regulated environment",
+                        "Translate ambiguous business questions into clear analytical plans, and translate results into recommendations senior leaders can act on",
+                        "Hire thoughtfully as the team grows, and build the bench through coaching and direct feedback"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Analytics+Manager&htidocid=OgmwjuYdZwSO_SLrAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMsQrCQBBEsc0nWC0IFoJ3IthoJSIBwcaQOlyS9RK57B63C8Zv8ic9mxlmhnnFd1GUVTJwJhc-OnYCd0fOY4It1JKtTPzWAdZwJZ_7CUnzdOMWBF3qBmCCktkHXJ4G1ShHa0WC8aIu80zHk2XClmf74lb-0sjgEsbgFJv9YTebSH6zemD_HAkunCKnfM3cHGsaFXuoMgzlByeCiCauAAAA&shmds=v1_ARwrE20BKs56XX4KyMplqQ9oyXG4RZSoN3Xbx3YA50E-5wr3qg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Analytics+Manager&htidocid=OgmwjuYdZwSO_SLrAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAaCAMAAADVPG8RAAAAilBMVEX____ZAAD--_zvr7P1zM_77O3cGS3kZG30xcj31tj20tXcHjHlbXX88PHaABX--PniV2HtoqfeN0X54uPaABvup6vbBCLog4rzwMPjXGZ_f3_q6urExMTwtbjmcnrne4LqkJXfQU7smp_dLTzZAAzhTFixsbHW1tajo6OIiIhiYmJwcHC6urqWlpb34QO8AAABUElEQVQ4je2QyXKDMAxAhW28YMCAw24CIaROSvL_v1c1l3ZKc8jk0EvfjORNz2MZ4J8_IzTEPDwc9jHFoRFC1N-qTKZgDKb48MjLOHIgQKs8L1oAknzuYl6iJGjAKlwlv3izPtKh0DWKADKFelkyA3QXCC3TI9_xfaRFwNVGLDgDsFwD5RFrs_KYQCzCoEzqKrIpI2Mc7UoTFxtR8-SeCdWVHs0pq2vBZ6wzaRQuCmoUCTCMny1WKFJdYLCUQSaaoZFU44d-iQZktRFlkIBNqwHbAhpELKXylJNK0KKKwuAuLiimGxHKEIDNeIPAeWtYeyqx6fg07G3SWihnKwgosRVf5q3rfU9Mj3hwzl970g-zUqCa0IbzY_F86dz7elnXS7d27uqu3erpOMlYjXM8TY9FB_7WO-eu3p_9zfc33wFTMre5lIMannl8_0zxP6_wAYlqF9DyeYxEAAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "10 days ago",
+                "Full-time",
+                "Health insurance",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "source_link": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle---Hill7/Sr-Analytics-Manager---User-Growth---Engagement_R-084372",
+            "job_title": "Sr. Analytics Manager - User Growth & Engagement",
+            "description": "This role is hybrid opportunity for candidates to work in office on Tuesdays and Wednesdays from our Seattle office and work remotely all other days . We can consider highly qualified candidates on a remote only basis who reside outside of these three areas. Redfin is one of the most recognized names in residential real estate, a technology-powered brokerage and search platform that has spent two decades reshaping how people find, tour, buy, sell, and rent a home. Redfin is now part of Rocket Companies (NYSE: RKT), joining Rocket Mortgage, Mr. Cooper, Rocket Homes, Rocket Close, Rocket Money, and Rocket Loans in a single connected ecosystem spanning search, financing, closing, servicing, and everyday personal finance. That combination puts Redfin at the front of the largest homeownership platform in the country, and gives its product teams a view of the client journey that no standalone portal or brokerage can match. Redfin is seeking a Sr. Analytics Manager to lead a team of analysts covering activation and optimization across Redfin and Rentals. Your team optimizes user-facing product experiences and programs through experimentation, measurement, and analysis that improve engagement, retention, conversion, and inventory outcomes across the for-sale and rentals B2C funnels. This is a senior, hands-on leadership role. You will lead and develop a large team while staying close to the work yourself, shaping methodology, raising the quality bar, and serving as the analytical voice senior product and business leaders turn to on the hardest growth questions. About the role Lead, coach, and develop a team of 7-8 analytics professionals, setting clear priorities, structuring the team for coverage across for-sale and rentals, and raising the analytical quality bar across the group. Own the experimentation program for product activation and optimization, including test design, sample sizing, guardrail metrics, sequential and multivariate approaches, observability, and honest interpretation of results. Drive measurement and optimization of user-facing product experiences and lifecycle programs that move engagement, retention, conversion, and inventory outcomes. Own rentals B2C growth analytics: renter acquisition and activation, search and discovery, lead quality, listing and inventory health, and the tradeoffs between renter demand and supply-side outcomes. Build durable measurement foundations, including KPI frameworks, funnel and cohort diagnostics, dashboards, and a recurring business review rhythm that leaders actually use. Design and maintain scalable analytical assets in Snowflake, including well-modeled datasets, shared metric definitions, and self-serve Tableau analytics that reduce one-off request volume. Partner closely with Product, Engineering, Design, and Finance on complex cross-functional growth problems, and represent analytics in senior forums. Set the analytical strategy for major product and growth investments, helping teams understand performance, unit economics, incrementality, and tradeoffs and owns the quarterly analytics roadmap, prioritizing the highest-impact opportunities. Embed AI into how the team works, accelerating exploratory analysis, code generation, documentation, and synthesis, with guardrails appropriate to a regulated environment. Translate ambiguous business questions into clear analytical plans, and translate results into recommendations senior leaders can act on. Hire thoughtfully as the team grows, and build the bench through coaching and direct feedback. About you You have a 9+ year career in digital and product analytics, with a track record on consumer-facing products at scale. 5+ years of experience directly leading analytics teams. People leadership experience at this scale is required for this role. Deep, hands-on expertise in A/B and multivariate testing, including experimental design, power and sample sizing, interaction effects, guardrails, sequential testing, and the judgment to know when a result is real. Strong working experience with Snowflake and strong SQL, including performance-aware queries, data modeling, and building reusable analytical layers. Strong Tableau experience, including building analytical products others rely on rather than one-off dashboards. Demonstrated, practical use of AI in an analytics workflow, with specific examples of how it changed your team's speed, quality, or leverage. Strong statistical and causal reasoning foundation, including approaches for when a clean randomized test isn't possible, such as incrementality, quasi-experimental design, and holdouts. Proficiency in Python or R for analysis. Experience owning funnel, activation, engagement, retention, and conversion measurement for a consumer product. Excellent communication and stakeholder management skills, with a track record of influencing senior product and business leaders. Preferred Qualifications Experience in marketplaces, real estate, rentals, travel, or another two-sided consumer category where supply and inventory dynamics shape demand. Experience with rentals or subscription B2C growth, including lead quality and monetization measurement. Experience building experimentation platforms, metric layers, or self-serve analytics that outlived your involvement in them. Background in a regulated industry, with an understanding of how compliance constraints shape testing and targeting. Bachelor's degree in a quantitative field, or equivalent practical experience. What you’ll get Our team members fuel our strategy, innovation and growth, so we ensure the health and well-being of not just you, but your family, too! We go above and beyond to give you the support you need on an individual level and offer all sorts of ways to help you live your best life. We are proud to offer eligible team members perks and health benefits that will help you have peace of mind. Simply put: We’ve got your back. Check out our full list of Benefits and Perks. About us Redfin is a technology-driven real estate company with the country's most-visited real estate brokerage website. As part of Rocket Companies (NYSE: RKT), Redfin is creating an integrated homeownership platform from search to close to make the dream of homeownership more affordable and accessible for everyone. Redfin’s clients can see homes first with on-demand tours, easily apply for a home loan with Rocket Mortgage, and save thousands in fees while working with a top local agent. This job description is an outline of the primary responsibilities of this position and may be modified at the discretion of the company at any time.  Decisions related to employment are not based on race, color, religion, national origin, sex, physical or mental disability, sexual orientation, gender identity or expression, age, military or veteran status or any other characteristic protected by state or federal law.  The company provides reasonable accommodations to qualified individuals with disabilities in accordance with applicable state and federal laws.  Applicants requiring reasonable accommodations in completing the application and/or participating in the application process should contact a member of the Human Resources team, at Careers@Rocket.com. The compensation information below is provided in compliance with all applicable job posting disclosure requirements. The compensation for this position is $170,000-$230,000. The position may also be eligible for an annual bonus, incentives, and other employment-related benefits including, but not limited to, medical, dental, and vision benefits, 401K retirement plan, and paid-time off. More information regarding these benefits and others can be found here. The information regarding compensation and other benefits included in this paragraph is the company’s current, good faith estimate at the time of posting. [Compensation and benefits are subject to modification from time to time as the Company, in its sole and exclusive discretion, deems appropriate.] The Company may determine during its future reviews of the proposed compensation and benefits provided for this position, that the compensation and benefits for such position should be reduced. In no event will the Company reduce the compensation for the position to a level below the applicable jurisdictional minimum wage rate for the position. Los Angeles County and San Francisco Candidates only: qualified applicants with arrest or conviction records will be considered for employment per the Fair Chance Ordinance and the Fair Chance Initiative for Hiring. As part of the ecosystem of Rocket® we transform talented candidates into passionate team members who thrive in our world of opportunities. Join us in our mission to shape the future of our industries and make a lasting impact in our communities and beyond.",
+            "apply_options": [
+                {
+                    "title": "Workday",
+                    "link": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle---Hill7/Sr-Analytics-Manager---User-Growth---Engagement_R-084372?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/design-manager-growth-olly-pbc--t7xk-813251379?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/analytics-manager-user-growth-engagement-jobs/1633696B0F6123DB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gQW5hbHl0aWNzIE1hbmFnZXIgLSBVc2VyIEdyb3d0aCBcdTAwMjYgRW5nYWdlbWVudCIsImNvbXBhbnlfbmFtZSI6IlJlZGZpbiBDb3Jwb3JhdGlvbiIsImh0aWRvY2lkIjoiT2dtd2p1WWRad1NPX1NMckFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRDMXJWRmsxWjJSQlUwdFFaVWREZVVKNFNuTktPRUUyVDNKNFMybzVNV1YzUVZaMFYxbE1kbE5mVkVoUFRVZE5TbkJmY1VoR09YVlJkblpOVVRadmNWaGlZMUExUTNSMlIybFFja014WW1GalNIUm5MVFJaVDBsamFWRmtNMEprUVU4NFdtcG1jVnBJVFdSVFRFWldOM281Y1d0NkxXbGhaMlpmV0VZMGJEYzVTaTFwTldJU0YzVTJXR0poYjFjeFFtVnRlRFZPYjFBMGNEWnZObEZyR2lKQlJITnlPV1pUWDI1RFVYWlRSRlZ2T1dwTGFVeFlYMWhoYkZrdE9Ga3paM3BSIiwiZmN2IjoiMyIsImZjX2lkIjoiT2dtd2p1WWRad1NPX1NMckFBQUFBQT09In0="
+        }
+    ]
+}

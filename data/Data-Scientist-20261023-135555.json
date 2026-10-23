@@ -1,0 +1,889 @@
+{
+    "jobs_results": [
+        {
+            "title": "Principal Data Scientist, Payments Intelligence",
+            "company_name": "WEX Inc",
+            "location": "United States",
+            "via": "Workday",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "What You Bring: 10+ years of relevant experience in data science or a related quantitative discipline, including hands-on work building production machine-learning, predictive, optimization, or decisioning solutions",
+                        "Deep subject-matter expertise in payments, credit cards, payment transactions, or payment infrastructure",
+                        "Strong domain understanding is essential; technical ability alone is not sufficient",
+                        "Experience in several relevant areas such as authorization, acceptance, interchange, BINs, merchant behavior, payment routing, fraud/risk, transaction economics, settlement, or payment-network dynamics",
+                        "Strong Python and SQL skills and experience working with large-scale transactional datasets",
+                        "Able to move between exploratory analysis, feature engineering, modeling, experimentation, and productionization",
+                        "Ability to understand not only what happened in payment data, but why it happened and what the business could do differently",
+                        "A builder and entrepreneurial mindset: able to independently identify an opportunity, explore data, test a hypothesis, prototype a solution, and develop a business case without requiring a fully defined roadmap",
+                        "Strong product instincts and judgment to distinguish technically interesting work from work that creates measurable business value",
+                        "Ability to work directly with Product, Engineering, Commercial, Risk, and business leaders and to communicate clearly and succinctly with director- and VP-level stakeholders",
+                        "Nice to Have: Advanced degree (master’s degree or above) in Data Science, Statistics, Applied Mathematics, Computer Science, Operations Research, Economics, or another quantitative discipline",
+                        "Equivalent depth demonstrated through experience may be considered on a case by case basis",
+                        "Experience with R and modern data platforms such as Snowflake or Databricks",
+                        "Python and SQL are required; SAS alone is not sufficient",
+                        "Experience at a major card network, card company, payment processor, transaction-focused fintech, or financial institution",
+                        "Curiosity about GenAI and agentic systems and interest in designing intelligence that can ultimately be consumed by AI agents"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base pay range represents the anticipated low and high end of the pay range for this position",
+                        "Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role",
+                        "Base pay is one component of WEX's total compensation package",
+                        "Most sales positions are eligible for commission under the terms of an applicable plan",
+                        "Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan",
+                        "WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being",
+                        "Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This individual will combine hands-on data science, machine learning, payment-domain expertise, and strong product instincts to identify high-value opportunities hidden within corporate payments data and turn them into production-ready intelligence",
+                        "The successful candidate will start with ambiguous business problems, explore data, form hypotheses, build models and signals, and partner with Product and Engineering to turn insights into scalable capabilities",
+                        "Over time, this work can help establish a trusted intelligence foundation for future AI agents and agentic payment experiences",
+                        "What You’ll Do: Discover high-value payment opportunities by combining deep payments knowledge with exploratory data science and machine learning",
+                        "Use corporate payments data to identify opportunities for revenue growth, improved payment economics, supplier onboarding, and new customer acquisition; identify additional data that could unlock further analysis",
+                        "Build intelligent payment data products that move beyond dashboards to predictions, recommendations, optimization, and decisioning",
+                        "Develop models and signals related to merchant and supplier behavior, payment acceptance, authorization performance, BIN/interchange optimization, payment routing, fraud/risk, and payment economics",
+                        "Create connected intelligence across customers, suppliers, merchants, transactions, payment methods, networks, and other payment entities",
+                        "Identify patterns in large-scale transaction data that can improve acceptance, payment performance, revenue, and margin; form hypotheses and prove value with rigorous analysis",
+                        "Prototype quickly using Python, SQL, machine learning, and modern data platforms to demonstrate value before scaling solutions",
+                        "Partner with Product and Engineering to productionize models, signals, and decisioning capabilities",
+                        "Design experimentation and measurement frameworks to demonstrate the incremental business value of models and recommendations",
+                        "Help define the semantic and contextual intelligence needed for future payments AI agents and agentic experiences",
+                        "Act as a thought partner to Payments leadership, proactively identifying opportunities rather than waiting for fully defined requirements",
+                        "Mentor data analysts and collaborate with data scientists across the broader organization, sharing practices and raising the technical and data-science bar",
+                        "Customer empathy, proactive collaboration and sharing of learnings, accountability to lead by example, and willingness to challenge existing approaches constructively",
+                        "Established technical leadership and a collaborative approach to mentoring others while remaining open to learning from peers",
+                        "This role will lead the discovery and validation of those opportunities, including payment-routing and interchange economics, supplier connectivity, and customer growth",
+                        "The successful candidate will have the autonomy to build a portfolio of high-value work, influence business decisions with evidence, and help establish scalable intelligence capabilities for future payment products and agentic experiences"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=HbE-02KijFdddkckAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNuwrCQBAAsc0XiNXWojkRbLT1gVaBINqFy7lcVi67R3aL-DX-qrEZppopvrPiXA3EgbJPcPTmoQ6EbKS2gsp_-skVrmyYEkXkgLCGm7Sg6IfQgTBcRGLCxaEzy7p3TjWVUc0bhTJI74SxldG9pdU_Gu38gDl5w2a724xl5ricP07P6RKAGO5Mhi-opwLqD_NCOkmiAAAA&shmds=v1_ARwrE23C-It7clJyIwH-plof94YNE-ai1gyS4VXPnEGns0qSxQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=HbE-02KijFdddkckAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adb9fab7d1233c3a17120ff/images/AuItB_n3qjxsK1Y0GXisQAMgN8STPKeW7mmgUdPwRr8.png",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/principal-data-scientist--payments-intelligence_r23138",
+            "job_title": "Principal Data Scientist, Payments Intelligence",
+            "description": "About the Team/Role We are looking for a highly entrepreneurial Principal Data Scientist with deep payments expertise to help define and build the next generation of intelligent payment products. This individual will combine hands-on data science, machine learning, payment-domain expertise, and strong product instincts to identify high-value opportunities hidden within corporate payments data and turn them into production-ready intelligence. This is not a traditional analytics or reporting role. The successful candidate will start with ambiguous business problems, explore data, form hypotheses, build models and signals, and partner with Product and Engineering to turn insights into scalable capabilities. The role offers near-greenfield opportunity and end-to-end ownership within Corporate Payments, with a focus on revenue growth and measurable business value. The initial focus includes exploring opportunities such as BIN routing optimization, where small improvements across high transaction volumes may create significant net benefit, as well as supplier onboarding, customer acquisition, and identifying suppliers that already accept card payments and could be connected to WEX customers. Over time, this work can help establish a trusted intelligence foundation for future AI agents and agentic payment experiences. What You’ll Do: Discover high-value payment opportunities by combining deep payments knowledge with exploratory data science and machine learning. Use corporate payments data to identify opportunities for revenue growth, improved payment economics, supplier onboarding, and new customer acquisition; identify additional data that could unlock further analysis. Build intelligent payment data products that move beyond dashboards to predictions, recommendations, optimization, and decisioning. Develop models and signals related to merchant and supplier behavior, payment acceptance, authorization performance, BIN/interchange optimization, payment routing, fraud/risk, and payment economics. Create connected intelligence across customers, suppliers, merchants, transactions, payment methods, networks, and other payment entities. Identify patterns in large-scale transaction data that can improve acceptance, payment performance, revenue, and margin; form hypotheses and prove value with rigorous analysis. Prototype quickly using Python, SQL, machine learning, and modern data platforms to demonstrate value before scaling solutions. Partner with Product and Engineering to productionize models, signals, and decisioning capabilities. Design experimentation and measurement frameworks to demonstrate the incremental business value of models and recommendations. Help define the semantic and contextual intelligence needed for future payments AI agents and agentic experiences. Act as a thought partner to Payments leadership, proactively identifying opportunities rather than waiting for fully defined requirements. Mentor data analysts and collaborate with data scientists across the broader organization, sharing practices and raising the technical and data-science bar. What You Bring: 10+ years of relevant experience in data science or a related quantitative discipline, including hands-on work building production machine-learning, predictive, optimization, or decisioning solutions. Deep subject-matter expertise in payments, credit cards, payment transactions, or payment infrastructure. Strong domain understanding is essential; technical ability alone is not sufficient. Experience in several relevant areas such as authorization, acceptance, interchange, BINs, merchant behavior, payment routing, fraud/risk, transaction economics, settlement, or payment-network dynamics. Strong Python and SQL skills and experience working with large-scale transactional datasets. Able to move between exploratory analysis, feature engineering, modeling, experimentation, and productionization. Ability to understand not only what happened in payment data, but why it happened and what the business could do differently. A builder and entrepreneurial mindset: able to independently identify an opportunity, explore data, test a hypothesis, prototype a solution, and develop a business case without requiring a fully defined roadmap. Strong product instincts and judgment to distinguish technically interesting work from work that creates measurable business value. Ability to work directly with Product, Engineering, Commercial, Risk, and business leaders and to communicate clearly and succinctly with director- and VP-level stakeholders. Customer empathy, proactive collaboration and sharing of learnings, accountability to lead by example, and willingness to challenge existing approaches constructively. Established technical leadership and a collaborative approach to mentoring others while remaining open to learning from peers. Nice to Have: Advanced degree (master’s degree or above) in Data Science, Statistics, Applied Mathematics, Computer Science, Operations Research, Economics, or another quantitative discipline. Equivalent depth demonstrated through experience may be considered on a case by case basis. Experience with R and modern data platforms such as Snowflake or Databricks. Python and SQL are required; SAS alone is not sufficient. Experience at a major card network, card company, payment processor, transaction-focused fintech, or financial institution. Curiosity about GenAI and agentic systems and interest in designing intelligence that can ultimately be consumed by AI agents. Why This Role Matters Corporate Payments has an opportunity to unlock meaningful revenue and net benefit from data that has recently become available. This role will lead the discovery and validation of those opportunities, including payment-routing and interchange economics, supplier connectivity, and customer growth. The successful candidate will have the autonomy to build a portfolio of high-value work, influence business decisions with evidence, and help establish scalable intelligence capabilities for future payment products and agentic experiences. As the portfolio grows, there may be an opportunity to build a supporting team over time; direct people management is not part of the initial role, and continued individual-contributor growth is also supported. The base pay range represents the anticipated low and high end of the pay range for this position. Actual pay rates will vary and will be based on various factors, such as your qualifications, skills, competencies, and proficiency for the role. Base pay is one component of WEX's total compensation package. Most sales positions are eligible for commission under the terms of an applicable plan. Non-sales roles are typically eligible for a quarterly or annual bonus based on their role and applicable plan. WEX's comprehensive and market competitive benefits are designed to support your personal and professional well-being. Benefits include health, dental and vision insurances, retirement savings plan, paid time off, health savings account, flexible spending accounts, life insurance, disability insurance, tuition reimbursement, and more. For more information, check out the \"About Us\" section. Pay Range: $215,000.00 - $243,800.00 WEX is a global commerce platform that helps businesses solve for operational complexities like employee benefits, managing and mobilizing fleets, and streamlining payments. With over 6,500 employees, we work with large and small companies in more than 200 countries and territories, and can tailor our services to meet the unique needs of their businesses. We hire people who share our passion for continuous innovation and client service that is unparalleled in the industry. Offering comprehensive and market competitive benefits, our offerings are designed to support your personal and professional well-being. If you’re looking for a growing career - come be part of WEX today. To learn more about our employee benefits, please click here. WEX is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, sexual orientation, gender identity, protected veteran status, disability or other protected status. WEX promotes a drug-free workplace. Qualified individuals with a disability have the right to request a reasonable accommodation. If you require a reasonable accommodation as a result of your disability at any point in the job application process, please submit your request through our Reasonable Accommodation Request Form. This form is for accommodation requests only and cannot be used to inquire about the status of applications.",
+            "apply_options": [
+                {
+                    "title": "Workday",
+                    "link": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/principal-data-scientist--payments-intelligence_r23138?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/principal-data-scientist-payments-intelligence-at-wex-4482416865?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010303278220&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://www.talent.com/view?id=642670068891190705&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-2283-ba57e0d23de91bf9cfcf26f49f4f9f51?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgRGF0YSBTY2llbnRpc3QsIFBheW1lbnRzIEludGVsbGlnZW5jZSIsImNvbXBhbnlfbmFtZSI6IldFWCBJbmMiLCJodGlkb2NpZCI6IkhiRS0wMktpakZkZGRrY2tBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURWcyZEZOeGQzTk1NV3RUWjFaelFraFVUV2hIVFdKWU5uRnljbFZCYVRsRFRYQkVZeTFwWTJKQlFYYzFjVXR0YzJKclluUmxWa05oVlhoMWVucE9ia05WUVhoTlJYbHZka2h4U1haUWFHUmtlWEpFY0Vrd2VGQkVOeTF0VFdSaFlqbG1TRXcwUlhsYVZWVjVPVVpvWTFGdE5IRnFiM295V0VKT1lqZFVjMWRvZERoNlppMFNGM0UxWDJKaGJ6Tk1Ta3RQY3pWT2IxQjJUVzFFYlVGWkdpSkJSSE55T1daVE0zSnNZbEV0VVUxNmJsTnZSeTFsUVcxSlFUVnlNekZhT1ZObiIsImZjdiI6IjMiLCJmY19pZCI6IkhiRS0wMktpakZkZGRrY2tBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Sr. Director, Advanced Data Scientist",
+            "company_name": "FNBO",
+            "location": "Mountain Home, WY",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Master's degree or PhD in Statistics, Data Science, Computer Science, Mathematics, Operations Research, Econometrics, or a related quantitative field",
+                        "7+ years of experience developing statistical or machine learning models, preferably in financial services or consumer credit with experience developing credit card acquisition and account-management models",
+                        "Strong experience independently developing predictive models using large and complex datasets",
+                        "Demonstrated expertise in Python and/or R; strong SQL skills",
+                        "Experience with gradient boosting/XGBoost/LightGBM, ensemble methods, neural networks, and other advanced ML techniques",
+                        "Experience with model explainability techniques such as SHAP and partial dependence",
+                        "Experience with the full model-development lifecycle, including development, implementation, and monitoring",
+                        "Strong understanding of credit-risk concepts and consumer lending",
+                        "Candidates must possess unrestricted work authorization and not require future sponsorship"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Compensation",
+                        "Compensation range (base pay): $158,696.00-$269,783.00",
+                        "This role may have a specific starting pay within this range",
+                        "Final compensation offer to candidate may vary from posted hiring range based upon work experience, education, and/or skill level",
+                        "We offer a variety of benefits designed to keep you and your family physically and financially healthy",
+                        "Not only do we offer a competitive salary and work-life balance, we offer benefits to match your needs:",
+                        "Medical, Dental, Vision Insurance",
+                        "401k, With Matching Contributions",
+                        "Time Off Programs",
+                        "Health Savings Account (HSA)/Dependent Care",
+                        "Employee Banking",
+                        "Growth Opportunities",
+                        "Tuition Assistance",
+                        "Short-Term/Long-Term Disability Insurance",
+                        "Learn more about FNBO benefits here: https://www.fnbo.com/careers/benefits/",
+                        "For additional information regarding compensation and benefits, e-mail FNBO at TAGAdmin@fnni.com"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Director, Advanced Data Scientist will provide senior strategic and technical leadership within the Partnership Division's data science and modeling function",
+                        "This role is responsible for defining and executing multi-year modeling roadmap and overseeing the development and implementation of advanced machine learning models that support credit decisioning and portfolio management",
+                        "The successful candidate will combine deep quantitative expertise with the organizational influence and executive presence required to shape strategy, drive cross-functional alignment, and deliver measurable business impact at scale",
+                        "Vision and Strategy",
+                        "Define and own the multi-year modeling roadmap for the development of several critical custom credit-risk acquisition and portfolio management models, establishing strategic priorities, sequencing, and investment rationale aligned with Partnership Division business objectives",
+                        "Serve as a senior thought leader and decision-maker on modeling approaches, leading discussions with senior business, credit risk, first line of risk, compliance, and technology stakeholders to align methodology, priorities, and risk considerations",
+                        "Identify and evaluate emerging modeling capabilities, analytical approaches, and implementation methods that can expand the division's competitive advantage in credit decisioning and customer risk management",
+                        "Communicate modeling strategy, project status, and key results to senior leaders through clear, executive-ready reporting — translating complex quantitative findings into actionable business insights and ensuring leadership has the visibility needed to make informed decisions",
+                        "Model Development",
+                        "Independently design and develop advanced ML models for credit card acquisition and underwriting and account management and customer risk",
+                        "Apply advanced statistical and machine learning techniques to large-scale customer and credit datasets",
+                        "Evaluate and implement algorithms including gradient boosting, random forests, neural networks, generalized additive models, ensemble methods, survival models, and other advanced ML approaches",
+                        "Conduct fair lending analysis (e.g., least discriminatory analysis)",
+                        "Identify opportunities to improve model performance, stability, interpretability, and business value",
+                        "End-to-End Model Ownership",
+                        "Independently lead model-development projects from problem definition through production implementation",
+                        "Translate business objectives into well-defined modeling frameworks, target variables, populations, and performance criteria",
+                        "Perform feature engineering, variable selection, model development, hyperparameter optimization, and performance evaluation",
+                        "Establish appropriate training, validation, and out-of-time testing strategies",
+                        "Document modeling methodology, assumptions, limitations, and results",
+                        "Partner with model validation and model risk management teams to address challenges and incorporate feedback",
+                        "Advanced Analytics and Research",
+                        "Conduct research on emerging ML techniques and assess their applicability to credit risk",
+                        "Develop innovative approaches for extracting predictive signals from traditional and alternative data sources",
+                        "Investigate nonlinear relationships, interactions, customer behavior patterns, and temporal dynamics that may not be captured by traditional credit-risk models",
+                        "Develop interpretable ML approaches that balance predictive performance with regulatory and business requirements",
+                        "Explore techniques such as explainable AI, causal modeling, ensemble learning, semi-supervised learning, and automated machine learning where appropriate",
+                        "Model Performance and Monitoring",
+                        "Develop model performance and stability monitoring frameworks",
+                        "Monitor predictive performance, population shifts, variable stability, and model degradation",
+                        "Identify emerging risks and recommend model recalibration, redevelopment, or replacement when appropriate",
+                        "Conduct ongoing research to improve model performance and robustness",
+                        "Technical Leadership",
+                        "Serve as a subject-matter expert in advanced ML and credit-risk modeling",
+                        "Establish best practices for ML model development, testing, documentation, and deployment",
+                        "Stay current with advances in machine learning, credit-risk analytics, and regulatory expectations",
+                        "Regardless of your location, you'll be fully integrated into our team through robust digital collaboration tools and regular communication"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=_62RmaW9TCJLjPhbAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXGsQrCMBAAUFz7BzrdLDURwUW7KEVFUIcO4lSu6dFG2lzJndIv8XvV5fGSzyTJimgg95GcckxhV78xOKohR0UonKegXhQWcOYKhDC6FjjAkbnpaLZtVQfZWCvSmUYU1TvjuLccqOLRPrmSP6W0GGnoUKlcrZejGUIznx6u-xv4ABd-BcVfTtxTCvfHF9Fsa2GZAAAA&shmds=v1_ARwrE22MTDGuCrj9NB27FqDRowrHWfBe9jbzaa7-YVKVmc2smw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=_62RmaW9TCJLjPhbAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adb9fab7d1233c3a17120ff/images/rBhQa8egCJeJ6imBCwoOz8TQoPRO2-3yF_No-y8ZJp0.jpeg",
+            "extensions": [
+                "2 days ago",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/sr-director-advanced-data-scientist-at-fnbo-4482163037",
+            "job_title": "Sr. Director, Advanced Data Scientist",
+            "description": "At FNBO, our employees are the heart of our story—and we’re committed to their success! Please see below the details of this career opportunity and how it fits into our organization’s success.\n\nSummary Of The Job\n\nThe Sr. Director, Advanced Data Scientist will provide senior strategic and technical leadership within the Partnership Division's data science and modeling function. This role is responsible for defining and executing multi-year modeling roadmap and overseeing the development and implementation of advanced machine learning models that support credit decisioning and portfolio management. The successful candidate will combine deep quantitative expertise with the organizational influence and executive presence required to shape strategy, drive cross-functional alignment, and deliver measurable business impact at scale.\n\nAbout This Role\n\n Vision and StrategyDefine and own the multi-year modeling roadmap for the development of several critical custom credit-risk acquisition and portfolio management models, establishing strategic priorities, sequencing, and investment rationale aligned with Partnership Division business objectives.Serve as a senior thought leader and decision-maker on modeling approaches, leading discussions with senior business, credit risk, first line of risk, compliance, and technology stakeholders to align methodology, priorities, and risk considerations.Identify and evaluate emerging modeling capabilities, analytical approaches, and implementation methods that can expand the division's competitive advantage in credit decisioning and customer risk management.Communicate modeling strategy, project status, and key results to senior leaders through clear, executive-ready reporting — translating complex quantitative findings into actionable business insights and ensuring leadership has the visibility needed to make informed decisions. Model Development Independently design and develop advanced ML models for credit card acquisition and underwriting and account management and customer risk.Apply advanced statistical and machine learning techniques to large-scale customer and credit datasets.Evaluate and implement algorithms including gradient boosting, random forests, neural networks, generalized additive models, ensemble methods, survival models, and other advanced ML approaches.Conduct fair lending analysis (e.g., least discriminatory analysis).Identify opportunities to improve model performance, stability, interpretability, and business value. End-to-End Model OwnershipIndependently lead model-development projects from problem definition through production implementation.Translate business objectives into well-defined modeling frameworks, target variables, populations, and performance criteria.Perform feature engineering, variable selection, model development, hyperparameter optimization, and performance evaluation.Establish appropriate training, validation, and out-of-time testing strategies.Document modeling methodology, assumptions, limitations, and results.Partner with model validation and model risk management teams to address challenges and incorporate feedback. Advanced Analytics and ResearchConduct research on emerging ML techniques and assess their applicability to credit risk.Develop innovative approaches for extracting predictive signals from traditional and alternative data sources.Investigate nonlinear relationships, interactions, customer behavior patterns, and temporal dynamics that may not be captured by traditional credit-risk models.Develop interpretable ML approaches that balance predictive performance with regulatory and business requirements.Explore techniques such as explainable AI, causal modeling, ensemble learning, semi-supervised learning, and automated machine learning where appropriate. Model Performance and MonitoringDevelop model performance and stability monitoring frameworks.Monitor predictive performance, population shifts, variable stability, and model degradation.Identify emerging risks and recommend model recalibration, redevelopment, or replacement when appropriate.Conduct ongoing research to improve model performance and robustness. Technical LeadershipServe as a subject-matter expert in advanced ML and credit-risk modeling.Establish best practices for ML model development, testing, documentation, and deployment.Stay current with advances in machine learning, credit-risk analytics, and regulatory expectations.\n\nRequired Qualifications\n\nThe Ideal Candidate for This Role:\n\nMaster's degree or PhD in Statistics, Data Science, Computer Science, Mathematics, Operations Research, Econometrics, or a related quantitative field.PhD strongly preferred, particularly for candidates with strong research experience in machine learning, statistics, or quantitative finance.7+ years of experience developing statistical or machine learning models, preferably in financial services or consumer credit with experience developing credit card acquisition and account-management models.Strong experience independently developing predictive models using large and complex datasets.Demonstrated expertise in Python and/or R; strong SQL skills.Experience with gradient boosting/XGBoost/LightGBM, ensemble methods, neural networks, and other advanced ML techniques.Experience with model explainability techniques such as SHAP and partial dependence.Experience with the full model-development lifecycle, including development, implementation, and monitoring.Strong understanding of credit-risk concepts and consumer lending.\n\nCandidates must possess unrestricted work authorization and not require future sponsorship.\n\nCompensation\n\nCompensation range (base pay): $158,696.00-$269,783.00\n\nThis role may have a specific starting pay within this range.\n\nFinal compensation offer to candidate may vary from posted hiring range based upon work experience, education, and/or skill level.\n\nWork Environment\n\nThis position is open to remote candidates, reflecting our commitment to attracting exceptional talent regardless of geography. We've designed a flexible work arrangement that adapts to your geographic location. For candidates residing within 30 miles of the primary posted location, this position requires onsite presence. For those beyond this radius, embrace the freedom to contribute to our mission remotely while maintaining strong team connections. Regardless of your location, you'll be fully integrated into our team through robust digital collaboration tools and regular communication. Please note that work location is subject to change based on business needs.\n\nBenefits Overview\n\nWe offer a variety of benefits designed to keep you and your family physically and financially healthy. Not only do we offer a competitive salary and work-life balance, we offer benefits to match your needs:\n\nMedical, Dental, Vision Insurance401k, With Matching ContributionsTime Off ProgramsHealth Savings Account (HSA)/Dependent CareEmployee BankingGrowth OpportunitiesTuition AssistanceShort-Term/Long-Term Disability Insurance\n\nLearn more about FNBO benefits here: https://www.fnbo.com/careers/benefits/.\n\nFor additional information regarding compensation and benefits, e-mail FNBO at TAGAdmin@fnni.com. To ensure you receive a response, include the number of this job (listed below) in the subject line of your message.\n\nJob number: R-20261856\n\nEqual Opportunity & Belonging\n\nFNBO believes that the quality of our employee experience is at the heart of our customer experience. One key pillar of our intended employee experience is Belonging. Belonging means we are committed to fostering a workplace culture where employees of all backgrounds feel valued, recognized, and empowered to be their authentic selves—no matter their role or where they are in their journey.\n\nLearn more here.\n\nFNBO is an equal opportunity employer for all employees and applicants and makes employment decisions without regard to status or identity.\n\nClick here to download 'EEO is The Law' Self-Print Poster\n\nClick here to download 'EEO is The Law' Supplement for Federal Contractors\n\nClick here to download 'EEO is The Law' GINA Supplement\n\nFNBO is an Equal Opportunity/Affirmative Action/Veterans/Disability Employer - Member FDIC\n\nFNBO follows federal law regarding the use of marijuana (this applies to all non-California applicants)\n\nApplication Deadline\n\nAll our jobs will be posted for a minimum of 5 calendar days. Job postings may come down prior to 5 calendar days based on volume of applicants.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/sr-director-advanced-data-scientist-at-fnbo-4482163037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-4112-ebc99a820df53fd909881aad634bf569?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGlyZWN0b3IsIEFkdmFuY2VkIERhdGEgU2NpZW50aXN0IiwiY29tcGFueV9uYW1lIjoiRk5CTyIsImh0aWRvY2lkIjoiXzYyUm1hVzlUQ0pMalBoYkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXMW5UVVJoUnpWcFgxZFpVR0p2TFdvNE1GWkVXSEZvWkdsUmMydEljMHBSWVU1bU4waFhUbEZ5UlRoM1JXSjNVV0ZOTlc4dFNIRnhUR2R1YWtWWlkyMTBRMDlEVmkwMWNXMWFNM0ZHYmtrMWN6Rk9hR014UkZoblZreFdaVTFYTlZvNGNIcEVkVEJtVTFoRFEyTlplV293ZFdSbmVXZE5jVUYzZURGbVlYRTJPVEJoUWxNU0YzRTFYMkpoYnpOTVNrdFBjelZPYjFCMlRXMUViVUZaR2lKQlJITnlPV1pVWm01U01HRnBOVVZQVUdSQmFsZExVRFZyU0daR04yeHVMVFZCIiwiZmN2IjoiMyIsImZjX2lkIjoiXzYyUm1hVzlUQ0pMalBoYkFBQUFBQT09In0="
+        },
+        {
+            "title": "Data Scientist SME",
+            "company_name": "Leidos",
+            "location": "Englewood, CO",
+            "via": "Leidos Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We are looking for an exceptional Data Scientist Subject Matter Expert (SME) to join the Chinook Program and help shape the future of an advanced application supporting an Intelligence Community (IC) customer",
+                        "The position requires an individual who can operate at both the strategic and hands-on levels establishing data science strategy while remaining technically engaged in solving complex analytical and engineering challenges",
+                        "Active Top Secret/SCI clearance with the ability to successfully pass a Polygraph examination",
+                        "US citizenship is required per contract",
+                        "Bachelor’s degree in Data Science, Computer Science, Geospatial Science or related field and 12-15 years of prior relevant experience or Master’s with 10-13 years of prior relevant experience",
+                        "May possess a Doctorate in technical domain",
+                        "12+ years demonstrated experience working as a Data Scientist, Senior/Principal Data Scientist, Machine Learning Engineer, or equivalent senior technical role",
+                        "Extensive experience applying statistical analysis, machine learning, and advanced analytics to complex problems",
+                        "Proven expertise in developing and implementing machine learning and AI models, particularly in context of geospatial or remote sensing",
+                        "Deep knowledge of geospatial analytics tools (e.g., GIS, ArcGIS), remote sensing techniques, and the application of data science in the IC",
+                        "Expert proficiency in Python and/or R (or similar languages) and experience with data science libraries (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, or equivalent tecchnologies)",
+                        "Strong experience with big data processing tools (e.g., Spark, PySpark, Kafka, Hadoop, AWS or Azure cloud platforms)",
+                        "Expertise in working with geospatial data formats (e.g., GeoTIFF, Shapefiles, WMS, WFS) and spatial libraries (e.g., GeoPandas, Rasterio, GDAL)",
+                        "Advance experience in developing and operationalizing AI/ML models and algorithms for geospatial data (e.g., object detection from satellite imagery, spatial clustering, predictive analytics)",
+                        "Strong background in data visualization and reporting tools (e.g., Tableau, PowerBI)",
+                        "Strong leadership, communication, and collaboration skills, with the ability to work directly with senior government officials, analysts, and technical teams",
+                        "Excellent problem-solving and analytical skills with a demonstrated ability to translate technical challenges into actionable insights"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay Range $131,300.00 - $237,350.00",
+                        "The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary",
+                        "Pay and Benefits",
+                        "Pay and benefits are fundamental to any career decision",
+                        "That's why we craft compensation packages that reflect the importance of the work we do for our customers",
+                        "Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This is an exciting opportunity for a highly accomplished data science leader who thrives on solving difficult problems, discovering patterns hidden within complex datasets, and transforming analytical insights into operational capabilities",
+                        "You will work at the intersection of data science, software engineering, artificial intelligence, machine learning, analytics, and mission operations to develop innovative solutions that make a measurable difference",
+                        "As a Data Scientist SME, you will lead the design, development, evaluation, and operationalization of sophisticated data science capabilities",
+                        "The role requires a combination of deep technical expertise, analytical rigor, software engineering understanding, and the ability to translate complex mission requirements into actionable data-driven solutions",
+                        "The successful candidate will work closely with software engineers, data engineers, system engineers, DevSecOps engineers, UI/UX professionals, product owners, test engineers, program leadership, and intel customer stakeholders",
+                        "Serve as the senior technical authority for data science, advanced analytics, and AI/ML, translating mission needs into actionable analytical solutions",
+                        "Lead the design, development, validation, and optimization of statistical, predictive, prescriptive, and machine learning models",
+                        "Analyze complex, heterogeneous datasets to identify patterns, anomalies, trends, and insights that support mission objectives",
+                        "Drive the development and operationalization of AI/ML capabilities, including classification, regression, clustering, anomaly detection, NLP, and predictive modeling",
+                        "Establish standards and best practices for model performance, validation, explainability, bias, uncertainty, reproducibility, and operational effectiveness",
+                        "Partner with data, software, and systems engineers to define data requirements, feature engineering, data quality, governance, and scalable integration approaches",
+                        "Collaborate with engineering and DevSecOps teams to transition analytical solutions into secure, maintainable, scalable production capabilities and CI/CD pipelines",
+                        "Support Agile and SAFe planning and execution by translating data science initiatives into capabilities, stories, technical enablers, dependencies, and risks",
+                        "Lead technical reviews, trade studies, and working sessions, and establish methodologies, patterns, and practices across the program",
+                        "Engage with customers, stakeholders, and leadership to communicate findings, recommendations, risks, and mission impact",
+                        "Mentor data scientists, engineers, and other technical team members, and review analytical approaches, code, models, and documentation",
+                        "Evaluate and recommend emerging data science and AI/ML technologies to improve application capabilities and mission outcomes"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=T7Zfh8zELOsBL8FrAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7A4LTrYomIrjoqEUQxaEfUJL0SCLxLvQO7Oqfq8sbX_OZNcuzUwddyEiaRaG7t7CBK3sQdGNIwAQX5lhwcUyqVQ7WihQTRZ3mYAK_LBN6nuyTvfzpJbkRa3GK_W6_nUyluJrfMA8skAla-m1v5mENp8cXqIN8l4QAAAA&shmds=v1_ARwrE21nnRy9PHyy9Dx_7gMiYpmQLEJ9yjXIH18RFqHyTnftRg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=T7Zfh8zELOsBL8FrAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEX___-QFoiOBoXizuCJAICsaKaFAHyNAIWCAHmPD4f06vPMpsicQJX9-f2mW6CoYKL68_nRsM7q2umyc6yfR5i4gbPUttLw4u6lVJ7AkLzdw9uRIorIn8R6AHGWMo-0eK_Yw9YAtL_hAAABP0lEQVRIie2T23KDIBCGBdblpAGNBzRG8_5PWbSmU5OAae_a8buSGb9hd_k3SQ4ODv4dmpx1mf9CrDgHhKpu2p95CsmMnG3X9eptUQP5glLAixmYfUfMJNkgKQdx2W9bXeEVKIQYp6KMiCzC7dY89czcyRjjbJ3GMc6letOzypDy0SKNMHfbPZc7IAwFkBASMBta9arNElUlAxYXo1ZWn_rQTF-J_q6qsFZn1y4005wBf7B8Blxhla5QuHCMsiExsLVOjVXDKDiQQJVLpT7ceYP0boFp8rYbkUuKdVhbckqht5m_1Gc87VfLN1nFV2WZKaZJJ-Dc52VHZmu-uohqnxvlB4-2taxeLSLFtLfWvlKOZGL-M0_F-jAwRpK94kNXs_uhXx6G47CrJWpi34_WgcT0rR1-RF_Y_k8HBwd_mg-dahDH3-LbOQAAAABJRU5ErkJggg.png",
+            "extensions": [
+                "9 days ago",
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://careers.leidos.com/jobs/18363634-data-scientist-sme",
+            "job_title": "Data Scientist SME",
+            "description": "Description \n\n Turn Mission Data into Mission Advantage.\n\n \n\nAre you ready to turn complex data into insights that drive mission-critical decisions? We are looking for an exceptional Data Scientist Subject Matter Expert (SME) to join the Chinook Program and help shape the future of an advanced application supporting an Intelligence Community (IC) customer.\n\n \n\nThis is an exciting opportunity for a highly accomplished data science leader who thrives on solving difficult problems, discovering patterns hidden within complex datasets, and transforming analytical insights into operational capabilities. You will work at the intersection of data science, software engineering, artificial intelligence, machine learning, analytics, and mission operations to develop innovative solutions that make a measurable difference.\n\n \n\nAs a Data Scientist SME, you will lead the design, development, evaluation, and operationalization of sophisticated data science capabilities. The role requires a combination of deep technical expertise, analytical rigor, software engineering understanding, and the ability to translate complex mission requirements into actionable data-driven solutions.\n\n \n\nThe successful candidate will work closely with software engineers, data engineers, system engineers, DevSecOps engineers, UI/UX professionals, product owners, test engineers, program leadership, and intel customer stakeholders.\n\n \n\nThe position requires an individual who can operate at both the strategic and hands-on levels establishing data science strategy while remaining technically engaged in solving complex analytical and engineering challenges.\n\n \n\nPosition may be performed in the following locations below.\n\nTucson, AZGaithersburgAlexandria, VAChantilly, VA Englewood, COSt. Louis, MO \n\nClearance Level Required:\n\nActive Top Secret/SCI clearance with the ability to successfully pass a Polygraph examination.\n\n \n\nPrimary Responsibilities:\n\nServe as the senior technical authority for data science, advanced analytics, and AI/ML, translating mission needs into actionable analytical solutions.Lead the design, development, validation, and optimization of statistical, predictive, prescriptive, and machine learning models.Analyze complex, heterogeneous datasets to identify patterns, anomalies, trends, and insights that support mission objectives.Drive the development and operationalization of AI/ML capabilities, including classification, regression, clustering, anomaly detection, NLP, and predictive modeling.Establish standards and best practices for model performance, validation, explainability, bias, uncertainty, reproducibility, and operational effectiveness.Partner with data, software, and systems engineers to define data requirements, feature engineering, data quality, governance, and scalable integration approaches.Collaborate with engineering and DevSecOps teams to transition analytical solutions into secure, maintainable, scalable production capabilities and CI/CD pipelines.Support Agile and SAFe planning and execution by translating data science initiatives into capabilities, stories, technical enablers, dependencies, and risks.Lead technical reviews, trade studies, and working sessions, and establish methodologies, patterns, and practices across the program.Engage with customers, stakeholders, and leadership to communicate findings, recommendations, risks, and mission impact.Mentor data scientists, engineers, and other technical team members, and review analytical approaches, code, models, and documentation.Evaluate and recommend emerging data science and AI/ML technologies to improve application capabilities and mission outcomes. \n\nBasic Qualifications:\n\nUS citizenship is required per contractBachelor’s degree in Data Science, Computer Science, Geospatial Science or related field and 12-15 years of prior relevant experience or Master’s with 10-13 years of prior relevant experience. May possess a Doctorate in technical domain.12+ years demonstrated experience working as a Data Scientist, Senior/Principal Data Scientist, Machine Learning Engineer, or equivalent senior technical role.Extensive experience applying statistical analysis, machine learning, and advanced analytics to complex problems.Proven expertise in developing and implementing machine learning and AI models, particularly in context of geospatial or remote sensing.Deep knowledge of geospatial analytics tools (e.g., GIS, ArcGIS), remote sensing techniques, and the application of data science in the IC.Expert proficiency in Python and/or R (or similar languages) and experience with data science libraries (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, or equivalent tecchnologies).Strong experience with big data processing tools (e.g., Spark, PySpark, Kafka, Hadoop, AWS or Azure cloud platforms).Expertise in working with geospatial data formats (e.g., GeoTIFF, Shapefiles, WMS, WFS) and spatial libraries (e.g., GeoPandas, Rasterio, GDAL).Advance experience in developing and operationalizing AI/ML models and algorithms for geospatial data (e.g., object detection from satellite imagery, spatial clustering, predictive analytics).Strong background in data visualization and reporting tools (e.g., Tableau, PowerBI).Strong leadership, communication, and collaboration skills, with the ability to work directly with senior government officials, analysts, and technical teams.Excellent problem-solving and analytical skills with a demonstrated ability to translate technical challenges into actionable insights. \n\nPreferred Qualifications:\n\nAdvanced certifications in data science or machine learning.Familiarity with the customer’s mission and specific geospatial intelligence challenges.Expertise in advanced deep learning techniques, particularly in computer vision and image analysis for geospatial applications.Experience with cloud-native applications and distributed computing in a geospatial context.Experience deploying models into production environments.Experience with Kubernetes and containerized applications.Experience developing REST APIs or other services for analytic capabilities.Experience with NLP and/or LLM.Experience with geospatial analytics and spatial data.Experience with streaming or near-real time analytics.Experience with developing analytical capabilities within secure or air-gapped environments.Published research or technical papers in geospatial intelligence, machine learning, or data science. \n\n#Chinook\n\n#NSBA\n\nIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.\n\nOriginal Posting:October 15, 2026\n\nFor U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.\n\n\n\nPay Range:Pay Range $131,300.00 - $237,350.00\n\nThe Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.\n\n\n\nAbout Leidos\n\n\n\nLeidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.\n\n\n\nPay and Benefits\n\n\n\nPay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.\n\n\n\nSecuring Your Data\n\n\n\nBeware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.\n\nIf you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.\n\n\n\nCommitment to Non-Discrimination\n\n\n\nAll qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",
+            "apply_options": [
+                {
+                    "title": "Leidos Careers",
+                    "link": "https://careers.leidos.com/jobs/18363634-data-scientist-sme?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/data-scientist-sme-at-leidos-4477350500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=bcd561eabfc65b4e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/leidos/Job/Data-Scientist-SME/-in-Englewood,CO?jid=1998a23be337fc82&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LocalJobs.com",
+                    "link": "https://www.localjobs.com/job/englewood-co-data-scientist-sme-0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/data-scientist-sme--englewood--ea305605bcbc993a5cb3803f876115ed1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "The Association Of Technology, Management, And Applied Engineering (ATMAE) Jobs",
+                    "link": "https://careers.atmae.org/job/data-scientist-sme/86487959/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010297015240&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBTTUUiLCJjb21wYW55X25hbWUiOiJMZWlkb3MiLCJodGlkb2NpZCI6IlQ3WmZoOHpFTE9zQkw4RnJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMlZEYWs0elVGbEpNelpLVGpKTlgwd3pORzFZT1dkR1REazBZVU5JU1VScloxTk5ZVE0zY0VoeFh6UmxTMVEzU21NM1NGUnBhMHN5YkVGVVMyNXpWMjFDT0V4dlExVmxhbEpmWVhSblNtZFRPSGt4WW01WFJtSm1ka28wYkdoTVRFbEZjbXgyUlVOUGNISXlUbk5IYUdaTWVXOXZTa0Y1YVZCS1RsWXRVMkV3TUZCNFFqQVNGM0UxWDJKaGJ6Tk1Ta3RQY3pWT2IxQjJUVzFFYlVGWkdpSkJSSE55T1daU1gzb3RZWFJPTUVoV1UzQmhTbk5IU0RnNFozQlZkSHBIZVdaMyIsImZjdiI6IjMiLCJmY19pZCI6IlQ3WmZoOHpFTE9zQkw4RnJBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Senior Data Scientist",
+            "company_name": "BranchLab",
+            "location": "Boulder, CO",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of experience working on healthcare claims, EHR or similar data to deliver client-facing results",
+                        "Strong proficiency in Python and SQL",
+                        "Strong proficiency in statistics and experimental design",
+                        "Demonstrated ability to translate business and customer priorities into analysis results",
+                        "Ability to adapt communication to different internal and external stakeholders"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Join a nimble team where ideas move quickly and your work is visible and valued",
+                        "Gain exposure to a broad range of Data Science capabilities from production models and deep learning to AI agents in a regulated space",
+                        "Compensation Range: $140K - $195K"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Sr Data Scientist will specialize in the healthcare data by owning custom experiments and analyses, running feasibilities, and evaluating new data partners",
+                        "They will partner cross-functionally with client success, engineering, product, and partnerships roles to deliver rigorous analyses and results that have a direct client and product impact",
+                        "Design experiments and implement analyses to build audiences that cannot currently be built in platform",
+                        "Drive feasibilities to inform product requirements and capabilities",
+                        "Evaluate potential new data sources and provide recommendations on the value-add of these sources",
+                        "Work directly and independently with client success, product, and partnerships team mates to achieve the above"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=jw74ZNs4suzmMpmlAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEwQrCMAwAULzuC8RTzjJXEbzobQqCCB72ASOtYe2oSWki7Af8b_EdXvNdNe1AnKTCFQ1hCInYkhrs4C4elLCGCMJwE5kybc7RrOjJOdXcTWpoKXRB3k6YvCxuFq__Ro1YqWQ0Gg_H_dIVnrbrviKH-EAPiaGXT35RbeHy_AHCqRbjiAAAAA&shmds=v1_ARwrE212NxdJxg9DvJC9Gt7VGYbJWLBvtbUo3HZDIh5YPiOVmA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=jw74ZNs4suzmMpmlAAAAAA%3D%3D",
+            "extensions": [
+                "2 days ago",
+                "140K–195K a year",
+                "Full-time"
+            ],
+            "source_link": "https://www.indeed.com/viewjob?jk=234d302792d1a89d",
+            "job_title": "Senior Data Scientist",
+            "description": "Sr Data Scientist\n\n\n  Location Boulder, CO\n\n\n  Employment Full time | Hybrid\n\n\n  Reporting to VP of Data Science and AI\n\n\n \n\n\n  Not sure you meet every qualification? We encourage you to apply if you’re excited about this role and believe you could do it well. We value relevant experience in many forms, and you don’t need to check every box to be considered!\n\n\n \n\n\n  Who We Are\n\n\n BranchLab's mission is to make healthcare commercialization more effective, efficient, and responsible, connecting patients and providers with therapies and resources that can improve lives while protecting privacy. Our AI-native platform, Pathwai, helps healthcare marketers create and continuously improve high-performing advertising audiences across patients, healthcare professionals, and caregivers. Pathwai combines advanced healthcare AI, agentic workflows, integrated audience activation, and performance measurement and optimization in one connected system.\n\n\n \n\n\n  Why Join BranchLab\n\n\n \n  Help better therapies and resources reach people through work at the intersection of healthcare, data, and technology.\n  Join a nimble team where ideas move quickly and your work is visible and valued.\n  Gain exposure to a broad range of Data Science capabilities from production models and deep learning to AI agents in a regulated space.\n \n \n\n\n  The Opportunity\n\n\n The Data Science team builds the models behind Pathwai, constantly iterating to make them better and build new capabilities over time. We are experts in the data behind the models. The Sr Data Scientist will specialize in the healthcare data by owning custom experiments and analyses, running feasibilities, and evaluating new data partners. They will partner cross-functionally with client success, engineering, product, and partnerships roles to deliver rigorous analyses and results that have a direct client and product impact.\n\n\n \n\n\n  What You Will Do\n\n\n \n  \n   Design experiments and implement analyses to build audiences that cannot currently be built in platform\n\n\n  \n   Drive feasibilities to inform product requirements and capabilities\n\n\n  \n   Evaluate potential new data sources and provide recommendations on the value-add of these sources\n\n\n  \n   Work directly and independently with client success, product, and partnerships team mates to achieve the above\n\n\n \n \n\n\n  Minimum Qualifications\n\n\n \n  \n   5+ years of experience working on healthcare claims, EHR or similar data to deliver client-facing results\n\n\n  \n   Strong proficiency in Python and SQL\n\n\n  \n   Strong proficiency in statistics and experimental design\n\n\n  \n   Demonstrated ability to translate business and customer priorities into analysis results\n\n\n  \n   Ability to adapt communication to different internal and external stakeholders\n\n\n \n \n\n\n  Preferred Qualifications\n\n\n \n  \n   Proficiency with pyspark, AWS, and github\n\n\n  \n   Experience in pharmaceutical marketing or commercialization\n\n\n  \n   Advanced degree in Data Science, Statistics, Applied Mathematics, Epidemiology, or related field\n\n\n \n \n\n\n  Equal Employment Opportunity\n\n\n BranchLab is an equal opportunity employer. We are committed to providing a workplace free from discrimination, harassment, and retaliation. Employment decisions are based on qualifications, merit, and business needs, without regard to race, color, religion, creed, national origin, ancestry, citizenship or immigration status, sex, pregnancy or related medical conditions, sexual orientation, gender identity or expression, age, disability, genetic information, marital, familial or caregiver status, military or veteran status, or any other characteristic protected by applicable law.\n\n\n Applicants and employees have the right to request a reasonable accommodation for a disability, pregnancy, childbirth or a related medical condition, or sincerely held religious belief or practice. To request an accommodation during the application or interview process, please contact people@branchlab.com.\n\n\n BranchLab prohibits retaliation against anyone who requests an accommodation, reports discrimination or harassment, participates in an investigation, or otherwise exercises rights protected by law.\n\n\n Compensation Range: $140K - $195K",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=234d302792d1a89d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/senior-data-scientist-branchlab-10539645?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/senior-data-scientist/11787795?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/senior-data-scientist_7ea1a467d00743748488be6fade6d28d588bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/senior-data-scientist-boulder-co--962b53a2-4615-4404-8bc2-22165b65a050?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-branchlab-4482119090?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/umoja-biopharma/senior-biopharmaceutical-data-scientist-contract-30326159/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lensa",
+                    "link": "https://lensa.com/job-v1/1872-consulting/boulder-co/senior-data-scientist/586efda06c91a348f0fb66371f0ca3e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QiLCJjb21wYW55X25hbWUiOiJCcmFuY2hMYWIiLCJodGlkb2NpZCI6Imp3NzRaTnM0c3V6bU1wbWxBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMEphYURkVWRITllSRk5sWm5Sb1owTlpjRXRLUTFaSmNuUnFjRVJ1V2tneWQwWlhTWFZhWnpJd1dtMVpibkU0U25RM2RrdHJTRXN4UlVseWNteEpWMlJOTUhscFFURldjRE01UTBObE1tZDNVM2hYWm1SRVdXWmlkbUphYkVOUGJUaHhTa2h6VTFaNFZEVnpVRWRITkdKVldXUnFPREJNTFhSV1p6QnhhRWhxUVRKZmFGRVNGM0UxWDJKaGJ6Tk1Ta3RQY3pWT2IxQjJUVzFFYlVGWkdpSkJSSE55T1daVWRtZ3dTbGxtZWpKclF6TXpORXByV20xSE5HaHlSWEJUWHpOQiIsImZjdiI6IjMiLCJmY19pZCI6Imp3NzRaTnM0c3V6bU1wbWxBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Senior Data Scientist (Remote | $150–$200/hr)",
+            "company_name": "Synthires",
+            "location": "Anywhere",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong knowledge of Python, machine learning, statistics, and data analysis",
+                        "Experience with experimentation, Pandas, and data modeling",
+                        "Ability to evaluate quantitative problems and identify methodological or statistical errors",
+                        "Strong analytical and problem-solving skills"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Compensation: $150–$200/hr",
+                        "Location: Remote",
+                        "Hourly compensation of $245–$280",
+                        "Remote, contractor-based engagement"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Evaluate AI-generated outputs involving data science, statistics, machine learning, and quantitative problems",
+                        "Create expert-level prompts, datasets, and reference solutions",
+                        "Identify flawed methodologies, statistical errors, and weaknesses in quantitative reasoning",
+                        "Provide structured feedback to improve AI model performance and reliability"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=pOkIvECa12RzCuvbAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCQBAAQGzzhFRbpFDB3Bmw0VYULD2swyUuuZNkN9xuEcHCP_gCv-ZL1GbKyd6z7OCQIifYe_Xg2oikURTmZxxYER5QrDf283wVlbUmpAWs4MQNCPrUBmCCI3PXY74LqqNsjRHpy07Ua2zLlgfDhA1P5saN_Kkl-IRj7xXramOncqRumbs7aYgJBSLBhaLiFdzvQPkCD7quq6QAAAA&shmds=v1_ARwrE23_0lwbC3Fno4S13LndFh4a_ARUXsJKzOcKmDWdoyDPQg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=pOkIvECa12RzCuvbAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAgYDBQcB_8QAKhAAAgIBAgUDAwUAAAAAAAAAAQIAAxEEEgUTITFBIlGBFBWhBjJhcZH_xAAYAQEBAQEBAAAAAAAAAAAAAAAAAgEFBP_EABkRAQADAQEAAAAAAAAAAAAAAAABAhFBMf_aAAwDAQACEQMRAD8A5ZEROs8pERAREQEREBE8bO04ODjpOh2aP9OcT1tWmoTQVad9Mbr7NEhf6QVMrEtZ0yHTmL6gGB25z0k2tjcUOgafDNqGfp0VK-7fJ6Af7_Ug4BzZVW60k4Usd3XHbdgAmWO3X8Ju0p28P4dWW0NmoC8v1LqOexWrPts2jb5E2HEOJ8Nu11i2fbrtLqeKb2IX9tLIBv8A4b3PcYlxOp8UtkZMb1ZcgEZGMg9jIyxV38J5GiGpWmwt9OlzHJZFFQ3Y9hvGD84h_tRvZcaNSa_VYCCoOT2UDBOMZwQe3nMqKb1M2ziuxESFkkHZVZVZgrDDAHo3nr79ZGICZKRQSee9qjwK0Bz8kjH5mOJpKdrI1hNabE8Luzj5kIiAiImBERAREQEREBERA__Z.jpeg",
+            "extensions": [
+                "3 days ago",
+                "150–200 an hour",
+                "Work from home",
+                "Part-time"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/senior-data-scientist-remote-%24150%E2%80%93%24200-hr-at-synthires-4478687138",
+            "job_title": "Senior Data Scientist (Remote | $150–$200/hr)",
+            "description": "Data Scientist \n\n\n\n\nPosition: Data Scientist\n\n\n\n\nType: Contractor\n\n\n\n\nCompensation: $150–$200/hr\n\n\n\n\nLocation: Remote\n\n\n\n\nAbout the Opportunity\n\nmicro1 is partnering with a leading AI lab to engage data scientists and quantitative professionals in improving AI models' capabilities in statistics, machine learning, experimentation, and quantitative reasoning.\n\nKey Responsibilities\n\nEvaluate AI-generated outputs involving data science, statistics, machine learning, and quantitative problems.Create expert-level prompts, datasets, and reference solutions.Identify flawed methodologies, statistical errors, and weaknesses in quantitative reasoning.Provide structured feedback to improve AI model performance and reliability.Required Qualifications\n\nStrong knowledge of Python, machine learning, statistics, and data analysis.Experience with experimentation, Pandas, and data modeling.Ability to evaluate quantitative problems and identify methodological or statistical errors.Strong analytical and problem-solving skills.Preferred Qualifications\n\nAt least one year of experience working at a leading company in technology, finance, or research, with some of that experience within the past seven years.Based in an English-speaking country.Ability to communicate technical and statistical concepts clearly in writing.Compensation\n\nHourly compensation of $245–$280.Remote, contractor-based engagement.Application Process\n\nThe application process was not specified in the provided listing.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/senior-data-scientist-remote-%24150%E2%80%93%24200-hr-at-synthires-4478687138?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Afflu",
+                    "link": "https://afflu.o8v.html-5.me/remote-jobs/senior-data-scientist-remote-245-280-hr-368fbc11?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobojo",
+                    "link": "https://jobojo.h0p.likesyou.org/remote-jobs/senior-data-scientist-remote-245-280-hr?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Univision Empleos",
+                    "link": "https://trabajos.univision.com/job/23-10440_4477375914?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CatchRecruit",
+                    "link": "https://catchrecruit.k9w.social-networking.me/remote-jobs/senior-data-scientist-remote-245-280-hr-21d7d23a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido",
+                    "link": "https://us.jobrapido.com/jobpreview/6096198928007430144?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/senior-data-scientist-remote-150200-hr-synthires-european-union--t7xk-882632590?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3QgKFJlbW90ZSB8ICQxNTDigJMkMjAwL2hyKSIsImNvbXBhbnlfbmFtZSI6IlN5bnRoaXJlcyIsImh0aWRvY2lkIjoicE9rSXZFQ2ExMlJ6Q3V2YkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzVlljVUZNWlZwSU9VdDJRVEZ4YjNKbWJXTkxTV2xaVm1WU1RtOVVURTFsYzBoME1ERkpiWEV0UkdkRVltUktYemRsWW00d2NEWkpjSGxmVkZKWVlUTmtaM1JsUmt0UVprZFRRelJoT1VFelFubGlNRlpCWkdZd1UxTm1XbEF4V0ZocmRXRmFNazF4ZFhsS2IzRmFOMkZNZGpkbldVVkpXVXBQYm1Kc09UbFBNSFp3WlY4U0YzRTFYMkpoYnpOTVNrdFBjelZPYjFCMlRXMUViVUZaR2lKQlJITnlPV1pUUVZaUFpUWjBXSEpsWlZST1psbFFkMWRXYTFGNGNGWkxVVU5SIiwiZmN2IjoiMyIsImZjX2lkIjoicE9rSXZFQ2ExMlJ6Q3V2YkFBQUFBQT09In0="
+        },
+        {
+            "title": "Sr/Staff Data Scientist (Remote - US)",
+            "company_name": "BNSF Railway",
+            "location": "United States",
+            "via": "BNSF Jobs - BNSF Railway",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Minimum 6 years of experience with building optimization algorithms or relevant experience",
+                        "Advanced proficiency in programming languages such as Python, R, SQL, and Java",
+                        "Demonstrated expertise in utilizing data visualization tools to communicate insights clearly and effectively",
+                        "In-depth experience with data science cloud platforms and their integration into business solutions",
+                        "Exceptional intellectual curiosity and a proven ability to thrive in a fast-paced, collaborative team environment",
+                        "Track record of rapidly acquiring new technical skills and adapting to cutting-edge technologies",
+                        "Strong communication skills to articulate technical concepts to diverse audiences with clarity and professionalism",
+                        "Deep understanding and application of statistical analysis and advanced machine learning techniques",
+                        "Must understand and have proficiency in the core architecture of LLMs (e.g., transformers and attention mechanisms)",
+                        "Experience with prompt engineering techniques, including chain-of-thought prompting, Retrieval-Augmented Generation (RAG), fine-tuning of language models, and evaluation methodologies",
+                        "Experience with Vector Databases and embeddings",
+                        "Experience with Model Fine-tuning",
+                        "Experience with GPU optimization",
+                        "Knowledge of geospatial analytics, route optimization, and GIS concepts",
+                        "Previous hands-on experience with AI/Machine Learning frameworks and tools, showcasing innovative solutions",
+                        "Extensive background in Rail, Shipping, Airline, Logistics, Warehousing, Supply Chain, or Transportation industries, or in the High-Tech sector",
+                        "Proficiency in leveraging open-source libraries and frameworks to drive data science initiatives",
+                        "Seasoned in Agile methodologies like Scrum, Kanban, or SAFe for efficient project management and delivery at a senior level"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary Range: $165,000-$300,000",
+                        "L5: $165,000 - $220,00",
+                        "L6: $225,000 - $300,000",
+                        "The range represents the amount bnsf | tech reasonably expects to pay for the position based on the level, scope, and responsibilities of the role. Individual compensation and level of position offered is determined by the hiring location and additional factors including but not limited to job-related skills, experience, and relevant education or training. In addition to base pay and bonus eligibility, BNSF offers a comprehensive benefits package",
+                        "At BNSF, you will have access to a comprehensive and competitive benefits package including:",
+                        "An industry-leading 401(k) and renowned Railroad Retirement program",
+                        "A range of robust health care options for you and your dependents (including domestic partners), including medical, dental, vision, telemedicine, mental health, cancer support, and high-quality care network options",
+                        "Health care spending accounts (HSA) with employer contributions, as well as life and disability insurance, provided at no cost",
+                        "Family benefits including parental, pediatric and family building support, adoption and surrogacy reimbursement, and dependent care spending account (with employer match)",
+                        "Access to discounts on travel, gym memberships, counseling services and wellness support",
+                        "Annual bonus (Incentive Compensation Program)",
+                        "Generous leave / time off policies",
+                        "For more information, visit Benefits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Employees will be required to occasionally travel to our corporate headquarters in Fort Worth, TX for in person meetings",
+                        "Travel expenses for business needs will be covered by BNSF",
+                        "Lead cross-functional collaboration to identify and define analytic initiatives, formulate strategies, and develop solutions to achieve business goals through effective use of data machine learning models",
+                        "Apply data science skills to analyze large, complex datasets and identify meaningful patterns that lead to actionable insights and data-driven solutions to business problems",
+                        "Lead the development and deployment of advanced machine learning models to forecast outcomes and optimize workflows",
+                        "Engage closely with stakeholders to grasp their requirements and deliver actionable insights that drive strategic decision-making",
+                        "Design and present compelling visualizations and reports to effectively communicate analytical findings",
+                        "Oversee the maintenance and enhancement of data pipelines to uphold data quality and precision",
+                        "Keep abreast of emerging trends and breakthroughs in data science and machine learning fields",
+                        "Proficiently extract, aggregate, and transform data from SQL and NoSQL databases, leveraging languages like R, Python, or other relevant tools for analysis and modeling",
+                        "Build, test, and validate statistical, and machine learning models and analyses using Python, R, or other appropriate language as part of overall solution development",
+                        "Lead implementation of analytic solutions into reporting platforms or production systems by leading the solution design, development, testing, and monitoring",
+                        "Demonstrate operational excellence by monitoring, troubleshooting, and resolving production issues, including participating in a 24/7 on-call rotation",
+                        "The duties and responsibilities in this posting are representative categories to be used in deciding whether to apply for this position"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=OaoASZtuClZOSkVLAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBAAUFz7CYJwowo2Iriok4iCg0ND53KN1zaS5kruwPorfq11efPLvrPsZJOxik0DF1QE6zxF9aKwLKhnJdhAaVeTd65BCJPrgCPcmNtA82OnOsjBGJGQt6Ko3uWOe8ORah7Ni2v5U0mHiYaAStVuvx3zIbbrxflhr1CgD2_8gI9QRq_0hKmjJD_aRj7XnQAAAA&shmds=v1_ARwrE20Svh5bSJ7RGJIaCXBEN_zHwXeRbkIRvsnTqq-LCwza_Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=OaoASZtuClZOSkVLAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAQUGBwT_xAApEAABAwMCBAYDAAAAAAAAAAABAAIDBAUREiEiQVFhExQxMnGhBiOR_8QAGQEBAAMBAQAAAAAAAAAAAAAAAAEDBAIF_8QAKhEAAgECBAUDBQEAAAAAAAAAAAECAxEEEjFBBSFRscEyQmEUFSKB0RP_2gAMAwEAAhEDEQA_AO4oAgCAIAgCAIAgCAIAgCAIAgCAjUOoQDUOoUXA1DqpBDpGN9z2j5OFF0iUm9CdQxnIwpIGpvUKLpixiPzj81tdvklswr3xVhaPFMVO-UxtPLhGziPo91ViITnDLB2b3NOEqUqdVTqK6WxlILtZZvKxtFwMERy8R2qZ7pOvFpB-1hXD_Srqy1-T0nxZflJJ3enRfrQ9tVXUty8zLNTXt87g1lMI7PU6IWA-nt322U1MBKrmcpc9vhHNLicKWVQjy36tssLbNMJRVTUl1nqoYmxUoktczWRgDBO-DnHPuu6eEqKWeUrtKy1siutjqU1_nCLUW7y0uwy1VUwOilrY3SH9rpabxQ4fEm4_qr-gm-ebXXfv_S_7pTXtbtp7ez8FlUWWor5qaKSnqYrdTt4IYmRtLnc3HLsbnsrKmCztJu0VsupRS4iqUZSUbzlu-nc0dstVLQt1RxDxHblzo42uHbhAC10qMaengw1sROt6n38tlgAB6BWlBKAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAID_2Q.jpeg",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "Dental insurance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://jobs.bnsf.com/us/en/job/95417/Sr-Staff-Data-Scientist-Remote-US",
+            "job_title": "Sr/Staff Data Scientist (Remote - US)",
+            "description": "be part of a team that values safety, inclusion, and excellence \nwe are one of the largest U.S. railroads transporting the nation’s freight across 28 western states and 3 Canadian provinces. as a member of our team, you will play a role in supporting the movement of essential products and materials that help feed, clothe, supply, and power communities throughout America and the world.\n \nbnsf | tech: innovating and transforming the future of freight rail\nbnsf | tech is the technology division making BNSF the preeminent freight and mobility company in north america.\n \nare you ready to drive change?\nif you are passionate about making a difference and eager to advance your career in a dynamic and supportive environment, we want you on our team! join us in reshaping the future of freight rail and discover a fulfilling career where your contributions matter.\n \nwe are committed to a culture where all employees are included, belong, and have equal opportunity to achieve their full potential. Come make a difference with us!\n\n \n\nLearn more about BNSF and our Benefits\n\n \n\nJob Location: REMOTE\n\nAnticipated Start Date: 07/01/2026\n\n\n\n \n\nThe US base salary range for this full-time position is provided below:\n\nSalary Range: $165,000-$300,000\n\nL5: $165,000 - $220,00\nL6: $225,000 - $300,000\n\n \n\nThe range represents the amount bnsf | tech reasonably expects to pay for the position based on the level, scope, and responsibilities of the role.  Individual compensation and level of position offered is determined by the hiring location and additional factors including but not limited to job-related skills, experience, and relevant education or training. In addition to base pay and bonus eligibility, BNSF offers a comprehensive benefits package.\n \nThis is a full-time remote position. Employees may work from anywhere within the contiguous 48 states of the United States\n\n \n\nTravel is up to 20%. Employees will be required to occasionally travel to our corporate headquarters in Fort Worth, TX for in person meetings. Travel expenses for business needs will be covered by BNSF. \n\n \n\nThis position is open to candidates who are currently authorized to work in the United States. We are also open to sponsoring H-1B transfers, TN nonimmigrant status, and STEM OPT candidates with at least 2 years of remaining eligibility.  \n\n \n\nApply early as this job may be removed or filled prior to the closing date, which is approximately seven (7) days after the posting date.\n\n \n\n \n\n\ndata & ai: lead our charge into the future as an ai company by transforming our data assets into a real time enterprise.\n\n \n\nKey responsibilities may include:\n\nLead cross-functional collaboration to identify and define analytic initiatives, formulate strategies, and develop solutions to achieve business goals through effective use of data machine learning models. \n\nApply data science skills to analyze large, complex datasets and identify meaningful patterns that lead to actionable insights and data-driven solutions to business problems.\n\nLead the development and deployment of advanced machine learning models to forecast outcomes and optimize workflows.\n\nEngage closely with stakeholders to grasp their requirements and deliver actionable insights that drive strategic decision-making.\n\nDesign and present compelling visualizations and reports to effectively communicate analytical findings.\n\nOversee the maintenance and enhancement of data pipelines to uphold data quality and precision.\n\nKeep abreast of emerging trends and breakthroughs in data science and machine learning fields.\n\nProficiently extract, aggregate, and transform data from SQL and NoSQL databases, leveraging languages like R, Python, or other relevant tools for analysis and modeling. Build, test, and validate statistical, and machine learning models and analyses using Python, R, or other appropriate language as part of overall solution development.\n\nLead implementation of analytic solutions into reporting platforms or production systems by leading the solution design, development, testing, and monitoring.\n\nDemonstrate operational excellence by monitoring, troubleshooting, and resolving production issues, including participating in a 24/7 on-call rotation.\n\n\nThe duties and responsibilities in this posting are representative categories to be used in deciding whether to apply for this position. This is not an exhaustive list of the position’s duties.  \n\n \n\nAt BNSF Railway, we encourage individuals from all backgrounds to apply, showcasing their skills, experiences and development. We provide resources and tools to help you reach your full potential, fostering a supportive and inclusive environment.\n\n \n\nBasic Qualifications\n\nMinimum 6 years of experience with building optimization algorithms or relevant experience.Advanced proficiency in programming languages such as Python, R, SQL, and Java.Demonstrated expertise in utilizing data visualization tools to communicate insights clearly and effectively.In-depth experience with data science cloud platforms and their integration into business solutions.Exceptional intellectual curiosity and a proven ability to thrive in a fast-paced, collaborative team environment.Track record of rapidly acquiring new technical skills and adapting to cutting-edge technologies.Strong communication skills to articulate technical concepts to diverse audiences with clarity and professionalism.Deep understanding and application of statistical analysis and advanced machine learning techniques.Must understand and have proficiency in the core architecture of LLMs (e.g., transformers and attention mechanisms) Experience with prompt engineering techniques, including chain-of-thought prompting, Retrieval-Augmented Generation (RAG), fine-tuning of language models, and evaluation methodologies. Experience with Vector Databases and embeddings. Experience with Model Fine-tuning. Experience with GPU optimization.  \n\nPreferred Qualifications\n\nBachelor's degree or higher in Operations Research, Computer Science, Industrial Engineering or a related field. Ph.D is a plus.Knowledge of geospatial analytics, route optimization, and GIS concepts.Previous hands-on experience with AI/Machine Learning frameworks and tools, showcasing innovative solutions.Extensive background in Rail, Shipping, Airline, Logistics, Warehousing, Supply Chain, or Transportation industries, or in the High-Tech sector.Proficiency in leveraging open-source libraries and frameworks to drive data science initiatives.Seasoned in Agile methodologies like Scrum, Kanban, or SAFe for efficient project management and delivery at a senior level.\n \n\nAt BNSF, you will have access to a comprehensive and competitive benefits package including:\n\n \n\nAn industry-leading 401(k) and renowned Railroad Retirement program.A range of robust health care options for you and your dependents (including domestic partners), including medical, dental, vision, telemedicine, mental health, cancer support, and high-quality care network options.Health care spending accounts (HSA) with employer contributions, as well as life and disability insurance, provided at no cost.Family benefits including parental, pediatric and family building support, adoption and surrogacy reimbursement, and dependent care spending account (with employer match).Access to discounts on travel, gym memberships, counseling services and wellness support.Annual bonus (Incentive Compensation Program)Generous leave / time off policies.For more information, visit Benefits. \n\nFederal authority requires BNSF employees, whose work requires unescorted access to secure areas of port facilities, to obtain a TWIC.  More information is available at https://www.tsa.gov/for-industry/twic\n\n \n\nBNSF Railway is an Equal Opportunity Employer, all qualified applicants receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.",
+            "apply_options": [
+                {
+                    "title": "BNSF Jobs - BNSF Railway",
+                    "link": "https://jobs.bnsf.com/us/en/job/95417/Sr-Staff-Data-Scientist-Remote-US?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=51fd0ee093504560&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/71486f00-e112-44c4-abdc-3b3ef34f36a5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/BNSF-Railway/Job/Sr-Staff-Data-Scientist-(Remote-US)/-in-Fort-Worth,TX?jid=270c3e75bce7eb91&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/sr-staff-data-scientist-remote-us-fort-worth-tx--1f94f050-04b7-4598-883f-21ae15c4bd4c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/sr-staff-data-scientist-remote-us-bnsf-railway-JV_KO0,33_KE34,46.htm?jl=1010179714512&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career Services - Norfolk State University",
+                    "link": "https://careerservices.nsu.edu/jobs/bnsf-railway-sr-staff-data-scientist-remote-us/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Jobs USA",
+                    "link": "https://remoterush.mysmartpros.com/job/2686482?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci9TdGFmZiBEYXRhIFNjaWVudGlzdCAoUmVtb3RlIC0gVVMpIiwiY29tcGFueV9uYW1lIjoiQk5TRiBSYWlsd2F5IiwiaHRpZG9jaWQiOiJPYW9BU1p0dUNsWk9Ta1ZMQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBab1VXcGtWREJQVkdkWU0weHhYMm94TTFORVIxSmZVbGxKT0dadVVFUlZVa1JyTWs4M1FuWjBkblJrTTJzNVVXTklkV1ZETVhwbVNqSXdXVzFrU3kwMlpGOWpaVXh5YTNsNE1VcEhiM2RNVjIxVVR6bFJTblp2WjFjM1VuWjZORXRXTFRWQ04wbzBXa1pvYUhodlNFdHVabUZ5WnpVd1ZXRk5kRmswZWpsb1QyMDBWVEVTRjNFMVgySmhiek5NU2t0UGN6Vk9iMUIyVFcxRWJVRlpHaUpCUkhOeU9XWlVWRzVsYmxGdldXNDFXalZhTFROV1dFMUNhRkJWZFdwS05WRkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJPYW9BU1p0dUNsWk9Ta1ZMQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Senior Data Scientist – Remote, $27/hr, Join talentbridge’s Cutting‑Edge Video Planning & Machine Learning Team",
+            "company_name": "Hirefinity",
+            "location": "Anywhere",
+            "via": "Hirefinity",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Essential Qualifications Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, or a related field",
+                        "Minimum of 3 years of professional experience in data science or machine learning",
+                        "Proficiency in Python, SQL, and data manipulation libraries (Pandas, NumPy)",
+                        "Hands‑on experience with deep learning frameworks such as TensorFlow, PyTorch, or JAX",
+                        "Strong background in statistical modeling, hypothesis testing, and experimental design",
+                        "Experience working with large, unstructured datasets, particularly video or image data",
+                        "Excellent problem‑solving skills and a meticulous attention to detail",
+                        "Strong written and verbal communication skills, with the ability to explain complex technical concepts to non‑technical audiences",
+                        "Familiarity with cloud platforms (AWS, GCP, Azure) and containerization (Docker, Kubernetes)",
+                        "Experience with data engineering tools such as Apache Spark, Airflow, or similar",
+                        "Knowledge of reinforcement learning or generative modeling techniques",
+                        "Prior experience in a fast‑paced, high‑growth tech environment",
+                        "Skills & Competencies Technical Proficiency Advanced knowledge of machine learning algorithms, deep learning architectures, and data pipelines",
+                        "Analytical Thinking Ability to dissect complex problems, formulate hypotheses, and derive data‑driven solutions",
+                        "Collaboration Comfortable working in cross‑functional teams, bridging the gap between technical and business stakeholders",
+                        "Adaptability Thrive in a rapidly evolving environment, quickly learning new tools and methodologies",
+                        "Clear career ladder with defined milestones and performance metrics"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Career Growth & Learning Opportunities talentbridge is committed to your professional development",
+                        "You will have access to Mentorship programs with senior data scientists and AI researchers",
+                        "Your contributions will be recognized through performance bonuses, public shout‑outs, and career advancement opportunities",
+                        "Compensation & Benefits Base Pay $27 per hour, with potential for performance‑based bonuses",
+                        "Benefits Comprehensive health, dental, and vision plans; 401(k) with company match; unlimited paid time off; flexible work hours; and a stipend for home office setup",
+                        "Perks Access to talentbridge’s learning platform, wellness programs, and a global community of innovators"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you will design, develop, and deploy machine learning models that power real‑time video analytics, predictive insights, and content recommendation engines",
+                        "Your work will directly influence the user experience of talentbridge’s flagship products, driving engagement and satisfaction for millions of customers worldwide",
+                        "Key Responsibilities Model Development Build and fine‑tune advanced machine learning models for video and image analysis, including object detection, scene segmentation, and AR/VR content generation",
+                        "Data Engineering Collaborate with data engineers to ingest, clean, and transform large video datasets, ensuring high data quality and efficient processing pipelines",
+                        "Statistical Analysis Apply rigorous statistical techniques to uncover actionable insights from user behavior, engagement metrics, and performance data",
+                        "Cross‑Functional Collaboration Work closely with product managers, AI researchers, and cloud infrastructure teams to translate business objectives into technical solutions",
+                        "Model Deployment Deploy models to talentbridge’s cloud platform, monitor performance, and iterate based on real‑world feedback",
+                        "Stakeholder Communication Present findings, model performance, and recommendations to senior leadership and non‑technical stakeholders in a clear, concise manner",
+                        "Continuous Improvement Stay current with emerging ML frameworks (e.g., TensorFlow, PyTorch, JAX) and incorporate best practices into the development lifecycle",
+                        "Quality Assurance Design experiments, A/B tests, and validation protocols to ensure model robustness and fairness",
+                        "Communication Articulate insights and recommendations clearly, tailoring messages to diverse audiences",
+                        "Leadership Potential Mentor junior data scientists and contribute to the growth of the data science community at talentbridge",
+                        "Internal workshops, hackathons, and knowledge‑sharing sessions",
+                        "Opportunities to transition into product management, AI research, or data engineering roles"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=cv_h7WIHIVKeXPjxAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2OMUoEQRBF2XSPoEkFYiDrtCyIoKGKIgriqOlS01N2l_RUDd0lrNkcwESMvN5k3sLW5PN5fB5_-bNYfixaEtYMF2gIrWcS42IwT1_wQIMarWBvfeJiXsGNsoBhqpMucx9onr4LnL-ZsYR5-rysCJ65J4X7hCKVwj7coY8sBLeE-R89Eg5wWG0dlMp8BBW4Ug2Jds6i2VhOnSslNaEYGvvG6-BUqNOte9Wu_MWmRMw0JjTarI-Pts0o4WD3mjO9sLC9Q336VAv10FYJlV9t05nM7AAAAA&shmds=v1_ARwrE23cHjrJwu8KpkrjM0V_zc6CLZ0Ep4CtsmJIOzDspv6UWw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=cv_h7WIHIVKeXPjxAAAAAA%3D%3D",
+            "extensions": [
+                "3 days ago",
+                "Work from home",
+                "Full-time",
+                "Dental insurance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://hirefinity.x4t.10001mb.com/remote-jobs/senior-data-scientist-remote-27-hr-join-talentbridges-cutting-edge-video-planning-machine-learning-team",
+            "job_title": "Senior Data Scientist – Remote, $27/hr, Join talentbridge’s Cutting‑Edge Video Planning & Machine Learning Team",
+            "description": "```html About talentbridge talentbridge is a global leader in next‑generation media technology, blending artificial intelligence, cloud computing, and immersive experiences to create products that touch millions of lives worldwide. Our mission is to push the boundaries of what’s possible in video, AR/VR, and interactive storytelling, while fostering a culture of innovation, collaboration, and continuous learning. As a fully remote, distributed organization, talentbridge empowers teams to work from anywhere, leveraging the latest tools and practices to deliver high‑impact solutions at scale. Why Join talentbridge? At talentbridge, you’ll be part of a dynamic, cross‑functional team that thrives on solving complex, real‑world problems. We value curiosity, data‑driven decision making, and a passion for building products that resonate with users across the globe. Our remote‑first approach gives you the flexibility to balance work and life while staying connected to a vibrant community of experts in AI, cloud infrastructure, and product development. Position Overview We are looking for an experienced Data Scientist to join our Video Planning team. In this role, you will design, develop, and deploy machine learning models that power real‑time video analytics, predictive insights, and content recommendation engines. Your work will directly influence the user experience of talentbridge’s flagship products, driving engagement and satisfaction for millions of customers worldwide. Key Responsibilities Model Development Build and fine‑tune advanced machine learning models for video and image analysis, including object detection, scene segmentation, and AR/VR content generation. Data Engineering Collaborate with data engineers to ingest, clean, and transform large video datasets, ensuring high data quality and efficient processing pipelines. Statistical Analysis Apply rigorous statistical techniques to uncover actionable insights from user behavior, engagement metrics, and performance data. Cross‑Functional Collaboration Work closely with product managers, AI researchers, and cloud infrastructure teams to translate business objectives into technical solutions. Model Deployment Deploy models to talentbridge’s cloud platform, monitor performance, and iterate based on real‑world feedback. Stakeholder Communication Present findings, model performance, and recommendations to senior leadership and non‑technical stakeholders in a clear, concise manner. Continuous Improvement Stay current with emerging ML frameworks (e.g., TensorFlow, PyTorch, JAX) and incorporate best practices into the development lifecycle. Quality Assurance Design experiments, A/B tests, and validation protocols to ensure model robustness and fairness. Essential Qualifications Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, or a related field. Minimum of 3 years of professional experience in data science or machine learning. Proficiency in Python, SQL, and data manipulation libraries (Pandas, NumPy). Hands‑on experience with deep learning frameworks such as TensorFlow, PyTorch, or JAX. Strong background in statistical modeling, hypothesis testing, and experimental design. Experience working with large, unstructured datasets, particularly video or image data. Excellent problem‑solving skills and a meticulous attention to detail. Strong written and verbal communication skills, with the ability to explain complex technical concepts to non‑technical audiences. Preferred Skills & Experience Background in video analytics, computer vision, or AR/VR content creation. Familiarity with cloud platforms (AWS, GCP, Azure) and containerization (Docker, Kubernetes). Experience with data engineering tools such as Apache Spark, Airflow, or similar. Knowledge of reinforcement learning or generative modeling techniques. Prior experience in a fast‑paced, high‑growth tech environment. Skills & Competencies Technical Proficiency Advanced knowledge of machine learning algorithms, deep learning architectures, and data pipelines. Analytical Thinking Ability to dissect complex problems, formulate hypotheses, and derive data‑driven solutions. Collaboration Comfortable working in cross‑functional teams, bridging the gap between technical and business stakeholders. Adaptability Thrive in a rapidly evolving environment, quickly learning new tools and methodologies. Communication Articulate insights and recommendations clearly, tailoring messages to diverse audiences. Leadership Potential Mentor junior data scientists and contribute to the growth of the data science community at talentbridge. Career Growth & Learning Opportunities talentbridge is committed to your professional development. You will have access to Mentorship programs with senior data scientists and AI researchers. Internal workshops, hackathons, and knowledge‑sharing sessions. Conferences and industry events sponsorship. Opportunities to transition into product management, AI research, or data engineering roles. Clear career ladder with defined milestones and performance metrics. Work Environment & Culture Our remote‑first culture means you can work from anywhere while staying connected through collaborative tools, regular virtual town halls, and asynchronous communication. talentbridge values diversity, inclusion, and a growth mindset. We celebrate successes, learn from failures, and encourage experimentation. Your contributions will be recognized through performance bonuses, public shout‑outs, and career advancement opportunities. Compensation & Benefits Base Pay $27 per hour, with potential for performance‑based bonuses. Benefits Comprehensive health, dental, and vision plans; 401(k) with company match; unlimited paid time off; flexible work hours; and a stipend for home office setup. Perks Access to talentbridge’s learning platform, wellness programs, and a global community of innovators. How to Apply If you’re passionate about leveraging data to drive product innovation and thrive in a remote, collaborative environment, we’d love to hear from you. Submit your resume, a brief cover letter outlining your relevant experience, and any portfolio or GitHub links that showcase your work. Ready to Join talentbridge? Take the next step in your career and become part of a team that’s redefining the future of media technology. Apply now and help us create experiences that inspire millions around the world. Apply to this job ``` Apply for this job",
+            "apply_options": [
+                {
+                    "title": "Hirefinity",
+                    "link": "https://hirefinity.x4t.10001mb.com/remote-jobs/senior-data-scientist-remote-27-hr-join-talentbridges-cutting-edge-video-planning-machine-learning-team?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "HireFast",
+                    "link": "https://hirefast.g8r.social-networking.me/remote-jobs/senior-data-scientist-machine-learning-ranking-innovation-remote-us-join-workpinnacles-core-ai-team?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "WFZone",
+                    "link": "https://wfzone.l4x.html-5.me/remote-jobs/remote-senior-data-scientist-advanced-analytics-machine-learning-predictive-modeling-join-talentedges-cuttingedge-data-science-team?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBTY2llbnRpc3Qg4oCTIFJlbW90ZSwgJDI3L2hyLCBKb2luIHRhbGVudGJyaWRnZeKAmXMgQ3V0dGluZ+KAkUVkZ2UgVmlkZW8gUGxhbm5pbmcgXHUwMDI2IE1hY2hpbmUgTGVhcm5pbmcgVGVhbSIsImNvbXBhbnlfbmFtZSI6IkhpcmVmaW5pdHkiLCJodGlkb2NpZCI6ImN2X2g3V0lISVZLZVhQanhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR0Y0VTFCb1JEaFRWVXhWYmpscVpsRlJPR1pDYXpaWlJqVldaV2h4YmxCS2QyVnpOa1JCVG5vMFJHcE1lbDlDWkZsWlZFdExObkZXVkRKWFJqSlFXQzA0VWtKNVdWQnRWazFpWWxoNFptaFBUREJuTUdKdmFWcHJWV2RmYzNKblZYZFhOVE5yY2tKRmVIVmlWMEUwVXpOamRIQmhWa3N0VEd0NVkwaGZSWGRrTnpNNVpHVVNGM0UxWDJKaGJ6Tk1Ta3RQY3pWT2IxQjJUVzFFYlVGWkdpSkJSSE55T1daVWRsbHlUamxZY0doVWFEUlFkM1pITkRONE1qWjBXRkJ3WmpabiIsImZjdiI6IjMiLCJmY19pZCI6ImN2X2g3V0lISVZLZVhQanhBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Data Science Graduate",
+            "company_name": "HPE",
+            "location": "Roseville, CA (+9 others)",
+            "via": "HPE Careers - Hewlett Packard Enterprise (HPE)",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor´s degree in Data Science, Statistics, Operations Research, Computer Science or equivalent",
+                        "Typically 0-2 years experience"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Health & Wellbeing",
+                        "We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing",
+                        "Personal & Professional Development",
+                        "We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division",
+                        "The listed salary range reflects base salary",
+                        "Variable incentives may also be offered.\"",
+                        "The listed salary range reflects base salary",
+                        "Variable incentives may also be offered.\""
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Designs, develops and applies programs, methodologies and systems based on advanced analytic models (e.g. advanced statistics, operations research, computer science, process) to transform structured and unstructured data",
+                        "into meaningful and actionable information insights that drive decision making",
+                        "Uses visualization techniques to translate analytic insights into understandable business stories (eg",
+                        "descriptive, inferential and predictive insights)",
+                        "Embeds analytics into client’s business processes and applications",
+                        "Combines business acumen and scientific methods to solve business problems",
+                        "Contributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience",
+                        "Acts as team member by providing information, analysis and recommendations in support of team efforts",
+                        "Exercises independent judgment within defined parameters",
+                        "Participates in the analysis and validation of data sets/solutions/user experience",
+                        "Aids in the development, enhancement and maintenance of a client's metadata based on analytic objectives",
+                        "May load data into the infrastructure and contributes to the creation of the hypothesis matrix",
+                        "Prepares a portion of the data for the Exploratory Data Analysis (EDA) / hypotheses",
+                        "Contributes to building models for the overall solution, validates results and performance",
+                        "Contributes to the selection of the model that supports the overall solution",
+                        "Supports the research, identification and delivery of data science solutions to problems",
+                        "Supports visualization of the model's insights, user experience and configuration tools for the analytics model"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=7scHj0YVIjCEDL1yAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFw7OzndLDURwUUnUak4iX5AucQjjcRcyJ3S1T9Xlze-5jNp2gMqws1Hyp6gq3h_oRIs4MwOhLD6AThDxxwSzbaDapGNtSLJBFHU6I3np-VMjkf7YCd_ehmwUkm_ql-tl6MpOcynp8sRYoYrC71jStTCfvcFz04XjoQAAAA&shmds=v1_ARwrE232cmMCFI-HEiV7swoCR19N68Eu8Ay7aZMJ0dXX66RrHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=7scHj0YVIjCEDL1yAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAb1BMVEX___8AAADU1NTX19cApoBZWVn6-vppaWkAonpBup3Y8uzl-PRawaeNjY0Lr420tLRfX1_d3d1MTEzNzc3j4-N9g4ElJSVGRkbHx8d5eXkvLy-VlZULCwutrq5Jv6UvtpYAm288PDy8vb2fn5_u8vF8mx8GAAAA5ElEQVRIie2T2Q6CMBBFO1PBBRdERJRFRf__G520dii0IeFBn3oeCNzMadJbKkQgEAj8lRhlzh9HifTMpeHIuQXGKkOAjEUAoDSFnrPJLdCI0Uhc2lNFPEu8RIoLBanOIybLJ0T8BiUlNFcAOOWgXnMknkxyBTj4WyXxVu00Ve2IFUAjRLu2uG-MOGAkFup9v7BYTYmNREKWGajdkbhiHiw-u4Omq93jgE6LSc9UOT2N0KKvHM9xZKli-XqLeSIOh0jcMm0yIZ4c0deq5ycvh6LVKbfqvVbfm8NsBjjbDQQCgd_yAS7VDKnY6qSAAAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://careers.hpe.com/us/en/job/1213631/Data-Science-Graduate",
+            "job_title": "Data Science Graduate",
+            "description": "Data Science Graduate\n\n  \n\n\n\n\n\n\n\nThis role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.\n\n\n\nWho We Are:\n\nHewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.\n\n\n\n\n\nJob Description:\n\n   \n\nThis requisition may be classified as on desk or hybrid depending on location and role.\n\nJob Family Definition:Designs, develops and applies programs, methodologies and systems based on advanced analytic models (e.g. advanced statistics, operations research, computer science, process) to transform structured and unstructured data\n\ninto meaningful and actionable information insights that drive decision making. Uses visualization techniques to translate analytic insights into understandable business stories (eg. descriptive, inferential and predictive insights). Embeds analytics into client’s business processes and applications. Combines business acumen and scientific methods to solve business problems.\n\n\n\nManagement Level Definition:\n\nContributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience. Acts as team member by providing information, analysis and recommendations in support of team efforts. Exercises independent judgment within defined parameters.\n\n\n\nResponsibilities:\n\n• Participates in the analysis and validation of data sets/solutions/user experience.\n\n• Aids in the development, enhancement and maintenance of a client's metadata based on analytic objectives. May load data into the infrastructure and contributes to the creation of the hypothesis matrix. Prepares a portion of the data for the Exploratory Data Analysis (EDA) / hypotheses.\n\n• Contributes to building models for the overall solution, validates results and performance. Contributes to the selection of the model that supports the overall solution.\n\n• Supports the research, identification and delivery of data science solutions to problems.\n\n• Supports visualization of the model's insights, user experience and configuration tools for the analytics model.\n\n\n\nEducation and Experience Required:\n\n· Bachelor´s degree in Data Science, Statistics, Operations Research, Computer Science or equivalent.\n\n· Typically 0-2 years experience.\n\n\n\n\n\n\n\n\n\nWhat We Can Offer You:\n\nHealth & Wellbeing\n\nWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.\n\n\n\nPersonal & Professional Development\n\nWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.\n\n\n\nUnconditional Inclusion\n\nWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.\n\n\n\n\n\nLet's Stay Connected:\n\nFollow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. \n\n\n\n\n\n#unitedstates#grads\n\n\n\nJob:\n\nEngineeringJob Level:\n\nTCP_01    \n\nFor the Data Analyst position, (undergrad degree candidates):  \"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.\n – United States of America: Annual Salary USD 66,800 - 126,000 in Colorado // 71,700 - 136,300 in Massachusetts // 71,700 - 145,300 in California // 62,900 - 145,300 in Minnesota & North Carolina & Texas & Wisconsin\nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\nFor the Data Scientist position, (master's degree candidates): \"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level.\n – United States of America: Annual Salary USD 85,600 - 163,000 in Colorado // 92,700 - 175,700 in Massachusetts // 92,700 - 187,500 in California // 81,500 - 187,500 in Minnesota & North Carolina & Texas & Wisconsin\nThe listed salary range reflects base salary. Variable incentives may also be offered.\"\n\n\n\nInformation about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.html\n\n\n\n\n\nThe estimated job application period closure is July 6 2027; this timeline is provided for transparency and internal planning purposes.\n\n\n\nHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.\n\nHewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.\n\n   \n\nHPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.\n\n   \n\nRecruitment Fraud Alert\n\n\n\nWe have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.\n\n\n\nAll legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",
+            "apply_options": [
+                {
+                    "title": "HPE Careers - Hewlett Packard Enterprise (HPE)",
+                    "link": "https://careers.hpe.com/us/en/job/1213631/Data-Science-Graduate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/hewlett-packard-enterprise/Job/Data-Science-Graduate/-in-Sunnyvale,CA?jid=0b7adeb57caeccb5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/data-science-graduate-at-hewlett-packard-enterprise-4460522630?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/data-science-graduate-sunnyvale-ca--21559371-f0ca-4eaf-b552-7370682d482d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Bandana.com",
+                    "link": "https://bandana.com/jobs/5288ff3b-f445-4312-847d-b05710109108?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgR3JhZHVhdGUiLCJjb21wYW55X25hbWUiOiJIUEUiLCJodGlkb2NpZCI6IjdzY0hqMFlWSWpDRURMMXlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTemxuVEhkRlVuQXhSRzFhYUhsSmNWRkhUbXR0TldjNU1FOTVVbGMwZFY5MWNXUnliV0owYW5SbVIxTkJVRVE0Wm5ZemN6SjVXRmRYU1hGWE1rMU1UbUpwYWtWdFdtUnlUa3RGU1hSUGFUWXdPV1pTZGt0V1ZGVk1Zbk0yY1hWVE1IUlhjV1l0UTBrM1FWUmxUakJyUVdwbFdVeElWRWRhVUdWb1VrcFhNRXRYVjI5dldUQVNGM0UxWDJKaGJ6Tk1Ta3RQY3pWT2IxQjJUVzFFYlVGWkdpSkJSSE55T1daVU1WVllhMXA1VXpObmR6Um1OSEZHZGpkS1NqWmtla1J5ZFVabiIsImZjdiI6IjMiLCJmY19pZCI6IjdzY0hqMFlWSWpDRURMMXlBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Applied Data Scientist - AI Enablement (Transportation)",
+            "company_name": "HDR",
+            "location": "Denver, CO",
+            "via": "LinkedIn",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=s8sTOa65Hcaow38EAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKPQvCMBCAYVy7uTrdqKKtCC46FSt-DArqLpd4tJH0LuSC9Of4U22Xd3h5st8ou5YheEdvqDAhPKwjTk4TLKE8w4HReGr7BdNnRNYgMWFywrMeXMSAEkbbgDAcRWpPk12TUtBtUaj6vNZB29xKWwiTka74iNEhL20wUvCY6LXerLo8cD0fn6o7OIaK-EtxAfvbHwAHhFujAAAA&shmds=v1_ARwrE23_O0doKh_Z3uQ4gX8eY5PYsIgEq-zcs01Ovx44XIS5fw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=s8sTOa65Hcaow38EAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEBAQEBAQAAAAAAAAAAAAAABgQFBwP_xAAuEAABAwMCBQIEBwAAAAAAAAABAAIEAwURBiESEzFBYVFxByIysRQVM0OBgpH_xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL_xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf_aAAwDAQACEQMRAD8Am0RFpkREQEREBERAVVpXTkO72O7zpVSu2rCYXUxTcADhhO-Qe4UqvSPheY4sF9MwExv3gM7s4DxdN-mUqoO0U4da5RqdzrOow3OxVqN6tGPY_ZWNfRNqucKrI0ndzLq0hl0eq5pJ8bAFue2Rus93qaANrki1R67ZvLPILnV8B3b6jj_Vl-GDZB1dQMfi5baVTn46cHDtn-3CoPva7XoutBj_AJjeJcac5g5zPpbTf3G7MDB9SuXq_Tb9OTqdMVufFkNL6FXGCQMZB8jI98hd2HpWNqfU99Im8ihQlu-SmAXvy48RGegyOuCsHxBvUW5TIkG3seI1tY6kHVGlpLtgRg77cIG_lBJoiKoKn0xqWNZrLdoNehXqVJrC1jqfDhuWlu-T5UwiK2WevFi3ONXuFD8RFY_NWkADxjHTfZV0zXcSJBqRdLWhluNUfNWLWhw8gN6nyTt6KFRBstVyl2mfTmwapZXYep3Dh3DvUFdTWN8hX-ZQlxIBi1-WBIeXfqO9h6dM9T_Cn0QEREQREQEREBERAREQf__Z.jpeg",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/applied-data-scientist-ai-enablement-transportation-at-hdr-4479685134",
+            "job_title": "Applied Data Scientist - AI Enablement (Transportation)",
+            "description": "At HDR, our employee-owners are fully engaged in creating a welcoming environment where each of us is valued and respected, a place where everyone is empowered to bring their authentic selves and novel ideas to work every day. As we foster a culture of inclusion throughout our company and within our communities, we constantly ask ourselves: What is our impact on the world?\n\nWatch Our Story:' https://www.hdrinc.com/our-story' \n\nEach and every role throughout our organization makes a difference in our ability to change the world for the better. Read further to learn how you could help make great things possible not only in your community, but around the world.\n\nWe believe transportation is more than movement, it’s the foundation of connected, thriving communities. As part of HDR’s Transportation Business Group, you’ll help shape the systems that move people and goods safely, efficiently, and sustainably. From designing resilient highways and iconic bridges to advancing transit, passenger and freight rail, aviation, federal transportation ports and marine infrastructure, your work will directly support economic vitality, public safety, sustainable and resilient communities and quality of life. We bring together planners, engineers, architects, construction management staff, environmental, strategic communications, economists, management consultants and specialists across disciplines to solve complex mobility challenges with innovation, technical excellence, and a deep understanding of community needs. Whether you're modernizing aging infrastructure or pioneering next-generation transportation solutions, your contributions will help define the future of mobility. This isn’t just a job, it’s a chance to lead progress, drive meaningful impact, and leave a legacy of smarter, more connected transportation networks. We are all employee-owners at HDR, which is the foundation of our collaborative culture that connects employees around the world.\n\nPrimary Role:\n\nThe Applied Data Scientist – AI Enablement is a high-impact individual contributor role focused on building internal AI capabilities and removing systemic constraints that limit HDR’s ability to scale artificial intelligence across the Transportation Business Group. In the initial phase, this role is primarily internally focused, developing AI solutions, improving data and technology foundations, and identifying bottlenecks in systems, processes, and tooling. As internal capabilities mature, the role will progressively transition to client-facing AI delivery and advisory work, leveraging internally proven solutions as repeatable services.\n\nUtilization Expectations:\n\n\n\n 40% Internal AI solution development 40% Client AI delivery and pilot engagements (as capabilities mature) (0% year 1) 20% Skill development and continuous learning\n\nPrimary Responsibilities:\n\nInternal AI Capability Development:\n\n Design, develop, and deploy AI solutions addressing internal transportation business needs (e.g., document intelligence, predictive analytics, copilots, workflow automation). Build reusable AI components, data pipelines, and workflows that can be scaled for future client delivery Manage full model lifecycle including development, deployment, monitoring, drift detection, retraining, and inference.\n\nConstraint & Bottleneck Identification:\n\n Proactively identify limitations in data availability, system integration, tooling, governance, and processes that inhibit AI adoption. Partner with IT, data architects, and business stakeholders to recommend scalable improvements. Document technical debt and architectural gaps that must be addressed before scaling AI capacity.\n\nCollaboration & Communication:\n\n Collaborate with cross-functional stakeholders to translate ambiguous problems into structured AI solutions. Communicate AI concepts clearly to both technical and non-technical audiences.\n\nFuture Client-Facing Work:\n\n Support client pursuits and pilot projects using internally developed AI capabilities. Contribute to the evolution of repeatable AI services and offerings.\n\nNote: This is not an exhaustive list. This role requires flexibility to perform other duties as required.\n\nPreferred Qualifications:\n\n Bachelor’s degree in a closely related field or equivalent combination of education and experience. Experience with generative AI and modern AI services. Hands-on experience developing, deploying, and maintaining data and AI solutions in cloud environments (e.g., Azure, AWS, or GCP), including cloud-native data pipelines, scalable compute, and production model deployment. Experience managing end-to-end data science projects and model lifecycles. Strong analytical, organizational, and communication skills. Advanced Degree Experience designing or improving data pipelines and AI infrastructure. Consulting or professional services experience. Six Sigma or other process improvement certifications.\n\nRequired Qualifications\n\nA degree in a closely related field or combination of education and relevant experienceA minimum of 3 years experience with data engineering tools and languages such as SQL, Power Query, and PandasA minimum of 3 years experience with business intelligence tools such as Power BI, Tableau, Plotly, Seaborn, and MatplotlibA minimum of 3 years experience with data science languages such as Python and RSelf-motivated, detail-oriented professional, ability to multitask a mustProficiency with MS Office including Word and OutlookAbility to handle confidential informationExcellent writing and people skillsStrong math and organizational skillsFlexibility and ability to prioritize and handle multiple tasks and various managers in a fast-paced environmentExcellent verbal and written communication skills including grammar, punctuation, proofreading, spelling and telephone skillsAn attitude and commitment to being an active participant of our employee-owned culture is a mustIn-depth knowledge of machine learning algorithms, statistical models, and data analyticsExperience completing multiple data science projects\n\nWhat We Believe\n\nHDR is our company. Together, we build on each other's life experiences and perspectives to make great things possible every day. This shapes our collaborative culture, encourages organizational trust and connects us closer to the clients and communities we serve.\n\nOur Commitment\n\nAs employee owners, we all have a role in creating an inclusive environment where each of us is welcomed, valued, respected and empowered to bring our authentic selves to work every day.\n\nOur eight Employee Network Groups (Asian Pacific, Black, Hispanic/Latino(a), LGBTQ+, People with Disabilities, Veterans, Women, Young Professionals) help create a sense of belonging and foster a supportive environment where everyone is empowered to engage and contribute. Each group has an executive sponsor and is open to all employees.\n\nWe provide a comprehensive benefits package that promotes employee ownership, employee health, performance, and success, which includes medical, dental, vision, short and long-term disability, life insurance, an employee assistance program, paid time away, parental leave, paid holidays, a retirement savings plan with employer match, employee referral bonus and tuition reimbursement. The expected compensation range for this position depends upon skills, experience, education and geographical location. (Stated benefits are for full-time regular positions. Temporary and part-time roles eligible for limited benefits.) US Locations: $150,000 - $215,000. Primary Location:United States-Nebraska-Omaha Other Locations:United States-Texas-Round Rock, United States-North Carolina-Charlotte, United States-Florida-Doral, United States-Wyoming-Cheyenne, United States-California-Long Beach, United States-Minnesota-Saint Louis Park, United States-Florida-Fort Lauderdale, United States-West Virginia-Weirton, United States-Oregon-Salem, United States-Maryland-Baltimore, United States-Texas-Fort Worth, United States-Montana-Missoula, United States-District of Columbia-Washington DC, United States-Texas-Houston, United States-California-Irvine, United States-Wisconsin-Madison, United States-Florida-Tallahassee, United States-Mississippi-Jackson area, United States-Nevada-Reno, United States-Iowa-Des Moines, United States-Oregon-Portland, United States-Montana-Bozeman, United States-Texas-El Paso, United States-Texas-Corpus Christi, United States-Washington-Seattle, United States-Nevada-Las Vegas, United States-Montana-Billings, United States-Texas-Dallas, United States-Montana-Helena, United States-Washington-Spokane, United States-Iowa-Cedar Rapids, United States-Michigan-Grand Rapids, United States-Texas-Austin, United States-Louisiana-Metairie, United States-Virginia-Virginia Beach, United States-Massachusetts-Boston, United States-Colorado-Denver, United States-Iowa-Ames, United States-Oregon-Bend, United States-Missouri-St Louis, United States-Arizona-Tucson, United States-Washington-Vancouver, United States-Colorado-Colorado Springs, United States-Louisiana-Lafayette, United States-Hawaii-Honolulu, United States-Oklahoma-Tulsa, United States-Arizona-Phoenix, United States-Kentucky-Louisville, United States-Georgia-Atlanta, United States-Illinois-Rosemont, United States-California-Walnut Creek, United States-Tennessee-Memphis, United States-Montana-Kalispell, United States-Louisiana-Baton Rouge, United States-Virginia-Richmond, United States-Tennessee-Brentwood, United States-Ohio-Cleveland, United States-Florida-Tampa, United States-Ohio-Columbus, United States-Kentucky-Lexington, United States-Ohio-Cincinnati, United States-Washington-Bellevue, United States-Missouri-Kansas City, United States-South Dakota-Sioux Falls, United States-Alabama-Mobile, United States-Tennessee-Nashville, United States-New Jersey-Newark, United States-Kentucky-Paducah, United States-New Mexico-Albuquerque, United States-New York-White Plains, United States-South Carolina-Charleston, United States-South Carolina-Columbia, United States-Virginia-Vienna, United States-Florida-Orlando, United States-Alaska-Anchorage, United States-Minnesota-Minneapolis, United States-Indiana-Indianapolis, United States-Pennsylvania-Pittsburgh, United States-Wyoming-Lander, United States-California-San Diego, United States-Michigan-Lansing, United States-Pennsylvania-Philadelphia, United States-Nebraska-Lincoln, United States-Montana-Butte, United States-New Jersey-Pennington, United States-California-Sacramento, United States-Connecticut-Rocky Hill, United States-New York-New York, United States-Michigan-Ann Arbor, United States-Utah-Salt Lake City, United States-North Carolina-Winston-Salem, United States-Michigan-Detroit, United States-North Dakota-Bismarck, United States-Maine-Portland, United States-North Dakota-Fargo, United States-Illinois-Chicago, United States-California-Los Angeles, United States-Wyoming-Gillette, United States-Idaho-Boise, United States-North Carolina-Raleigh, United States-Texas-San Antonio Industry:Highway + Road Schedule:Full-time Employee Status:Regular BusinessClass:Data and Automation Job Posting:Oct 16, 2026\nAt HDR, we are committed to the principles of employment equity.  We are an Affirmative Action and Equal Opportunity Employer (https://www.hdrinc.com/equal-employment-opportunity-employer). We consider all qualified applicants, regardless of criminal histories, arrest and conviction records.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/applied-data-scientist-ai-enablement-transportation-at-hdr-4479685134?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/applied-data-scientist-ai-enablement-transportation-hdr-denver--fj-2419796274?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIERhdGEgU2NpZW50aXN0IC0gQUkgRW5hYmxlbWVudCAoVHJhbnNwb3J0YXRpb24pIiwiY29tcGFueV9uYW1lIjoiSERSIiwiaHRpZG9jaWQiOiJzOHNUT2E2NUhjYW93MzhFQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERKQlNWbFJkVWRpUlZaUU5Vd3RNRk0zUzFGQmJ6QnBVMjU0TlhsblZEQmFUM05zYldoUFZscHNkRUpZY1hCRU9WZ3lUbkk1Tm01U1luVTFOemwwUWt4WVJ6TklOVlZvV0hreE5XZDZZVkJGYVdoalRUQkthbTR4VkVaa2JXdGpSVjg0VjNBM0xXTk5OelJzVTNoYWRFRnplVkZZZDJ4TmMyOTFRVFpLVlVOdWJsRlFRMDRTRjNFMVgySmhiek5NU2t0UGN6Vk9iMUIyVFcxRWJVRlpHaUpCUkhOeU9XWlRlRkoxZVVkdk5TMVhaako0UjNSdGJVcG5USHBXTjFobVdGVjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJzOHNUT2E2NUhjYW93MzhFQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Artificial Intelligence and Data Science Scientist (Scientist 1)",
+            "company_name": "Los Alamos National Laboratory",
+            "location": "Los Alamos, NM",
+            "via": "LANL.jobs",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience in Python Programming",
+                        "Demonstrated experience working in collaborative software development environments, including Git-based workflows, automated unit and integration testing, and building or maintaining CI/CD pipelines",
+                        "Experience working with data processing, analysis, and/or machine learning workflows",
+                        "Ability to collaborate effectively in multidisciplinary scientific teams",
+                        "Strong commitment to continuous learning with demonstrated self-motivation and ability to work independently",
+                        "Ability to articulate concepts through various oral and written communication media, using a diverse range of technical and business acumen",
+                        "Ability to obtain a DOE Q and SCI security clearances, which generally requires U.S. citizenship",
+                        "Education/Experience: Position requires a bachelor's degree in a STEM field from an accredited college or university and 2 years of related experience, or an equivalent combination of education and experience directly related to the occupation",
+                        "Candidates that meet the degree requirement, but who do not meet the two-year experience requirement, are encouraged to apply and may be considered for hire through an allowable variance",
+                        "It is important to specify how your skills and experience match the role's requirements",
+                        "Due to federal restrictions contained in the current National Defense Authorization Act, citizens of the People's Republic of China-including the special administrative regions of Hong Kong and Macau-as well as citizens of the Islamic Republic of Iran, the Democratic People's Republic of Korea (North Korea), and the Russian Federation, who are not Lawful Permanent Residents (\"green card\" holders) are prohibited from accessing facilities that support the mission, functions, and operations of national security laboratories and nuclear weapons production facilities, which includes Los Alamos National Laboratory",
+                        "Foreign nationals are subject to a similar requirement under DOE Order 142.3A",
+                        "Selected applicants will be subject to a background investigation conducted by or on behalf of the Federal Government, and must meet eligibility requirements* for access to classified matter",
+                        "This position requires a Q clearance, and obtaining such clearance requires US Citizenship except in extremely rare circumstances",
+                        "Eligibility Requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances",
+                        "New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "PPO or High Deductible medical insurance with the same large nationwide network",
+                        "Dental and vision insurance",
+                        "Free basic life and disability insurance",
+                        "Paid childbirth and parental leave",
+                        "Award-winning 401(k) (6% matching plus 3.5% annually)",
+                        "Learning opportunities and tuition assistance",
+                        "Flexible schedules and time off (PTO and holidays)",
+                        "Onsite gyms and wellness programs",
+                        "Extensive relocation packages (outside a 50 mile radius)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Initially, you'll design, implement, and deploy scalable software systems supporting AI-enabled analytics and large-scale data integration",
+                        "Responsibilities include developing production-quality Python code, designing APIs and data services, building cloud-native data pipelines, integrating heterogeneous data sources, and creating scalable analytics workflows for machine learning and scientific applications",
+                        "You'll work with modern software engineering practices including version control, CI/CD, containerization, cloud-native architectures, and distributed computing, with opportunities to contribute to MLOps, DevSecOps, and advanced AI workflows that transition research into operational capabilities",
+                        "You'll collaborate with researchers and software engineers across multiple national laboratories and scientific disciplines-from computer science and mathematics to economics and engineering-to solve problems that transcend any single domain",
+                        "Position Commitment: Regular appointment employees are required to serve a period of continuous service in their current position in order to be eligible to apply for posted jobs throughout the Laboratory"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=zhEUgDSmq6DJ-oIbAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_0WOsQrCQBBEsc0nWG2porko2GgVEESJaSwsw-Y8LyeX23C7RfxDP8uYJs28YZiBSb6z5JFHcS-nHXq4BDHeO2uCNoDhCScUhLt2YzBSHAssJrtdwgauVAMbjLoBCnAmst7Mj41IxwelmH1qWVCcTjW1ioKpqVdvqvkvFTcYTedRTLXbZ33aBbvKCmLIPbYDymFJYbhXYE0RheIHXICpsYby9gOB4QStywAAAA&shmds=v1_ARwrE21GhS9ZVLfqCaHRO_IWM3KyBNUhcasKz9KCm1cwOKhDyQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=zhEUgDSmq6DJ-oIbAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIAB0AOAMBIgACEQEDEQH_xAAbAAABBQEBAAAAAAAAAAAAAAACAAEEBgcFA__EAC0QAAIABQMDAgQHAAAAAAAAAAECAAMEERIFEyEGIjFRYjJBYZEHFBUWQlJT_8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQb_xAAdEQACAQUBAQAAAAAAAAAAAAAAAgEDBBExUUES_9oADAMBAAIRAxEAPwDK4YmGdsVJ9BGtS_wq0-bo7Ila_wCoIxlvPeaEQTRftVf5Lxf5GxuDxaOqrXCUcfXpIqy2jJCY82MWqn6SlVEiXUHVpFPJmU8maGmFW7mllmv3AgBhh4JyZRbm8FSdHUk2vr6Wo1qnTYmykkMXRN-4DzDYsbYofH9iAbc2U1ynQoSSnsYAmLrM6IoUl7r9RyFQ_CNtWLdge4tM5HJW9hyp4gV6DpnfH9x0nJbAhVs9mYC3f5AUFr2C5LyfMTNcp0ZClIJh4C94UDLGnQJjsDq7XU0oaamoTFpxL2gwA3RK_wA9z4sPbe0cQmPNjF1TDbgSpMXVq6WiIlQQqLiowXgWAt454A-0DO1eumgCZPyAIIvLTyCCPl9BEImAJidscGQTjrWobe3-Y7McMdtLWtjbx6QLa3qTK6mraztk3aOTcH09o4iAYaJ5iOBihQoaMNP_2Q.jpeg",
+            "extensions": [
+                "Full-time",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://lanl.jobs/search/jobdetails/artificial-intelligence-and-data-science-scientist-scientist-1/259109d7-ec43-4fbf-a9b6-6e33ecb9a216",
+            "job_title": "Artificial Intelligence and Data Science Scientist (Scientist 1)",
+            "description": "What You Will Do\n\nThis position is open for external candidates only to apply.\n\nThe Earth and Environmental Sciences Division (EES), Energy and Natural Resources Security Group (EES-16) at Los Alamos National Laboratory is building next-generation artificial intelligence and data platforms that transform complex information into actionable intelligence for national security decision-makers. As a member of our team, you'll develop enterprise-scale data systems that power machine learning algorithms analyzing critical infrastructure helping the nation anticipate and respond to emerging threats.\n\nInitially, you'll design, implement, and deploy scalable software systems supporting AI-enabled analytics and large-scale data integration. Responsibilities include developing production-quality Python code, designing APIs and data services, building cloud-native data pipelines, integrating heterogeneous data sources, and creating scalable analytics workflows for machine learning and scientific applications. You'll work with modern software engineering practices including version control, CI/CD, containerization, cloud-native architectures, and distributed computing, with opportunities to contribute to MLOps, DevSecOps, and advanced AI workflows that transition research into operational capabilities.\n\nYou'll collaborate with researchers and software engineers across multiple national laboratories and scientific disciplines-from computer science and mathematics to economics and engineering-to solve problems that transcend any single domain. Your work will span cloud-native architectures, large language models, knowledge graphs, and intelligent systems that augment human decision-making. This cross-disciplinary environment demands intellectual agility: you won't focus on a single technology stack but will rapidly acquire new skills and pivot between emerging technologies as national security priorities evolve.\n\nThis isn't abstract research. Your innovations will deploy in systems supporting government agencies protecting the nation's most vital assets. You'll thrive in a fast-paced environment where your ability to quickly learn and adapt is as valuable as your existing expertise. As AI advances and new threats emerge, you'll be at the forefront of innovation, constantly learning and applying cutting-edge technologies to mission-critical problems.\n\nUnlike traditional positions focused on a single application, this role offers the opportunity to develop technologies supporting high-impact national security missions. Your success depends on openness to change, enthusiasm for learning in a fast-paced research environment, and ability to bridge disciplines and technologies as the national security landscape continuously transforms.\n\nWe anticipate hiring three (3) scientists for an initial two-year term appointment. During the early phase of the appointment, successful candidates will focus on data science and engineering, including building data pipelines and lakehouse capabilities using Databricks, developing AI models to identify and predict supply chain threats and vulnerabilities, and creating decision-support tools for the U.S. Department of Homeland Security.\n\n\nWhat You Need\n\nMinimum Job Requirements:\nExperience in Python ProgrammingDemonstrated experience working in collaborative software development environments, including Git-based workflows, automated unit and integration testing, and building or maintaining CI/CD pipelines.Experience working with data processing, analysis, and/or machine learning workflowsAbility to collaborate effectively in multidisciplinary scientific teamsStrong commitment to continuous learning with demonstrated self-motivation and ability to work independently. Ability to articulate concepts through various oral and written communication media, using a diverse range of technical and business acumen.Ability to obtain a DOE Q and SCI security clearances, which generally requires U.S. citizenship.\nEducation/Experience: Position requires a bachelor's degree in a STEM field from an accredited college or university and 2 years of related experience, or an equivalent combination of education and experience directly related to the occupation. \n\nCandidates that meet the degree requirement, but who do not meet the two-year experience requirement, are encouraged to apply and may be considered for hire through an allowable variance.\n\nDesired Qualifications:\n\nExperience with data lakehouse or distributed data platforms such as Databricks, Spark, Delta Lake, or related technologies.Programming experience in multiple languages (e.g., SQL, Scala, Java, C/C++, R, Julia, Javascript, and/or Typescript), in addition to the minimum required programming experience.Experience with cloud infrastructure, Kubernetes, AWS, etc.Experience developing APIs and data schemas for software communication.Experience in one or more of the following areas: natural language processing, information extraction, large language models, agentic AI workflows, or related AI/ML technologies.Experience using AI-assisted software development tools (e.g., Claude Code, Codex, OpenCode or other open-source coding assistants), including responsibly reviewing, testing, and validating AI-generated code.Experience with graph databases, vector databases, retrieval systems, and/or retrieval-augmented generation.Experience with front-end web and/or application development.An M.S. in computer science, data science or a related field within the past 5 years.\nNote to Applicants: For full consideration, along with your resume, please provide a comprehensive cover letter outlining how you meet the minimum and desired qualifications. It is important to specify how your skills and experience match the role's requirements\n\nDue to federal restrictions contained in the current National Defense Authorization Act, citizens of the People's Republic of China-including the special administrative regions of Hong Kong and Macau-as well as citizens of the Islamic Republic of Iran, the Democratic People's Republic of Korea (North Korea), and the Russian Federation, who are not Lawful Permanent Residents (\"green card\" holders) are prohibited from accessing facilities that support the mission, functions, and operations of national security laboratories and nuclear weapons production facilities, which includes Los Alamos National Laboratory. \n\nWork Location: The work location for this position is onsite and located in Los Alamos, NM. All work locations are at the discretion of management.\n\nPosition Commitment: Regular appointment employees are required to serve a period of continuous service in their current position in order to be eligible to apply for posted jobs throughout the Laboratory. If an employee has not served the time required, they may only apply for Laboratory jobs with the documented approval of their Division Leader. The position commitment for this position is 1 year. \n\nWhere You Will Work\n\nLocated in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. Our generous benefits package includes:\n\nPPO or High Deductible medical insurance with the same large nationwide networkDental and vision insuranceFree basic life and disability insurancePaid childbirth and parental leaveAward-winning 401(k) (6% matching plus 3.5% annually)Learning opportunities and tuition assistanceFlexible schedules and time off (PTO and holidays)Onsite gyms and wellness programsExtensive relocation packages (outside a 50 mile radius) Additional Details\n\nDirective 206.2 - Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206.2.  Please note that this requirement applies only to citizens of the United States.  Foreign nationals are subject to a similar requirement under DOE Order 142.3A.\n\nClearance:  Q (Position will be cleared to this level).  Selected applicants will be subject to a background investigation conducted by or on behalf of the Federal Government, and must meet eligibility requirements* for access to classified matter. This position requires a Q clearance, and obtaining such clearance requires US Citizenship except in extremely rare circumstances. Dependent upon the position, additional authorization to access classified information may be required, which may or may not be available to dual citizens.  Receipt of a Q clearance and additional access authorization ultimately is a decision of the Federal Government and not of Triad.\n\n*Eligibility Requirements:  To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472.2 for additional information.\n\nNew-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing.  Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under federal law. A positive drug test for marijuana will result in termination of employment, even if the use  was pre-offer.\n \nRegular Position: Term status Laboratory employees applying for regular-status positions are converted to regular status.\nTerm Position:  Regular status Laboratory employees applying for term-status positions may retain regular status with approval of the Principle Associate Director.\n\nEqual Opportunity: Los Alamos National Laboratory is an equal opportunity employer. All employment practices are based on qualification and merit, without regard to protected categories such as race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal, state, and local laws and regulations.  The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call (505)-664-6947.",
+            "apply_options": [
+                {
+                    "title": "LANL.jobs",
+                    "link": "https://lanl.jobs/search/jobdetails/artificial-intelligence-and-data-science-scientist-scientist-1/259109d7-ec43-4fbf-a9b6-6e33ecb9a216?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/artificial-intelligence-and-data-science-scientist-scientist-1-los-alamos-nm--7b06dae6-49b9-4da5-9905-2bf1f548cd8e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/los-alamos-national-laboratory/Job/Artificial-Intelligence-and-Data-Science-Scientist-(Scientist-1)/-in-Los-Alamos,NM?jid=84fe9a3944364e1c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/artificial-intelligence-and-data-science-scientist-scientist-1--los-alamos--e59a4f6f31dde7be88d33522872243f1f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs For Veterans & Job Fairs Nationwide | RecruitMilitary",
+                    "link": "https://my.recruitmilitary.com/job/49521903/Artificial-Intelligence-and-Data-Science-Scientist-Scientist-1-Los-Alamos-National-Laboratory-Los-Alamos-NM?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/artificial-intelligence-and-data-science-scientist-scientist-1-at-los-alamos-national-laboratory-4470638991?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lensa",
+                    "link": "https://lensa.com/job-v1/los-alamos-national-laboratory/los-alamos-nm/data-scientist/60f7549ff4558fbffe0ab2351d40f85b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "DSFOR",
+                    "link": "https://dsfor.com/los-alamos-national-laboratory-artificial-intelligence-and-data/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSBhbmQgRGF0YSBTY2llbmNlIFNjaWVudGlzdCAoU2NpZW50aXN0IDEpIiwiY29tcGFueV9uYW1lIjoiTG9zIEFsYW1vcyBOYXRpb25hbCBMYWJvcmF0b3J5IiwiaHRpZG9jaWQiOiJ6aEVVZ0RTbXE2REotb0liQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1RaVGNWOUpNRzVKYlZGTU9VSTJOMWwxZDJoMVYzSXpiM0pLVVV0WlRFWnJVRmxZUlU4NFkxbHRXR1o1VFZOT2VXNXhRMlZVTWw5NmNUSlVlVTR4UVU1cWFFMWxWR2RFZEc5cE4waEdVRk4xWjFkRVFWZE1abU5tY2psVUxXVllSVnBsUTJGd2NFRTBYM2Q0VURKbU9WZExRMmhTYUZKbVFYY3plRmxVTVVkbk1FbHlUV3dTRjNFMVgySmhiek5NU2t0UGN6Vk9iMUIyVFcxRWJVRlpHaUpCUkhOeU9XWlNiR1V6ZGxkak5uRXlVREY0YmpoVVMxQlNZbmRpWjJwMlQwZG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ6aEVVZ0RTbXE2REotb0liQUFBQUFBPT0ifQ=="
+        }
+    ]
+}

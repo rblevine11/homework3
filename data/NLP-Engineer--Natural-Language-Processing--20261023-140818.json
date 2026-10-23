@@ -1,0 +1,647 @@
+{
+    "jobs_results": [
+        {
+            "title": "Principal Engineer, NLP",
+            "company_name": "Teradata",
+            "location": "Albany, NY",
+            "via": "JobLeads",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate has a track record of driving breakthrough NLP capabilities from research to production and possesses deep expertise across classical NLP, modern transformer architectures, retrieval-augmented generation (RAG), multimodal understanding, information extraction, and large-scale language model systems",
+                        "NLP and Language Intelligence",
+                        "Design and build advanced NLP systems for:",
+                        "Entity extraction",
+                        "Semantic indexing",
+                        "Conversational AI",
+                        "Knowledge grounding",
+                        "Multi-document reasoning",
+                        "Extracting context from multi-modal sources of language",
+                        "Multi-lingual solutions",
+                        "Machine translation",
+                        "Develop systems that transform unstructured enterprise content into structured knowledge assets",
+                        "Advance techniques for long-context understanding, document intelligence, and multi-hop reasoning",
+                        "Build domain-adaptive language understanding models across diverse enterprise data sources",
+                        "Design NLP pipelines that power enterprise knowledge graphs and semantic layers",
+                        "Build entity resolution, canonicalization, taxonomy mapping, and concept extraction capabilities",
+                        "Connect language understanding with graph-based reasoning and enterprise knowledge discovery platforms",
+                        "Knowledge-enhanced language models",
+                        "Reasoning systems",
+                        "PhD or MS in Computer Science, Artificial Intelligence, Machine Learning, Computational Linguistics, NLP, or related field",
+                        "12+ years of software engineering experience, including 8+ years building production NLP and machine learning systems",
+                        "Recognized industry leader in Natural Language Processing, Language AI, Search, Retrieval, or LLM-based systems",
+                        "Deep hands-on expertise developing and deploying large-scale NLP systems in production",
+                        "Deep Expertise In",
+                        "Transformer architectures",
+                        "Large Language Models",
+                        "Retrieval-Augmented Generation (RAG)",
+                        "Semantic search",
+                        "Information retrieval",
+                        "Knowledge extraction",
+                        "Entity recognition",
+                        "Text understanding",
+                        "Conversational AI",
+                        "Machine learning",
+                        "Deep learning",
+                        "Representation learning",
+                        "Graph-enhanced NLP",
+                        "Vector search systems",
+                        "Knowledge graphs",
+                        "Strong Programming Skills",
+                        "Python",
+                        "Spark",
+                        "Distributed computing frameworks",
+                        "Experience With",
+                        "Hugging Face ecosystem",
+                        "Fine-tuning and adaptation frameworks",
+                        "Large-scale model evaluation",
+                        "Vector databases",
+                        "Knowledge graphs",
+                        "Distributed ML infrastructure",
+                        "AI observability and evaluation platforms",
+                        "Established reputation as an industry expert in NLP and language AI",
+                        "Proven record of taking breakthrough research into production at scale",
+                        "Experience building state-of-the-art systems involving:",
+                        "Retrieval systems",
+                        "Knowledge graphs",
+                        "Ability to influence technical strategy across multiple organizations",
+                        "Strong balance of scientific rigor, engineering excellence, and product impact",
+                        "Lead development of enterprise-scale knowledge extraction and semantic understanding capabilities",
+                        "Enable agentic AI experiences that leverage enterprise knowledge with high trust, transparency, and precision",
+                        "Raise the organization's NLP and AI capabilities to industry-leading levels"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Sales roles will be eligible for commission payments tied to quota achievement",
+                        "All other permanent roles will be eligible for one of our annual incentive plans, which are based on company financial attainment and individual performance",
+                        "Employees in this position are eligible to participate in the Company’s benefits programs, which generally include health care, life and disability insurance, retirement savings, and time-off programs",
+                        "Benefit details vary by country and plan, including eligibility and available options, and will be shared during the hiring process",
+                        "Additional information is available here: https://www.teradata.com/About-Us/Careers/BenefitsEmployees in this position are also eligible to participate in the Company’s comprehensive benefits programs, which include healthcare, life and disability insurance plans, a 401(k)-retirement savings plan, and time-off programs"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Define and execute the strategic roadmap for NLP and language understanding capabilities across our Knowledge Platform",
+                        "Serve as the technical authority for large-scale NLP architecture, algorithms, and production deployment",
+                        "Drive innovation in enterprise language understanding, semantic search, retrieval systems, knowledge extraction, and AI reasoning",
+                        "Develop solutions with highest quality and performance",
+                        "Develop solutions that are tested and validated",
+                        "Large Language Models",
+                        "Design and optimize applications built on frontier foundation models",
+                        "Build advanced retrieval-augmented generation architectures for enterprise-scale environments",
+                        "Develop agentic workflows that leverage LLMs for planning, reasoning, execution, and tool usage",
+                        "Create evaluation methodologies that measure factuality, grounding, trustworthiness, and task completion",
+                        "Improve model performance through prompt engineering, fine-tuning, continued pretraining, synthetic data generation, and reinforcement-learning-based approaches",
+                        "Develop ontology-aware language understanding systems",
+                        "Platform and Scale",
+                        "Build highly scalable distributed NLP systems processing petabytes of enterprise content",
+                        "Optimize inference architectures for latency, throughput, cost efficiency, and reliability",
+                        "Lead deployment strategies across on-prem, cloud-native, hybrid, and enterprise environments",
+                        "Partner closely with platform engineering teams to operationalize NLP services at global scale",
+                        "Stay at the forefront of advances in:",
+                        "Publish, patent, contribute to open source, and represent the organization externally at premier AI conferences and industry events",
+                        "Mentor senior engineers and help establish NLP engineering best practices across the company",
+                        "Partner with distinguished engineers, architects, researchers, and product leaders to shape the future of Teradata enterprise AI",
+                        "Define next-generation NLP and language intelligence architecture for the platform",
+                        "Deliver measurable improvements in retrieval quality, answer accuracy, grounding, and user satisfaction",
+                        "Establish world-class evaluation and benchmarking frameworks"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=G3Ry-Nug7VKwYwDRAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQoCMQwAUFzvAxycMou2IrjodIMIInKDi9OR1tBWalKaDucH-N_q8tbXfWadGWpinwpmOHJITFRXcL0MsIazOFDC6iMIw0kkZFocYmtF99aqZhO0YUveeHlZYXIy2ac4_TNqxEolY6Nxu9tMpnBYzm9U8YENITH02SG_f9n9C3aZqXyIAAAA&shmds=v1_ARwrE224TVq52NP6AqmZSOsc9pV5yy80pbU4ss-R41mQFMCUtQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=G3Ry-Nug7VKwYwDRAAAAAA%3D%3D",
+            "extensions": [
+                "5 days ago",
+                "183K–274K a year",
+                "Full-time",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "source_link": "https://www.jobleads.com/us/job/principal-engineer-nlp--city-of-albany--e6a7249fe4bddb7c4de4ad5c618fc5f4a",
+            "job_title": "Principal Engineer, NLP",
+            "description": "Our company\nAt Teradata, we believe that people thrive when empowered with better information. Teradata Autonomous Knowledge Platform activates enterprise intelligence by unifying data, knowledge and business context to achieve tangible outcomes. With Teradata, organizations can provide agents with full context for impact when it matters. Our solution lets businesses connect and scale on premises, in the cloud, or through a hybrid approach. Teradata delivers real business value with AI.\n\n\nWhat You’ll Do\nWe are building the next generation of AI-powered knowledge, reasoning, and autonomous agent platforms that operate at enterprise scale. We are seeking an exceptional Principal NLP Engineer to own and lead the design, development, and deployment of advanced natural language technologies powering semantic and context graphs, context analysis, intelligent search, retrieval, question answering, knowledge extraction, reasoning systems, AI agents, and enterprise copilots for Teradata Context Engine, our Autonomous Knowledge Platform. Context Engine is a platform that converts enterprise data estates into governed, agent-ready knowledge. Built for organizations where AI reliability and auditability are non-negotiable, Context Engine enables companies to deploy AI workflows on the data they already own — without rebuilding their infrastructure, without retraining their models, and without waiting for generic AI synthesis to learn the business terminology that took their analysts years to master.\n\n\nThis is a deeply hands-on technical leadership role for a recognized expert in Natural Language Processing who combines strong research foundations with proven experience shipping production systems that serve millions of users and process billions of documents. You will work at the intersection of large language models, information retrieval, knowledge graphs, semantic understanding, and agentic AI.\n\n\nThe ideal candidate has a track record of driving breakthrough NLP capabilities from research to production and possesses deep expertise across classical NLP, modern transformer architectures, retrieval-augmented generation (RAG), multimodal understanding, information extraction, and large-scale language model systems.\n\n\nTechnical Leadership\n\nDefine and execute the strategic roadmap for NLP and language understanding capabilities across our Knowledge Platform.\nServe as the technical authority for large-scale NLP architecture, algorithms, and production deployment.\nDrive innovation in enterprise language understanding, semantic search, retrieval systems, knowledge extraction, and AI reasoning.\n\nNLP and Language Intelligence\n\nDesign and build advanced NLP systems for:\nEntity extraction\nRelationship extraction\nInformation extraction\nDocument understanding\nSemantic indexing\nContext understanding and representation\nText classification\nTopic modeling\nSummarization\nQuestion answering\nConversational AI\nKnowledge grounding\nMulti-document reasoning\nExtracting context from multi-modal sources of language\nMulti-lingual solutions\nMachine translation\nDevelop systems that transform unstructured enterprise content into structured knowledge assets.\nAdvance techniques for long-context understanding, document intelligence, and multi-hop reasoning.\nBuild domain-adaptive language understanding models across diverse enterprise data sources.\nDevelop solutions with highest quality and performance\nDevelop solutions that are tested and validated\n\nLarge Language Models\n\nDesign and optimize applications built on frontier foundation models.\nBuild advanced retrieval-augmented generation architectures for enterprise-scale environments.\nDevelop agentic workflows that leverage LLMs for planning, reasoning, execution, and tool usage.\nCreate evaluation methodologies that measure factuality, grounding, trustworthiness, and task completion.\nImprove model performance through prompt engineering, fine-tuning, continued pretraining, synthetic data generation, and reinforcement-learning-based approaches.\n\nKnowledge and Semantic Systems\n\nDesign NLP pipelines that power enterprise knowledge graphs and semantic layers.\nDevelop ontology-aware language understanding systems.\nBuild entity resolution, canonicalization, taxonomy mapping, and concept extraction capabilities.\nConnect language understanding with graph-based reasoning and enterprise knowledge discovery platforms.\n\nPlatform and Scale\n\nBuild highly scalable distributed NLP systems processing petabytes of enterprise content.\nOptimize inference architectures for latency, throughput, cost efficiency, and reliability.\nLead deployment strategies across on-prem, cloud-native, hybrid, and enterprise environments.\nPartner closely with platform engineering teams to operationalize NLP services at global scale.\n\nResearch and Innovation\n\nStay at the forefront of advances in:\nFoundation models\nAgentic AI\nRetrieval systems\nRepresentation learning\nDeep learning\nKnowledge-enhanced language models\nReasoning systems\nPublish, patent, contribute to open source, and represent the organization externally at premier AI conferences and industry events.\nMentor senior engineers and help establish NLP engineering best practices across the company.\n\nWho You’ll Work With\nPartner with distinguished engineers, architects, researchers, and product leaders to shape the future of Teradata enterprise AI.\n\n\nWhat Makes You a Qualified Candidate\n\nPhD or MS in Computer Science, Artificial Intelligence, Machine Learning, Computational Linguistics, NLP, or related field.\n12+ years of software engineering experience, including 8+ years building production NLP and machine learning systems.\nRecognized industry leader in Natural Language Processing, Language AI, Search, Retrieval, or LLM-based systems.\nDeep hands-on expertise developing and deploying large-scale NLP systems in production.\n\nDeep Expertise In\n\nTransformer architectures\nLarge Language Models\nRetrieval-Augmented Generation (RAG)\nSemantic search\nInformation retrieval\nKnowledge extraction\nEntity recognition\nRelation extraction\nText understanding\nConversational AI\nMachine learning\nDeep learning\nRepresentation learning\nGraph-enhanced NLP\nVector search systems\nKnowledge graphs\n\nStrong Programming Skills\n\nPython\nPyTorch\nTensorFlow/JAX\nSpark\nDistributed computing frameworks\n\nExperience With\n\nHugging Face ecosystem\nFine-tuning and adaptation frameworks\nLarge-scale model evaluation\nVector databases\nEmbedding models\nSearch engines\nKnowledge graphs\nDistributed ML infrastructure\nAI observability and evaluation platforms\n\nPreferred Qualifications\n\nPhD with published research in NLP, IR, ML, or AI in top-tier peer reviewed journals and conferences\nExperience building systems that serve hundreds of millions of users or process billions of documents.\nContributions to major NLP open-source ecosystems.\nPublications in ACL, EMNLP, NAACL, COLING, NeurIPS, ICML, ICLR, KDD, SIGIR, WWW, or related venues.\nExperience leading architecture for enterprise copilots, intelligent assistants, or autonomous agents.\nExpertise in enterprise search and knowledge management systems.\nExperience with graph-based reasoning and knowledge graph technologies.\nPatent portfolio in NLP, machine learning, search, or language understanding.\n\nWhat You’ll Bring\n\nEstablished reputation as an industry expert in NLP and language AI.\nProven record of taking breakthrough research into production at scale.\nExperience building state-of-the-art systems involving:\nEnterprise search\nEnterprise copilots\nDocument intelligence\nRetrieval systems\nKnowledge extraction\nAI agents\nSemantic reasoning\nKnowledge graphs\nAbility to influence technical strategy across multiple organizations.\nStrong balance of scientific rigor, engineering excellence, and product impact.\n\nSuccess Metrics\nWithin 12 months, you will:\n\n\n\nDefine next-generation NLP and language intelligence architecture for the platform.\nDeliver measurable improvements in retrieval quality, answer accuracy, grounding, and user satisfaction.\nEstablish world-class evaluation and benchmarking frameworks.\nLead development of enterprise-scale knowledge extraction and semantic understanding capabilities.\nEnable agentic AI experiences that leverage enterprise knowledge with high trust, transparency, and precision.\nRaise the organization's NLP and AI capabilities to industry-leading levels.\n\nWhy We Think You'll Love Teradata\nWe prioritize a people-first culture because we know our people are at the very heart of our success. We embrace a flexible work model because we trust our people to make decisions about how, when, and where they work. We focus on well-being because we care about our people and their ability to thrive both personally and professionally. We are committed to actively working to foster an inclusive environment that celebrates people for all of who they are\n\n\n#LI-CP2\n\n\nTeradata is proud to be an equal opportunity employer. We do not discriminate based upon race, color, ancestry, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related conditions), national origin, sexual orientation, age, citizenship, marital status, disability, medical condition, genetic information, gender identity or expression, military and veteran status, or any other legally protected status. We welcome and encourage individuals from all backgrounds to apply and join our team, bringing their unique perspectives and experiences to help us innovate and grow. If you require accommodations during the interview process, please let your recruiter know and we will work with you to meet your needs.Pay Rate: 182700.0000 - 228400.0000 - 274,000.00 AnnuallyStarting pay for the successful applicant will depend on geographic location, internal equity, job-related knowledge, skills, and candidate experience. Sales roles will be eligible for commission payments tied to quota achievement. All other permanent roles will be eligible for one of our annual incentive plans, which are based on company financial attainment and individual performance. Employees in this position are eligible to participate in the Company’s benefits programs, which generally include health care, life and disability insurance, retirement savings, and time-off programs. Benefit details vary by country and plan, including eligibility and available options, and will be shared during the hiring process. Additional information is available here: https://www.teradata.com/About-Us/Careers/BenefitsEmployees in this position are also eligible to participate in the Company’s comprehensive benefits programs, which include healthcare, life and disability insurance plans, a 401(k)-retirement savings plan, and time-off programs. Specific details of these benefits, including eligibility criteria and plan options, will be provided during the hiring process and can be reviewed here: https://www.teradata.com/About-Us/Careers/Benefits",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/principal-engineer-nlp--city-of-albany--e6a7249fe4bddb7c4de4ad5c618fc5f4a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/amp/job/us-ny-albany-principal-engineer-nlp-teradata-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgRW5naW5lZXIsIE5MUCIsImNvbXBhbnlfbmFtZSI6IlRlcmFkYXRhIiwiaHRpZG9jaWQiOiJHM1J5LU51ZzdWS3dZd0RSQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEdOcmNWRnhUekZUU0ZGS1Z6aDJWSGhvWVVsTGFGOURPV2g0TFZweWVucDVUV3hsYVUwdFJWcFNMVGM1U25SbE1qZ3hka2hPUkVremNsRnBkVU5tVG5ocU1pMVRkWE5JUzI5TFRGWkpkbDlvVmw4M2NrTkphV2RHTVMxWGVUQmtaRU55TjA5RWFtSjVXa2Q1VDNKT1oyVXRkVWhVWmpGS1EycE1aMVpsTlc1UGNqbHdhVTRTRjJ0eFRHSmhjSFpmVFVveWR6Vk9iMUJxZERKWUxVRk5HaUpCUkhOeU9XWlRPRWw2TkcwNFNVSjVSRlY0UTNsMFRtbENORnBYTURWSVQwMVIiLCJmY3YiOiIzIiwiZmNfaWQiOiJHM1J5LU51ZzdWS3dZd0RSQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Natural Language Processing Engineer- Pipeline",
+            "company_name": "Overture Partners",
+            "location": "Anywhere",
+            "via": "ZipRecruiter",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate will have a deep understanding of NLP techniques and a passion for solving complex linguistic and computational challenges",
+                        "Master's or Ph.D. in Computational Linguistics, Computer Science, AI, or related fields",
+                        "Proven experience as an NLP Engineer or similar role",
+                        "Strong programming skills in Python, Java, or similar languages",
+                        "Experience with NLP tools and frameworks (e.g., NLTK, SpaCy, TensorFlow)",
+                        "Deep understanding of text representation techniques (e.g., n-grams, bag of words, sentiment analysis)",
+                        "Familiarity with machine learning algorithms and concepts",
+                        "Excellent analytical and problem-solving skills",
+                        "Strong communication and teamwork abilities",
+                        "Experience with machine learning and deep learning approaches to NLP is advantageous",
+                        "Develop systems capable of interpreting and analyzing human language, requiring a deep understanding of NLP techniques and a passion for tackling linguistic and computational challenges"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role involves developing and implementing NLP systems that can effectively interpret, analyze, and understand human language",
+                        "Design and develop NLP systems and applications",
+                        "Implement algorithms to process and analyze large amounts of natural language data",
+                        "Develop systems for text representation, semantic extraction, data retrieval, and natural language understanding",
+                        "Collaborate with cross-functional teams to integrate NLP capabilities into products and services",
+                        "Continuously update and maintain NLP models for accuracy and efficiency",
+                        "Conduct research and stay updated on the latest advancements in NLP",
+                        "Evaluate and refine NLP systems based on user feedback and performance metrics",
+                        "Document NLP processes and algorithms for knowledge sharing",
+                        "Responsibilities include designing NLP systems, implementing algorithms for natural language data analysis, maintaining model accuracy, and collaborating with teams to integrate NLP into various products and services"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=T9yN57FGfpWUSbbSAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBBFsc0RrAZLIVkRbLQWQUQDYh0mcdisrDPLzkRyJI_p2nxe9d6vvovqeEWbMka4IPsJPUGbZSDVwB6O7AMT5RrakCgWhhrO0oMS5mEEYTiJ-EjLw2iWdO-camy8GloYmkHeTph6md1Lev1PpyNmShGNuu1uMzeJ_Xp1-1AuL0obszFlhcDw4GD0hHtxkf4AtYYwkasAAAA&shmds=v1_ARwrE20trN2UjcZGXFQee19WxAmAr-dkHHEMF4lP25Ogm46XIQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=T9yN57FGfpWUSbbSAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba2924f19ee0e7f9db9ca/images/LkI-JN-Rb5X3GxPqFCAeGOLV_crXsRTHla2kkXxIPN4.jpeg",
+            "extensions": [
+                "Work from home",
+                "Contractor"
+            ],
+            "source_link": "https://www.ziprecruiter.com/c/Overture-Partners/Job/Natural-Language-Processing-Engineer-Pipeline/-in-Remote,US?jid=c3a9f33ffb670ad4",
+            "job_title": "Natural Language Processing Engineer- Pipeline",
+            "description": "Our company is at the forefront of artificial intelligence, specializing in the development of cutting-edge natural language processing technologies. We are dedicated to advancing how machines understand and interact with human language, transforming communication and data analysis across various industries. We value innovation, precision, and a collaborative approach in our quest to develop intelligent NLP solutions.\n\n\n\n\nWe are looking for a skilled Natural Language Processing Engineer to join our team. This role involves developing and implementing NLP systems that can effectively interpret, analyze, and understand human language. The ideal candidate will have a deep understanding of NLP techniques and a passion for solving complex linguistic and computational challenges.\n\n\n\nKey Responsibilities:\n\n\n\n\n\n Design and develop NLP systems and applications.\n Implement algorithms to process and analyze large amounts of natural language data.\n Develop systems for text representation, semantic extraction, data retrieval, and natural language understanding.\n Collaborate with cross-functional teams to integrate NLP capabilities into products and services.\n Continuously update and maintain NLP models for accuracy and efficiency.\n Conduct research and stay updated on the latest advancements in NLP.\n Evaluate and refine NLP systems based on user feedback and performance metrics.\n Document NLP processes and algorithms for knowledge sharing.\n\n\nQualifications:\n\n\n\n Master's or Ph.D. in Computational Linguistics, Computer Science, AI, or related fields.\n Proven experience as an NLP Engineer or similar role.\n Strong programming skills in Python, Java, or similar languages.\n Experience with NLP tools and frameworks (e.g., NLTK, SpaCy, TensorFlow).\n Deep understanding of text representation techniques (e.g., n-grams, bag of words, sentiment analysis).\n Familiarity with machine learning algorithms and concepts.\n Excellent analytical and problem-solving skills.\n Strong communication and teamwork abilities.\n Experience with machine learning and deep learning approaches to NLP is advantageous.\n\n\nSummary:\n\n\n\n\nDevelop systems capable of interpreting and analyzing human language, requiring a deep understanding of NLP techniques and a passion for tackling linguistic and computational challenges. Responsibilities include designing NLP systems, implementing algorithms for natural language data analysis, maintaining model accuracy, and collaborating with teams to integrate NLP into various products and services.\n\n\n\n\nJOB-24368",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Overture-Partners/Job/Natural-Language-Processing-Engineer-Pipeline/-in-Remote,US?jid=c3a9f33ffb670ad4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/kitware/natural-language-processing-researcher-37648782/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Job Board",
+                    "link": "https://anywhere.page.gd/remote-jobs/senior-data-processing-analyst-954fbc02?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/senior-radar-signal-processing-analyst-weeghman-briggs-llc-4122-rideout-road-huntsville-al-35808-usa--t7xk-892488020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Fieldnote",
+                    "link": "https://fieldnote.alc.onl/remote-jobs/senior-data-processing-analyst-954fbc02?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-natural-language-processing-engineer-pipeline-united-states-overture?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgRW5naW5lZXItIFBpcGVsaW5lIiwiY29tcGFueV9uYW1lIjoiT3ZlcnR1cmUgUGFydG5lcnMiLCJodGlkb2NpZCI6IlQ5eU41N0ZHZnBXVVNiYlNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVmw1Y0hJeVFUaHhYMWxRZG00dFEzSkdRbkI1ZG5CNlkzSjNXVkpaWTBONmNWTXRZMDl0VldVelZtRmtjRXBzYjBwRlRIZzFiVkZhY0ZOWFFYVjNUVGw1Y1ROUFN6Y3lVV2RWVUVsUFRGTXhNMVIwUzIxR09GVlRSVGhVY205bldtNVNUbWhFV2tSYVJFTkZhR3B6ZWkwNWVHSnhObVpuYWs5WFdVZ3dWSGd5VWtnMlgyUVNGMnR4VEdKaGNIWmZUVW95ZHpWT2IxQnFkREpZTFVGTkdpSkJSSE55T1daUldHaFNWMW95UWtSamVWaG5aekptU0cwM2VrUlJaakZ5WXpobiIsImZjdiI6IjMiLCJmY19pZCI6IlQ5eU41N0ZHZnBXVVNiYlNBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Senior Natural Language Processing (NLP) Engineer",
+            "company_name": "Roberts Recruiting",
+            "location": "Boston, GA",
+            "via": "Talents By Vaia",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience with NLP and ML algorithms and tools; 2 + years' experience",
+                        "Strong programming skills in Java",
+                        "Familiarity with diverse set of computing technologies: Linux, Python, Bash, SQL, JavaScript",
+                        "Excellent organizational and communication skills",
+                        "Experience: 2 years required"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=_YWMDkN5WPR1VsSwAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBAAUFz7CU43qmgjgotOClKRUkr9gJKEI43Eu5K7Qn_Jv5Qub33Fb1U830iRMzRWp2wT1JbCZANCm9mjSKQAm6Zut_CgEAkxwwFe7EDQZj8AE1TMIeH6OqiOcjFGJJVB1Gr0peevYULHs_mwk4VeBptxTFaxP52PczlS2EHHDrMKdOjzFHVpI8GdRZn2UN3-tlIqRawAAAA&shmds=v1_ARwrE21cUqSGLZt_hCD1kEbxq7HCzrkzTxKyyrVVtRjXQy9Qvw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=_YWMDkN5WPR1VsSwAAAAAA%3D%3D",
+            "extensions": [
+                "104K–126K a year",
+                "Full-time"
+            ],
+            "source_link": "https://talents.vaia.com/companies/roberts-recruiting/boston/senior-natural-language-processing-nlp-engineer-149937200/",
+            "job_title": "Senior Natural Language Processing (NLP) Engineer",
+            "description": "Senior Nlp Engineer\n\nWould you like to contribute creatively to a large, meaningful mission? We are in the process of transforming healthcare. In particular, we are transforming the way that care givers across the country integrate information and make decisions.\n\nDue to a recent acquisition, we now have an unprecedented combination of scale and industry leading technology and talent to change the way we experience healthcare. Specifically designed with the size and scale to address the complexity of today's and tomorrow's healthcare system, we are a company committed to advancing medical benefits management – and enabling better outcomes for patients, providers, and plans.\n\nOurs is an evidence-based approach that leverages our exceptional capabilities, powerful analytics, and an acute sensitivity to the challenges and needs of everyone involved across the healthcare spectrum. Applying proven talent and leading-edge technology, we harness healthcare's evolving demand and inherent change to realize and deliver improved results for everyone.\n\nWe leverage deep evidence based knowledge and technology to deliver services and software solutions so healthcare payers and providers can deliver the best quality care. Our natural language processing (NLP) and machine learning (ML) platform replaces outdated manual processes with software-driven clinical reasoning.\n\nThe Senior NLP Engineer should have the following:\n\nComputer Science, Engineering or Math degree; advanced degree a plusExperience with NLP and ML algorithms and tools; 2 + years' experienceStrong programming skills in JavaFamiliarity with diverse set of computing technologies: Linux, Python, Bash, SQL, JavaScriptExcellent organizational and communication skillsWhat's in it for you, other than improving patient care? We carefully select really smart people and provide them with the autonomy to build great software. We recognize and reward based on merit, not titles. We have amazing views from our offices, lots of food, an espresso machine and other perks. But most of all we offer the chance to build your career with people like you who want to solve problems, and have fun together.\n\n\n\nExperience: 2 years required",
+            "apply_options": [
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/roberts-recruiting/boston/senior-natural-language-processing-nlp-engineer-149937200/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgTmF0dXJhbCBMYW5ndWFnZSBQcm9jZXNzaW5nIChOTFApIEVuZ2luZWVyIiwiY29tcGFueV9uYW1lIjoiUm9iZXJ0cyBSZWNydWl0aW5nIiwiaHRpZG9jaWQiOiJfWVdNRGtONVdQUjFWc1N3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2s1VlRrSjJSSFEyVEdGV1lXTkdNRUkzTFVsM2RtbFlTMEZCT1VKWmRITk1WRE5TUzJneE5qVjZSVWRvZEVaMFN6TjNWakZCTmsxb2FWOUdNVWMwVTJKM2VIZENVakk1TjNWQ2JtOXRORUZqUWtSS2NETm5jbTg0ZDFCb01EZGpYMkpoYW1GRGFpMUVTMHhRTjJWSVJsZFlYM0ZPWlU1U1pGZ3lRVEJ4T1haYWNYaG9UekVTRjJ0eFRHSmhjSFpmVFVveWR6Vk9iMUJxZERKWUxVRk5HaUpCUkhOeU9XWlJlWGQ0T0ROalNWZEdRa3A1U0RJMGJ6QTFRVnBsUms1SkxUbFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJfWVdNRGtONVdQUjFWc1N3QUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Aerospace NLP Engineer - Speech-to-Semantics for Autonomy",
+            "company_name": "Merlin",
+            "location": "Boston, MA",
+            "via": "Talents By Vaia",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The role involves developing a speech-to-semantics system and requires proficiency in Python, familiarity with deep learning frameworks, and a master's degree in computer science or a related field"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The company offers an innovative work environment, comprehensive benefits, and opportunities for professional development"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=m3S-8wMscs4cNIHgAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNQQrCMBBFcdu1K1ezFtuI4EZXFUQQK4UeoKRhTFrSmZCJUA_kPY3weav3-MV3VbQ1RpagDcLz0cKV7EiIEUroAqJxZeKyw1lTGo3AiyPU78TE8ycrdx5AUEfjgAluzNbj5uxSCnJSSsRXVpLOZWV4Vkw48KImHuSPXpyOGLxO2B-O-6UKZLfrBqMfCfIuLPloB039AxcOYd-oAAAA&shmds=v1_ARwrE2378gkjE5lw8i6BJnrLnOov1TEPfAp-hQBeu1T6c6tY6A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=m3S-8wMscs4cNIHgAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://talents.vaia.com/companies/merlin/boston/aerospace-nlp-engineer-speech-to-semantics-for-autonomy-103802621/",
+            "job_title": "Aerospace NLP Engineer - Speech-to-Semantics for Autonomy",
+            "description": "A venture-backed aerospace startup in Boston seeks a machine learning expert for their natural language processing team. The role involves developing a speech-to-semantics system and requires proficiency in Python, familiarity with deep learning frameworks, and a master's degree in computer science or a related field. The company offers an innovative work environment, comprehensive benefits, and opportunities for professional development.",
+            "apply_options": [
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/merlin/boston/aerospace-nlp-engineer-speech-to-semantics-for-autonomy-103802621/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBZXJvc3BhY2UgTkxQIEVuZ2luZWVyIC0gU3BlZWNoLXRvLVNlbWFudGljcyBmb3IgQXV0b25vbXkiLCJjb21wYW55X25hbWUiOiJNZXJsaW4iLCJodGlkb2NpZCI6Im0zUy04d01zY3M0Y05JSGdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMDAwUmpBd2NtbExVVTF0YjNOa1lWRnRZVzE1TWtaRGRrZ3hjWGRNUWtGYWFYcDRjMnAyWm14UmQwUnZiWFp2YUd4dWRYVTJTemhvTWkxbFEzRTRiVUV3WnpSaGEzaElOVzF6YjJrMFNraHlkM0I2Y0Y4eFYzZFpTR0Z1Ymt0S1pETnlWMUZUZUhOaldWTldhMWhKVFRGcU9HOTNXbXRSUlZwUFRqaG5Temh0TUhSUFNGUVNGMnR4VEdKaGNIWmZUVW95ZHpWT2IxQnFkREpZTFVGTkdpSkJSSE55T1daU2FuYzBMVEp0VHpGQ1gxQlZRa1UxYkZBNVZpMTBMVFZZYnpaQiIsImZjdiI6IjMiLCJmY19pZCI6Im0zUy04d01zY3M0Y05JSGdBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Natural Language Processing Expert (NLP)",
+            "company_name": "Morfologica",
+            "location": "Reston, VA",
+            "via": "ZipRecruiter",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply",
+                        "The ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies",
+                        "The candidate will also have on-going experience providing consulting and support in fields related NLP",
+                        "Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply",
+                        "The ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies",
+                        "The candidate will also have on-going experience providing consulting and support in fields related NLP",
+                        "Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply",
+                        "The ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based development, and programming experience in NLP-related technologies",
+                        "The candidate will also have on-going experience providing consulting and support in fields related NLP",
+                        "Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply",
+                        "The ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based development, and programming experience in NLP-related technologies",
+                        "The candidate will also have on-going experience providing consulting and support in fields related NLP",
+                        "Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply",
+                        "The ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies",
+                        "The candidate will also have on-going experience providing consulting and support in fields related NLP",
+                        "ONLY CANDIDATES WITH ACTIVE Government SECURITY CLEARANCES AND APPROPRIATE POLY WILL BE CONSIDERED"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=AkMLBPK0gbsnVfvQAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7BzrdqKKNCC51EAcRpJbi4Fqu4UwjMRdyV-iv-LfiG17xnRWnBnXMGKDG6EZ0BG1mSyI-OrhMibLCsqnbFWzhxj0IYbYDcIQrswu0OA6qSSpjRELpRFG9LS1_DEfqeTJv7uVfJwNmSgGVuv1hN5UpuvX8zvnFgZ23CD7Cg0Q5buB5_gF7jui8nAAAAA&shmds=v1_ARwrE22_FDasxuMQ8sBPjBSXNhbHTGCHH85Q5pVxVfgmXtvoWw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=AkMLBPK0gbsnVfvQAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://www.ziprecruiter.com/c/Morfologica/Job/Natural-Language-Processing-Expert-(NLP)/-in-Reston,VA?jid=4eb766bfab0f6b2e",
+            "job_title": "Natural Language Processing Expert (NLP)",
+            "description": "Morfologica Inc. is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction, information retrieval and information analysis.\n\nWe are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\n\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferred. - See more at: http://www.clearancejobs.com/company.php?action=view_job&jobID=1624701#sthash.ZObktJKI.dpufMorfologica Inc. is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction, information retrieval and information analysis.We are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\n\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferred.Morfologica Inc. is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction, information retrieval and information analysis.We are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\n\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based development, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferredMorfologica Inc. is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction, information retrieval and information analysis.We are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\n\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based development, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferred.Morfologica is a small business that provides consulting and engineering services in the fields of Natural Language Processing (NLP) and Computational Linguistics to academic, business and government organizations. We are a growing company with lots of opportunities and great benefits for qualified candidates with a passion for this field, especially in the domain of information extraction, information retrieval and information analysis.\n\nWe are looking to support our current and future customers in the Washington DC metropolitan area by adding experienced Computer Scientists, Computational Linguists, Theoretical or General Linguists, and Knowledge Engineers to our team. Qualified candidates with a strong background in Artificial Intelligence, Cognitive Science or Library Science are also encouraged to apply.\n\nThe ideal candidate will have a strong understanding of one or more natural language processing techniques, knowledge-base or rule-based developent, and programming experience in NLP-related technologies. The candidate will also have on-going experience providing consulting and support in fields related NLP. Individuals with continued experience with multiple NLP tools and techniques are preferred.\n\nONLY CANDIDATES WITH ACTIVE Government SECURITY CLEARANCES AND APPROPRIATE POLY WILL BE CONSIDERED.",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Morfologica/Job/Natural-Language-Processing-Expert-(NLP)/-in-Reston,VA?jid=4eb766bfab0f6b2e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgRXhwZXJ0IChOTFApIiwiY29tcGFueV9uYW1lIjoiTW9yZm9sb2dpY2EiLCJodGlkb2NpZCI6IkFrTUxCUEswZ2JzblZmdlFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURlZOVWtKdFR6RnJhRE5ZV2tSRVFUVkJZalV0YWtWQ1JYWkxUVmhQWVhwRmQySlZVRmQyUjNkQmNuZHhlR1V0U3pZek15MTNkVll4V25sd1YxSjFaRzlDZVdWb1FtTTBXV0ZuYUdoWk9TMHdOWFZoVVdVeE1IZHlRbk4xVkZKZk1EbGZjMmh3ZERkNWVrdENkWEJtTVRsNGJVWnlWazFIZEc1RlUxcFNZMUpzY0Zsa05qSVNGMnR4VEdKaGNIWmZUVW95ZHpWT2IxQnFkREpZTFVGTkdpSkJSSE55T1daU1luQjBObUpUWjNSdk5YaEpPVGhKWVRKRVdGZEhlWEJ4VjNoQiIsImZjdiI6IjMiLCJmY19pZCI6IkFrTUxCUEswZ2JzblZmdlFBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "ML Engineer - NLP (Remote Position)",
+            "company_name": "Entefy",
+            "location": "Remote, OR",
+            "via": "Lever",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Solid fundamentals in mathematics, statistics, and machine learning theory",
+                        "Minimum 3 years of commercial experience (or equivalent) in natural language processing, understanding, or generation",
+                        "Demonstrable proficiency in at least one programming language such as Python, C, C++, Java, etc",
+                        "Proficient knowledge of and experience with text analytics, knowledge base construction, machine translation, or dialog systems",
+                        "Proficiency in natural language processing tools such as NLTK, CoreNLP, Gensim, spaCy, OpenNLP, UIMA, GATE, etc",
+                        "Proficiency in machine learning tools such as TensorFlow, Keras, Caffe, Theano, MLLib, Torch, etc",
+                        "English fluency",
+                        "Excellent written and verbal communication skills",
+                        "Experience with modern deep learning techniques in NLP including sequence to sequence models, distributed representations, pointer networks, attentional models, etc",
+                        "Advanced degree in Computer Science, Machine Learning, Mathematics, Statistics, Physics, or Computational Linguistics",
+                        "Experience with text-based information retrieval technologies such as Lucene, Solr, Elasticsearch, etc",
+                        "Experience with big data and distributed computing technologies such as Hadoop, MapReduce, Spark, Storm, etc"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will use deep learning and other methods to work on confidential projects that will impact Entefy’s suite of products",
+                        "This is highly challenging work that will engage your deep understanding of algorithms to build never-before-seen machine intelligence"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=ZbDMWwVROW7ln9xqAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXNsQrCMBCAYVw7OzndqKKNCC51LoJULX2BkpZrEknvSu6G-hS-sorLP3zLn70XWXGroCQXCDHBHu5VDesGR1aEmiVoYNp8_codCNrUe2CCC7OLuDp71UkKY0Ri7kSthj7veTRM2PFsntzJL614m3CKVrE9ng5zPpHbLktSHF4QCP6_HTyaD0b2UCaSAAAA&shmds=v1_ARwrE21vGvAvuI5cs__c2S696l4sVRi89haoSwke7YSCxrPP5A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=ZbDMWwVROW7ln9xqAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEUYGBj___8AAAAQEBB5eXkWFhaWlpa3t7cMDAxfX1_Ozs4TExN8fHy0tLT39_dqamo1NTVZWVnt7e3l5eVBQUHa2tpycnLU1NTExMQeHh6cnJxJSUlOTk6rq6ujo6OMjIwsLCyBZ3O8AAAB-0lEQVRIie2VyaKDIAxFJYgiFWfBsfr_X_kC2sHaV2lXXfRusOghlOQGz_vpM7H3vuawFz9eg3l53ElRl0ViVJS1CM9x1B6SEJNn6uAQ9J-CwReDU99XVdUPuZrwrAp3MAVqxC_JOeIup5pE_PDTregQRBXDlL_JIQmcvldrGzF2WsScF6HLYbB2zrJsbj2HMrWCPghFWdwyKI4P1Oxwn3_tAjI472rGJSIFsS82h4h8vvtrRa2FELoum0OQtfeBoqv7DwOeMltrwVqr7qVjwRLUR2ADN3dwI4q14wB2cE2knw15ng9VNi9t7hVYxfC0AySlkPlL0hzgP63jK7vc2pCTYlHiulUeySmtWnq7NtoqnUZ1nFZsa5i9q_GxFVD-SQv6CdO3XNjcPnqrg9dhuT6YtfSjr0GGqJTm-HXcwRhKGY4Qm8kzpGaQECp82Z03JANSal37QGIAWUOjk0Q3IAlONhDgoAUOM7p8axMEc7sfQiSMNT40aGmQwk4GxbLVugSyDYigKUl8RxqiEfQMiPvHyQlgImY97-ShM4E9gKRLFVAgg7KddAXrSGUYMUn9gVrjzNTbgUrFPWBXrJJbxDJVfmq3agA-EHhsQHaraDoScd6OF3C0ndmA9iOe70G23m1m5dM1X3CXQCO644x7mHES289ufu-4n57pD_z7GZtSJOyQAAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://jobs.lever.co/entefy/25f4bd15-a42a-4f58-b7e9-d1ea40ef67b4",
+            "job_title": "ML Engineer - NLP (Remote Position)",
+            "description": "If you’re fluent in natural language processing, you may be the hyper-talented Machine Learning Engineer that’s going to help Entefy rewrite the code of human communication.\n\n\n\n\nWe are looking for a talented and driven NLP specialist to join a high-impact team at the core of Entefy’s mission. You will use deep learning and other methods to work on confidential projects that will impact Entefy’s suite of products. This is highly challenging work that will engage your deep understanding of algorithms to build never-before-seen machine intelligence.\n\n\\n\n\n\n\n\nRequirements:Solid fundamentals in mathematics, statistics, and machine learning theoryMinimum 3 years of commercial experience (or equivalent) in natural language processing, understanding, or generationDemonstrable proficiency in at least one programming language such as Python, C, C++, Java, etc.Proficient knowledge of and experience with text analytics, knowledge base construction, machine translation, or dialog systemsProficiency in natural language processing tools such as NLTK, CoreNLP, Gensim, spaCy, OpenNLP, UIMA, GATE, etc.Proficiency in machine learning tools such as TensorFlow, Keras, Caffe, Theano, MLLib, Torch, etc.English fluencyExcellent written and verbal communication skills\n\n\nOther qualifications:Experience with modern deep learning techniques in NLP including sequence to sequence models, distributed representations, pointer networks, attentional models, etc.Advanced degree in Computer Science, Machine Learning, Mathematics, Statistics, Physics, or Computational LinguisticsExperience with text-based information retrieval technologies such as Lucene, Solr, Elasticsearch, etc.Experience with big data and distributed computing technologies such as Hadoop, MapReduce, Spark, Storm, etc.Fluency in multiple languages is a plusDemonstrable proficiency in more than one applicable programming languages is a plus\n\n\n\n\n\\nVisit www.entefy.com and www.entefy.com/blog",
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/entefy/25f4bd15-a42a-4f58-b7e9-d1ea40ef67b4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNTCBFbmdpbmVlciAtIE5MUCAoUmVtb3RlIFBvc2l0aW9uKSIsImNvbXBhbnlfbmFtZSI6IkVudGVmeSIsImh0aWRvY2lkIjoiWmJETVd3VlJPVzdsbjl4cUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNVZDRMVTAyVlU5dE5tbG1jMlU0ZDJGcmF6Uk9NRzFCV0VGTGQxUlRjWFppVlhkdFUzZ3plSGhPWkdoSFkxOW9MWFV4V25oQ1Z6VmxRazlGYlZJNFF6QlFSSFp4U0dKSlJUUnhMWE13YURkeVNVbE5URk56ZGxaNmVVZHRWMUJQTVRKTGMyWnVVR2RGVjI1Q2VUSjRSbGd5ZEVKWlVFZHRRM0UyUzJFMFdYSlpRMFpGV0VJU0YydHhUR0poY0haZlRVb3lkelZPYjFCcWRESllMVUZOR2lKQlJITnlPV1pUUlhwdFJFaG5NR050VERoNVVEaFlSV0o2TFhaTlRFczJPRU5SIiwiZmN2IjoiMyIsImZjX2lkIjoiWmJETVd3VlJPVzdsbjl4cUFBQUFBQT09In0="
+        },
+        {
+            "title": "Software Developer for NLP Solutions - Product Localization",
+            "company_name": "Siemens Digital Industries Software",
+            "location": "Mason, OH",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor’s degree in Computer Science, Data Science, Computational Linguistics, Artificial Intelligence, or a related field",
+                        "Minimum of 3 years of professional experience developing applications and solutions",
+                        "Experience developing applications and solutions either hosted on or connected to cloud platforms (Azure, AWS, etc.)",
+                        "Experience implementing custom AI and RAG systems",
+                        "Experience in optimizing retrieval performance and relevance scoring",
+                        "Demonstrated ability to create custom evaluation metrics for RAG system performance",
+                        "Knowledge of best practices in prompt engineering and context window management",
+                        "Natural Language Processing (NLP):",
+                        "Experience with Key techniques and concepts in NLP, NLU and NLG",
+                        "Experience with API development and microservices architecture",
+                        "Understanding of enterprise security requirements for AI systems",
+                        "Familiarity with MLOps practices and deployment pipelines",
+                        "Proficient in programming languages such as C++, Java, Python, etc",
+                        "Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud) and their corresponding AI services",
+                        "Experience with Gen AI, LLMs, Agentic AI, Vector DBs",
+                        "Machine Learning Strategies",
+                        "Experience working with continuous integration and delivery (CI/CD) pipelines",
+                        "Excellent problem-solving abilities and attention to detail",
+                        "Strong communication skills, with the ability to explain complex technical concepts to non-technical stakeholders",
+                        "Collaborative mindset and experience working in cross-functional teams"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The pay range for this position is $90,000 - $162,000 annually with a target incentive of 3-5% of the base salary",
+                        "The actual wage offered may be lower or higher depending on budget and candidate experience, knowledge, skills, qualifications, and premium geographic location",
+                        "$90000 $162000 3-5%"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a software developer, you will play a critical role in enhancing our localization efforts through the development, implementation and optimization of advanced software applications and AI data-driven solutions",
+                        "You will work closely with cross-functional teams to design, code, implement and optimize localization agents, applications and data workflows, enhance language models, and optimize AI data selection, maintenance and usage",
+                        "Develop, evaluate, deploy and document AI capabilities, applications and solutions – implement custom AI data retrieval systems",
+                        "Develop and implement AI agents and applications",
+                        "Design and build chatbots and virtual assistants",
+                        "Design, develop, test and deploy web apps",
+                        "Create and optimize question-answering systems",
+                        "Develop and enhance text summarization algorithms",
+                        "Implement advanced search techniques and algorithms",
+                        "Collaborate with cross-functional teams to integrate AI solutions into products",
+                        "Conduct research and stay updated with the latest advancements in NLP and machine learning",
+                        "Develop, evaluate, deploy, and document AI solutions – implement custom AI/RAG data retrieval systems:",
+                        "Design, code, test and implement AI agents, applications, solutions and custom data to improve machine translation, translation quality prediction, text analysis and language processing as part of the comprehensive corporate localization workflow",
+                        "Add custom data to RAG repositories, develop continuous custom data pipeline",
+                        "Participate in agile scrum ceremonies like daily standup, sprint planning, sprint review and retrospective",
+                        "Optimize Localization Data Workflows and Usage:",
+                        "Collaborate with localization specialists to automate and enhance translation processes",
+                        "Develop tools to assist in localization activities, terminology management, glossary creation, and consistency checks",
+                        "Create and optimize custom data pipelines and workflows for efficient data handling and processing",
+                        "Stay updated on the latest developments in NLP and machine learning",
+                        "Propose and implement innovative solutions to complex language processing challenges",
+                        "Work with software engineers, product managers, and localization teams to integrate AI solutions into our products",
+                        "Provide technical guidance and support to team members on data science and AI methodologies",
+                        "Performance Monitoring:",
+                        "Evaluate the effectiveness of AI models and algorithms",
+                        "Evaluate data effectiveness for custom capabilities/AI agents",
+                        "Measure efficiency of custom data",
+                        "Optimize models based on performance metrics and user feedback",
+                        "Take ownership for the data science workflow including exploratory data analysis and model development",
+                        "Document and present findings, methodologies, and results to stakeholders",
+                        "Experience developing multilingual projects and handling language-specific challenges",
+                        "Building and optimizing vector databases for efficient information retrieval",
+                        "Implementing and fine-tuning embedding models for document processing",
+                        "Creating custom chunking strategies and document preprocessing pipelines",
+                        "Developing context-aware prompt engineering solutions",
+                        "RAG (Azure, AWS) Implementation:",
+                        "Successfully deployed production-grade RAG systems that integrate with existing enterprise infrastructure"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=yzM6YJgKrN5XXwPDAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z2OSwoCMRBEcesRXPVadCKCG90KfvCHc4AhE3sykZgO6R4Vr-fFzGzcFNSj4NXwOxheS2rkpRPCGp_oKWKChhKcDhcoyXfiKDBM4ZLo1hmBAxnt3Uf3POM91cCok2kh9w2R9ThatSKRl0ox-8Ky5LEpDD0UBazpre5Ucx8Vt1kcvRas5ovZu4jBjmelwwdm59pZJ9rDLtw6luSQ4f_VBThqpjCB8_YHN60-7sYAAAA&shmds=v1_ARwrE20SDKOeybn-vTgqIqIP5Jv-kgrJTmgrFzY-gfTEQidr7Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=yzM6YJgKrN5XXwPDAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAYAAEAAwEAAAAAAAAAAAAAAAAABAUGA__EACsQAAICAQIEAwkBAAAAAAAAAAECAAMEBRESEyExBiJRFCRBQmFxgaHBFf_EABkBAQADAQEAAAAAAAAAAAAAAAABAwUCBv_EACgRAQABAwEGBgMAAAAAAAAAAAABAgMRIRIxQWGRwQUiMlFxgRMUQv_aAAwDAQACEQMRAD8ArJqvBEBAQEBAQEBAQEBAQEBAQG49RCSEG49RCSAhDQeC73o1K0pi8_ipKkraldlYJHmQsdt5TejMNDw6qabk4jOnKJj4y0Dey0iyv26vLI1zHPOYrxMvCm--3Tp1BP0lOs8ODR8lMTG1nzxr0dsnNbE123MtJfHpoynpWy-l1YgAgKF6gHbs3WREZpxHJ3Vcmi_NdW6IqxrHbu4ap_l4ui63iYFlT85UyuLcfO42QfYD9zqnamqmZV3vw0WblFHHXrO5O1W0nxLhuLPclyVIJyKTVvyz2UeYdd-5_k5p9E-669M_sUz_ADn3jG7qiHKwymm6jp-PRe-XmNkPiGxU4H5XCw3PbYgkb_H8ScTrTKvbt4ouW4idqc4-tWc8Zoi6nWy5lmQz0qWW1lZ6TufIxXoSJdZ9O5m-IxEXYxVnTpy0UEuZ5AQEBAQEBAQEBAQEBAQEBAQEBAQP_9k.jpeg",
+            "extensions": [
+                "7 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/software-developer-for-nlp-solutions-product-localization-at-siemens-digital-industries-software-4461600061",
+            "job_title": "Software Developer for NLP Solutions - Product Localization",
+            "description": "Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software.\n\nPosition Overview:\n\nAs a software developer, you will play a critical role in enhancing our localization efforts through the development, implementation and optimization of advanced software applications and AI data-driven solutions. You will work closely with cross-functional teams to design, code, implement and optimize localization agents, applications and data workflows, enhance language models, and optimize AI data selection, maintenance and usage.\n\nKey Responsibilities:\n\n\n\nDevelop, evaluate, deploy and document AI capabilities, applications and solutions – implement custom AI data retrieval systemsDevelop and implement AI agents and applicationsDesign and build chatbots and virtual assistantsDesign, develop, test and deploy web appsCreate and optimize question-answering systemsDevelop and enhance text summarization algorithmsImplement advanced search techniques and algorithmsCollaborate with cross-functional teams to integrate AI solutions into productsConduct research and stay updated with the latest advancements in NLP and machine learningDevelop, evaluate, deploy, and document AI solutions – implement custom AI/RAG data retrieval systems:Design, code, test and implement AI agents, applications, solutions and custom data to improve machine translation, translation quality prediction, text analysis and language processing as part of the comprehensive corporate localization workflow. Add custom data to RAG repositories, develop continuous custom data pipeline. Participate in agile scrum ceremonies like daily standup, sprint planning, sprint review and retrospective. Optimize Localization Data Workflows and Usage:Collaborate with localization specialists to automate and enhance translation processes.Develop tools to assist in localization activities, terminology management, glossary creation, and consistency checks. Create and optimize custom data pipelines and workflows for efficient data handling and processing.Research and Innovation:Stay updated on the latest developments in NLP and machine learning. Propose and implement innovative solutions to complex language processing challenges.Cross-functional Collaboration:Work with software engineers, product managers, and localization teams to integrate AI solutions into our products. Provide technical guidance and support to team members on data science and AI methodologies.Performance Monitoring:Evaluate the effectiveness of AI models and algorithms. Evaluate data effectiveness for custom capabilities/AI agents. Measure efficiency of custom data. Optimize models based on performance metrics and user feedback. Take ownership for the data science workflow including exploratory data analysis and model development. Document and present findings, methodologies, and results to stakeholders.\nQualifications:\n\nEducation:Bachelor’s degree in Computer Science, Data Science, Computational Linguistics, Artificial Intelligence, or a related field. Master’s degree a plus but not required.Experience:Minimum of 3 years of professional experience developing applications and solutions. Experience developing applications and solutions either hosted on or connected to cloud platforms (Azure, AWS, etc.)Experience developing multilingual projects and handling language-specific challenges. Experience implementing custom AI and RAG systems. Building and optimizing vector databases for efficient information retrievalImplementing and fine-tuning embedding models for document processingCreating custom chunking strategies and document preprocessing pipelinesDeveloping context-aware prompt engineering solutionsRAG (Azure, AWS) Implementation:Successfully deployed production-grade RAG systems that integrate with existing enterprise infrastructureExperience in optimizing retrieval performance and relevance scoringDemonstrated ability to create custom evaluation metrics for RAG system performanceKnowledge of best practices in prompt engineering and context window managementNatural Language Processing (NLP):Experience with Key techniques and concepts in NLP, NLU and NLGExperience with API development and microservices architectureUnderstanding of enterprise security requirements for AI systemsFamiliarity with MLOps practices and deployment pipelinesBackground in software localization or familiarity with localization processes is highly desirable.Technical Skills:Proficient in programming languages such as C++, Java, Python, etc.Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud) and their corresponding AI services.Experience with Gen AI, LLMs, Agentic AI, Vector DBsMachine Learning StrategiesExperience working with continuous integration and delivery (CI/CD) pipelines.Soft Skills:Excellent problem-solving abilities and attention to detail. Strong communication skills, with the ability to explain complex technical concepts to non-technical stakeholders. Collaborative mindset and experience working in cross-functional teams.Certifications:Relevant certifications in machine learning or NLP are a plus but are not required.\n\n\n\n\nWhy us? \n\nWorking at Siemens Software means flexibility - Choosing between working at home and the office at other times is the norm here. We offer great benefits and rewards, as you'd expect from a world leader in industrial software. A collection of over 377,000 minds building the future one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit, and business need. Bring your curiosity and creativity and help us shape tomorrow!\n\nSiemens Software. Transform the Everyday with Us\n\n#SWSaaS\n\nThe pay range for this position is $90,000 - $162,000 annually with a target incentive of 3-5% of the base salary. The actual wage offered may be lower or higher depending on budget and candidate experience, knowledge, skills, qualifications, and premium geographic location.\n\n$90000 $162000 3-5%",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/software-developer-for-nlp-solutions-product-localization-at-siemens-digital-industries-software-4461600061?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/software-developer-for-nlp-solutions-product-localization-siemens-digital-industries-software-mason---t7xk-825663932?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido",
+                    "link": "https://us.jobrapido.com/jobpreview/5849730752257720320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-oh-mason-software-developer-for-nlp-solutions-product-localization?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wZXIgZm9yIE5MUCBTb2x1dGlvbnMgLSBQcm9kdWN0IExvY2FsaXphdGlvbiIsImNvbXBhbnlfbmFtZSI6IlNpZW1lbnMgRGlnaXRhbCBJbmR1c3RyaWVzIFNvZnR3YXJlIiwiaHRpZG9jaWQiOiJ5ek02WUpnS3JONVhYd1BEQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEhReGMweHNaMTlaU2pac1JGbEZWVmxoYjJWVVJtOUZha2hJT1c1YWIzSmlRWGc0TFdvNE5ERTRjWGRsZGtKWFdYSTBURFpFYVdSWGRHdFVUbHBuTWkxRlZtODVjMkZNTm10UFRUTlRla3cwTUhOQ05EWmxXVGN5VVRsc01XcEVXRGw1YVRCSlVUWXpWMlJ5ZVVzMlIySmlXRmx1V1VSelpqVnpSa3hWTVVwbWFtNW1lVGtTRjJ0eFRHSmhjSFpmVFVveWR6Vk9iMUJxZERKWUxVRk5HaUpCUkhOeU9XWlJWRWRvWTA4M1ZuSXRXbEpsWDJFeGJIbE1aVTV5VG1kbWNrcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJ5ek02WUpnS3JONVhYd1BEQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Natural Language Processing Engineer",
+            "company_name": "Beyond SOF",
+            "location": "Washington, DC",
+            "via": "ZipRecruiter",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "(NLP) Engineer is responsible for",
+                        "developing and implementing NLP",
+                        "solutions to support the",
+                        "Develop and implement NLP",
+                        "Collaborate with the engineering",
+                        "team to integrate NLP solutions",
+                        "into projects",
+                        "Conduct research on NLP",
+                        "Stay updated on the latest NLP",
+                        "Develop and implement"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=VEFlvOsns9iwzwgRAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNvQrCMBAAYFz7COJws2gjgovd_AURFRwcyzU9kki8K7kU6pv4uOryrV_xGRXVBXOfMMIZ2fXoCG5JLKkGdrBnF5gowRxO0oASJutBGI4iLtK48jl3ujZGNZZOM-ZgSysvI0yNDOYpjf6p1WOiLmKmerlaDGXHbjrZ0Fu4hfv1AIHhgep_ZxaewW77BTdfw7CbAAAA&shmds=v1_ARwrE21Ka_J9XQiLqGZ5iInYa5Pezk_QrMQ9z98AkQ3yOKdwgg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=VEFlvOsns9iwzwgRAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAZAAEBAQADAAAAAAAAAAAAAAAABAMCBgf_xAArEAABAwMDAQYHAAAAAAAAAAABAAIDBBEhEjFBFAUTMlFhkQYVFiJxofD_xAAYAQEBAQEBAAAAAAAAAAAAAAAAAwIBBP_EACsRAQABAgMECgMAAAAAAAAAAAABAhEDIZESQVHwBBMUIiMxYXGh0ULB4f_aAAwDAQACEQMRAD8A9xQEBAQEBAQEBAQEBAQEEdbXClqKSLuZZOok0XY24Zgm59P7hZmq0xCuHhbdNVV7Wi6xaSEBAQEBB12Y1r5aJr2VUbg8h7yYyS7Q6-ge-TbjB4lN8nto6uKa5i068Y8-f7U93arINNNGJCZ8OmI1Nit5DBJNwPIEE3Isdd62SUdRM97hu4_W_wB2EX1GYrzdIyUPy1jNbS386hnm_wCuVnxLK1R0OKu7eY0z0nT5cXP-JXB-iKijc6QaASXNYzknYuPFhbYm-QEvi-jsR0KLXmqcvn9Rq1i-fvqpWv6RlPrHdPIJcW83A5xgY8W-M9jrLsT2SKIteZ388-Xrlt2g_tcTO6CKF8drDvHabHOb5uPDj7ecrtU1_ixhRgTHiTMTzp75-zhSDtt9TL1LqeOnBHdkC73ed-Btt674uUbd83cTs0URsXmd_Dn69crK2idU1NJK2eSPp5NeluzztY-lifddmm8xKeHi7FNVNr3iy1aSEBAQEBAQEBAQEBAQEBAQEBAQEH__2Q.jpeg",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://www.ziprecruiter.com/c/Beyond-SOF/Job/Natural-Language-Processing-Engineer/-in-Washington,DC?jid=00f7392a9335e162",
+            "job_title": "Natural Language Processing Engineer",
+            "description": "Role Summary:\n\n\nThe Natural Language Processing\n\n\n(NLP) Engineer is responsible for\n\n\ndeveloping and implementing NLP\n\n\nsolutions to support the\n\n\ncompany's projects.\n\nMain Responsibilities and duties:\n\n\nDevelop and implement NLP\n\n\nsolutions.\n\n\nCollaborate with the engineering\n\n\nteam to integrate NLP solutions\n\n\ninto projects.\n\n\nConduct research on NLP\n\n\ntechnologies and trends.\n\n\nStay updated on the latest NLP\n\n\ntechnologies and trends.\n\n\nDevelop and implement\n\n\nquantum-enhanced NLP\n\n\nsolutions. Collaborate with\n\n\nquantum engineers to integrate\n\n\nquantum technologies into NLP\n\n\nprojects.",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Beyond-SOF/Job/Natural-Language-Processing-Engineer/-in-Washington,DC?jid=00f7392a9335e162&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/natural-language-processing-engineer-beyond-sof-washington-dc--lifeworq-2d676fbc-8024-463d-85ce-f2e0ff92ef7f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/software-development-engineer-intern-at-zillow-4482165698?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Mediabistro",
+                    "link": "https://www.mediabistro.com/jobs/3541939820-director-software-development-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/natural-language-processing-engineer-dc--a7552dab-2ec8-4512-9bff-8def8e4050c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career.io",
+                    "link": "https://career.io/job/natural-language-processing-engineer-washington-beyond-sof-4cea995dfe028c884c480fdde9fef5c1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-4023-39f509dba30785121bdb41016c06139a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgRW5naW5lZXIiLCJjb21wYW55X25hbWUiOiJCZXlvbmQgU09GIiwiaHRpZG9jaWQiOiJWRUZsdk9zbnM5aXd6d2dSQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hNeU1raHZlWEZ3VG5kTGVsQmthVWxRY0ZabVJrRnVabEUwVTE5aVpVWnViRmxGVDB4bU9WSlJPVTVLVWxOSGVHRm1iMWgwTUVGNWRucFNaM2w0YURkbVlUZ3hSV1ZqYUU0eGEzcG5XVmxDTjI5VE0xcGFOa0poVDFoRWNISTVTM1pYTVdaNU5WQkViWHA1V0RSVVNsUjZXVVE1ZUhwR2RsZ3RZVlZwWDFsT1ZFTk1la0lTRjJ0eFRHSmhjSFpmVFVveWR6Vk9iMUJxZERKWUxVRk5HaUpCUkhOeU9XWlROR3RGYkVsQldIWjZPSFZtY2tkbmJYQkpWM3BWTjJOdGVVUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJWRUZsdk9zbnM5aXd6d2dSQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "NLP Engineer - Clearance Required",
+            "company_name": "BTI360 Website",
+            "location": "Herndon, VA",
+            "via": "Startup Jobs",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Active Security Clearance (Secret or higher) or the ability to obtain one",
+                        "5+ years of experience in data science or machine learning roles with demonstrated impact on production systems",
+                        "Deep expertise in natural language processing (NLP) techniques",
+                        "Experience building Knowledge Graphs using Resource Description Framework (RDF) or Labeled Property Graph (LPG) models, including schema/ontology design",
+                        "Experience with Knowledge Graph construction pipelines: rule- and LLM-based Named Entity Recognition (NER), Relation Extraction (RE), Entity Normalization and Disambiguation/Linking",
+                        "Proven track record of model evaluation using appropriate metrics and methodologies for different problem types (precision/recall, silhouette scores, benchmarks, etc.)",
+                        "Strong scripting skills with experience in AI/ML frameworks (scikit-learn, PyTorch/TensorFlow, transformers) and data manipulation libraries, including proficiency with Jupyter notebooks for exploratory analysis and experimentation",
+                        "Basic software engineering practices such as git, CI/CD, code reviews, documentation, and ability to access and leverage remote APIs",
+                        "Comfortable working in cloud platforms (AWS, Azure, GCP)",
+                        "Excellent communication skills with experience translating technical metrics into business value and presenting findings to leadership and customers",
+                        "Ability to work independently",
+                        "Candidates must maintain a primary residence within a two‑hour drive of Herndon, VA to support onsite collaboration as needed"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The base salary pay range for this role is $125,900 - $247,900",
+                        "This range reflects base compensation only and does not include benefits, bonuses, or additional pay incentives associated with the opportunity",
+                        "BTI360 benefits for full-time teammates",
+                        "Fully paid healthcare premiums",
+                        "Competitive salaries and performance bonuses",
+                        "Career development and in-house training",
+                        "Tuition Reimbursement",
+                        "Up to 5 weeks PTO plus 2 weeks of federal holidays",
+                        "401K dollar for dollar matching up to 6% annually - vested immediately on day 1",
+                        "Giving Back: Serving communities locally and across the globe",
+                        "Social Events (happy hours, golf tournament, BTI360 Family Festival and more)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you’ll work closely with our engineers and mission teams to tackle complex business problems using emerging AI technologies —specifically by extracting and linking critical entities to build and curate scalable graph databases and knowledge bases",
+                        "Lead end-to-end knowledge graph and knowledge base development efforts from problem definition to production, designing pipelines that extract, normalize, link, and organize information into scalable graph-based systems",
+                        "Design and evaluate extraction and resolution workflows using sound methodologies and fit-for-purpose metrics to assess entity extraction, linking, relationship quality, and overall knowledgebase completeness and accuracy",
+                        "Translate business requirements into quantitative problems and communicate technical findings to both technical and non-technical stakeholders through reports, presentations, and direct customer engagement",
+                        "Drive technical decision-making for schema design, ontology alignment, extraction approaches, and graph architecture based on mission needs, data quality, and long-term maintainability",
+                        "Stay current with advances in knowledge representation and information extraction and introduce practical techniques, tools, and frameworks that improve graph construction, curation, and analytic value",
+                        "Apply analytical and statistical methods to validate extracted insights, measure data quality, and support confident decision-making from structured and unstructured sources",
+                        "Develop reports and whitepapers that evaluate solution alternatives based on impact, cost, technical feasibility, and alignment with strategic goals",
+                        "Collaborate across teams to align on strategy, provide data science expertise, and contribute to proposals and strategic initiatives",
+                        "Mentor junior data scientists by providing technical guidance, defining project direction, and sharing best practices in graph-oriented data modeling, extraction workflows, and knowledgebase stewardship"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=NLP+Engineer++Natural+Language+Processing+&htidocid=e9KJrBzzkiVTBB1nAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXISwrCMBAAUNz2CIIwa9GmKIroSkX8ICIiuixJOqSROFMzEXoSz6tu3uJln042Ox3PsCHnCTHCENYBddRkES74evuI1S8PbEB-b2tggi2zC9hd1Ck1MldKJOROkk7e5pafigkNt-rBRv6UUuuITdAJy9GkaPOGXL-3uu7H0wLuaMQnBE-ww0gV0wBuyy_KBvwKmQAAAA&shmds=v1_ARwrE23TsRmEwJrzL9U5R3d532Qq6jP5BGeHTGpFXEob5S5r1A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=NLP+Engineer++Natural+Language+Processing+&htidocid=e9KJrBzzkiVTBB1nAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAY1BMVEXu7u4zMzPw8PAbGxvz8_P39_fPz88vLy_V1dVRUVEiIiIZGRkoKCgsLCwlJSXr6-tWVlbf398AAAA6Ojq1tbWioqJwcHDGxsaZmZlgYGAUFBR9fX1DQ0NbW1uDg4OoqKiRkZFLoo38AAACDklEQVRIie1T7RKjIAyEEEQRpFRbW7Uf7_-Ul4Cdor0HuLlxf8UkS7JJFOLAgQP_GKBA4SqDhV3wQv1BDKhThD-KYExOYDN8mVCd1Yp2MnNEIXQ_qfPIKThQcDppTtRTq86xJCr5hXM1CP10srsgJz89OS3XgaikWbTYEo1S1irVkdUD4GClv3IOLoaIiquz0z13RNOESKgvxFQDpsd7ZFmpG3cjG99O2gF3xJNOI9MU7CiLCymSgy9LPUjzoEK6MXKK8ENMNrfD4vTs0-v66uXCdgAI3VZiWRGZMFWQ9bwRwEg_k00iOc3PP8Qm1nVVjTMV5KGwNn6MQnYgwSQSSf9G4jrVlqCsp2GKtD8eSeBkFfViSCR33ZYSd3uUl3QbnKYqffdmQd6qCpqDZaffinQ61kjb87P46mT3AsebwyQy7iWuw4EQQqyHhppdMDv9nCQiBBY5kvwX_hLzHlH0UrZ0JyCoi-bm5ESd0wbNne0a_kLMH7wPvgBB8qTsiazzzfS0frkpuCNeVyLeunRsb-575Cms1_tDRIau-FjHT_J63hAc2_l_2U11udwI7yudpjS8SRA2VczL4b5lu5W47rEjOMfxKZ-HfpAof0_d8SHQX7ktSMTJfOB9py7rvb-tMTZ3l1LcTiLd5dJknB736y2u78JI7qXK3QFFl9euogBdAGHj_nylkDhw4MB_hD_CNx1Vw7Rr8gAAAABJRU5ErkJggg.png",
+            "extensions": [
+                "126K–248K a year",
+                "Full-time",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://startup.jobs/nlp-engineer-clearance-required-bti360-website-8277730",
+            "job_title": "NLP Engineer - Clearance Required",
+            "description": "About the Team\n\n\nHere at BTI360, we’ve built a culture that’s passionate about developing software engineers. Software doesn't build itself. People do.  In fact, teams of people do.  That's why our primary focus is on developing better craftsmen, better teammates, and better technical leaders.  By putting people first, we're not just giving our teammates more opportunities to grow, we're also raising the bar of the software we ship. BTI360 previously has been voted 10 years in a row as a TOP Place to Work by the Washington Business Journal. \n\n\nBTI360 is seeking an NLP Engineer who is passionate about transforming raw data into meaningful insights that drive strategic decision‑making. In this role, you’ll work closely with our engineers and mission teams to tackle complex business problems using emerging AI technologies —specifically by extracting and linking critical entities to build and curate scalable graph databases and knowledge bases. \n\n\n\n\nYou’ll thrive here if you are naturally curious, driven to ask the right questions, and energized by turning complexity into clarity. Our NLP Engineers don’t just build models, they influence decisions; they map critical relationships, shape strategy, and help our customers navigate high‑impact mission challenges. \n\n\n\nWhat you will do in this role:\n\n\nAs an NLP Engineer at BTI360, you will:\n\n\n\nLead end-to-end knowledge graph and knowledge base development efforts from problem definition to production, designing pipelines that extract, normalize, link, and organize information into scalable graph-based systems. \nDesign and evaluate extraction and resolution workflows using sound methodologies and fit-for-purpose metrics to assess entity extraction, linking, relationship quality, and overall knowledgebase completeness and accuracy. \nTranslate business requirements into quantitative problems and communicate technical findings to both technical and non-technical stakeholders through reports, presentations, and direct customer engagement. \nDrive technical decision-making for schema design, ontology alignment, extraction approaches, and graph architecture based on mission needs, data quality, and long-term maintainability. \nStay current with advances in knowledge representation and information extraction and introduce practical techniques, tools, and frameworks that improve graph construction, curation, and analytic value. \nApply analytical and statistical methods to validate extracted insights, measure data quality, and support confident decision-making from structured and unstructured sources. \nDevelop reports and whitepapers that evaluate solution alternatives based on impact, cost, technical feasibility, and alignment with strategic goals. \nCollaborate across teams to align on strategy, provide data science expertise, and contribute to proposals and strategic initiatives.  \nMentor junior data scientists by providing technical guidance, defining project direction, and sharing best practices in graph-oriented data modeling, extraction workflows, and knowledgebase stewardship. \n\nRequired Qualifications:\n\n\n\nActive Security Clearance (Secret or higher) or the ability to obtain one\n5+ years of experience in data science or machine learning roles with demonstrated impact on production systems. \nDeep expertise in natural language processing (NLP) techniques \nExperience building Knowledge Graphs using Resource Description Framework (RDF) or Labeled Property Graph (LPG) models, including schema/ontology design \nExperience with Knowledge Graph construction pipelines: rule- and LLM-based Named Entity Recognition (NER), Relation Extraction (RE), Entity Normalization and Disambiguation/Linking \n\nProven track record of model evaluation using appropriate metrics and methodologies for different problem types (precision/recall, silhouette scores, benchmarks, etc.) \n\n\nStrong scripting skills with experience in AI/ML frameworks (scikit-learn, PyTorch/TensorFlow, transformers) and data manipulation libraries, including proficiency with Jupyter notebooks for exploratory analysis and experimentation \n\n\nBasic software engineering practices such as git, CI/CD, code reviews, documentation, and ability to access and leverage remote APIs \n\n\nComfortable working in cloud platforms (AWS, Azure, GCP) \n\n\nExcellent communication skills with experience translating technical metrics into business value and presenting findings to leadership and customers \n\n\nAbility to work independently \n\n\nCandidates must maintain a primary residence within a two‑hour drive of Herndon, VA to support onsite collaboration as needed. \n \n\n\nPreferred Qualifications:\n\n\n\nStrong Python programming skills \nExperience with Graph RAG (Retrieval-Augmented Generation): hybrid retrieval across graph traversal and dense/sparse vector search \nExperience with large or multimodal datasets\nExperience leading technical initiatives \n\nThe base salary pay range for this role is $125,900 - $247,900. This range reflects base compensation only and does not include benefits, bonuses, or additional pay incentives associated with the opportunity.\n\nBTI360 benefits for full-time teammates\n\n\n\nFully paid healthcare premiums\nCompetitive salaries and performance bonuses\nCareer development and in-house training \nTuition Reimbursement \nUp to 5 weeks PTO plus 2 weeks of federal holidays \n401K dollar for dollar matching up to 6% annually - vested immediately on day 1  \nGiving Back: Serving communities locally and across the globe\nSocial Events (happy hours, golf tournament, BTI360 Family Festival and more)\n\nCommitment to Fairness and Inclusion\n\n\nAt BTI360, we believe that unlocking the potential of others is not just a mission—it's the heart of our culture. We are committed to fostering an inclusive environment where every individual can grow each day, lead with humility, and do the right thing. Our core values guide us in developing software that makes a difference, primarily serving national security customers in the Washington, DC metropolitan area.\n\n\nWe are an Equal Opportunity Employer. We do not discriminate against any employee or applicant based on race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristics. We celebrate fairness and are dedicated to creating an environment of mutual respect and inclusion where everyone can bring their true selves to work.\n\n\nJoin us in a workplace where your contributions are valued, your growth is encouraged, and your potential is unlocked. Together, we develop great software fast and deliver exceptional solutions for our customers.",
+            "apply_options": [
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/nlp-engineer-clearance-required-bti360-website-8277730?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/nlp-engineer-clearance-required-herndon-va--e6724e54-6676-4a64-9917-5b51bc0b678d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/84e7556a-113d-4775-91da-dce1dd3d2bc2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hiring Cafe",
+                    "link": "https://hiringcafe.com/job/nlp-engineer-clearance-required-bti360-herndon-virginia-qcouvepgk7xcnv8k?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JoinDevOps",
+                    "link": "https://jobs.joindevops.com/jobs/728788040-platform-engineer-clearance-required?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobright",
+                    "link": "https://jobright.ai/jobs/info/6a3411f3f6b55d12c791ab40?visit=nlp-engineer-%7C-$90-hr-remote-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/bti360/herndon/nlp-engineer-clearance-required-135724063/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Bandana.com",
+                    "link": "https://bandana.com/jobs/0b7e12c1-1c2e-4a9f-b0e1-a1d67275e36b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJOTFAgRW5naW5lZXIgLSBDbGVhcmFuY2UgUmVxdWlyZWQiLCJjb21wYW55X25hbWUiOiJCVEkzNjAgV2Vic2l0ZSIsImh0aWRvY2lkIjoiZTlLSnJCenpraVZUQkIxbkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWbENPVE5LYkd0NlYyZ3lWVW95Y0ZKR1ZIZE1VblpuZWw5SGFWaFpjMjVyY2pKNWRrTm5iRU5pWlVGWGFsbEtXRTh5Y1V3eGVuTldlR2RVYldzMlJFWTJRM0pEWHkxNFVrVXhabTlGVUVwUlR6bFdRbmRQVm5sS1ZIUnRSbEV0WTBWb1ZrMTNSM3BsZEdveGNqSldaM1Y2VFRCcVQwcG1OM2RaTW5kR1pra3dVbEZ0UTNJU0YydHhUR0poY0haZlRVb3lkelZPYjFCcWRESllMVUZOR2lKQlJITnlPV1pTZDBvMVVXYzBaMjFoTUhaelNXeEtaRmREWkVwME5GUTBkVkZSIiwiZmN2IjoiMyIsImZjX2lkIjoiZTlLSnJCenpraVZUQkIxbkFBQUFBQT09In0="
+        }
+    ]
+}

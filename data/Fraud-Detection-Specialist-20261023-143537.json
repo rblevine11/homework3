@@ -1,0 +1,777 @@
+{
+    "jobs_results": [
+        {
+            "title": "Digital Fraud Detection Specialist (L8)",
+            "company_name": "KeyBank",
+            "location": "United States",
+            "via": "Talents By Vaia",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "High School Diploma or GED (required)",
+                        "2+ years banking operations and/or fraud operations experience",
+                        "Proven accuracy and organizational skills",
+                        "Proven ability to manage multiple diverse tasks simultaneously",
+                        "Ability to complete functions within available timeframes and achieve service level agreements to ensure regulatory compliance",
+                        "Proven written and verbal communication skills",
+                        "Proven ability to analyze, solve problems, and make decisions effectively and independently",
+                        "Digital proficiency in MS Office 365 and comfortability navigating through multiple systems in a fast‑paced environment",
+                        "Working knowledge of business concepts, tools, and processes that are needed for making sound decisions in the context of the company's business; ability to apply this knowledge appropriately to diverse situations",
+                        "Working knowledge of customer service concepts and techniques; ability to meet or exceed customer needs and expectations and provide excellent service in a direct or indirect manner",
+                        "Working knowledge of back office operations; ability to implement the practices, processes, technologies, and applications associated with banking transaction processing and records management",
+                        "Working knowledge of major production application systems used for delivery of services to internal and external clients; ability to leverage major production application systems in diverse situations",
+                        "Working knowledge of the importance of meeting or exceeding established targets; ability to drive critical activities to completion",
+                        "Working knowledge of the necessity and value of accuracy; ability to complete tasks with high levels of precision",
+                        "Working knowledge of approaches, tools, techniques for recognizing, anticipating, and resolving organizational, operational or process problems; ability to apply knowledge of problem solving appropriately to diverse situations",
+                        "Working knowledge of the concepts and principles of Gemba Kaizen methodology; ability to identify and eliminate manufacturing waste through iterative improvements to processes",
+                        "Working knowledge of the necessity for continuous personal growth and learning; ability to gauge one's strengths, limitations and interests accurately, and use this knowledge for purposes of performance effectiveness self-development",
+                        "Working knowledge of successful approaches and techniques for dealing with change; ability to adapt to a changing environment and be comfortable with change",
+                        "Working knowledge of collaborative techniques; ability to work with a variety of individuals and groups in a constructive and collaborative manner",
+                        "Working knowledge of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors",
+                        "Basic understanding of processes, tools and techniques for assessing and controlling an organization's exposure to risks of various kinds; ability to apply knowledge of risk management appropriately to diverse situations",
+                        "All KeyBank employees are expected to demonstrate Key's Values and abide by Key's Code of Conduct",
+                        "General Office – Prolonged sitting, ability to communicate face to face in person or on the phone with teammates and clients, frequent use of PC/laptop, occasional lifting/pushing/pulling of backpacks, computer bags up to 10 lbs",
+                        "Experience: 2 years required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Schedule/Hours: After training, the hours for this position are Sunday–Thursday from 12:30 pm – 9:00 pm ET, with flexibility to work an earlier shift on Sundays",
+                        "Hybrid (2+ days)",
+                        "Compensation and Benefits",
+                        "This position is eligible to earn a base hourly rate in the range of $18.75 – $25.00 per hour",
+                        "Placement within the pay range may differ based upon various factors, including but not limited to skills, experience and geographic location",
+                        "Compensation for this role also includes incentive compensation which may include production, commission, and/or discretionary incentives"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a part of Fraud Services, the Fraud Detection and Risk Analysis (FDRA) team focuses on detecting and preventing fraud‑related activity to minimize losses to the bank and enhance our relationships with our customers",
+                        "We execute a pro‑active strategy of fraud detection, protecting both the bank and our customers, while providing shareholder value",
+                        "The Lead Specialist performs a variety of complex and specialized tasks associated with identifying suspected Digital Banking fraud and will review deposit accounts and online banking",
+                        "Performs detailed examinations on electronically initiated transactions to confirm or disprove potential fraud‑related transactions and related activity",
+                        "Perform detailed analysis on electronic transactions and activities that appear to support suspicions of fraudulent activity and provide detailed documentary evidence to support findings",
+                        "Take precautionary measures on accounts and/ or transactions to mitigate risk to KeyBank and/ or Key Bank clients and provide direction to all lines of businesses supported by Fraud Services",
+                        "Communicate information on deposit fraud suspects to account relationship officers, corporate investigations, and area management",
+                        "Document daily review and analysis of suspect transactions, providing area management with reports recapping current efforts",
+                        "Obtain and provide detailed documentary evidence to support confirmed fraud activity",
+                        "Maintain ongoing communication with internal and external clients regarding associated account resolution",
+                        "Other specialized tasks when required"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=IkZLqNrrInu5FjG7AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAyAYVz7BOKUUQV7Igii4CBFQd2Kc0mvoY2el6OJUJ_E11WXf_ngzz6jbF9wy4YBjj2-GijIyBtLhDKRZwysBtPrZgYLOEsNStj7Dn5-EmkDTXadWdKtc6ohb9XQ2Odenk4i1TK4u9T6T6Ud9pQCGlWr9XLIU2zn4wu9DxgfwBFukY0aKH8H0i9lplfMmgAAAA&shmds=v1_ARwrE22qmkjqauw2cXiA2UXZ8bvvI791gegbi-gGrOCez5s2jQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=IkZLqNrrInu5FjG7AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAmVBMVEX___8AAAD8_PzCAADz4-PFAADLy8v39_e5ubnv19cpJSYgGx3t7e0iHh_z8_MxLS5MS0vh4eHBwMBXVlYZFBULAAJEQ0OhoaFsa2uzsrNdW1zHFRvIIiZ9e3yYl5dycXKKiYkQDQ7W1taqqak7OTniq6zPbnHFAg7Sd3jampvQYF7PY2bIT1Pku7vRgoL47O7HNjjEKCzHQESgHNhMAAAB6klEQVRIie2UbXOiMBCAd0NjJALhVQ0BFNAGr6LY___jLtiritcZa2fuPvEMZJKQh90NL0B-CIyMjPwLCGOmZd7gG2M9fy0dTk0QAXKMBkuwxw3vRMRbc4IzKO484OVqHcV4J7p3ogjRN52CxyuW-xOQfi0wAAcTcJazWeoQf1lzERoRJn7KLiIvywJghesF-hLXEGEgYj8VSQgc64XJBkvhm_guVhg714guj9HzkFeVb64IwDnwOF1FpWAsqOpkboojUBrRdXFyk2riLDF3kM83kV_luMDaRAoA5hjmWC5jI876Ao1YxulgcwI0oVyAsGZmiB7wZBHKGda4MaX6FxEdcQ15fhwrjCTGm35zeX_T8vw8UoK4FChIv8ScCcIU-afoyGnfSFIV6xBIsEEznvZUAEFRBFNJpv2UNAcBKS-7MyBEjJ_5T9tb-6MTLKT3hPdKNW2eWH-JR5WlqP2sRna_dMMa_bZ7UtxTbbWwtTR9O75cOT7M01IH7whH1ihl3fLItKluz51WZ_SMzrJM0YcisdSpaaFtMtXZZ1qt1P5xqmCfFDU1UnX62NeXAz103fah1ydJs9de_jOyNOz06Tsi04bs88tuqUV2tIOv38khx-a9udTUdu9k2-1Z_h3zyzx-6I2MjPxffgPHwyNdbuMTOgAAAABJRU5ErkJggg.png",
+            "extensions": [
+                "25 an hour",
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://talents.vaia.com/companies/keybank/digital-fraud-detection-specialist-l8-141317014/",
+            "job_title": "Digital Fraud Detection Specialist (L8)",
+            "description": "Location: 4224 Ridge Lea Road, Amherst New York. This role is Hybrid – requiring 2 days in office each week in Brooklyn OH, Amherst NY, or Albany NY.\n\n Schedule/Hours: After training, the hours for this position are Sunday–Thursday from 12:30 pm – 9:00 pm ET, with flexibility to work an earlier shift on Sundays. This schedule is eligible to receive a 10% shift differential.\n\n Job Summary As a part of Fraud Services, the Fraud Detection and Risk Analysis (FDRA) team focuses on detecting and preventing fraud‑related activity to minimize losses to the bank and enhance our relationships with our customers. We execute a pro‑active strategy of fraud detection, protecting both the bank and our customers, while providing shareholder value.\n\n The Lead Specialist performs a variety of complex and specialized tasks associated with identifying suspected Digital Banking fraud and will review deposit accounts and online banking. Performs detailed examinations on electronically initiated transactions to confirm or disprove potential fraud‑related transactions and related activity.\n\n Essential Functions  Perform detailed analysis on electronic transactions and activities that appear to support suspicions of fraudulent activity and provide detailed documentary evidence to support findings Take precautionary measures on accounts and/ or transactions to mitigate risk to KeyBank and/ or Key Bank clients and provide direction to all lines of businesses supported by Fraud Services Communicate information on deposit fraud suspects to account relationship officers, corporate investigations, and area management Document daily review and analysis of suspect transactions, providing area management with reports recapping current efforts Obtain and provide detailed documentary evidence to support confirmed fraud activity Maintain ongoing communication with internal and external clients regarding associated account resolution Other specialized tasks when required  Education  High School Diploma or GED (required) Bachelor's Degree in a relevant field or school (preferred)  Work Experience  2+ years banking operations and/or fraud operations experience Proven accuracy and organizational skills Proven ability to manage multiple diverse tasks simultaneously Ability to complete functions within available timeframes and achieve service level agreements to ensure regulatory compliance Proven written and verbal communication skills Proven ability to analyze, solve problems, and make decisions effectively and independently. Digital proficiency in MS Office 365 and comfortability navigating through multiple systems in a fast‑paced environment  Skills  Working knowledge of business concepts, tools, and processes that are needed for making sound decisions in the context of the company's business; ability to apply this knowledge appropriately to diverse situations. Working knowledge of customer service concepts and techniques; ability to meet or exceed customer needs and expectations and provide excellent service in a direct or indirect manner. Working knowledge of back office operations; ability to implement the practices, processes, technologies, and applications associated with banking transaction processing and records management. Working knowledge of major production application systems used for delivery of services to internal and external clients; ability to leverage major production application systems in diverse situations. Working knowledge of the importance of meeting or exceeding established targets; ability to drive critical activities to completion. Working knowledge of the necessity and value of accuracy; ability to complete tasks with high levels of precision. Working knowledge of approaches, tools, techniques for recognizing, anticipating, and resolving organizational, operational or process problems; ability to apply knowledge of problem solving appropriately to diverse situations. Working knowledge of the concepts and principles of Gemba Kaizen methodology; ability to identify and eliminate manufacturing waste through iterative improvements to processes. Working knowledge of the necessity for continuous personal growth and learning; ability to gauge one's strengths, limitations and interests accurately, and use this knowledge for purposes of performance effectiveness self-development. Working knowledge of successful approaches and techniques for dealing with change; ability to adapt to a changing environment and be comfortable with change. Working knowledge of collaborative techniques; ability to work with a variety of individuals and groups in a constructive and collaborative manner. Working knowledge of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors. Basic understanding of processes, tools and techniques for assessing and controlling an organization's exposure to risks of various kinds; ability to apply knowledge of risk management appropriately to diverse situations.  Core Competencies  All KeyBank employees are expected to demonstrate Key's Values and abide by Key's Code of Conduct.  Physical Demands  General Office – Prolonged sitting, ability to communicate face to face in person or on the phone with teammates and clients, frequent use of PC/laptop, occasional lifting/pushing/pulling of backpacks, computer bags up to 10 lbs.  Work Location Category  Hybrid (2+ days)  Compensation and Benefits This position is eligible to earn a base hourly rate in the range of $18.75 – $25.00 per hour. Placement within the pay range may differ based upon various factors, including but not limited to skills, experience and geographic location. Compensation for this role also includes incentive compensation which may include production, commission, and/or discretionary incentives.\n\n Please click here for a list of benefits for which this position is eligible.\n\n Key has implemented an approach to employee workspaces which prioritizes in‑office presence, while providing flexible options in circumstances where roles can be performed effectively in a mobile environment.\n\n Job Posting Expiration Date: 07/24/2026\n\n KeyCorp is an Equal Opportunity Employer committed to sustaining an inclusive culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, pregnancy, disability, veteran status or any other characteristic protected by law.\n\n Qualified individuals with disabilities or disabled veterans who are unable or limited in their ability to apply on this site may request reasonable accommodations by emailing HR_Compliance@keybank.com.\n\n #J-18808-Ljbffr\n\nExperience: 2 years required",
+            "apply_options": [
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/keybank/digital-fraud-detection-specialist-l8-141317014/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEaWdpdGFsIEZyYXVkIERldGVjdGlvbiBTcGVjaWFsaXN0IChMOCkiLCJjb21wYW55X25hbWUiOiJLZXlCYW5rIiwiaHRpZG9jaWQiOiJJa1pMcU5yckludTVGakc3QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1cweWJsZHlWV1ZUWjJOSE5tbzNaV3BEZFdkRVZXRjVlRUowT1hoaVpXWk9RVmxMVlRGRlVUUnNiVjlxWDFJd1VrcHBkR3hOTmpWWE5qbGlPRUZNVDNsYVZuaHRhMFJqUkZkelFYSjJjRk5WUmpGSlRESm1RalkzT1d4S00yODVjSE5aTkdWM2NYRk9RMXBZVGxocldFRlBSbEZ1UzJOVk5tMDFjSEZhWkhWcU5qUnRVVVVTRnkwMmFtSmhiMHh6U0dWeFkzQjBVVkJ5WlhWME1FRlpHaUpCUkhOeU9XWlNPR0oxZGpkSFZFTlFkR2hwY2swMFRtaElWV3BQWkhacVJXdFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJJa1pMcU5yckludTVGakc3QUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Fraud Detection AI Reviewer",
+            "company_name": "AuraOne Human Data",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Prior evaluation, annotation, or human-rater experience on fraud detection ai evaluation or adjacent content for Fraud Detection AI Reviewer work",
+                        "Comfort applying multi-page rubrics consistently across long batches",
+                        "Clear written reasoning that names the issue and the rubric clause being applied",
+                        "Strong attention to detail and the ability to flag when a prompt itself is the problem",
+                        "Reliable async availability for at least 10 hours per week",
+                        "Background in linguistics, content moderation, or trust & safety review",
+                        "Experience with inter-rater agreement metrics and calibration cycles",
+                        "Domain expertise that lets you spot subject-matter errors automated checks miss",
+                        "Model output evaluation",
+                        "Rubric-based annotation",
+                        "Severity tagging",
+                        "Inter-rater calibration",
+                        "Fraud Detection AI evaluation",
+                        "Audit review",
+                        "Risk reasoning",
+                        "Fraud",
+                        "Detection"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Independent specialist contractor",
+                        "Hourly rate confirmed after the interview process"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Fraud Detection AI Reviewer is a remote evaluation track for reviewing fraud detection ai evaluation prompts and responses against AuraOne's quality rubric",
+                        "Reviewers compare paired outputs, label edge cases, and write the kind of structured feedback the modeling team can use to retrain",
+                        "Evaluate fraud detection ai evaluation model outputs against a versioned rubric and assign severity tags for Fraud Detection AI Reviewer assignments",
+                        "Compare paired responses and pick the stronger answer with a written rationale",
+                        "Label hallucinations, instruction-following failures, and unsafe content with structured tags",
+                        "Capture ambiguous prompts and route them back to the program team for rubric updates",
+                        "Maintain reviewer-quality scores by calibrating against gold-standard examples each week",
+                        "Document recurring failure modes so the modeling team can target them in the next training run",
+                        "Compare two fraud detection ai evaluation model responses to the same prompt and pick the stronger one with rationale",
+                        "Tag an unsafe response with the correct policy category and severity",
+                        "Audit a 50-row batch for rubric consistency and report drift to the program lead",
+                        "Propose a rubric clarification after spotting a recurring failure mode"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=m7-vxz9sIgNNkUwxAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMPQrCQBBAYWxzBKsBO8GsBGy0CgT_GkGxDpPNkKwkM2FnojmJ5zU2r_ngJd9Fkh0jjjUUZOQtCEN-gTu9A30owgauUoESRt_CbCeRpqPloTUbdO-capc2amjBp156J0yVTO4llf5TaouRhg6Nymy3ndKBm_UqHyPemOA89shQoCEEhicHoxoe84z0BzaSKtWZAAAA&shmds=v1_ARwrE20giWkSbWpRKHTZjMTRoFJ1jVo_kU_yQT8GwxCdwXxjWA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=m7-vxz9sIgNNkUwxAAAAAA%3D%3D",
+            "extensions": [
+                "Work from home",
+                "Full-time"
+            ],
+            "source_link": "https://www.indeed.com/viewjob?jk=ae4584e600fd1222",
+            "job_title": "Fraud Detection AI Reviewer",
+            "description": "Fraud Detection AI Reviewer is a remote evaluation track for reviewing fraud detection ai evaluation prompts and responses against AuraOne's quality rubric. Reviewers compare paired outputs, label edge cases, and write the kind of structured feedback the modeling team can use to retrain.\n\n\n  Why this role matters\n AI data reviewers help turn fraud detection ai evaluation outputs into auditable labels, rationales, and regression cases for AuraOne Human Data.\n\n\n  Responsibilities\n \n  Evaluate fraud detection ai evaluation model outputs against a versioned rubric and assign severity tags for Fraud Detection AI Reviewer assignments.\n  Compare paired responses and pick the stronger answer with a written rationale.\n  Label hallucinations, instruction-following failures, and unsafe content with structured tags.\n  Capture ambiguous prompts and route them back to the program team for rubric updates.\n  Maintain reviewer-quality scores by calibrating against gold-standard examples each week.\n  Document recurring failure modes so the modeling team can target them in the next training run.\n \n  Qualifications\n \n  Prior evaluation, annotation, or human-rater experience on fraud detection ai evaluation or adjacent content for Fraud Detection AI Reviewer work.\n  Comfort applying multi-page rubrics consistently across long batches.\n  Clear written reasoning that names the issue and the rubric clause being applied.\n  Strong attention to detail and the ability to flag when a prompt itself is the problem.\n  Reliable async availability for at least 10 hours per week.\n \n  Example tasks\n \n  Compare two fraud detection ai evaluation model responses to the same prompt and pick the stronger one with rationale.\n  Tag an unsafe response with the correct policy category and severity.\n  Audit a 50-row batch for rubric consistency and report drift to the program lead.\n  Propose a rubric clarification after spotting a recurring failure mode.\n \n  Nice to have\n \n  Background in linguistics, content moderation, or trust & safety review.\n  Experience with inter-rater agreement metrics and calibration cycles.\n  Domain expertise that lets you spot subject-matter errors automated checks miss.\n \n  Skills\n \n  Model output evaluation\n  Rubric-based annotation\n  Severity tagging\n  Inter-rater calibration\n  Fraud Detection AI evaluation\n  Financial analysis\n  Audit review\n  Risk reasoning\n  Fraud\n  Detection\n \n  Work model\n Remote — US-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n\n  Compensation\n Hourly rate confirmed after the interview process.\n\n\n  Application process\n Apply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=ae4584e600fd1222&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/ai-enterprise-solution-expert-at-artlist-4479010038?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/fraud-detection-ai-reviewer-auraone-human-data-JV_KO0,27_KE28,46.htm?jl=1010210608301&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/artlist/ai-enterprise-solution-expert-186935811/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/ai-enterprise-solution-expert-artlist-new-york-city-metropolitan-area--t7xk-881811847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcmF1ZCBEZXRlY3Rpb24gQUkgUmV2aWV3ZXIiLCJjb21wYW55X25hbWUiOiJBdXJhT25lIEh1bWFuIERhdGEiLCJodGlkb2NpZCI6Im03LXZ4ejlzSWdOTmtVd3hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbWhKYWpoQmRtSnJhR1I1VEhRdGNreGlTak5EVTNkc1IxWXplbGhhTVU1YWFFcFhkbFJxWTJJNVdGSlNWalEyVG1WVWEzQjRiRTVMUjBGdlZFTllRVGROWkd4T1lVNDVZVU14TUVoSmEyNXNablp2YmxCdFUxWlVVRXBHV1dSMVpURlNlR1l6V0U0NVdFNUxXRlJrWkhseFlYWkNRM2hWTUdGTldEbFZiSFZMTFZWa05Hc1NGeTAyYW1KaGIweHpTR1Z4WTNCMFVWQnlaWFYwTUVGWkdpSkJSSE55T1daVFJuVnVUbWxMZURoNFFqUmlXa1JZU1ZsMmVWOVFVMTlsWmpaQiIsImZjdiI6IjMiLCJmY19pZCI6Im03LXZ4ejlzSWdOTmtVd3hBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Fraud Investigations Analyst",
+            "company_name": "Gusto",
+            "location": "United States",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Fraud investigations at Gusto present unique and intellectually engaging challenges",
+                        "This role is ideal for someone who enjoys deep investigative work, thrives in ambiguity, and leverages AI as a core part of their workflow to improve efficiency, consistency, and investigative quality",
+                        "5+ years of fraud investigations, fraud detection, or similarly complex investigative work within a financial institution, FinTech, payment processor, or regulated environment",
+                        "Strong investigative writing and analytical skills with the ability to document complex fact patterns, develop defensible narratives, and assess risk across ambiguous scenarios",
+                        "Experience across fraud typologies including account takeover, business email compromise, identity theft, payment fraud, and social engineering",
+                        "Sound investigative judgment with the ability to manage multiple investigations simultaneously, make risk-based recommendations under pressure, and communicate findings with empathy and clarity to customers, external institutions, and cross-functional stakeholders",
+                        "Experience using AI-enabled tools in day-to-day investigative workflows and the ability to critically evaluate AI-generated outputs for accuracy, completeness, and alignment with investigative standards",
+                        "Experience mentoring or providing structured feedback to junior investigators",
+                        "When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success",
+                        "Offer amounts are determined by role, level, and location",
+                        "Our cash compensation amount for this role is between $89,165/yr - $112,942/yr in Denver and $110,640/yr -$136,456/yr for New York and San Francisco",
+                        "Final offer amounts are determined by multiple factors including candidate location, experience and expertise and may vary from the amounts listed above",
+                        "Compensation for this position also includes an equity package and performance bonuses",
+                        "Reliable, consistent presence: We expect regular and predictable attendance, whether you're working in-office, hybrid, or fully remote, so that you stay closely connected to your team, customers, and stakeholders in real time and ensure colleagues and customers receive the timely support and responsiveness they deserve"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves",
+                        "In this role, you will independently conduct the most complex end-to-end fraud investigations involving account takeover, business email compromise, identity theft, payment fraud, and other emerging fraud typologies",
+                        "Using a combination of investigative expertise, open-source intelligence, internal data, and AI-enabled tools, you will identify root causes, assess risk, and document investigative findings",
+                        "The team conducts complex investigations, supports customer remediation and fund recovery efforts, and partners with Risk, Financial Crime Compliance, Product, and Engineering teams to identify emerging threats and strengthen fraud prevention controls",
+                        "Through detailed investigative work and root cause analysis, the team helps protect the integrity of Gusto's platform and the small businesses we serve",
+                        "Here’s What You’ll Do Day-to-day",
+                        "Independently analyze account activity, transactional behavior, authentication data, customer communications, and external intelligence sources to surface fraud indicators and build well-supported investigative narratives",
+                        "Synthesize investigative findings into clear case narratives and prepare Unusual Activity Referrals (UARs) for Financial Crime Compliance partners when appropriate; escalate high-risk events with sound, risk-based remediation recommendations",
+                        "Support customers impacted by fraud and coordinate with external banking partners on fund recovery efforts, including Letters of Indemnity",
+                        "Leverage AI-enabled tools to accelerate alert triage, issue spotting, research, evidence gathering and documentation, while critically validating AI-generated outputs for accuracy and compliance with Gusto's AI policies",
+                        "Collaborate with Risk, Compliance, Product, Engineering, and Data Science to surface emerging threats, close control gaps, and improve investigative tooling and AI-assisted workflows",
+                        "Mentor junior analysts on fraud typology identification, evidence gathering, and case narrative quality through case reviews and structured feedback"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=ZLonAsO8gSKX_wzsAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7AQ5ONwsmorjo5GLRVZxLkh5pJN6F3FXqL_jV1uVtr_kumv2lurGHK71RNEWniUngTC5_RGEDN_Yg6GoYgAla5phxdRpUixytFckmis4rmMAvy4SeJ_tkL386GVzFkp1itztsJ1MorpftKMqQCB6UFHu4zx_lB3S7AryNAAAA&shmds=v1_ARwrE23Bo6Ea1DlRrBkmnMi75sW_8inxLxdGgfbbKIRAdSgxwg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=ZLonAsO8gSKX_wzsAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba8f92cd7a101a92c2ae1/images/VuoaKC5Qg6IZZnNvNuGVDCzgFPWjUbkXxkTj602lUso.jpeg",
+            "extensions": [
+                "10 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.linkedin.com/jobs/view/fraud-investigations-analyst-at-gusto-4479254616",
+            "job_title": "Fraud Investigations Analyst",
+            "description": "About Gusto\n\nAt Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.\n\nAll full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our Total Rewards philosophy.\n\nAI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.\n\nAbout The Role\n\nGusto is seeking a Senior Fraud Investigations Analyst to join our Fraud Investigations team. In this role, you will independently conduct the most complex end-to-end fraud investigations involving account takeover, business email compromise, identity theft, payment fraud, and other emerging fraud typologies. Using a combination of investigative expertise, open-source intelligence, internal data, and AI-enabled tools, you will identify root causes, assess risk, and document investigative findings.\n\nFraud investigations at Gusto present unique and intellectually engaging challenges. Our platform supports hundreds of thousands of small businesses across diverse industries, ownership structures, and geographies, creating a dynamic fraud landscape that requires strong analytical thinking, sound judgment, and adaptability. Analysts encounter complex fact patterns, sophisticated social engineering schemes, and evolving attack vectors that often require balancing customer impact, operational considerations, and risk mitigation. This role is ideal for someone who enjoys deep investigative work, thrives in ambiguity, and leverages AI as a core part of their workflow to improve efficiency, consistency, and investigative quality.\n\nAbout The Team\n\nThe Fraud Investigations team is responsible for investigating fraud impacting Gusto, its customers, and its financial partners. The team conducts complex investigations, supports customer remediation and fund recovery efforts, and partners with Risk, Financial Crime Compliance, Product, and Engineering teams to identify emerging threats and strengthen fraud prevention controls. Through detailed investigative work and root cause analysis, the team helps protect the integrity of Gusto's platform and the small businesses we serve.\n\nHere’s What You’ll Do Day-to-day\n\nIndependently analyze account activity, transactional behavior, authentication data, customer communications, and external intelligence sources to surface fraud indicators and build well-supported investigative narrativesSynthesize investigative findings into clear case narratives and prepare Unusual Activity Referrals (UARs) for Financial Crime Compliance partners when appropriate; escalate high-risk events with sound, risk-based remediation recommendationsSupport customers impacted by fraud and coordinate with external banking partners on fund recovery efforts, including Letters of IndemnityLeverage AI-enabled tools to accelerate alert triage, issue spotting, research, evidence gathering and documentation, while critically validating AI-generated outputs for accuracy and compliance with Gusto's AI policiesCollaborate with Risk, Compliance, Product, Engineering, and Data Science to surface emerging threats, close control gaps, and improve investigative tooling and AI-assisted workflowsMentor junior analysts on fraud typology identification, evidence gathering, and case narrative quality through case reviews and structured feedback\n\nHere’s What We're Looking For\n\n5+ years of fraud investigations, fraud detection, or similarly complex investigative work within a financial institution, FinTech, payment processor, or regulated environmentStrong investigative writing and analytical skills with the ability to document complex fact patterns, develop defensible narratives, and assess risk across ambiguous scenariosExperience across fraud typologies including account takeover, business email compromise, identity theft, payment fraud, and social engineeringSound investigative judgment with the ability to manage multiple investigations simultaneously, make risk-based recommendations under pressure, and communicate findings with empathy and clarity to customers, external institutions, and cross-functional stakeholdersExperience using AI-enabled tools in day-to-day investigative workflows and the ability to critically evaluate AI-generated outputs for accuracy, completeness, and alignment with investigative standardsExperience mentoring or providing structured feedback to junior investigatorsCertified Fraud Examiner (CFE), CAMS, or other relevant financial crime certifications are a plus\n\nOur cash compensation amount for this role is between $89,165/yr - $112,942/yr in Denver and $110,640/yr -$136,456/yr for New York and San Francisco. Final offer amounts are determined by multiple factors including candidate location, experience and expertise and may vary from the amounts listed above. Compensation for this position also includes an equity package and performance bonuses.\n\nAt Gusto, we don't use titles the traditional way, as a signal of rank or hierarchy. Instead, our titles describe two things at once — your craft (what you do, e.g. Engineering, Design) and your scope of ownership (what you're accountable for) — which is why you'll see something like \"Head of X\" instead of a rank word like \"Director\" that tells you neither. Because of this, the title on this posting may look different from what you'd expect based on the scope and seniority of the role, and from how similar roles are typically titled elsewhere. If you have questions about how this role compares to your current title or level, your recruiter can help translate.\n\nGusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gusto's subsidiary, whose physical office is in Scottsdale.\n\nNote: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas.\n\nWhen approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required. This includes non-office days for hybrid employees.\n\nReliable, consistent presence: We expect regular and predictable attendance, whether you're working in-office, hybrid, or fully remote, so that you stay closely connected to your team, customers, and stakeholders in real time and ensure colleagues and customers receive the timely support and responsiveness they deserve.\n\nOur customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto.\n\nGusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. We want to see our candidates perform to the best of their ability. If you require a medical or religious accommodation at any time throughout your candidate journey, please fill out this form and a member of our team will get in touch with you.\n\nGusto takes security and protection of your personal information very seriously. Please review our Fraudulent Activity Disclaimer.\n\nPersonal information collected and processed as part of your Gusto application will be subject to Gusto's Applicant Privacy Notice.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/fraud-investigations-analyst-at-gusto-4479254616?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/fraud-analytics-investigations-analyst-remote--united-states--e2838e4b4970f142a659a2f5da3f74681?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "General Catalyst Job Board",
+                    "link": "https://jobs.generalcatalyst.com/companies/gusto/jobs/96914834-fraud-investigations-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Designer Fund Job Board",
+                    "link": "https://jobs.designerfund.com/companies/gusto/jobs/96914834-fraud-investigations-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/fraud-investigations-analyst-san-francisco-ca--751ef654-e200-4bb2-a1fb-be8dc623528b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "AI Foundry - BYU",
+                    "link": "https://aifoundry.byu.edu/jobs/62290546-c51c-4656-9055-03f317b2471d?from=seniority%3Dlead%26location%3Dnyc%26remote%3Dtrue&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/5928747283?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Jobs USA",
+                    "link": "https://remoterush.mysmartpros.com/job/3511584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcmF1ZCBJbnZlc3RpZ2F0aW9ucyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiR3VzdG8iLCJodGlkb2NpZCI6IlpMb25Bc084Z1NLWF93enNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTeloxYm1vM2VEVlRWMGRtU2tKb1oycENPRk5oWjJGdVFsOVRiSEZSUW5GeVNXSnRObk5SVnpaRFVFSXRORk5rTURBNFNYbEtiMUpvVG5KM2JVUXpiWFJSUnpaRlNEZzJkVm8zTjFWdGNtZG9hRTVuYlV0UVEyUmZWSFpNU3pBMlpEQXdjWGRXY0dGdlFtZHpRMHN4YTBKRWNWaGZlbTlhY1Rsc1NVTmpTelV4ZHpGR2FtMFNGeTAyYW1KaGIweHpTR1Z4WTNCMFVWQnlaWFYwTUVGWkdpSkJSSE55T1daVFNuaHJaVUZTUzJOQ2RIWnRZVFJHUTFNNGFHMHRlV1ZrU3pSbiIsImZjdiI6IjMiLCJmY19pZCI6IlpMb25Bc084Z1NLWF93enNBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Fraud Investigations Specialist – Customer Protection",
+            "company_name": "Robinhood",
+            "location": "Denver, CO",
+            "via": "Talents By Vaia",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience: 3 years required"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will handle inbound calls, investigate fraud alerts across payment methods, and identify emerging fraud trends",
+                        "The role emphasizes strong communication, data-driven decision making, and collaboration with cross-functional teams",
+                        "Join a high-performing team in a fast-paced environment with in-person attendance and shift flexibility"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=4FyI2gCxdIzaCEl_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOQQrCMBBFcdsLCK5mLdqI4EaXFUUXKnqAkqRDG0kzITOVLr2Dd_BgnsR28-HB4_Gz7yS7HJLuKjiFF7K4WoujwPCIaJ32jgV-7w8UHQu1mOCWSNCODizhTAYYdbINDHwkqj3Odo1I5K1SzD6vWYagzS21igIa6tWTDI9TcqMTRq8Fy_Vm1ecx1PPpnYwLDVEFLsAeh1NpAcX1D9kj-zOpAAAA&shmds=v1_ARwrE20BhxC_p6nPEVKMoGpeBChbAzVo5LdtKFwLhB1nAVBZbw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=4FyI2gCxdIzaCEl_AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAkCAMAAADrTAnMAAAAaVBMVEXb_lLh_1QAAADn_1bk_1WLnTbF4kuqw0F4hy_w_1nX-VHH5Uu92kcAAAnR8U7V9k_K6ky0zkVJTxwKAAhXYSSUqzdjbyenvUKUpzleaSdndClseSpwfStNVB-MoDV-jTI6PhqHlzZESB2fpCMPAAAAu0lEQVRIie3Q2w7CIAwG4NbBymCOoRtsDEV8_4cUD5cjUa_50hAg-YECUFXVF1D1_-XoeBgAND4X46s-w9ugCzlzUmfAaZ5Ghsw2jACZFA1mkKtxZj-oD8vaAnrg_RbaC79yipOaBPG4kBCt9YVGenvj-Wg7B-dQiM4nZwwlFrfO2y55SYUbTQrPB68NOb_QnbboDLkIMVC4upXSVggSe_3KAFJKhVrhkCdS589qERXgKGWhx_3tqqp-9AAKwAlsZzTI8AAAAABJRU5ErkJggg.png",
+            "extensions": [
+                "60K–80K a year",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://talents.vaia.com/companies/robinhood/denver/fraud-investigations-specialist-customer-protection-93230906/",
+            "job_title": "Fraud Investigations Specialist – Customer Protection",
+            "description": "Robinhood is seeking a Fraud Investigator to join the Customer Protection Team in Denver or Westlake. You will handle inbound calls, investigate fraud alerts across payment methods, and identify emerging fraud trends.\n\nThe role emphasizes strong communication, data-driven decision making, and collaboration with cross-functional teams. Join a high-performing team in a fast-paced environment with in-person attendance and shift flexibility.\n\n #J-18808-Ljbffr\n\nExperience: 3 years required",
+            "apply_options": [
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/robinhood/denver/fraud-investigations-specialist-customer-protection-93230906/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcmF1ZCBJbnZlc3RpZ2F0aW9ucyBTcGVjaWFsaXN0IOKAkyBDdXN0b21lciBQcm90ZWN0aW9uIiwiY29tcGFueV9uYW1lIjoiUm9iaW5ob29kIiwiaHRpZG9jaWQiOiI0RnlJMmdDeGRJemFDRWxfQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1dWYWVWSjVRbWRDZFdWelNFNUVSbmRrUmpWclJVWklZbXBIZGxacWEwSjBabkowV25SSGJ6WjZNa1JvYjBoR1l5MVFaMHAzVDNkR0xUbHlOekV3VURJd2RrWlhNWHB6YkZSbVUwcGtYMVY1UkVVNGFtWTBWVWRWUlhRNGQweHRVbGRIYzBWdlYybHJTVGgyZG5oM1RWbDNXbVp2VHkwMGVYTldkbWRrTFVWQ016ZE9ZekVTRnkwMmFtSmhiMHh6U0dWeFkzQjBVVkJ5WlhWME1FRlpHaUpCUkhOeU9XWlVYemg2VlhvNFprTkNlbnB4ZW1sSFJ6QlpVWFJzY2xWUVdYUm4iLCJmY3YiOiIzIiwiZmNfaWQiOiI0RnlJMmdDeGRJemFDRWxfQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Mid-Level Fraud Strategy Analyst",
+            "company_name": "USAA",
+            "location": "Colorado Springs, CO (+6 others)",
+            "via": "Built In",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree; OR 4 years of relevant education and/or experience",
+                        "4 years of experience in Fraud supporting and participating in stakeholder consultation, needs assessment, requirement translation and prescription of technology solutions",
+                        "Previous experience gathering business requirements and applying business rules to recommend technology solutions",
+                        "Demonstrated experience use and knowledge of fraud strategy rules to reduce or mitigate loss and fraud exposures",
+                        "Experienced utilization of data analysis tools, data visualization, developing analysis queries and procedures in SQL, SAS, BI tools or other analysis software, and relevant industry data & methods and ability to connect external insights to business problems",
+                        "Knowledge of bank laws and regulations related to money movement and /or payments, including but not limited to Reg E, Reg CC, UDAAP, FACTA and Reg Z",
+                        "Strong written and verbal communication skills, with demonstrated ability to synthesize data and clearly reporting findings",
+                        "US military experience gained through military service or gained as a military spouse / domestic partner"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "This role is remote eligible in the continental U.S. with occasional business travel",
+                        "Compensation range: The salary range for this position is: $85,040 - $162,550",
+                        "You are paid within the salary range based on your experience and market data of the position",
+                        "The actual salary for this role may vary by location",
+                        "Employees may be eligible for pay incentives based on overall corporate and individual performance and at the discretion of the USAA Board of Directors",
+                        "Benefits: At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness",
+                        "These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs",
+                        "Additionally, our career path planning and continuing education assists employees with their professional goals"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a dedicated Mid-Level Fraud Strategy Analyst, you will be accountable for driving USAA's overall fraud strategy, policies, and analytic capabilities for fraud rules management",
+                        "This role will collaborate with key stakeholders across the enterprise, influencing outcomes in a complex, matrixed environment",
+                        "This role will be an active participant in industry efforts to share and receive information, build industry partnerships and relations to formulate USAA's global fraud strategies and policies to better protect USAA from current, evolving, and future fraud threats",
+                        "Serves as an expert in at least one area of focus within fraud space to develop solutions for complex problems that align with the business's strategic direction and objectives",
+                        "Actively participates in and may take ownership of analyses or business strategy initiatives using innovative/quantitative analytical approaches",
+                        "Evaluate and validate fraud detection logic by interpreting complex data sets to ensure that the rules being implemented are configured in the strategy engines as intended and aligned with risk mitigation objectives",
+                        "Utilize different ways to analyze fraud trends and fraud strategy terminology by evaluating and validating new fraud rules along with strategy engine configurations; utilize data modeling techniques (e.g., cluster analysis, anomaly detection) and visualization tools to evaluate strategy effectiveness and recommend enhancements for risk mitigation",
+                        "Consults with the business to understand the business direction, environment and strategies for supported domains/clients; gathers requirements to recommend solutions",
+                        "Advocates for self and teammates to encourage the growth of direct and indirect peers toward continual technical and soft skill progression",
+                        "Serves as a resource for mathematical skills, business product knowledge, and/or Fraud knowledge",
+                        "Ensure business risks are effectively identified, measured, and controlled by implementing and validating rules and implementing these rules by leveraging different strategy engines to enforce compliance policies and procedures"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=sXrGe5zYsMac0hIJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CeJws9hGBBF0KgUFURyKc7m2RxqJuZA7pf0PP1hd3viyzyzbXV2fX-hNHo4JXz3UmlDJTlAG9JMo5HDmFoQwdQNwgBOz9TQ_DKpR9saI-MKKorqu6PhpOFDLo3lwK38aGTBR9L-02WzXYxGDXS7udVmCC1Cx54Q9Qx2TC1ZWUN2-EpkCKZcAAAA&shmds=v1_ARwrE2128HRdYYIKXsWEwFZKzN5fCD_KO0XHVLidHfTFOyBycA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=sXrGe5zYsMac0hIJAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba8f92cd7a101a92c2ae1/images/vYaKtMiVevuzQ7y-MtSVNJH1InGm42hxvyCu8qhcuck.jpeg",
+            "extensions": [
+                "4 days ago",
+                "85,040–162,550 a year",
+                "Full-time",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "source_link": "https://builtin.com/job/mid-level-fraud-strategy-analyst/11780677",
+            "job_title": "Mid-Level Fraud Strategy Analyst",
+            "description": "Why USAA?\n\nAt USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the #1 choice for the military community and their families.\n\nEmbrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful.\n\nWe are proud to support active-duty military spouses. USAA roles may offer remote or hybrid flexibility for active-duty military spouses consistent with applicable policy and business needs.\n\nThe Opportunity\n\nAs a dedicated Mid-Level Fraud Strategy Analyst, you will be accountable for driving USAA's overall fraud strategy, policies, and analytic capabilities for fraud rules management. This role will collaborate with key stakeholders across the enterprise, influencing outcomes in a complex, matrixed environment. This role will be an active participant in industry efforts to share and receive information, build industry partnerships and relations to formulate USAA's global fraud strategies and policies to better protect USAA from current, evolving, and future fraud threats.\n\n\nRelocation assistance is not available for this position.\n\n\nThis role is remote eligible in the continental U.S. with occasional business travel. However, individuals residing within a 60-mile radius of a USAA office will be expected to work on-site four days per week.\n\n\nWhat you'll do:\n\nServes as an expert in at least one area of focus within fraud space to develop solutions for complex problems that align with the business's strategic direction and objectives.Actively participates in and may take ownership of analyses or business strategy initiatives using innovative/quantitative analytical approaches.Evaluate and validate fraud detection logic by interpreting complex data sets to ensure that the rules being implemented are configured in the strategy engines as intended and aligned with risk mitigation objectives.Utilize different ways to analyze fraud trends and fraud strategy terminology by evaluating and validating new fraud rules along with strategy engine configurations; utilize data modeling techniques (e.g., cluster analysis, anomaly detection) and visualization tools to evaluate strategy effectiveness and recommend enhancements for risk mitigation. Consults with the business to understand the business direction, environment and strategies for supported domains/clients; gathers requirements to recommend solutions.Advocates for self and teammates to encourage the growth of direct and indirect peers toward continual technical and soft skill progression.Serves as a resource for mathematical skills, business product knowledge, and/or Fraud knowledge.Ensure business risks are effectively identified, measured, and controlled by implementing and validating rules and implementing these rules by leveraging different strategy engines to enforce compliance policies and procedures\nWhat you have:\n\nBachelor's degree; OR 4 years of relevant education and/or experience.4 years of experience in Fraud supporting and participating in stakeholder consultation, needs assessment, requirement translation and prescription of technology solutions.Previous experience gathering business requirements and applying business rules to recommend technology solutions.Demonstrated experience use and knowledge of fraud strategy rules to reduce or mitigate loss and fraud exposures.Experienced utilization of data analysis tools, data visualization, developing analysis queries and procedures in SQL, SAS, BI tools or other analysis software, and relevant industry data & methods and ability to connect external insights to business problems.Knowledge of bank laws and regulations related to money movement and /or payments, including but not limited to Reg E, Reg CC, UDAAP, FACTA and Reg Z.Strong written and verbal communication skills, with demonstrated ability to synthesize data and clearly reporting findings.\nWhat sets you apart:\n\nUS military experience gained through military service or gained as a military spouse / domestic partner \n\nCompensation range: The salary range for this position is: $85,040 - $162,550.\n\n\nUSAA does not provide visa sponsorship for this role. Please do not apply for this role if at any time (now or in the future) you will need immigration support (i.e., H-1B, TN, STEM OPT Training Plans, etc.).\n\n \n\nCompensation: USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market data of the position. The actual salary for this role may vary by location. \n\n \n\nEmployees may be eligible for pay incentives based on overall corporate and individual performance and at the discretion of the USAA Board of Directors.\n\nThe above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.\n\n \n\nBenefits: At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.\n\n \n\nFor more details on our outstanding benefits, visit our benefits page on USAAjobs.com.\n\nApplications for this position are accepted on an ongoing basis, this posting will remain open until the position is filled. Thus, interested candidates are encouraged to apply the same day they view this posting. \n\n \n\nUSAA is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.",
+            "apply_options": [
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/mid-level-fraud-strategy-analyst/11780677?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJNaWQtTGV2ZWwgRnJhdWQgU3RyYXRlZ3kgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IlVTQUEiLCJodGlkb2NpZCI6InNYckdlNXpZc01hYzBoSUpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMkZEZVZoM04yZzRVV3d0TjNGbVIzZFBkMWt5VmxwSlFsOXFkWEpUWm1Wbk5qaHNXRXRUT1ZNNUxXaHVkVGxYZDBoYVEyUlRTRVJsTjFac2RIaExRM2hJVVZscFNIbFRNRkZJYldseVNtUndUMkpLUzIxSU1ESTJOR2hTTmpNM1dtYzVSRFZpUWs1d2NqZ3hSVVJtUVRsdU4yeEdXbnB6VUZCU2VHWldTbXd4TkZSV2FsTVNGeTAyYW1KaGIweHpTR1Z4WTNCMFVWQnlaWFYwTUVGWkdpSkJSSE55T1daVFgxZEdOMTg1UkMxb1RIUnFYMVZMWm10bmFVeFJZWFpsUjFsbiIsImZjdiI6IjMiLCJmY19pZCI6InNYckdlNXpZc01hYzBoSUpBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Senior Analyst, Fraud Intelligence",
+            "company_name": "Extend",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Hands-on, proactive, and analytical professional who is passionate about using data to solve complex, real-world problems",
+                        "3+ years of experience in fraud analytics, ideally within an e-commerce or retail environment",
+                        "Bachelor’s degree or higher in a quantitative field such as Mathematics, Statistics, Computer Science, Engineering, Operations Research, Physics or related field",
+                        "Strong grasp of core data science and analytics concepts, including statistical analysis, modeling, and data wrangling",
+                        "Proficiency in SQL and experience in Python (pandas, NumPy, scikit-learn, etc.)",
+                        "Exceptional communication and stakeholder management skills, with a proven ability to work cross-functionally and influence outcomes",
+                        "High attention to detail, strong intellectual curiosity, and a deep understanding of user behavior and fraud patterns",
+                        "Empathetic, humble, and collaborative team player",
+                        "Candidates must be located within the continental United States"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Expected Pay Range: $125,000 - $145,000 per year salaried*",
+                        "The target base salary range for this position is listed above",
+                        "Individual salaries are determined based on a number of factors including, but not limited to, job-related knowledge, skills and experience",
+                        "Extend does not provide immigration-related sponsorship for this role",
+                        "Working with a great team from diverse backgrounds in a collaborative and supportive environment",
+                        "Competitive salary based on experience, with full medical and dental & vision benefits",
+                        "Stock in an early-stage startup growing quickly",
+                        "Generous, flexible paid time off policy",
+                        "401(k) with Financial Guidance from Morgan Stanley",
+                        "Extend CCPA HR Notice"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You'll work on the front line of how AI is changing fraud review, alongside Fraud Ops and our Machine Learning team, so your analysis turns into material changes, not just a slide",
+                        "If you're data-obsessed, impact-driven, and excited by problems at the intersection of analytics and fraud prevention, you'll thrive here",
+                        "Your analysis directly protects retailers, builds customer trust, and moves the company's bottom line",
+                        "You'll also help raise the bar for the team by reviewing code and mentoring junior analysts",
+                        "Analyze large-scale behavioral, transactional, and interaction data to uncover signals indicative of fraud and abuse",
+                        "Apply strong business acumen to rapidly identify actionable insights, analyze fraud patterns, and validate hypotheses",
+                        "Respond swiftly to emerging fraud threats by developing monitoring frameworks, dashboards, and mitigation solutions in collaboration with cross-functional teams",
+                        "Evaluate Fraud Ops' AI review agent, both the quality of its case summaries and the accuracy of its recommended decisions, and turn what you find into prompt, rule, and workflow improvements",
+                        "Partner with the Machine Learning team to translate fraud pattern findings into model feature recommendations, and give feedback on model scoring based on investigation outcomes",
+                        "Participate in design and code reviews, and mentor junior analysts on SQL and analysis best practices"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=rVvSBnc2ChBOuFWJAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7A4LTzaKJCA7ayUFF1-Jc0vRIIvEu5E6on-Efq8sbX_OZNfsOKXGFI7n8Fl3BubrXCFdSzDkFJI-whhsPIOiqj8AEF-aQcdFG1SIHa0WyCaJOkzeen5YJB57sgwf500t0FUt2iv12t5lMobCcnyZFGiER3CkpjtD9ApQvWUv_pJQAAAA&shmds=v1_ARwrE20FOCnHIu5QaSlbfQ9icmqZMcfFrePmto7eTkLZwKlESg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=rVvSBnc2ChBOuFWJAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba8f92cd7a101a92c2ae1/images/dfGf8iVH1n_9VFADMF1QVjlgkz70k9DhvjiX-EkDzMc.jpeg",
+            "extensions": [
+                "2 days ago",
+                "125K–145K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.indeed.com/viewjob?jk=75b1f9be7abc4775",
+            "job_title": "Senior Analyst, Fraud Intelligence",
+            "description": "About Extend:\n\n\n  \n   \n    Extend is revolutionizing the post-purchase experience for retailers and their customers by providing merchants with AI-driven solutions that enhance customer satisfaction and drive revenue growth. Our comprehensive platform offers automated customer service handling, seamless returns/exchange management, end-to-end automated fulfillment, and product protection and shipping protection alongside Extend's best-in-class fraud detection. By integrating leading-edge technology with exceptional customer service, Extend empowers businesses to build trust and loyalty among consumers while reducing costs and increasing profits.\n   \n   \n    \n\n     Today, Extend works with more than 1,000 leading merchant partners across industries, including fashion/apparel, cosmetics, furniture, jewelry, consumer electronics, auto parts, sports and fitness, and much more. Extend is backed by some of the most prominent technology investors in the industry, and our headquarters is in downtown San Francisco.\n   \n  \n \n \n  About the Role:\n\n\n  The Fraud Intelligence team is the analytical core behind Extend’s post-purchase protection platform. We turn signals and transactions from hundreds of millions of users into the insights that decide what we catch, what we stop, and what we let through.\n\n\n  We love uncovering patterns in messy data to catch bad actors, and fraud doesn't stand still. The work moves quickly: a new tactic shows up, you find it in the data, and you help shut it down. You'll work on the front line of how AI is changing fraud review, alongside Fraud Ops and our Machine Learning team, so your analysis turns into material changes, not just a slide.\n\n\n  If you're data-obsessed, impact-driven, and excited by problems at the intersection of analytics and fraud prevention, you'll thrive here. This is a high-ownership role. Your analysis directly protects retailers, builds customer trust, and moves the company's bottom line. You'll also help raise the bar for the team by reviewing code and mentoring junior analysts.\n\n\n  What You’ll Be Doing:\n\n\n  \n   Analyze large-scale behavioral, transactional, and interaction data to uncover signals indicative of fraud and abuse\n   Apply strong business acumen to rapidly identify actionable insights, analyze fraud patterns, and validate hypotheses\n   Respond swiftly to emerging fraud threats by developing monitoring frameworks, dashboards, and mitigation solutions in collaboration with cross-functional teams\n   Evaluate Fraud Ops' AI review agent, both the quality of its case summaries and the accuracy of its recommended decisions, and turn what you find into prompt, rule, and workflow improvements\n   Partner with the Machine Learning team to translate fraud pattern findings into model feature recommendations, and give feedback on model scoring based on investigation outcomes\n   Participate in design and code reviews, and mentor junior analysts on SQL and analysis best practices\n  \n  What We’re Looking For:\n\n\n  \n   Hands-on, proactive, and analytical professional who is passionate about using data to solve complex, real-world problems\n   3+ years of experience in fraud analytics, ideally within an e-commerce or retail environment\n   Prior experience in a startup or high-growth environment is preferred\n   Bachelor’s degree or higher in a quantitative field such as Mathematics, Statistics, Computer Science, Engineering, Operations Research, Physics or related field\n   Strong grasp of core data science and analytics concepts, including statistical analysis, modeling, and data wrangling\n   Proficiency in SQL and experience in Python (pandas, NumPy, scikit-learn, etc.)\n   Experience evaluating or tuning automated decisioning systems (LLM-based or rules-based) is a plus\n   Exceptional communication and stakeholder management skills, with a proven ability to work cross-functionally and influence outcomes\n   High attention to detail, strong intellectual curiosity, and a deep understanding of user behavior and fraud patterns\n   Empathetic, humble, and collaborative team player\n   Candidates must be located within the continental United States\n  \n  Expected Pay Range: $125,000 - $145,000 per year salaried*\n\n\n  \n   The target base salary range for this position is listed above. Individual salaries are determined based on a number of factors including, but not limited to, job-related knowledge, skills and experience.\n  \n  Extend does not provide immigration-related sponsorship for this role.\n\n\n \n \n  Life at Extend:\n\n\n  \n   Working with a great team from diverse backgrounds in a collaborative and supportive environment.\n   Competitive salary based on experience, with full medical and dental & vision benefits.\n   Stock in an early-stage startup growing quickly.\n   Generous, flexible paid time off policy.\n   401(k) with Financial Guidance from Morgan Stanley.\n  \n  Extend CCPA HR Notice",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=75b1f9be7abc4775&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/senior-analyst-fraud-intelligence/11758515?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/senior-analyst-fraud-intelligence_7ea1af69d1ef4836d41fc49072758e51be4c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobgether",
+                    "link": "https://jobgether.com/offer/6ad6d246a8fae18ba2cfa219-senior-analyst-fraud-intelligence?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010302509098&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SideHustles.com",
+                    "link": "https://sidehustles.com/job/senior-analyst-fraud-intelligence-8276f714/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/senior-analyst-fraud-intelligence--united-states--ef2e6104f63099d9d22bd7e554c080a1d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/senior-analyst-fraud-intelligence-extend-remote-us--t7xk-893541137?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgQW5hbHlzdCwgRnJhdWQgSW50ZWxsaWdlbmNlIiwiY29tcGFueV9uYW1lIjoiRXh0ZW5kIiwiaHRpZG9jaWQiOiJyVnZTQm5jMkNoQk91RldKQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzBKdVRXTkNOVzB0UTBSWU5HdDVRa1Y1V2tKVFJIbFdRamgzZFROU01tVnZSRFJvWkdOZmQxcHdjMGhvTVVGc1IyeEpVRWsxUjFoUFRERkdWRTVFYjBkamVGUjZhSEpZYlZscFVUZFZlWEZWYjNKU1h6TnlkVmhUYjJoSGNWOVZheTF0YmtsVGJqWlpOMnBvVEVGVU4yRjFORXMwVW5sUkxXTkdZa2RmYXpNd1EwaHVObWtTRnkwMmFtSmhiMHh6U0dWeFkzQjBVVkJ5WlhWME1FRlpHaUpCUkhOeU9XWlRRVzB4VFhOV2IzbEtXVXhETVdNMFVXZDZlR2RQZWxkVFdERkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJyVnZTQm5jMkNoQk91RldKQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Real-Time Fraud Operations Specialist (Remote)",
+            "company_name": "Pliant",
+            "location": "Anywhere",
+            "via": "JobLeads",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Requires 2–3 years in fintech, SQL and Python experience, and the ability to work fixed shifts including weekends"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will work with engineering, compliance, and customer relations to detect fraud patterns and drive improvements in detection logic"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=2HhxLe49R0ixAZRGAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7A4LTjSq0EcFFZxVclFbnck2PNJLmQu6E_oz_al3e-IrvojjXhKF8-pHgkvHTwz1RRvUcBZpE1mPworCuaWSlDZRw4w6EMNsBOMKV2QVanQbVJEdjRELlROfBVpZHw5E6nsybO_nTyoCZUkCldn_YTVWKbrt8BI9RwUd4Ra_UQzMHJD9RXCa0oAAAAA&shmds=v1_ARwrE22whwe3Ixinv4ogp1eDaJfK2GsuyXWhmPIqsWB__bP93A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=2HhxLe49R0ixAZRGAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAbFBMVEX___8AAAAAFR0ACxYACBSEh4j6-vq0trducnQ1Oz-qra719vYIGSAAExwAERoZJCoAAAtBSEx7f4Hd3t8AAhERHiQAAAXGyMnk5eVMUlXV1tciLDLNzs-WmZtlam1fZGiNkJIrNDlUWV2hpKUZFhgkAAABjElEQVRIie3U2XKDIBQGYA4gGEFAFjWJS9O8_zsWMJouSTvtbf2d0Zkjn-BxQWjPnj171jDGELpa92tYAfAOFH1-ZSEeQ0ojJPVT2IB6DAnliL_0T-FR6nezx92Juw2yuMU4PsS9YKiPA3o-xCJzOmjR31ZrYeIX8HA5LZAB2MgOsXSuZpiRhhcL3pghLlRrDdAtsMCStjXFoe1vEBdI-CC9bKmUJToE3AaJNbBXEqGEYYVadUIURL7eYYlVKdgQdIZkRGiS5Lrc49rXAhOeGxZAbJCEQ6p1PsNzulkTyx-aU-A2d_GqzGmFfavGfDJD2SSIsf0MlVg66gd-g86oaz4Z8Abrr7B1yxHcNiPEmdJokN_BPEjI4O_NiQ1J67f4C6zfQU2O1RiCGe-Qg1Yjn4n-BK0Kje03aFpDZHzU-SVn4OOIEiQxxnhaogvJ0KeyUERtz7H2fdVcmiq1f546Nk-pMfx4PoyxMCI72QSnXBZjObt1Rvr4U_kpBfZ_gxbgb7B3v_9T7Nmz51_nDYR-GK_2vk_0AAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "8 days ago",
+                "70K–105K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.jobleads.com/us/job/real-time-fraud-operations-specialist-remote--united-states--e62da8f6d3da1d8c04f453f55d795b312",
+            "job_title": "Real-Time Fraud Operations Specialist (Remote)",
+            "description": "Pliant is expanding its fraud operations as we prepare the US launch, seeking a Fraud Operations Specialist to monitor real-time transactions and manage alerts.\n\nYou will work with engineering, compliance, and customer relations to detect fraud patterns and drive improvements in detection logic.\n\nRequires 2–3 years in fintech, SQL and Python experience, and the ability to work fixed shifts including weekends.",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/real-time-fraud-operations-specialist-remote--united-states--e62da8f6d3da1d8c04f453f55d795b312?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/jr-operations-specialist-dividends-oppenheimer-co-inc--techmap_us_Opco_3783160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/oppenheimer-co-inc/jr-operations-specialist-dtc-33135139/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido",
+                    "link": "https://us.jobrapido.com/jobpreview/8776866959737225216?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-5413-cf0438dbc5f73e517ad7563b2bdbec00?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZWFsLVRpbWUgRnJhdWQgT3BlcmF0aW9ucyBTcGVjaWFsaXN0IChSZW1vdGUpIiwiY29tcGFueV9uYW1lIjoiUGxpYW50IiwiaHRpZG9jaWQiOiIySGh4TGU0OVIwaXhBWlJHQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzI1YWJqZHhNRzFtWVZCeVpqSm1WVkJuWnkwelFuUjRiVEJ3UjBvemRHOW5kV3hYU0djd2JtMUtibmhRVHpKSlUyNVliVnB5Y21OYWJXWmFVRFpXWDA5SFYydHhhMnBUVkRORGNtRmlNRm94VVc5aVNETlRVMDgzWHpGU2RsQkxURWx3U2tsWlN6VnZZamR3WldkSmFXTXpjRVZSVkhkSFZHTkRiVU5mUjJOYVlXbEtOazRTRnkwMmFtSmhiMHh6U0dWeFkzQjBVVkJ5WlhWME1FRlpHaUpCUkhOeU9XWlNTbkZHVGpCYVgyMVNMVmxYWlhOUFMxOTNRMlpUVTJSTVVreFIiLCJmY3YiOiIzIiwiZmNfaWQiOiIySGh4TGU0OVIwaXhBWlJHQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Fraud Strategist",
+            "company_name": "Plaid",
+            "location": "United States",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5-10 years of experience in a customer-facing analytical role in fintech, financial services, or a related domain (e.g., software/tech)",
+                        "Experience working closely with data science teams",
+                        "Experience managing consultative customer engagements where you owned the deliverable and the relationship",
+                        "Comfort interpreting ML model output (e.g., precision/recall, score distributions) and explaining it to a non-technical audience",
+                        "[Nice to have] Background in data science or ML engineering, particularly on a fraud or risk team",
+                        "[Nice to have] Experience in fraud, identity, or risk — either from a fraud prevention vendor, a fraud team at a bank or fintech, or consulting on risk engagements"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Additional compensation in the form(s) of equity and/or commission are dependent on the position offered",
+                        "Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k)",
+                        "Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location",
+                        "Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans",
+                        "Compensation Range: $181.2K - $294K"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The role sits between our data team and the customer (i.e., the role will not build the models, but will need to understand the output well enough to clearly and compellingly present the business case and work with technical stakeholders and customers.)",
+                        "Own the retro and POC process end-to-end and collaborate with customers and internal stakeholders at Plaid",
+                        "Partner closely with customers to help them understand the ROI of Protect and make recommendations for implementing our fraud products",
+                        "Drive post-retro follow-through to convert retro results into production usage",
+                        "Serve as a feedback loop between customers and product to drive our Protect roadmap"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=5hIg3-DlbQpCFtwDAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNsQrCMBBA936Ag9NtgmAigovuCk5C6Vwu6ZFE0lzIndDJb7dd3vLgve7XHR4NvxP02lApJFE4wYsdCGHzEbjAkzlk2t-japWbtSLZBFHU5I3n2XIhx4v9sJMNo0RsVPOaGy_X82JqCcfdO2OaIBUYSlLafquXP648eaCAAAAA&shmds=v1_ARwrE20NEpRMBmH_hmQWh1nJ_4EER9Y6se6iEJRzLdEWBkMcAg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=5hIg3-DlbQpCFtwDAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba8f92cd7a101a92c2ae1/images/1glTfSerF6FNhh6XkWBeg5YpVDSAlQYWw2an6VKTbEU.jpeg",
+            "extensions": [
+                "10 days ago",
+                "181K–294K a year",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.linkedin.com/jobs/view/fraud-strategist-at-plaid-4415564495",
+            "job_title": "Fraud Strategist",
+            "description": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Seattle, Washington D.C., Raleigh, London, and Amsterdam.\n\nOur Fraud team's mission is to help companies detect and prevent fraud using financial network data. We believe that transaction patterns, device signals, and behavioral data are an underleveraged tool in fraud prevention.\n\nThe Fraud Strategist is responsible for building and maturing our retro-as-a-service and POC program and driving adoption of our fraud products. The role sits between our data team and the customer (i.e., the role will not build the models, but will need to understand the output well enough to clearly and compellingly present the business case and work with technical stakeholders and customers.)\n\nResponsibilities\n\n\n\nOwn the retro and POC process end-to-end and collaborate with customers and internal stakeholders at PlaidPartner closely with customers to help them understand the ROI of Protect and make recommendations for implementing our fraud productsDrive post-retro follow-through to convert retro results into production usageServe as a feedback loop between customers and product to drive our Protect roadmap\n\nQualifications\n\n5-10 years of experience in a customer-facing analytical role in fintech, financial services, or a related domain (e.g., software/tech)Experience working closely with data science teamsExperience managing consultative customer engagements where you owned the deliverable and the relationshipComfort interpreting ML model output (e.g., precision/recall, score distributions) and explaining it to a non-technical audience[Nice to have] Background in data science or ML engineering, particularly on a fraud or risk team[Nice to have] Experience in fraud, identity, or risk — either from a fraud prevention vendor, a fraud team at a bank or fintech, or consulting on risk engagements\n\nOur mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem more equitable. We recognize that strong qualifications can come from both prior work experiences and lived experiences. We encourage you to apply to a role even if your experience doesn't fully match the job description. We are always looking for team members that will bring something unique to Plaid!\n\nPlaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.\n\nPlease review our Candidate Privacy Notice here.\n\nAdditional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.\n\nCompensation Range: $181.2K - $294K",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/fraud-strategist-at-plaid-4415564495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Welcome To The Jungle",
+                    "link": "https://www.welcometothejungle.com/en/companies/plaid/jobs/fraud-strategist_us_wghucyzm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/plaid/6dbf0f7f-ef35-4037-9418-6b2460f41345?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/fraud-strategist_7ea1abee4e7543e9cceaca973d19e7fa51152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "GRC Careers",
+                    "link": "https://www.ai-governance-jobs.com/jobs/fraud-strategist-stripe-singapore/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobright",
+                    "link": "https://jobright.ai/jobs/info/6aa83584930bff471a2a5ca5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Employa",
+                    "link": "https://employa.liveblog365.com/remote-jobs/fraud-strategist-88447fb6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Lensa",
+                    "link": "https://lensa.com/job-v1/stripe/remote/fraud-investigator/7885b8ff2ce21d5bc84f36abd62d402c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcmF1ZCBTdHJhdGVnaXN0IiwiY29tcGFueV9uYW1lIjoiUGxhaWQiLCJodGlkb2NpZCI6IjVoSWczLURsYlFwQ0Z0d0RBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV3BFVkMxRGEySnRjblY2Vm5WSmRYSmpiVGs1WVhCTWVsUjRiWEE1V1hkd2R6YzFjVEUyYVV4T2RGOXlhR3hrZGs5NFdHOUhXQzFKU0dKdUxXOHROM1JJTlZWalpUTlJVM0JZV2pKa2JrY3hhblZuWkRKUFEzQnpkWGRPY2xWRFZrczNRalpNVG5SeE1YVjNhR2xZUTFOaVRuTlVRWGQwY2xseE5HVllaVkJEWTJnM1VrVVNGeTAyYW1KaGIweHpTR1Z4WTNCMFVWQnlaWFYwTUVGWkdpSkJSSE55T1daVVZuSjFSVTFoWmxCc2VGcEZXbXhYVDBwWFkzZDJSazVpV2t4MyIsImZjdiI6IjMiLCJmY19pZCI6IjVoSWczLURsYlFwQ0Z0d0RBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Fraud Analyst - Content & Reviews Abuse",
+            "company_name": "AuraOne Human Data",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Direct working experience in fraud analyst content reviews abuse specialist operations on real teams for Fraud Analyst - Content & Reviews Abuse work",
+                        "Comfort applying multi-page rubrics consistently across long batches",
+                        "Clear written reasoning that names the policy or workflow being applied",
+                        "Strong attention to detail and the ability to flag when a prompt itself is the problem",
+                        "Reliable async availability for at least 10 hours per week",
+                        "Prior experience training, calibrating, or QA-ing operations teams",
+                        "Familiarity with AI-assisted workflow tooling and its failure modes",
+                        "Bilingual experience for cross-region operations",
+                        "Operational review",
+                        "Fraud Analyst Content Reviews Abuse specialist operations"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Independent specialist contractor",
+                        "$15–$25 / hr"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Fraud Analyst - Content & Reviews Abuse is a remote review track for evaluating AI outputs across fraud analyst content reviews abuse specialist operations workflows",
+                        "Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it",
+                        "Fraud Analyst Content Reviews Abuse specialist operations AI has to fit into an actual day at work",
+                        "AuraOne uses experienced operators to grade outputs the way a senior peer would — checking workflow, policy, and the unwritten rules that decide whether a task actually gets done",
+                        "Review AI outputs against current fraud analyst content reviews abuse specialist operations workflows, playbooks, and firm policy for Fraud Analyst - Content & Reviews Abuse assignments",
+                        "Grade tone, escalation logic, and stakeholder fit on a structured rubric",
+                        "Flag operational risk, missed escalations, and policy-adherence gaps with severity tags",
+                        "Capture the right next step so the modeling team can train on it",
+                        "Adjudicate disputed treatments against published playbooks or firm guidance",
+                        "Maintain reviewer-quality scores in inter-rater calibration cycles",
+                        "Grade a model's response to a real fraud analyst content reviews abuse specialist operations ticket and rate workflow, tone, and escalation",
+                        "Flag a missed escalation with the right severity tag and corrected next step",
+                        "Adjudicate a disputed playbook call between two reviewers using firm guidance",
+                        "Audit a 25-row batch for rubric consistency and report drift to the program lead",
+                        "Policy adherence",
+                        "Workflow judgment",
+                        "Stakeholder communication"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=Uao-MXLIDJ15d4MiAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCQAyAYVz7CE4BwUGwFcFFQSiKiougOJdcG9qTa1KanNbX8UnV5V8--JPPKNkeeowV5IzhrQZz2AkbscEUrvT09FLIXVT6yVkcKGFfNiAMR5E60HjTmHW6zjLVkNZqaL5MS2kzYXIyZA9x-k-hDfbUBTQqlqvFkHZczyZ57PHCBKfYIsMeDcEz3NkbVXD7zUi_sUVX-6UAAAA&shmds=v1_ARwrE21HCwe_rK4h6GZhug7OyL1wKPx-Qs5rTsvzrpAmN9HHZQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=Uao-MXLIDJ15d4MiAAAAAA%3D%3D",
+            "extensions": [
+                "15–25 an hour",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.indeed.com/viewjob?jk=d91045a1193eb710",
+            "job_title": "Fraud Analyst - Content & Reviews Abuse",
+            "description": "Fraud Analyst - Content & Reviews Abuse is a remote review track for evaluating AI outputs across fraud analyst content reviews abuse specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.\n\n\n  Why this role matters\n Fraud Analyst Content Reviews Abuse specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would — checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.\n\n\n  Responsibilities\n \n  Review AI outputs against current fraud analyst content reviews abuse specialist operations workflows, playbooks, and firm policy for Fraud Analyst - Content & Reviews Abuse assignments.\n  Grade tone, escalation logic, and stakeholder fit on a structured rubric.\n  Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.\n  Capture the right next step so the modeling team can train on it.\n  Adjudicate disputed treatments against published playbooks or firm guidance.\n  Maintain reviewer-quality scores in inter-rater calibration cycles.\n \n  Qualifications\n \n  Direct working experience in fraud analyst content reviews abuse specialist operations on real teams for Fraud Analyst - Content & Reviews Abuse work.\n  Comfort applying multi-page rubrics consistently across long batches.\n  Clear written reasoning that names the policy or workflow being applied.\n  Strong attention to detail and the ability to flag when a prompt itself is the problem.\n  Reliable async availability for at least 10 hours per week.\n \n  Example tasks\n \n  Grade a model's response to a real fraud analyst content reviews abuse specialist operations ticket and rate workflow, tone, and escalation.\n  Flag a missed escalation with the right severity tag and corrected next step.\n  Adjudicate a disputed playbook call between two reviewers using firm guidance.\n  Audit a 25-row batch for rubric consistency and report drift to the program lead.\n \n  Nice to have\n \n  Prior experience training, calibrating, or QA-ing operations teams.\n  Familiarity with AI-assisted workflow tooling and its failure modes.\n  Bilingual experience for cross-region operations.\n \n  Skills\n \n  Operational review\n  Policy adherence\n  Workflow judgment\n  Stakeholder communication\n  Fraud Analyst Content Reviews Abuse specialist operations\n \n  Work model\n Remote — US-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n\n  Compensation\n $15–$25 / hr\n\n\n  Application process\n Apply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=d91045a1193eb710&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/remote-chargeback-fraud-analyst--united-states--ebd1efd6d87c319da6bfcfb5ab2ecf075?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/fraud-analyst-content-and-reviews-abuse-auraone-human-data-JV_KO0,39_KE40,58.htm?jl=1010211134025&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hireloom",
+                    "link": "https://hirefinity.p3d.66ghz.com/remote-jobs/qa-analyst-contractor-5029981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/contio-tech/remote-content-qa-analyst-multilingual-eu-54360185/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Univision Empleos",
+                    "link": "https://trabajos.univision.com/job/23-14660_7AE98D7A8BD8E3C3F467B2CBC86B20FF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jns Montage",
+                    "link": "https://www.jnsmontage.nl/gig/job/fraud-analyst-content-reviews-abuse-at-auraone-human-data-remote-TVREY2Y1UHVwTkladTArc212ZnpNbE0rWkE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Wanna Bee Your Honey",
+                    "link": "https://www.wanna-bee.se/career/job/fraud-analyst-content-reviews-abuse-at-auraone-human-data-remote-WG1EaFRTT0hwZ0FyOU9mLzRPdjlEd3Jianc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcmF1ZCBBbmFseXN0IC0gQ29udGVudCBcdTAwMjYgUmV2aWV3cyBBYnVzZSIsImNvbXBhbnlfbmFtZSI6IkF1cmFPbmUgSHVtYW4gRGF0YSIsImh0aWRvY2lkIjoiVWFvLU1YTElESjE1ZDRNaUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNUZGFSREpGZFdneGRXMTVNbnBzTkVSVlRIWkxjMkZQU0hNMGNuZGZaMDVzWW01aFlrZG1ObVJXWkVoYWNqVkNOVXhZYjJ0M2RqQXRTa051YWpSYVh6SkJjRFZKWTJkTGVrVkdjbE5HZDJKc1IyZ3lUblI2VEVGdk1WcDFSSEEyWjNCa1gxQXhNa1pVTjJvMVozQTNVVWxPVTE5NlZtUkRjMlpoUVZGaFMzcHJTREZpZEhZU0Z5MDJhbUpoYjB4elNHVnhZM0IwVVZCeVpYVjBNRUZaR2lKQlJITnlPV1pTTlRsd1JtVlFOSEk0YlRkcFZXVTBXUzEzY0RkdExYSkpSREZCIiwiZmN2IjoiMyIsImZjX2lkIjoiVWFvLU1YTElESjE1ZDRNaUFBQUFBQT09In0="
+        },
+        {
+            "title": "Fraud Investigator — Hybrid Role in Financial Crime",
+            "company_name": "1611 Ally Bank",
+            "location": "Anywhere",
+            "via": "JobLeads",
+            "job_highlights": [
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Base pay and benefits are described in the company’s Total Rewards"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Ally Financial is seeking a Fraud/Financial Crimes Investigator to conduct investigations on consumer auto finance accounts, develop evidence-based plans, and report findings to leadership and regulators",
+                        "The role collaborates with Legal, Compliance, Risk, Audit, and law enforcement, ensuring adherence to policies while supporting risk management and loss mitigation efforts"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Fraud+Detection+Specialist&htidocid=dhuQKZ5O1xSdyUY6AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNPQ6CQBBA4dhyBBunNhHERAut1AR_YqWxJgNMYHWZITurgc5DeAxP5UmU5pXfCz6D4JQ4fBRw4CepNyV6cfB9vWHfZc4UcBZLYBgSw8i5QQtbZ2qCCRwlAyV0eQXCsBMpLQ1XlfeNLqNI1YalevQmD3OpI2HKpI1ukmmfVCt01Fj0lM7m0zZsuByP4kUcw9raDjbI9357ZeOpgMsfIv0BMPPkfK8AAAA&shmds=v1_ARwrE21idvQwo4G_DlKxpRkWEmUOt5QYOskxNIbWQQonsN75HA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Fraud+Detection+Specialist&htidocid=dhuQKZ5O1xSdyUY6AAAAAA%3D%3D",
+            "extensions": [
+                "7 days ago",
+                "55K–95K a year",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned",
+                "Health insurance"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.jobleads.com/us/job/fraud-investigator-hybrid-role-in-financial-crime--united-states--ebfb7ba962505e823b07edbf569da8f57",
+            "job_title": "Fraud Investigator — Hybrid Role in Financial Crime",
+            "description": "Ally Financial is seeking a Fraud/Financial Crimes Investigator to conduct investigations on consumer auto finance accounts, develop evidence-based plans, and report findings to leadership and regulators.\n\nThe role collaborates with Legal, Compliance, Risk, Audit, and law enforcement, ensuring adherence to policies while supporting risk management and loss mitigation efforts. Base pay and benefits are described in the company’s Total Rewards.",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/fraud-investigator-hybrid-role-in-financial-crime--united-states--ebfb7ba962505e823b07edbf569da8f57?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcmF1ZCBJbnZlc3RpZ2F0b3Ig4oCUIEh5YnJpZCBSb2xlIGluIEZpbmFuY2lhbCBDcmltZSIsImNvbXBhbnlfbmFtZSI6IjE2MTEgQWxseSBCYW5rIiwiaHRpZG9jaWQiOiJkaHVRS1o1TzF4U2R5VVk2QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU20xdFNIWlFlSGhuV0hoNGJYYzVlR0oxTkVKWmEwVmZjMDlSU2xneFpWa3pkVjk2Y3kxWU5HcDBjRWRhUTBWaU1YQm9URVpIVW13MVpIVk5jekZYU1hsRVpWcElUVEJKZWxKeWJscHhhMUZoYkU1ck1HbG5kWFJ4VWxwSWNrVmlOM1ptY21wU1JWYzJRa3hZVUhWeE1qZzBiazkwZVY4MlFVVkxUbFUyYzNjMVRXUlFTblFTRnkwMmFtSmhiMHh6U0dWeFkzQjBVVkJ5WlhWME1FRlpHaUpCUkhOeU9XWlVVSFpuU1hsMFZtZDJWV2RzTjNObFYwazNhelpuTUZGaFkzSm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJkaHVRS1o1TzF4U2R5VVk2QUFBQUFBPT0ifQ=="
+        }
+    ]
+}

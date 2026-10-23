@@ -1,0 +1,918 @@
+{
+    "jobs_results": [
+        {
+            "title": "Data Scientist - AI/ML (Mid & Sr Levels)",
+            "company_name": "Spade",
+            "location": "Anywhere",
+            "via": "Spade",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "3+ years building and shipping models in Python, in a fast-paced environment (5+ for senior)",
+                        "Worked hands-on with engineering and product, not just in a research silo",
+                        "Strong ML, stats, and data fundamentals (PySpark, pandas, SQL)",
+                        "A product mindset — you navigate ambiguity and optimize for customer value, not just model accuracy",
+                        "A collaborative streak — you take feedback well and care about the team's success, not just your own",
+                        "An AI-forward workflow — coding assistants and LLMs are part of how you already work, and you're excited to push further",
+                        "Are able to work remotely within the US or Canada",
+                        "5+ years experience, with end-to-end ownership of ML/AI products from idea to production",
+                        "Shipped ML/AI-powered products, ideally customer-facing",
+                        "A track record of mentoring and raising team standards",
+                        "Databricks, data pipelines, Hex",
+                        "Gen AI feature/product development",
+                        "Fintech experience — especially transaction, merchant, or location data",
+                        "Early-stage, high-growth startup experience",
+                        "Flexible In-Person Culture"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Competitive Compensation",
+                        "Data-driven salaries that reward performance and ownership",
+                        "Meaningful Equity",
+                        "Flexibility with early exercise and an extended post-termination options",
+                        "Comprehensive Health Benefits",
+                        "100% paid medical, mental, dental, and vision premium option plus One Medical membership (for US-based employees)",
+                        "401(k)",
+                        "Empowering you to invest in your future",
+                        "Paid Parental Leave",
+                        "12 weeks of full pay for parents welcoming a new child into their home",
+                        "Unlimited PTO",
+                        "Supporting you in and outside of work. Generous work from home stipend, company-paid lunches, Citibike Membership, and more",
+                        "At Spade, we view total compensation as consisting of salary + equity + benefits",
+                        "We aim to pay fairly and competitively, and consider a number of factors in developing compensation offers"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Spade is a data and AI platform that turns messy transaction strings into structured, verified records — and gives teams the tools to act on it across authorization, attribution, analytics, and AI initiatives",
+                        "Spade leads the market in terms of merchant coverage, matching accuracy, geolocation data, and speed of transaction enrichment",
+                        "Customers such as, FIS, Bilt, Mercury, Stripe, alongside many other leaders in fintech and financial services, trust Spade's data to enable personalized rewards programs, accurate applied spending rules, precise analytics requests, and innovative AI-powered features",
+                        "At Spade, data is the product — and you'll be one of the people shaping it",
+                        "As a Data Scientist, you'll build the real-time ML/AI systems that power how top fintechs and financial institutions understand every transaction: from traditional ML and NLP models to AI agents, all running on our proprietary merchant, location, and transaction datasets",
+                        "Your work won't sit in a research silo — you'll partner closely with engineering and product to take ideas from prototype to production, directly shaping the accuracy, speed, and intelligence customers like FIS, Bilt, Mercury, and Stripe rely on every day",
+                        "Own the full lifecycle of ML/AI products",
+                        "From first prototype to production system serving real customers",
+                        "Build the automated systems behind Spade's data quality",
+                        "The models and pipelines that keep our accuracy and coverage ahead of the market",
+                        "Set the bar for how ML gets built here",
+                        "Pushing for models that are not just accurate, but scalable, robust, and production-ready from day one",
+                        "Help shape where the data science team goes next",
+                        "Partnering directly with leadership on roadmap and priorities (Senior role)",
+                        "Grow the team around you",
+                        "Mentoring other data scientists and raising the practices we build on (Senior role)",
+                        "As an early employee, you’ll play a meaningful role in defining and building our culture",
+                        "Get in on the ground floor"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=YrYf_7zDKXc7ItACAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBCAYVz7AA5ON4kKNiK46CCCIEo7BedyTY42EnOhd0ifxOe1Lv_y8RffWXG-oiJYFyhpEIUtXO6mrmBVBw9LsANU9KEo60ke3IIQDq4HTnBj7iItTr1qlqMxIrHsRFGDKx2_DSdqeTQvbuWfRnocKEdUavaH3Vjm1G3mNqMnCAmeKSh5sNNP8gPZIA0gmQAAAA&shmds=v1_ARwrE21WwtwwBAlhP8tWuDE-l0ie35GaiSkPIhbJUW4wympwYA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=YrYf_7zDKXc7ItACAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adb9fad0d7c5d384268c0c6/images/D9fd3EQfySMGuoyxhFMPi3VzWIRoMO4oyMyZ2dY-NUA.jpeg",
+            "extensions": [
+                "175K–225K a year",
+                "Work from home",
+                "Full-time",
+                "Dental insurance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://spade.com/careers/jobs/eeca5a13-7958-46b4-b295-8d48da58cd65/?utm_source=Flourish+Ventures+job+board&utm_medium=getro.com&gh_src=Flourish+Ventures+job+board",
+            "job_title": "Data Scientist - AI/ML (Mid & Sr Levels)",
+            "description": "What is Spade?Financial institutions process billions of transactions every day across cards, ACH, wires, and third party aggregators. But most of that data is difficult to use. Descriptions are inconsistent, merchant names don’t match, and categories vary by payment type.\n\nSpade is a data and AI platform that turns messy transaction strings into structured, verified records — and gives teams the tools to act on it across authorization, attribution, analytics, and AI initiatives. Spade leads the market in terms of merchant coverage, matching accuracy, geolocation data, and speed of transaction enrichment. Customers such as, FIS, Bilt, Mercury, Stripe, alongside many other leaders in fintech and financial services, trust Spade's data to enable personalized rewards programs, accurate applied spending rules, precise analytics requests, and innovative AI-powered features.\n\nSpade is a fast growing, Series B company backed by industry experts and top tier investors (including Oak HC/FT, a16z, Flourish Ventures, Y-Combinator, and Gradient Ventures). We’re a lean and execution-oriented hybrid team, passionate about building exceptional products for our growing customer base. We care deeply about diversity of background, experience, and opinion. We value empathy, curiosity, and passion, and strive to create an environment where individuals have autonomy and the ability to take ownership over their work.\n\nThe OpportunityAt Spade, data is the product — and you'll be one of the people shaping it. As a Data Scientist, you'll build the real-time ML/AI systems that power how top fintechs and financial institutions understand every transaction: from traditional ML and NLP models to AI agents, all running on our proprietary merchant, location, and transaction datasets. Your work won't sit in a research silo — you'll partner closely with engineering and product to take ideas from prototype to production, directly shaping the accuracy, speed, and intelligence customers like FIS, Bilt, Mercury, and Stripe rely on every day.\n\n\n\nWhat will you be doing?Own the full lifecycle of ML/AI products. From first prototype to production system serving real customers\n\nBuild the automated systems behind Spade's data quality. The models and pipelines that keep our accuracy and coverage ahead of the market\n\nSet the bar for how ML gets built here. Pushing for models that are not just accurate, but scalable, robust, and production-ready from day one\n\nHelp shape where the data science team goes next. Partnering directly with leadership on roadmap and priorities (Senior role)\n\nGrow the team around you. Mentoring other data scientists and raising the practices we build on (Senior role)\n\nNote: We're hiring for both Mid and Senior levels across multiple openings; exact level is determined during the interview process.\n\n\n\nWhat experience, skills, and qualifications are necessary?Must Have:3+ years building and shipping models in Python, in a fast-paced environment (5+ for senior)\n\nWorked hands-on with engineering and product, not just in a research silo\n\nStrong ML, stats, and data fundamentals (PySpark, pandas, SQL)\n\nA product mindset — you navigate ambiguity and optimize for customer value, not just model accuracy\n\nA collaborative streak — you take feedback well and care about the team's success, not just your own\n\nAn AI-forward workflow — coding assistants and LLMs are part of how you already work, and you're excited to push further\n\nAre able to work remotely within the US or Canada. We are also open to NYC-based candidates who would prefer to work hybrid (2 days/week) out of our Flatiron HQ.\n\nAdditional for Senior Level:5+ years experience, with end-to-end ownership of ML/AI products from idea to production\n\nShipped ML/AI-powered products, ideally customer-facing\n\nA track record of mentoring and raising team standards\n\nNice to have:Databricks, data pipelines, Hex\n\nGen AI feature/product development\n\nFintech experience — especially transaction, merchant, or location data\n\nEarly-stage, high-growth startup experience\n\nWhy Join Spade?Be a cultural founder. As an early employee, you’ll play a meaningful role in defining and building our culture.\n\nGet in on the ground floor. We’re a small but well-funded team – joining now comes with limited risk and unlimited upside.\n\nBuild the next generation of financial infrastructure. Our products will power the next wave of innovation in fintech, helping our customers deliver better, more transparent products and services to the consumer.\n\nBenefits at Spade:Competitive Compensation. Data-driven salaries that reward performance and ownership.\n\nMeaningful Equity. Flexibility with early exercise and an extended post-termination options.\n\nComprehensive Health Benefits. 100% paid medical, mental, dental, and vision premium option plus One Medical membership (for US-based employees).\n\n401(k). Empowering you to invest in your future.\n\nPaid Parental Leave. 12 weeks of full pay for parents welcoming a new child into their home.\n\nUnlimited PTO. Take the time you need to unplug and unwind.\n\nFlexible In-Person Culture. NYC HQ (hybrid and dog-friendly) with remote opportunities for certain roles in US/Canada.\n\nSupporting you in and outside of work. Generous work from home stipend, company-paid lunches, Citibike Membership, and more.\n\nSalary Range:At Spade, we view total compensation as consisting of salary + equity + benefits. We recruit motivated and high performing talent, and work to compensate people in line with the value they bring to our team.\n\nWe aim to pay fairly and competitively, and consider a number of factors in developing compensation offers. These factors include years and breadth of experience, interview performance, market dynamics, and internal equity.\n\nThe anticipated base salary range for this role is listed above (in USD).\n\nDiversity & Inclusion at Spade:Spade is an equal opportunity employer, committed to building a culture that is diverse, equitable, and inclusive. We believe that having people with different backgrounds, experiences, abilities, and perspectives not only helps us build the best products for our customers, but also helps us be the best version of ourselves.",
+            "apply_options": [
+                {
+                    "title": "Spade",
+                    "link": "https://spade.com/careers/jobs/eeca5a13-7958-46b4-b295-8d48da58cd65/?utm_source=Flourish+Ventures+job+board&utm_medium=getro.com&gh_src=Flourish+Ventures+job+board&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/spade/eeca5a13-7958-46b4-b295-8d48da58cd65?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Ascend-Learning/Job/Sr-Data-&-AI-Scientist/-in-Leawood,KS?jid=56424da35f200c7f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/sr-data-ai-scientist_7ea1aec0e05e451bd94a5ae739ce89f1c88ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobright",
+                    "link": "https://jobright.ai/jobs/info/6abc17283217d1d13329cfc9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/data-scientist-ai-ml-mid-sr-levels--f9d71a8f-8f77-46e6-8d27-b6539e140fcf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobAlert.world",
+                    "link": "https://jobalert.world/jobs/sr-data-ai-scientist-at-talenthop-remote-66255?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Karkidi",
+                    "link": "https://www.karkidi.com/job-details/83256-sr-data-scientist-marketing-consumer-analytics-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCAtIEFJL01MIChNaWQgXHUwMDI2IFNyIExldmVscykiLCJjb21wYW55X25hbWUiOiJTcGFkZSIsImh0aWRvY2lkIjoiWXJZZl83ekRLWGM3SXRBQ0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWSTBRbGh0UzFaa1dtVjNOSGRvZVhWSlgzQmFiR0ZvZWxRdFJVMWpNbVpVYzFkWlJqWTJkbGRKYkhoakxXNWlhekl6Y0d4NVlqUnFTVGhQTlV0S1oxcG1WR0YwY2pkc1MxOWpOVXhWWTNwRFVsVmhaMGhFZFZCTWJXTkpjMGhHWWxNM1gxaDFOV1l0T0ZFdFEzZE1VemRDUTA5clpERkxkR054V0dwalp6WjZjVkpYVXpnU0YzSmFYMkpoZFROc1NrOTVielZPYjFCZldWTjVhMUZKR2lKQlJITnlPV1pVVVhCaGJtaHNSMEZXVTFKZlFXSmtRMVpCYWt4eVltZFZaM1puIiwiZmN2IjoiMyIsImZjX2lkIjoiWXJZZl83ekRLWGM3SXRBQ0FBQUFBQT09In0="
+        },
+        {
+            "title": "Data Scientist/Quantitative Researcher",
+            "company_name": "Freestone Grove",
+            "location": "United States",
+            "via": "Mignone Center For Career Success - Harvard University",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Intellectual curiosity, particularly about how businesses operate and make money",
+                        "Attention to detail, and the instinct to check a result before presenting it",
+                        "Solid grounding in mathematics and statistics, and the discipline to represent uncertainty honestly rather than assume it away",
+                        "Impeccable written and verbal communication, with the ability to communicate complex ideas to colleagues, both quantitative and non-quantitative",
+                        "Ownership mentality, and comfort building process rather than inheriting it",
+                        "Ability to work efficiently both independently and within a team, and to prioritize competing requests under tight deadlines",
+                        "Bachelor's or advanced degree in a quantitative field such as statistics, mathematics, physics, astronomy, computer science, economics, or financial engineering",
+                        "Strong working proficiency in Python, including pandas and the standard scientific stack",
+                        "Proficiency of SQL, with familiarity with version control, testing, and writing code that colleagues will read and reuse",
+                        "Comfortable collaborating through git and working with APIs",
+                        "Recent or soon-to-be graduate through approximately four years of experience in quantitative research, data science, analytics, or software engineering",
+                        "Clear evidence of unusual analytical ability: a rigorous thesis, research assistantship, publications, or distinction in mathematics, physics, or informatics olympiads or comparable competitions",
+                        "We remain flexible on the specific path candidates have taken to develop quantitative research ability"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Working directly with portfolio managers and analysts, you will construct economically and statistically grounded forecasting models of firm-specific, industry, and macroeconomic fundamentals",
+                        "You will be expected to reach conclusions, size your confidence in them, and defend them to the people who will act on the work",
+                        "Working on research projects, independently and collaboratively, across the sectors our investment teams cover",
+                        "Working closely with our Head of Data Science and Head of Quantitative Strategies, alongside highly talented sector-specific fundamental investment professionals",
+                        "Sourcing, cleaning, and exploring new datasets including alternative, transactional, regulatory, and firm-disclosed",
+                        "Building forecasting models of firm-specific, industry, and macroeconomic fundamentals, grounded in the economics of the business",
+                        "Measuring the predictive content of a dataset for a specific single-name or sector question, and testing investment hypotheses against it",
+                        "Investigating anomalies, reconciling conflicting sources, monitoring data pipelines, and documenting assumptions and limitations",
+                        "Building and maintaining investor-facing trackers, dashboards, and recurring research workflows",
+                        "Improving the quality, testing, documentation, and reusability of the shared Python and SQL tooling used across the team",
+                        "Presenting research findings to portfolio managers, analysts, and quantitative researchers, and defending them"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=tP-VW6ZOZGzBu5SyAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCQBBEsc0nWG0tmBPBRrETA3YarMPmHJKTeBtuV8nX-K1esBlm4M1M8V0UxxMbU-0DogU1d31zNsYWPqAbFJx8j0RrukhL_0gSqRLpBiwPvdmoe-dUh7LTuedLLy8nEa1M7imtztJozwnjwIZmu9tM5Ri7FZ0ToJZRqpLkvxDpHoPhQXVegv4A4VKRvaEAAAA&shmds=v1_ARwrE22lHaLY-sDAK0zRSl_viym4ee4ZHYdImjxr8Tlso98CFg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=tP-VW6ZOZGzBu5SyAAAAAA%3D%3D",
+            "extensions": [
+                "3 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://careerservices.fas.harvard.edu/jobs/freestone-grove-data-scientist-quantitative-researcher/",
+            "job_title": "Data Scientist/Quantitative Researcher",
+            "description": "About the Role  \n\n\nAt Freestone Grove, the fundamental research process is built on bottom-up, firm-specific analysis within deep sector specialization. We believe that specialization compounds, and that using alternative data and modern quantitative methods to produce actionable insight is a core component of the investment approach. Each sector has its own nuances and machinery, and we are building a team of researchers who will master them. \n\n\nEarly-career researchers join a central team that serves every sector we cover, which means unusually broad exposure in the first year: you will work across 1-2 sectors including but not limited to healthcare, financials, technology, and industrials on live questions posed by the investors covering them. As you build technical depth, sector knowledge, and commercial judgment, the path is toward dedicated coverage of a sector of your own. \n\n\nThe work is turning large, complex, and often unconventional datasets into differentiated single-name insight. Working directly with portfolio managers and analysts, you will construct economically and statistically grounded forecasting models of firm-specific, industry, and macroeconomic fundamentals. You will be expected to reach conclusions, size your confidence in them, and defend them to the people who will act on the work. The premium throughout is on process, robustness, interpretability, and economic significance. \n\n\nWe are looking for curious, rigorous thinkers with a genuine interest in markets and in how businesses actually make money, ready to challenge assumptions and push the boundaries of applied data science in a fast-paced, early-stage setting. \n\n\nThe day-to-day responsibilities will include: \n\n\n\nWorking on research projects, independently and collaboratively, across the sectors our investment teams cover \n\n\nWorking closely with our Head of Data Science and Head of Quantitative Strategies, alongside highly talented sector-specific fundamental investment professionals \n\n\nSourcing, cleaning, and exploring new datasets including alternative, transactional, regulatory, and firm-disclosed \n\n\nBuilding forecasting models of firm-specific, industry, and macroeconomic fundamentals, grounded in the economics of the business \n\n\nMeasuring the predictive content of a dataset for a specific single-name or sector question, and testing investment hypotheses against it \n\n\nInvestigating anomalies, reconciling conflicting sources, monitoring data pipelines, and documenting assumptions and limitations \n\n\nBuilding and maintaining investor-facing trackers, dashboards, and recurring research workflows \n\n\nImproving the quality, testing, documentation, and reusability of the shared Python and SQL tooling used across the team \n\n\nPresenting research findings to portfolio managers, analysts, and quantitative researchers, and defending them \n\nAttributes \n\n\n\nIntellectual curiosity, particularly about how businesses operate and make money \n\n\nAttention to detail, and the instinct to check a result before presenting it \n\n\nSolid grounding in mathematics and statistics, and the discipline to represent uncertainty honestly rather than assume it away \n\n\nImpeccable written and verbal communication, with the ability to communicate complex ideas to colleagues, both quantitative and non-quantitative \n\n\nOwnership mentality, and comfort building process rather than inheriting it \n\n\nAbility to work efficiently both independently and within a team, and to prioritize competing requests under tight deadlines \n\nQualifications \n\n\n\nBachelor's or advanced degree in a quantitative field such as statistics, mathematics, physics, astronomy, computer science, economics, or financial engineering \n\n\nStrong working proficiency in Python, including pandas and the standard scientific stack \n\n\nProficiency of SQL, with familiarity with version control, testing, and writing code that colleagues will read and reuse \n\n\nComfortable collaborating through git and working with APIs \n\n\nRecent or soon-to-be graduate through approximately four years of experience in quantitative research, data science, analytics, or software engineering \n\n\nClear evidence of unusual analytical ability: a rigorous thesis, research assistantship, publications, or distinction in mathematics, physics, or informatics olympiads or comparable competitions \n\n\nFamiliarity with company financial statements, industry KPIs, or alternative datasets is a plus \n\n \n\n\nThe above is an example of an ideal profile. We remain flexible on the specific path candidates have taken to develop quantitative research ability.",
+            "apply_options": [
+                {
+                    "title": "Mignone Center For Career Success - Harvard University",
+                    "link": "https://careerservices.fas.harvard.edu/jobs/freestone-grove-data-scientist-quantitative-researcher/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/fundamental-data-researcher-point72-chicago--ss-us-w86kj1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hirewell",
+                    "link": "https://hirewell.social-networking.me/remote-jobs/data-researcher-c17d7269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/innisfree-inc/data-researcher-133092888/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobFlow",
+                    "link": "https://jobflow.r3k.liveblog365.com/remote-jobs/data-researcher-7da9b5a7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "7Fold",
+                    "link": "https://7fold.v6f.my-board.org/remote-jobs/data-researcher-7da9b5a7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Tidewell",
+                    "link": "https://tidewell.gilect.net/remote-jobs/data-researcher-c17d7269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Jobs | Careerbyte",
+                    "link": "https://careerbyte.fast-page.org/remote-jobs/data-researcher-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdC9RdWFudGl0YXRpdmUgUmVzZWFyY2hlciIsImNvbXBhbnlfbmFtZSI6IkZyZWVzdG9uZSBHcm92ZSIsImh0aWRvY2lkIjoidFAtVlc2Wk9aR3pCdTVTeUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNrSjZMV2s0YjFkSlFYTTViSFJIVjFVM1draEJiWG94VlVKTWNXa3ROSFl0Y0d0ZlJUaHhWRlpzVmtad1NYaEpORVUwV0ZWZmEyaFBORUZxV1VWWWNpMVJiMEl5U2xneWVtUXRRMWRmWVROeU5VRlFNbEp3WWxSMFpUQlVSR3RZV1ZSMWQwWlBlVE5xYm5GMFRIazVSVzl6ZEhrelREQldjVmQxV0VoRGJuZEVNV0ZsZEhZU0YzSmFYMkpoZFROc1NrOTVielZPYjFCZldWTjVhMUZKR2lKQlJITnlPV1pVVGxsWVYyRTJlVkI1VWpsUVQxVkZZbEZJZDIxallVWklTRlZuIiwiZmN2IjoiMyIsImZjX2lkIjoidFAtVlc2Wk9aR3pCdTVTeUFBQUFBQT09In0="
+        },
+        {
+            "title": "Sr. Data Scientist - AI Research",
+            "company_name": "Lyra Health",
+            "location": "United States (+1 other)",
+            "via": "Lyra Health",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of data analysis in an industry setting with a preference for individuals who have experience in product analytics in the AI/ML space and have partnered with engineering and product teams in prior roles",
+                        "Experience collaborating with cross-functional stakeholders across technical, business, and (ideally) clinical domains",
+                        "Demonstrated understanding of statistical applications and methods (experimentation, probabilities, regression)",
+                        "Experience applying hypothesis testing in an industry or research setting",
+                        "Willing to do whatever it takes to clean messy data prior to deriving insights",
+                        "Strong SQL proficiency",
+                        "Experience writing complex queries with multiple schemas and tables",
+                        "Preference for candidates who have experience creating views"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The anticipated annual base salary range for this full-time position is $128,000 to $197,000",
+                        "The base range is determined by role and level, and placement within the range will depend on a number of job-related factors, including but not limited to your skills, qualifications, experience and location",
+                        "This role may also be eligible for discretionary bonuses",
+                        "Annual salary is only one part of an employee’s total compensation package at Lyra",
+                        "We also offer generous benefits that include:",
+                        "Comprehensive healthcare coverage (including medical, dental, vision, FSA/HSA, life and disability insurances)",
+                        "Lyra for Lyrians; coaching and therapy services",
+                        "Equity in the company through discretionary restricted stock units",
+                        "Competitive time off with pay policies including vacation, sick days, and company holidays",
+                        "Paid parental leave",
+                        "401K with up to 3% matching",
+                        "Monthly tech allowance",
+                        "We like to spread joy throughout the year with well-being perks and activities, surprise swag, regular community celebration…and more!"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Work closely with Lyra’s Data, Product, Engineering, and other associated teams to enhance the Lyra platform to serve the needs of our providers and clients",
+                        "Become an expert in the diverse data sources we collect and partner with data engineers to build pipelines that apply clinical logic to raw data",
+                        "Extract actionable insights, develop predictive and generative models, and implement rigorous evaluation frameworks to support product iterations",
+                        "Complete time-sensitive ad hoc data requests for internal and external stakeholders",
+                        "Experience developing comprehensive analyses using irregular data from disparate sources",
+                        "As a full-time Sr"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=svIoWTm18yW0OJWuAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y3MPQoCMRBAYWz3CGIxtWAigghaCYI_WLlYL7NxSCIxEzJTrPfwwK5g8-BrXvOZNJu2GjigIrQuUtYoCgvYn-FGQlhdGHXhHv7gDEdmn2i6C6pFttaKJONFUaMzjl-WM_U82Cf38ksnASuVhErdar0cTMl-Pru-K8KJMGmAmOGeo9ID2vFC8gUaWPE9lwAAAA&shmds=v1_ARwrE20CznASceh4np5taoAiwi_4lZurnyubDJqSQRnh5soC8A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=svIoWTm18yW0OJWuAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAY1BMVEUATsMARMEARsH___-nteIAScIAQcAAPL-Tpd2Yqd4ATMMAPr8AOL6quOSGmtkTUcTJ0e3v8_rU2vHDzexsh9P5-v29x-mMoNsAJLt-lNcAKrxBacrm6fYAML3f4_Tr7vhJbsuw0w36AAAAlUlEQVQ4je2RsRaDIAxFSRCBCFSt2KoV_f-vbGan0LXe5S255-UkSt3cXEH80XMJiZNIcZBchMYjS-ZBHWFr2grRWQ1dn4bxOek824rGML9Av_MSNKzjYioat4-Pa263slvXgFBEV6a9aBUy2qNZtFhU4GPwfQfRkIlzmqSrsglhOI3iJgJAucfz5yi-5cWUf-_mL_kCYfQFrOwo_voAAAAASUVORK5CYII.png",
+            "extensions": [
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://careers.lyrahealth.com/job/remote/sr-data-scientist-ai-research/43250/98953683120",
+            "job_title": "Sr. Data Scientist - AI Research",
+            "description": "About Lyra Health Lyra Health is a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relationships. The company has delivered more than 15 million sessions of mental health care, published more than 35 peer-reviewed studies, and delivered unmatched outcomes in terms of access, clinical effectiveness, and cost efficiency. Extensive peer-reviewed research confirms Lyra’s transformative care model helps people recover twice as fast and results in a 26% annual reduction in overall healthcare claims costs. Lyra is transforming access to life-changing mental health care through Lyra Empower, the only fully integrated, AI-powered platform combining the highest-quality care and technology solutions. \nAbout the Role:   Lyra is transforming mental health care by creating a frictionless experience for members, providers, and employers. We connect companies and their employees to mental health providers, therapy, and coaching programs that work.\n\n We are looking for a self-driven, technical Data Scientist who cares about impact, ownership and innovation. In this role, you will work closely with Lyra’s Data, Product, Engineering, and Clinical teams on AI/ML initiatives that will enhance the experience of mental health patients and providers. \n\n This Data Scientist role can be filled remotely anywhere within the US, as well as locally in our Burlingame, CA headquarters.  Please note that remote-based candidates must be physically located within the United States.\n\n  Responsibilities   Work closely with Lyra’s Data, Product, Engineering, and other associated teams to enhance the Lyra platform to serve the needs of our providers and clients. \n\n   Become an expert in the diverse data sources we collect and partner with data engineers to build pipelines that apply clinical logic to raw data\n\n   Extract actionable insights, develop predictive and generative models, and implement rigorous evaluation frameworks to support product iterations\n\n   Complete time-sensitive ad hoc data requests for internal and external stakeholders\n\n   Qualifications   5+ years of data analysis in an industry setting with a preference for individuals who have experience in product analytics in the AI/ML space and have partnered with engineering and product teams in prior roles.\n\n   Experience collaborating with cross-functional stakeholders across technical, business, and (ideally) clinical domains\n\n   Demonstrated understanding of statistical applications and methods (experimentation, probabilities, regression).  Experience applying hypothesis testing in an industry or research setting.  \n\n   Experience developing comprehensive analyses using irregular data from disparate sources.  Willing to do whatever it takes to clean messy data prior to deriving insights.\n\n   Strong SQL proficiency.  Experience writing complex queries with multiple schemas and tables.  Preference for candidates who have experience creating views.\n\n   Graduate-level Statistics coursework with MS in a quantitative field is preferred (statistics, econometrics, biostatistics, quantitative social sciences).\n\n   Preferred Qualifications   Interest in public health a plus\n\n   Experience with AI/ML R&D, e.g. prompt engineering and RAG\n\n   Experience with Python, including cleaning and analyzing data as well as using Python to parse JSON structured data, call APIs, create user-defined functions, and automate.\n\n   As a full-time Sr. Data Scientist - AI Research, you will be employed by Lyra Health, Inc. The anticipated annual base salary range for this full-time position is $128,000 to $197,000. The base range is determined by role and level, and placement within the range will depend on a number of job-related factors, including but not limited to your skills, qualifications, experience and location. This role may also be eligible for discretionary bonuses. \n Annual salary is only one part of an employee’s total compensation package at Lyra. We also offer generous benefits that include: \n\n   Comprehensive healthcare coverage (including medical, dental, vision, FSA/HSA, life and disability insurances)\n\n   Lyra for Lyrians; coaching and therapy services\n\n   Equity in the company through discretionary restricted stock units\n\n   Competitive time off with pay policies including vacation, sick days, and company holidays\n\n   Paid parental leave \n\n   401K with up to 3% matching\n\n   Monthly tech allowance\n\n   We like to spread joy throughout the year with well-being perks and activities, surprise swag, regular community celebration…and more!  \n\n   We can’t wait to meet you.\n\n \n\n'We are an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, age, disability, genetic information or any other category protected by law.   By applying for this position, you acknowledge that your personal information will be processed as per the Lyra Health Workforce Privacy Notice. Through this application, to the extent permitted by law, we will collect personal information from you including, but not limited to, your name, email address, gender identity, employment information, and phone number for the purposes of recruiting and assessing suitability, aptitude, skills, qualifications, and interests for employment with Lyra.  We may also collect information about your race, ethnicity, and sexual orientation, which is considered sensitive personal information under the California Privacy Rights Act (CPRA) and special category data under the UK and EU GDPR.  Providing this information is optional and completely voluntary, and if you provide it you consent to Lyra processing it for the purposes as described at the point of collection, for example for diversity and inclusion initiatives.  If you are a California resident and would like to limit how we use this information, please use the Limit the Use of My Sensitive Personal Information form.  This information will only be retained for as long as needed to fulfill the purposes for which it was collected, as described above. Please note that Lyra does not “sell” or “share” personal information as defined by the CPRA. Outside of the United States, for example in the EU, Switzerland and the UK, you may have the right to request access to, or a copy of, your personal information, including in a portable format; request that we delete your information from our systems; object to or restrict processing of your information; or correct inaccurate or outdated personal information in our systems. These rights may be subject to legal limitations. To exercise your data privacy rights outside of the United States, please contact globaldpo@lyrahealth.com. For more information about how we use and retain your information, please see our Workforce Privacy Notice.'",
+            "apply_options": [
+                {
+                    "title": "Lyra Health",
+                    "link": "https://careers.lyrahealth.com/job/remote/sr-data-scientist-ai-research/43250/98953683120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=2aa3f71bcb9b0018&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/c21cb758-0884-44bb-98bb-b84f6cbab03e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/data-scientist-ai-research_7ea1a6286eb3a4ae556dca8ccce348c0eebf0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/document-storage-systems/Job/Data-Analyst,-Sr.-AI-Research-Systems-Support-(Pending-Contract-Award)-SBG-REMOTE/-in-Alexandria,VA?jid=d3263107ee6d7a00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/sr-data-scientist-ai-research-lyrahealth-8966188?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/sr-data-scientist-ai-research-lyra-health-JV_KO0,29_KE30,41.htm?jl=1010225649729&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobright",
+                    "link": "https://jobright.ai/jobs/info/6a3d93bcd261407de9801270?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTci4gRGF0YSBTY2llbnRpc3QgLSBBSSBSZXNlYXJjaCIsImNvbXBhbnlfbmFtZSI6Ikx5cmEgSGVhbHRoIiwiaHRpZG9jaWQiOiJzdklvV1RtMTh5VzBPSld1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2tWUE5XSk5ablpuT0hWRk5EVnRZMWQzWVVkVGIzVTViazQzZFZSUFpqQkJOVU53T0RKc1NYbEZVSEJ1VDBwdVJFWjFZWGR1T0hwWFJIWk5YM2R1TVdwQ2VVTXdVM05ZYjJaTVJIcGhNSFI0VTA0eFZUTjBOa1pmV0hKSmJFaHJVMHBVWkhKNE1WUmlNRVZIV0RJMGFXZFRVblJ0YlhkTlpHTnRiVXBRVVZSVFVHdzBUMHNTRjNKYVgySmhkVE5zU2s5NWJ6Vk9iMUJmV1ZONWExRkpHaUpCUkhOeU9XWlJUbEpsT0RsWWFVOXNOakZKTFdweWJrZ3paV3RmU2pkMVZ6QjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJzdklvV1RtMTh5VzBPSld1QUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Data Science Experts",
+            "company_name": "AuraOne Human Data",
+            "location": "Anywhere",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Direct working experience in data science experts specialist operations on real teams for Data Science Experts work",
+                        "Comfort applying multi-page rubrics consistently across long batches",
+                        "Clear written reasoning that names the policy or workflow being applied",
+                        "Strong attention to detail and the ability to flag when a prompt itself is the problem",
+                        "Reliable async availability for at least 10 hours per week",
+                        "Prior experience training, calibrating, or QA-ing operations teams",
+                        "Familiarity with AI-assisted workflow tooling and its failure modes",
+                        "Bilingual experience for cross-region operations",
+                        "Operational review",
+                        "Data Science Experts specialist operations"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Independent specialist contractor",
+                        "$70–$100 / hr"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Data Science Experts is a remote review track for evaluating AI outputs across data science experts specialist operations workflows",
+                        "Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it",
+                        "Data Science Experts specialist operations AI has to fit into an actual day at work",
+                        "AuraOne uses experienced operators to grade outputs the way a senior peer would — checking workflow, policy, and the unwritten rules that decide whether a task actually gets done",
+                        "Review AI outputs against current data science experts specialist operations workflows, playbooks, and firm policy for Data Science Experts assignments",
+                        "Grade tone, escalation logic, and stakeholder fit on a structured rubric",
+                        "Flag operational risk, missed escalations, and policy-adherence gaps with severity tags",
+                        "Capture the right next step so the modeling team can train on it",
+                        "Adjudicate disputed treatments against published playbooks or firm guidance",
+                        "Maintain reviewer-quality scores in inter-rater calibration cycles",
+                        "Grade a model's response to a real data science experts specialist operations ticket and rate workflow, tone, and escalation",
+                        "Flag a missed escalation with the right severity tag and corrected next step",
+                        "Adjudicate a disputed playbook call between two reviewers using firm guidance",
+                        "Audit a 25-row batch for rubric consistency and report drift to the program lead",
+                        "Policy adherence",
+                        "Workflow judgment"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=kgVVwY5FJrp-MveBAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3NPQrCQBBAYWxzBKsBO8WsCDZaCYpiYxGsw-w6ZFeSmWVnArmFV_aneeX3qvesWp3QEJqQiAPBecpUTGENN_GghCVEEIaLSNfT_BDNsu6dU-3rTg0thTrI4ITJy-Re4vWXViMWyj0atdvdZqozd8vFcSx4Z4LrOCDD_5sYHpyMntB8MdIPe0b0qpIAAAA&shmds=v1_ARwrE21C2f117RloMzZxnpZG_3gZNlCo_1HxOAvWz_XZ_E8aLQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=kgVVwY5FJrp-MveBAAAAAA%3D%3D",
+            "extensions": [
+                "70–100 an hour",
+                "Work from home",
+                "Full-time"
+            ],
+            "source_link": "https://www.indeed.com/viewjob?jk=419a1ffbfc8f6e4d",
+            "job_title": "Data Science Experts",
+            "description": "Data Science Experts is a remote review track for evaluating AI outputs across data science experts specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.\n\n\n  Why this role matters\n Data Science Experts specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would — checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.\n\n\n  Responsibilities\n \n  Review AI outputs against current data science experts specialist operations workflows, playbooks, and firm policy for Data Science Experts assignments.\n  Grade tone, escalation logic, and stakeholder fit on a structured rubric.\n  Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.\n  Capture the right next step so the modeling team can train on it.\n  Adjudicate disputed treatments against published playbooks or firm guidance.\n  Maintain reviewer-quality scores in inter-rater calibration cycles.\n \n  Qualifications\n \n  Direct working experience in data science experts specialist operations on real teams for Data Science Experts work.\n  Comfort applying multi-page rubrics consistently across long batches.\n  Clear written reasoning that names the policy or workflow being applied.\n  Strong attention to detail and the ability to flag when a prompt itself is the problem.\n  Reliable async availability for at least 10 hours per week.\n \n  Example tasks\n \n  Grade a model's response to a real data science experts specialist operations ticket and rate workflow, tone, and escalation.\n  Flag a missed escalation with the right severity tag and corrected next step.\n  Adjudicate a disputed playbook call between two reviewers using firm guidance.\n  Audit a 25-row batch for rubric consistency and report drift to the program lead.\n \n  Nice to have\n \n  Prior experience training, calibrating, or QA-ing operations teams.\n  Familiarity with AI-assisted workflow tooling and its failure modes.\n  Bilingual experience for cross-region operations.\n \n  Skills\n \n  Operational review\n  Policy adherence\n  Workflow judgment\n  Stakeholder communication\n  Data Science Experts specialist operations\n \n  Work model\n Remote — US-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.\n\n\n  Compensation\n $70–$100 / hr\n\n\n  Application process\n Apply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=419a1ffbfc8f6e4d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/data-science-experts-auraone-human-data-JV_KO0,20_KE21,39.htm?jl=1010210608146&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/data-science-teaching-experts-nebius--lensa-2365_8e4ab46664aadf838ee8553c32c00835e785e21af334b29ea99a99959d119725?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-data-science-teaching-experts-united-states-nebius-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgRXhwZXJ0cyIsImNvbXBhbnlfbmFtZSI6IkF1cmFPbmUgSHVtYW4gRGF0YSIsImh0aWRvY2lkIjoia2dWVndZNUZKcnAtTXZlQkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNraFJSMFZWZHpFeFUwZFhaa0pDUmtsTmJIUlJUa3RKV0Y5V1JHaE5Oek53ZW01NVFrYzJUV2h6UW5sNE5GVlNjMHR4ZVVzelNsaGZOa1ptYVUxVlVYZEpRV0Z2UzB0WlZ6aGFhSEkxY1RJMVkwVmxXRzkxT1RSQlNtMXlSbFZsYkVWTlRtSXpjRTVQWVRBeGNTMXJMV1I1WTNWeFRuQnJYemgxWVY5aFYzUlNkRU5uWlZBU0YzSmFYMkpoZFROc1NrOTVielZPYjFCZldWTjVhMUZKR2lKQlJITnlPV1pSTkVsaVprTk9kMHhKVkhGYVVYTmhPWE56TFVJMU9FcG5RVzVCIiwiZmN2IjoiMyIsImZjX2lkIjoia2dWVndZNUZKcnAtTXZlQkFBQUFBQT09In0="
+        },
+        {
+            "title": "Data Scientist, Strategic Partner Analytics",
+            "company_name": "Ibotta",
+            "location": "Anywhere",
+            "via": "Jobs",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Candidates must live in the United States",
+                        "2+ years of progressive experience in a professional data science, machine learning, statistics, or data analysis role, or related experience",
+                        "Deep Python (pandas, scikit-learn) and SQL skills",
+                        "Spark or PySpark experience is a strong plus",
+                        "Hands-on experience building and evaluating machine learning and statistical models, such as gradient boosting and neural networks (TensorFlow/Keras or PyTorch)",
+                        "Working knowledge of experimentation and causal inference",
+                        "Exposure to uplift or heterogeneous treatment effect modeling is a strong plus",
+                        "Experience deploying or maintaining at least one model in production, using Git and an orchestration tool such as Airflow or Databricks Jobs",
+                        "Experience building features from large, event-level datasets",
+                        "Comfortable using AI coding assistants, and able to review, test, and debug the code they produce",
+                        "A passion for driving important decisions using data and data storytelling, including explaining model results and trade-offs to non-technical partners",
+                        "Applicants must be currently authorized to work in the United States on a full-time basis"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "This position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Employee Stock Purchase Program, and 401k match",
+                        "Denver office perks include paid parking, snacks, and occasional meals",
+                        "Base compensation range: $110,000 - $130,000",
+                        "Total compensation for this role also includes a variable component in addition to base salary",
+                        "Equity is included in overall compensation package",
+                        "This compensation range is specific to the United States labor market and may be adjusted based on actual experience"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As a Data Scientist, you’ll work on our Rewards Optimization models, which use uplift modeling to deliver personalized treatments in our weekly retention programs",
+                        "You’ll own these models end to end, from working with stakeholders and preparing data through model development, production deployment, and ongoing monitoring",
+                        "You’ll be able to advance not only your technical skills, but your organizational and leadership skills as well, by contributing to the creation of best practices for the team and company, and learning from the more senior scientists and managers on the team",
+                        "Build, retrain, and tune the uplift models that decide which bonus each saver receives in our weekly retention programs, balancing incremental redemptions against cost",
+                        "Own these models in production: maintain feature pipelines, deploy new model versions, and monitor performance and drift over time, following Ibotta’s model development standards",
+                        "Manage weekly model operations: review results as they come in, adjust model parameters to stay on budget, and within performance thresholds",
+                        "Help design and analyze the A/B tests and holdouts that measure bonus performance and produce training data for our models",
+                        "Report model performance and business impact to Marketing stakeholders, and explain results clearly to non-technical audiences",
+                        "Analyze large datasets on saver behavior to find insights that improve our models and marketing programs",
+                        "Work with analytics engineers, data engineers, and Marketing partners to find, define, and prepare the data needed for analysis and modeling",
+                        "Contribute to team best practices, including documentation, code review, and reusable modeling workflows",
+                        "Embrace and uphold Ibotta’s Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, & A good idea can come from anywhere"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=ClirKLwyC9oABctWAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWOMQrCQBAAsU1tZbW1aE4EG63UgGijkAeEvWO5nJy74XaR-BK_a2ymGoapvrPq1KAhtCERW1JbQWsFjWIK8MBiTAWOjPljKSis4SYelLCEHoThIhIzLQ692aB751RzHdVwkusgLydMXkb3FK9_dNpjoSFP_W6724z1wHE5v3qxaSExNMRvKis433_t0nQZmgAAAA&shmds=v1_ARwrE21XZFLRCTCpiFrSe18bL50SJFppFG_bibV6xwK7yJoUHA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=ClirKLwyC9oABctWAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAllBMVEX___8AAAAAAAjCwsP39_f6-vrIyMkAAAP09PQAAAuen6Campvh4eLc3Nzs7OyAgYLS0tOMjI0YGyEMEBeqqqsACBJaW10cHyQuMDOysrJ4eXpERklMTU8mKS0VFxyRkpNoaWo6PD__9eX8y2P8zm791G3uSXz1SHiBpadFwLel2tb_-O792Zb-4JzziqarwMKI0cvB5eKc4YaXAAABfklEQVRIie1S226sMBCbSSBAAiHcAgG6C-f0ftm2__9znWGrSl2pD32tsNBImNhxHAB27Nix428jyALkOP1eWCGCwfqCjaNom_HPwnxG0OLqgpV4oHnE5YtJpb3wji20Ysil215tCLzA4UpTY7l5K5VC7KJcXkZtsxoRp4j3IBhwSzMcWzk3cyUhYU7T0ogsU96LB5hOkLCZ5qTz0GLivcAQsD-gr7DvsIKqVWWD5Fpo5asVwjIqFmY1BPRUr8D0IMj5mA2xEVOR2zJbCgtptege802oobTrOarJrs5CQJSIlCJHQeUwY_iMlg7R15_CAGVKQq7ciOEszBELes6Nhq1PQ0FpeIi7TdgqCUfr_MJRdTLRssG5tRlg6lYn66QkppeKTZVrcYa0Y8fv0DhRJw1iRt8oJdfL-Tpqu6A5RChqogPAv__XN7e3d_cPD48kVBX1oZZ1Lfn-bDn7dru7katz4-ggX2ajOd3T8_PL6XR6fXt7__mH2rFjx44_gQ9PjRY_2JPXtwAAAABJRU5ErkJggg.png",
+            "extensions": [
+                "19 days ago",
+                "Work from home",
+                "Full-time",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://jobs.ashbyhq.com/ibotta/b048fefb-c2f3-4ff2-b5e4-45245a309cce",
+            "job_title": "Data Scientist, Strategic Partner Analytics",
+            "description": "Ibotta is seeking a Data Scientist, Strategic Partner Analytics to join our Publisher Insights team and contribute to our mission to Make Every Purchase Rewarding. Our team leverages the latest developments and best practices in data analyses, testing methodologies, and statistics to provide actionable insights to the Marketing Team.\n\n As a Data Scientist, you’ll work on our Rewards Optimization models, which use uplift modeling to deliver personalized treatments in our weekly retention programs. You’ll own these models end to end, from working with stakeholders and preparing data through model development, production deployment, and ongoing monitoring. You’ll be able to advance not only your technical skills, but your organizational and leadership skills as well, by contributing to the creation of best practices for the team and company, and learning from the more senior scientists and managers on the team.\n\n This position is located in Denver, Colorado as a hybrid position requiring 3 days in office (Tuesday, Wednesday, and Thursday). Candidates must live in the United States.\n\n\n\nNot based in Denver? We will offer a relocation bonus to help make your move to the Mile High City a smooth one.\n\n What you will be doing:\n\n Build, retrain, and tune the uplift models that decide which bonus each saver receives in our weekly retention programs, balancing incremental redemptions against cost.\n\nOwn these models in production: maintain feature pipelines, deploy new model versions, and monitor performance and drift over time, following Ibotta’s model development standards.\n\nManage weekly model operations: review results as they come in, adjust model parameters to stay on budget, and within performance thresholds.\n\nHelp design and analyze the A/B tests and holdouts that measure bonus performance and produce training data for our models.\n\nReport model performance and business impact to Marketing stakeholders, and explain results clearly to non-technical audiences.\n\nAnalyze large datasets on saver behavior to find insights that improve our models and marketing programs.\n\nWork with analytics engineers, data engineers, and Marketing partners to find, define, and prepare the data needed for analysis and modeling.\n\nContribute to team best practices, including documentation, code review, and reusable modeling workflows.\n\nEmbrace and uphold Ibotta’s Core Values: Integrity, Boldness, Ownership, Teamwork, Transparency, & A good idea can come from anywhere.\n\n What we are looking for:\n\n2+ years of progressive experience in a professional data science, machine learning, statistics, or data analysis role, or related experience.\n\nBachelor’s degree in Computer Science, Mathematics, Statistics, Data Science, Economics or similar field required; Advanced degree preferred.\n\nDeep Python (pandas, scikit-learn) and SQL skills. Spark or PySpark experience is a strong plus.\n\nHands-on experience building and evaluating machine learning and statistical models, such as gradient boosting and neural networks (TensorFlow/Keras or PyTorch).\n\nWorking knowledge of experimentation and causal inference. Exposure to uplift or heterogeneous treatment effect modeling is a strong plus.\n\nExperience deploying or maintaining at least one model in production, using Git and an orchestration tool such as Airflow or Databricks Jobs. Experience with model monitoring and drift detection is a plus.\n\nExperience building features from large, event-level datasets.\n\nComfortable using AI coding assistants, and able to review, test, and debug the code they produce.\n\nA passion for driving important decisions using data and data storytelling, including explaining model results and trade-offs to non-technical partners.\n\nExperience with marketing incentives, promotions, loyalty, or retention programs, or with models that balance competing goals such as volume and cost, is a plus.\n\n\n\nAbout Ibotta (“I bought a…”)\n\n\n Ibotta (NYSE: IBTA) is a leading performance marketing platform allowing brands to deliver digital promotions to over 200 million consumers through a network of publishers called the Ibotta Performance Network (IPN). The IPN allows marketers to influence what people buy, and where and how often they shop – all while paying only when their campaigns directly result in a sale. American shoppers have earned over $2.6 billion through the IPN since 2012. The largest tech IPO in history to come out of Colorado, Ibotta is headquartered in Denver, and is continually listed as a top place to work by The Denver Post and Inc. Magazine.\n\n To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com.\n\n Additional Details:\n\nThis position is located in Denver, CO and includes competitive pay, flexible time off, benefits package (including medical, dental, vision), Employee Stock Purchase Program, and 401k match. Denver office perks include paid parking, snacks, and occasional meals.\n\nBase compensation range: $110,000 - $130,000. Total compensation for this role also includes a variable component in addition to base salary. Equity is included in overall compensation package. This compensation range is specific to the United States labor market and may be adjusted based on actual experience.\n\nIbotta is an Equal Opportunity Employer. Ibotta’s employment decisions are made without regard of race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.\n\nApplicants must be currently authorized to work in the United States on a full-time basis.\n\nApplicants are accepted until the position is filled.\n\nFor the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper Channels.\n\n#LI-Hybrid\n\n#BI-Hybrid\n\n Recruiting Agency Notice\n\nIbotta does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to any Ibotta employees.",
+            "apply_options": [
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/ibotta/b048fefb-c2f3-4ff2-b5e4-45245a309cce?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Workday",
+                    "link": "https://bronsonhg.wd1.myworkdayjobs.com/en-US/newhires/job/Senior-HR-Data-Analytics-Partner_JOB51047?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hiring Cafe",
+                    "link": "https://hiringcafe.com/job/manager-data-analytics-consulting-epam-systems-new-york-city-new-york-2ysnz08itqc54ulz?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Haystack",
+                    "link": "https://haystackapp.io/jobs/a671dc31-e9e9-4c03-9cf9-a9d7b37b76d1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career.io",
+                    "link": "https://career.io/job/409037-data-and-analytics-consulting-claddagh-resources-c300c350367f5e8dc4ee41b65a169b74?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Swooped",
+                    "link": "https://swooped.co/job-postings/senior-hr-data-analytics-partner-united-states-bronson-healthcare-75bf3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/clifyx/data-analytics-consulting-partner-38585396/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Karkidi",
+                    "link": "https://www.karkidi.com/job-details/87911-data-scientist-analytics-consulting-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgU3RyYXRlZ2ljIFBhcnRuZXIgQW5hbHl0aWNzIiwiY29tcGFueV9uYW1lIjoiSWJvdHRhIiwiaHRpZG9jaWQiOiJDbGlyS0x3eUM5b0FCY3RXQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU3pKVFUwTXdTMXA1YkRscVZYWnpZbTgwYlZnd2RHcGFiMmR1UVRSQ2FFSnhNRFF3YzFkdU5tWnNOVFExWTB4M01tZEliazgxZFRWaVZFdGpZbGN0YldSMlNVaDBkVVE1UmpKRGVFbzNPWEJDVjJGQlJWZERXbTFyY2tneGNXVmtjSG95YW5ObE9HMU9ObmQzYlZsVFNHNWtkakJxUkVwck1ESlpXRlY2VFZCNFEycFJlbkVTRjNKYVgySmhkVE5zU2s5NWJ6Vk9iMUJmV1ZONWExRkpHaUpCUkhOeU9XWlVORlJIZUhSU1VEUnlTVkJoYUhWc1J6RXdRazAyTFdadWNuTjMiLCJmY3YiOiIzIiwiZmNfaWQiOiJDbGlyS0x3eUM5b0FCY3RXQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Data Scientist, Applied AI Solutions",
+            "company_name": "DLA Piper LLP (US)",
+            "location": "United States",
+            "via": "Workday",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Proven experience delivering revenue-generating client solutions with measurable outcomes, managing multiple concurrent client engagements, and operating within consulting or professional-services delivery models",
+                        "Must be self-driven, curious and creative",
+                        "Experience must include creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, data mining techniques, etc",
+                        "Experience with most or all of the following basic data science tools: Python, R, SQL, SAS, NLTK, Scikit-Learn, Excel, Tableau, Power BI, and Jupyter; Basic data science concepts: probability, statistics, hypothesis testing, machine learning, natural language processing, predictive modeling, data visualization; and Big data tools: Hadoop, Azure, etc",
+                        "Must be adept in agile methodologies and well-versed in machine learning, artificial intelligence and constructing data science pipelines",
+                        "Demonstrated presentation skills along with strong business acumen",
+                        "Ability to communicate actionable insights using data, often for a non-technical audience",
+                        "Significant hands-on coding experience in Python and SQL is required, including building, deploying, and supporting production machine learning models at scale",
+                        "Experience managing structured and unstructured datasets in enterprise environments and working with Azure AI services or comparable enterprise cloud and data platforms is required",
+                        "Must be able to design and execute algorithmic testing of AI systems, including bias and accuracy assessments, and create novel evaluation methods when established approaches are insufficient",
+                        "Must be able to translate legal and regulatory requirements into analytic methods, testable criteria, and defensible technical documentation",
+                        "Minimum Education Bachelor's degree in computer science, data science, statistics, applied mathematics or related field",
+                        "Minimum Years of Experience 5 years of relevant experience applying data science and machine learning techniques to complex business problems, including building and deploying production models at scale",
+                        "Essential Job Expectations All DLA Piper employees are expected to demonstrate excellence in how we serve our clients and develop our people, upholding our firm values as part of our culture"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Compensation & Benefits The firm's expected hiring range for this position is $129,808 - $206,399 depending on the candidate's geographic location, experience, skills, educational background, and overall qualifications",
+                        "DLA Piper offers a comprehensive benefits package, including medical, dental, and vision insurance, 401(k) retirement plan, and additional benefits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The role designs and deploys data models, algorithms, and machine learning solutions; performs custom analyses; and translates business, legal, and regulatory requirements into practical analytic approaches",
+                        "The position also develops and applies algorithmic testing methods to evaluate AI systems and tools, including bias and accuracy",
+                        "Responsibilities Develops and applies algorithmic testing methods to evaluate AI systems, models, and tools for bias, accuracy, reliability, robustness, and performance",
+                        "Creates novel testing techniques, metrics, and evaluation frameworks for emerging AI systems and risks when established methods are insufficient",
+                        "Translates legal, regulatory, and business requirements into analytic objectives, testable criteria, data specifications, and practical technical solutions",
+                        "Works with internal stakeholders, lawyers, and clients to identify opportunities to leverage organizational and client data to address business, legal, investigative, and regulatory needs",
+                        "Prioritizes, scopes, and manages multiple concurrent data science projects and client engagements, with accountability for delivery quality, timelines, measurable business outcomes, and commercially valuable solutions",
+                        "Designs, builds, deploys, and supports production machine learning models and data science solutions at scale, including solutions for privilege review and related legal workflows",
+                        "Designs representative test datasets, test cases, benchmarks, validation protocols, and monitoring approaches; documents methodologies, results, limitations, and recommendations",
+                        "Assesses the quality, completeness, representativeness, and accuracy of structured and unstructured data sources and data-gathering techniques",
+                        "Uses Python and SQL extensively to build models, data pipelines, testing tools, and analyses",
+                        "Manages structured and unstructured datasets in secure enterprise environments and works with Azure AI services or comparable enterprise cloud and data platforms",
+                        "Develops custom data models, algorithms, and predictive solutions that improve client outcomes and support data-driven decision-making",
+                        "Coordinates with legal, technical, and business teams to implement solutions, monitor outcomes, and refine models and testing methods",
+                        "Communicates methods, findings, risks, and actionable insights to technical and non-technical audiences through client-ready analyses, documentation, and presentations",
+                        "Establishes and applies best practices for reproducible analysis, model governance, quality assurance, data protection, and reporting",
+                        "Supports the delivery of revenue-generating client solutions within consulting or professional-services delivery models",
+                        "Other duties as assigned",
+                        "Specific expectations include: Communicate effectively, both verbally and in writing, with clients, lawyers, business professionals, and external audiences",
+                        "Produce high-quality work and respond to correspondence in an efficient, timely, and professional manner",
+                        "Meet deadlines, manage competing priorities, and commit to meeting high standards",
+                        "Comply with firm policies and procedures",
+                        "Maintain confidences as required in a law firm environment",
+                        "Physical Demands Sedentary work: This is primarily sedentary work, requiring occasional exertion of up to 10 pounds of force to lift, carry, push, pull, or move objects",
+                        "The role involves sitting for extended periods, with occasional walking and standing, and occasional travel, both domestic and international",
+                        "Work Environment The selected candidate will have the opportunity for a hybrid work arrangement combining remote and in-office work"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=o6tGp1Svg7NTJbriAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE4HLiraiOBip0JBlA6F0Lmk8WhPYi70Tujb-KrW5R-_P_uusqJy6sB6wqgkeoAypUD4hPIOlsNHiaPAER7cg6Cb_Agc4cY8BFwXo2qSqzEiIR9EnZLPPb8NR-x5Ni_u5Z9ORjdhCk6xO19Oc57isN9UdQkNJZygrhvYtnYHFKGNpMveLhjKD5CPr-GiAAAA&shmds=v1_ARwrE22Nu8rgpR32hLuVXclPMzuudiqT3iKZsFFIkdJcdwk9Fw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=o6tGp1Svg7NTJbriAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/R0lGODlhAQABAIAAAP_______yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw.gif",
+            "extensions": [
+                "15 days ago",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "source_link": "https://dlapiper.wd1.myworkdayjobs.com/en-US/dlapiper/job/Data-Scientist--Applied-AI-Solutions_R2026-2993",
+            "job_title": "Data Scientist, Applied AI Solutions",
+            "description": "DLA Piper is, at its core, bold, exceptional, collaborative and supportive. Our people are the backbone, heart and soul of our firm. Wherever you are in your professional journey, DLA Piper is a place you can engage in meaningful work and grow your career. Let’s see what we can achieve. Together. Summary The Data Scientist, Applied AI Solutions collects, explores, and analyzes large, complex datasets to improve business and client outcomes. The role designs and deploys data models, algorithms, and machine learning solutions; performs custom analyses; and translates business, legal, and regulatory requirements into practical analytic approaches. The position also develops and applies algorithmic testing methods to evaluate AI systems and tools, including bias and accuracy. Working with lawyers, clients, and cross-functional teams, the Data Scientist, Applied AI Solutions delivers data-driven solutions with measurable business impact. Location This position can sit in any of our U.S. offices and offers a hybrid work schedule. Responsibilities Develops and applies algorithmic testing methods to evaluate AI systems, models, and tools for bias, accuracy, reliability, robustness, and performance. Creates novel testing techniques, metrics, and evaluation frameworks for emerging AI systems and risks when established methods are insufficient. Translates legal, regulatory, and business requirements into analytic objectives, testable criteria, data specifications, and practical technical solutions. Works with internal stakeholders, lawyers, and clients to identify opportunities to leverage organizational and client data to address business, legal, investigative, and regulatory needs. Prioritizes, scopes, and manages multiple concurrent data science projects and client engagements, with accountability for delivery quality, timelines, measurable business outcomes, and commercially valuable solutions. Designs, builds, deploys, and supports production machine learning models and data science solutions at scale, including solutions for privilege review and related legal workflows. Designs representative test datasets, test cases, benchmarks, validation protocols, and monitoring approaches; documents methodologies, results, limitations, and recommendations. Assesses the quality, completeness, representativeness, and accuracy of structured and unstructured data sources and data-gathering techniques. Uses Python and SQL extensively to build models, data pipelines, testing tools, and analyses. Manages structured and unstructured datasets in secure enterprise environments and works with Azure AI services or comparable enterprise cloud and data platforms. Develops custom data models, algorithms, and predictive solutions that improve client outcomes and support data-driven decision-making. Coordinates with legal, technical, and business teams to implement solutions, monitor outcomes, and refine models and testing methods. Communicates methods, findings, risks, and actionable insights to technical and non-technical audiences through client-ready analyses, documentation, and presentations. Establishes and applies best practices for reproducible analysis, model governance, quality assurance, data protection, and reporting. Supports the delivery of revenue-generating client solutions within consulting or professional-services delivery models. Other duties as assigned. Desired Skills Experience in a law firm or other legal-services environment is preferred. Proven experience delivering revenue-generating client solutions with measurable outcomes, managing multiple concurrent client engagements, and operating within consulting or professional-services delivery models. A specialization in machine-learning, artificial intelligence, cognitive science or data science is preferred. Must be self-driven, curious and creative. Experience must include creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, data mining techniques, etc. Experience with most or all of the following basic data science tools: Python, R, SQL, SAS, NLTK, Scikit-Learn, Excel, Tableau, Power BI, and Jupyter; Basic data science concepts: probability, statistics, hypothesis testing, machine learning, natural language processing, predictive modeling, data visualization; and Big data tools: Hadoop, Azure, etc. Must be adept in agile methodologies and well-versed in machine learning, artificial intelligence and constructing data science pipelines. Demonstrated presentation skills along with strong business acumen. Ability to communicate actionable insights using data, often for a non-technical audience. Significant hands-on coding experience in Python and SQL is required, including building, deploying, and supporting production machine learning models at scale. Experience managing structured and unstructured datasets in enterprise environments and working with Azure AI services or comparable enterprise cloud and data platforms is required. Must be able to design and execute algorithmic testing of AI systems, including bias and accuracy assessments, and create novel evaluation methods when established approaches are insufficient. Must be able to translate legal and regulatory requirements into analytic methods, testable criteria, and defensible technical documentation. Preferred experience includes delivering data science solutions within legal, eDiscovery, investigations, privilege review, or regulatory compliance environments. Minimum Education Bachelor's degree in computer science, data science, statistics, applied mathematics or related field. Minimum Years of Experience 5 years of relevant experience applying data science and machine learning techniques to complex business problems, including building and deploying production models at scale. Essential Job Expectations All DLA Piper employees are expected to demonstrate excellence in how we serve our clients and develop our people, upholding our firm values as part of our culture. Specific expectations include: Communicate effectively, both verbally and in writing, with clients, lawyers, business professionals, and external audiences. Produce high-quality work and respond to correspondence in an efficient, timely, and professional manner. Meet deadlines, manage competing priorities, and commit to meeting high standards. Comply with firm policies and procedures. Maintain confidences as required in a law firm environment. Physical Demands Sedentary work: This is primarily sedentary work, requiring occasional exertion of up to 10 pounds of force to lift, carry, push, pull, or move objects. The role involves sitting for extended periods, with occasional walking and standing, and occasional travel, both domestic and international. Work Environment    The selected candidate will have the opportunity for a hybrid work arrangement combining remote and in-office work. The specific arrangement will be determined at the time of hiring and may be modified at the firm's discretion. Compensation & Benefits The firm's expected hiring range for this position is $129,808 - $206,399 depending on the candidate's geographic location, experience, skills, educational background, and overall qualifications. DLA Piper offers a comprehensive benefits package, including medical, dental, and vision insurance, 401(k) retirement plan, and additional benefits. Application Process Interested candidates must apply directly online. Application materials sent via email will not be accepted. Reasonable accommodations may be made upon request to enable individuals with disabilities to perform the essential functions of this position or participate in the selection process. For accommodation requests, please contact careers@us.dlapiper.com. Agency applications will not be considered. No immigration sponsorship is available for this position. Disclaimer This job description provides a concise overview of the role and is not intended to describe all work elements that may be performed. It should not serve as the sole criteria for personnel decisions. Job duties, requirements, and expectations may be modified at the firm's discretion at any time. This job description does not alter the at-will nature of employment. We are committed to excellence in how we serve our clients and develop our people. #LI-GB1 #LI-Hybrid DLA Piper is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. Job applicant poster viewing center. DLA Piper is, at its core, bold, exceptional, collaborative and supportive Our people are the backbone, heart and soul of our firm. Wherever you are in your professional journey, DLA Piper is a place you can engage in meaningful work and grow your career. Let’s see what we can achieve. Together. Get to Know Us We invite you to learn more about us. Please visit the following pages for more information about DLA Piper. Laterals Lateral Partners Law Students Business Professionals Recruitment Agencies: Per the terms of our agreement, all candidates must be submitted through the firm’s agency portal for consideration. If you have an agreement with the firm, please log in to the agency portal via the following link to review positions accepting agency submissions. Lawyer Positions Only: If you do not currently have an agreement with us and would like us to consider candidates, please submit a blind candidate profile to the email address listed in the applicable job posting.",
+            "apply_options": [
+                {
+                    "title": "Workday",
+                    "link": "https://dlapiper.wd1.myworkdayjobs.com/en-US/dlapiper/job/Data-Scientist--Applied-AI-Solutions_R2026-2993?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/data-scientist-applied-ai-solutions_7ea1a66a7b565adeb523195db7f06457782f7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/data-scientist-applied-ai-solutions--united-states--ec1e14e058e7e941063e9f0feacc558e8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/data-scientist-applied-ai-solutions-at-dla-piper-4477828611?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/data-scientist-fpa-solutions-ladders--t7xk-834163527?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Gravityer",
+                    "link": "https://www.gravityer.com/jobs/data-scientist-urban-solutions-lyft?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Remote Jobs | Flexjobsone",
+                    "link": "https://flexjobsone.liveblog365.com/remote-jobs/data-scientist-fpa-solutions?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/data-scientist-applied-ai-solutions-jobs/6AD8169262AAB825?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCwgQXBwbGllZCBBSSBTb2x1dGlvbnMiLCJjb21wYW55X25hbWUiOiJETEEgUGlwZXIgTExQIChVUykiLCJodGlkb2NpZCI6Im82dEdwMVN2ZzdOVEpicmlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVzlVZUUwMmMwVXliV2d3UlcxQmVuVkVRMm90T0ZVNVUwUkRkbVZ1TWtwT2NIQmlXa0ZTYjNOd1ZFeE1PVU5wZHpaU0xYVlFXRVpMYXpOcVFqRjZkVFYwZUhGTmNsb3hRbWh3VTFKa1NEWjNZVVJPUmtzdFFVTndkMmROYjBkTWJERllZVzlZUkV4eVVVbEZiV3hETWtReFowbzBiemhaTlcxVmRGUnhhMk5EYlV4RlEzRVNGM0phWDJKaGRUTnNTazk1YnpWT2IxQmZXVk41YTFGSkdpSkJSSE55T1daVWMwUkhlRGh2V1ZKRFF6SlBabkJZZDJscmFrNWxWRkJ6WDBObiIsImZjdiI6IjMiLCJmY19pZCI6Im82dEdwMVN2ZzdOVEpicmlBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Data Scientist-Aurora, Colorado",
+            "company_name": "BOOZ, ALLEN & HAMILTON, INC.",
+            "location": "Parker, CO",
+            "via": "ZipRecruiter",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "5+ years of experience using data science programming languages such as Python or R",
+                        "2+ years of experience with Amazon Web Services ( AWS )",
+                        "Experience creating ETL pipelines, including querying APIs, cleaning and conditioning data, and creating schemas for data storage",
+                        "Experience with version control tools, including git, GitLab, GitHub, or Bitbucket",
+                        "Experience with statistical analysis, predictive modeling, or machine learning met hods",
+                        "Ability to design and develop automated analytic sof tware, techniques, and algorithms",
+                        "Ability to develop solutions and integrate and extend free and open-source sof tware ( FOSS ) or COTS products",
+                        "TS/SCI clearance with a polygraph",
+                        "Bachelor's degree and 3+ years of experience in data science, or 7+ years of experience in data science in lieu of a degree",
+                        "Experience working with GEOINT, HUMINT, MASINT, OSINT, and SIGINT and the data and tools asso cia ted with these disciplines",
+                        "Experience with intelligence or operations analysis in the DoD or Intelligence Community",
+                        "Knowledge of DevOps, including CI / CD pipelines and Jenkins",
+                        "Master's degree",
+                        "Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information ; TS/SCI clearance with polygraph is required",
+                        "You are expected to be on camera during interviews and assessments"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being",
+                        "Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care",
+                        "Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values",
+                        "Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs",
+                        "Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits",
+                        "We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page",
+                        "Salary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements",
+                        "The projected compensation range for this position is $77,600.00 to $176,000.00 (annualized USD)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "On our team, you'll use your analytical skills and data science knowledge to create real-world impact",
+                        "You'll work closely with your clients to understand their questions and needs and then dig into their data-rich environments to find the pieces of their information puzzle",
+                        "You'll develop algorithms and systems and use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to help clients make informed decisions",
+                        "Ultimately, you'll provide a deep understanding of the data, what it all means, and how it can be used",
+                        "To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings",
+                        "Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility",
+                        "Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role",
+                        "You may also be required to work from or visit a customer facility",
+                        "Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=uAICUsDOwtf2JPlaAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOsQ6CMBRA0bjyCU5vciDQGhMddEI0ikFqopMLKbWBau0j7TPhd_xTcblnvdF3Eq12kiRcldGOTKA0-3j0MoEc7egDIYUTNhC09KoDdHBAbK2ebjqiPqw5D8GyNpAko5jCN0enGxz4E5vwTx066XVvJel6sZwPrHdtHG-FuCeQleW-ghkcs3NR3kSVQFHlDIyDi_Qv7ccL8QMEzKU5pAAAAA&shmds=v1_ARwrE23VruZvV0UHG9nLRQAPwSABlxTLZnEWSQhDTCLs2oXMuQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=uAICUsDOwtf2JPlaAAAAAA%3D%3D",
+            "extensions": [
+                "77.6K–176K a year",
+                "Full-time and Part-time",
+                "Health insurance"
+            ],
+            "source_link": "https://www.ziprecruiter.com/c/booz-allen-hamilton/Job/Data-Scientist-Aurora,-Colorado/-in-The-Pinery,CO?jid=2633450a41dc0af5",
+            "job_title": "Data Scientist-Aurora, Colorado",
+            "description": "Data Scientist\n\n The Opportunity: \n\n\n\n\nAs a data scientist, you're excited at the prospect of unlocking the secrets held by a data set, and you're fascinated by the possibilities presented by IoT, machine learning, and artifi cia l intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. Across private and public sectors, from fraud detection to cancer research to national intelligence, we need you to help find the answers in the data. \n\n\n\n\nOn our team, you'll use your analytical skills and data science knowledge to create real-world impact. You'll work closely with your clients to understand their questions and needs and then dig into their data-rich environments to find the pieces of their information puzzle. You'll develop algorithms and systems and use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to help clients make informed decisions. Ultimately, you'll provide a deep understanding of the data, what it all means, and how it can be used.\n\n\n\n\nWork with us as we use data science for good.\n\n\n\n\nJoin us. The world can't wait.\n\n\n\n You Have: \n\n\n\n\n\n 5+ years of experience using data science programming languages such as Python or R\n 2+ years of experience with Amazon Web Services ( AWS )\n Experience creating ETL pipelines, including querying APIs, cleaning and conditioning data, and creating schemas for data storage\n Experience with version control tools, including git, GitLab, GitHub, or Bitbucket\n Experience with statistical analysis, predictive modeling, or machine learning met hods\n Ability to design and develop automated analytic sof tware, techniques, and algorithms\n Ability to develop solutions and integrate and extend free and open-source sof tware ( FOSS ) or COTS products\n TS/SCI clearance with a polygraph\n Bachelor's degree and 3+ years of experience in data science, or 7+ years of experience in data science in lieu of a degree\n\n\n Nice If You Have: \n\n\n\n Experience working with GEOINT, HUMINT, MASINT, OSINT, and SIGINT and the data and tools asso cia ted with these disciplines\n Experience with intelligence or operations analysis in the DoD or Intelligence Community\n Knowledge of DevOps, including CI / CD pipelines and Jenkins\n Master's degree\n\n\n Clearance: \n\n\n\n\n Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information ; TS/SCI clearance with polygraph is required. \n\n\n\nCompensation\n\n\n\n\nAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.\n\n\n\n\nSalary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $77,600.00 to $176,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees. This posting will close within 90 days from the Posting Date.\n\n\n\nIdentity Statement\n\n\n\n\nAs part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.\n\n\n\nCandidate AI Usage Policy\n\n\n\n\nAI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided. \n\n\n\nWork Model\n\n\nOur people-first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.\n\n\n\n Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.\n Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.\n Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.\n\n\nCommitment to Non-Discrimination\n\n\n\n\nAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/booz-allen-hamilton/Job/Data-Scientist-Aurora,-Colorado/-in-The-Pinery,CO?jid=2633450a41dc0af5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdC1BdXJvcmEsIENvbG9yYWRvIiwiY29tcGFueV9uYW1lIjoiQk9PWiwgQUxMRU4gXHUwMDI2IEhBTUlMVE9OLCBJTkMuIiwiaHRpZG9jaWQiOiJ1QUlDVXNET3d0ZjJKUGxhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEhGcmJuZENUR3BZV0d4R2NHSnJWbUZXWkV4T1kxbG5aQzFvZFRsVlRrMWpkWEZIYkhKWVVWVktiMnBUUVVwRlVHbFhPSEJuVkdwbFJtcHVkM2d4YTJKbk5XVlhNekJ3Vm00eFlXa3pjMDFzVDBOalgxUm1ibFl6UTJKR1VsRndTV1pwZW1GVmIxUlVibmhIWWxSaFZteGlOVWd0UjBSTldWSjBNRXRVZVRkWmNUWTBlVTBTRjNKYVgySmhkVE5zU2s5NWJ6Vk9iMUJmV1ZONWExRkpHaUpCUkhOeU9XWlRTWEJKUVdKd1MwdFhNSHB0Y0VOdGFqQnlSVE40VVdWVFdubDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJ1QUlDVXNET3d0ZjJKUGxhQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Data Scientist Advisor",
+            "company_name": "General Dynamics Information Technology",
+            "location": "McChord AFB, WA (+3 others)",
+            "via": "Built In",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Analytics, Data Analysis, Datasets, Quantitative Analysis, Research Methodologies",
+                        "8 + years of related experience",
+                        "EDUCATION: Master’s degree in a quantitative discipline, including but not limited to statistics, biostatistics, mathematics, applied mathematics, data science, operations research, computer science, engineering, physics, economics or econometrics, epidemiology, geospatial science or geoinformatics, or psychology or another behavioral science with a quantitative-methods concentration, with documented coursework or professional application in statistics, programming, and quantitative analysis; or a bachelor’s degree in such a discipline with the additional experience stated under Required Minimum Experience/Skills below",
+                        "With a Master’s degree: minimum of seven (7) years of professional experience applying data science, statistics, or research methods to real-world problems, including at least two (2) years supervising or leading analysts",
+                        "With a bachelor’s degree: minimum of ten (10) years of such experience, including at least two (2) years supervising or leading analysts",
+                        "In either path, at least three (3) years must be hands-on practice as a data scientist, statistician, or equivalent analyst personally performing the analyses, rather than supervising or advising",
+                        "Degree-program work does not count toward the Data Science Advisor experience requirement",
+                        "Demonstrated expertise in research methods, study design, and program evaluation, including quantitative and qualitative methods, sufficient to design defensible evaluations and to advise senior leaders on their limitations",
+                        "Advanced proficiency in Python or R and in SQL, and demonstrated experience delivering statistical or predictive models and decision-support products to organizational leadership",
+                        "Demonstrated supervisory experience leading a data science, analytics, or research team, and experience running a program or project of comparable scope",
+                        "Ability to communicate effectively both orally and in writing with senior leadership, negotiate complex issues, develop a range of alternatives when there is no single solution, and establish and maintain good working relations with stakeholders",
+                        "CLEARANCE: Secret or Top-Secret Clearance, or the ability to obtain clearance"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "401K with company match",
+                        "Comprehensive health and wellness packages",
+                        "Internal mobility team dedicated to helping you own your career",
+                        "Professional growth opportunities including paid education and certifications",
+                        "Cutting-edge technology you can learn from",
+                        "Rest and recharge with paid vacation and holidayS",
+                        "The likely salary range for this position is $128,039 - $173,229",
+                        "This is not, however, a guarantee of compensation or salary",
+                        "Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range",
+                        "40",
+                        "Our benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match",
+                        "To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave",
+                        "GDIT typically provides new employees with 15 days of paid leave per calendar year to be used for vacations, personal business, and illness and an additional 10 paid holidays per year",
+                        "Paid leave and paid holidays are prorated based on the employee’s date of hire",
+                        "The GDIT Paid Family Leave program provides a total of up to 160 hours of paid leave in a rolling 12 month period for eligible employees",
+                        "To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Data Science Advisor (DSA) leads the POTFF Enterprise Data and Analytics function and serves as the primary analytical advisor to the Enterprise POTFF Director, Domain Leads, and the Human Factors Council (HFC) on research methodologies, data collection strategies, and program evaluation",
+                        "The DSA coordinates and directs the technical work of the Data Engineers, Data Scientists, and Senior Data Scientists under their purview, subject to Government direction; sets the analytical agenda in response to Government priorities; ensures that methods are sound, reproducible, and defensible; and delivers findings to Government leadership in a form suitable for decision-making",
+                        "Serve as the lead for the Enterprise Data and Analytics function: plan, prioritize, assign, and review the work of the Data Engineers, Data Scientists, and Senior Data Scientists under their purview in response to Government-directed requirements, and manage the analytical backlog using an Agile or comparable framework",
+                        "Serve as the primary analytical advisor to the Enterprise POTFF Director, Domain Leads, and the HFC regarding research methodologies, data collection strategies, study design, and program evaluation",
+                        "Design and oversee Government-directed program evaluations, analyses, and experiments that measure the validity, efficacy, and Return on Investment (ROI) of POTFF interventions; select appropriate statistical models and study designs; and ensure data quality and defensible, reproducible methodology",
+                        "Establish and maintain the team’s analytical standards, data governance practices, reporting methodologies, and performance-measurement frameworks in coordination with Government data governance, and ensure compliance with DoW Impact Level 5 (IL5), HIPAA, Privacy Act, and applicable DoW artificial intelligence and machine learning (AI/ML) policy",
+                        "Translate Government priorities into analytical requirements; support the strategic planning process for POTFF programs with data-driven decision support; and support the development of enterprise performance measures, executive dashboards, and readiness metrics",
+                        "Prepare and deliver reports, briefings, and decision-support products that accurately convey findings, limitations, and recommendations to Government leadership",
+                        "Provide consultation to supported units and POTFF staff on opportunities and methods for capturing data on POTFF programs and initiatives, and on the interpretation of analytical products",
+                        "Coordinate with the USSOCOM Enterprise Data Team and other Government data organizations on data access, standards, and shared platforms, as directed by the Government",
+                        "Perform advanced analysis personally when required, and maintain currency in statistical analysis, data science, AI/ML, data engineering, and visualization technologies",
+                        "Coordinate and advise on the training and professional development of the data science personnel under their purview, subject to Government approval"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=vbtJ0ZVjLxH_VZaMAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE43i21EcNGpWiwKTgqOJU3PJJLelVyQ9o18TOvyj9-ffRdZXumk4W48UvKSoOw-XjhCDlduQVBH44AJamYbcHlwKQ2yV0okFFaSTt4UhnvFhC2P6s2t_NOI0xGHoBM2291mLAayq32NhFEHqCbSvTcCF3px7GdkPjzQOOLAdgJPcDMnx7GD8nxcw7P8AfJBPv6rAAAA&shmds=v1_ARwrE238SqXu2J8dhDeO90lhE5P6f9pETyQ68P_yl0HvV-qGYw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=vbtJ0ZVjLxH_VZaMAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAbAAEAAgMBAQAAAAAAAAAAAAAAAwcCBAYFAf_EAC0QAAEDAgQEBAcBAAAAAAAAAAEAAgMEEQUSITEGExRhFlGBoSIyMzVBU5IV_8QAFAEBAAAAAAAAAAAAAAAAAAAAAP_EABQRAQAAAAAAAAAAAAAAAAAAAAD_2gAMAwEAAhEDEQA_ALxREQEREBERAREQFGZ4QSDLGCNwXBeVxf1nh2s_z8_Oyj6fzZbjNb0uuHceGxhVK6hGHGqDL1ArhKXF1tQMum9-yCzTPCACZWWOxzDVfWzRPNmSMcfIOBVWzzUVRRcNSVdPTwUhnn5scYdkDc7L7kn3W3j_AIX6Jvh77nzG8jps-a99fb1vZBY5ljaSHSMBAuQXbLHqIP3R_wBBcThtI2u40xCmxSNsjpMOjE7D-XWivt3UVTgWFM46pMPbRxilfSF7ormxd8eu_YIO-Y9rxdjg4eYN0UNBQ02HUzaaiiEULSSGC9hfUog2FGaeEkkxRkncloUiIIzBCQAYo7DYZRojYYmG7I2NPmGgKREGIjYHl4Y0PO7ralMjC8PLW5wLB1tVkiAiIgIiICIiAiIgIiIP_9k.jpeg",
+            "extensions": [
+                "10 days ago",
+                "128,039–173,229 a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://builtin.com/job/data-scientist-advisor/11678657",
+            "job_title": "Data Scientist Advisor",
+            "description": "Type of Requisition:\n\nRegular\n\n\n\nClearance Level Must Currently Possess:\n\nTop Secret\n\n\n\nClearance Level Must Be Able to Obtain:\n\nTop Secret/SCI\n\n\n\nPublic Trust/Other Required:\n\nNone\n\n\n\nJob Family:\n\nData Science and Data Engineering\n\n\n\nJob Qualifications:\n\nSkills:\n\nAnalytics, Data Analysis, Datasets, Quantitative Analysis, Research MethodologiesCertifications:\n\nNoneExperience:\n\n8 + years of related experienceUS Citizenship Required:\n\nYes\n\n\n\nJob Description:\n\nWe are GDIT. The people supporting and securing some of the most complex government, defense,\n\nand intelligence projects across the country. We ensure today is safe and tomorrow is smarter. Our work has meaning and impact on the world around us, but also on us, and that’s important.  \n\n\nGDIT is your place. You make it your own by embracing autonomy, seizing opportunity, and being rusted to deliver your best every day. \n\n\nWe think. We act. We deliver. There is no challenge we can’t turn into opportunity. And our work depends on an Data Science Advisor joining our team to support customer activities. \n\n\n\nThe Data Science Advisor (DSA) leads the POTFF Enterprise Data and Analytics function and serves as the primary analytical advisor to the Enterprise POTFF Director, Domain Leads, and the Human Factors Council (HFC) on research methodologies, data collection strategies, and program evaluation. The DSA coordinates and directs the technical work of the Data Engineers, Data Scientists, and Senior Data Scientists under their purview, subject to Government direction; sets the analytical agenda in response to Government priorities; ensures that methods are sound, reproducible, and defensible; and delivers findings to Government leadership in a form suitable for decision-making. \n\n\nHOW A DATA SCIENCE ADVISOR (DSA) WILL MAKE AN IMPACT:\n\n\nServe as the lead for the Enterprise Data and Analytics function: plan, prioritize, assign, and review the work of the Data Engineers, Data Scientists, and Senior Data Scientists under their purview in response to Government-directed requirements, and manage the analytical backlog using an Agile or comparable framework.Serve as the primary analytical advisor to the Enterprise POTFF Director, Domain Leads, and the HFC regarding research methodologies, data collection strategies, study design, and program evaluation.Design and oversee Government-directed program evaluations, analyses, and experiments that measure the validity, efficacy, and Return on Investment (ROI) of POTFF interventions; select appropriate statistical models and study designs; and ensure data quality and defensible, reproducible methodology.Establish and maintain the team’s analytical standards, data governance practices, reporting methodologies, and performance-measurement frameworks in coordination with Government data governance, and ensure compliance with DoW Impact Level 5 (IL5), HIPAA, Privacy Act, and applicable DoW artificial intelligence and machine learning (AI/ML) policy.Translate Government priorities into analytical requirements; support the strategic planning process for POTFF programs with data-driven decision support; and support the development of enterprise performance measures, executive dashboards, and readiness metrics.Prepare and deliver reports, briefings, and decision-support products that accurately convey findings, limitations, and recommendations to Government leadership.Provide consultation to supported units and POTFF staff on opportunities and methods for capturing data on POTFF programs and initiatives, and on the interpretation of analytical products.Coordinate with the USSOCOM Enterprise Data Team and other Government data organizations on data access, standards, and shared platforms, as directed by the Government.Perform advanced analysis personally when required, and maintain currency in statistical analysis, data science, AI/ML, data engineering, and visualization technologies.Coordinate and advise on the training and professional development of the data science personnel under their purview, subject to Government approval.WHAT YOU’LL NEED TO SUCCEED:\n\n\nEDUCATION: Master’s degree in a quantitative discipline, including but not limited to statistics, biostatistics, mathematics, applied mathematics, data science, operations research, computer science, engineering, physics, economics or econometrics, epidemiology, geospatial science or geoinformatics, or psychology or another behavioral science with a quantitative-methods concentration, with documented coursework or professional application in statistics, programming, and quantitative analysis; or a bachelor’s degree in such a discipline with the additional experience stated under Required Minimum Experience/Skills below.\n\n\nWith a Master’s degree: minimum of seven (7) years of professional experience applying data science, statistics, or research methods to real-world problems, including at least two (2) years supervising or leading analysts. With a bachelor’s degree: minimum of ten (10) years of such experience, including at least two (2) years supervising or leading analysts. In either path, at least three (3) years must be hands-on practice as a data scientist, statistician, or equivalent analyst personally performing the analyses, rather than supervising or advising. Degree-program work does not count toward the Data Science Advisor experience requirement.Demonstrated expertise in research methods, study design, and program evaluation, including quantitative and qualitative methods, sufficient to design defensible evaluations and to advise senior leaders on their limitations.Advanced proficiency in Python or R and in SQL, and demonstrated experience delivering statistical or predictive models and decision-support products to organizational leadership.Demonstrated supervisory experience leading a data science, analytics, or research team, and experience running a program or project of comparable scope.Ability to communicate effectively both orally and in writing with senior leadership, negotiate complex issues, develop a range of alternatives when there is no single solution, and establish and maintain good working relations with stakeholders.\nPREFERRED QUALIFICATIONS:\n\n\nDesired (not required): Experience with human performance, sports science, health, clinical, or biomedical data or research.Desired (not required): Agile or Scrum certification (e.g., Certified ScrumMaster, PMI Agile Certified Practitioner) or comparable training.Desired (not required): A doctoral degree in one of the disciplines listed above, or a history of peer-reviewed publications.Desired (not required): Familiarity with the Government-furnished technology stack (e.g., Databricks and Apache Spark, Power BI, Microsoft Power Platform) and with Palantir Foundry. \n\n \n\nLOCATION: Various CONUS SITES\n\n\nCLEARANCE: Secret or Top-Secret Clearance, or the ability to obtain clearance.\n\n\nThis is a contingent posting, expected to start in 2027.\n\nGDIT IS YOUR PLACE:\n\n401K with company matchComprehensive health and wellness packagesInternal mobility team dedicated to helping you own your careerProfessional growth opportunities including paid education and certificationsCutting-edge technology you can learn fromRest and recharge with paid vacation and holidayS\n\n#MilitaryHealthGDITJobs\n\n\n\n\n\nThe likely salary range for this position is $128,039 - $173,229. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range.\n\n\n\nScheduled Weekly Hours:\n\n40\n\n\n\nTravel Required:\n\nLess than 10%\n\n\n\nTelecommuting Options:\n\nOnsite\n\n\n\nWork Location:\n\nUSA FL Hurlburt Field - 229 Cody Ave (FLC017)\n\n\n\nAdditional Work Locations:\n\nUSA CA San Diego, USA NC Fort Bragg, USA WA Joint Base Lewis-McChord\n\n\n\n\n\n\n\n\n\nTotal Rewards at GDIT:\n\nOur benefits package for all US-based employees includes a variety of medical plan options, some with Health Savings Accounts, dental plan options, a vision plan, and a 401(k) plan offering the ability to contribute both pre and post-tax dollars up to the IRS annual limits and receive a company match. To encourage work/life balance, GDIT offers employees full flex work weeks where possible and a variety of paid time off plans, including vacation, sick and personal time, holidays, paid parental, military, bereavement and jury duty leave. GDIT typically provides new employees with 15 days of paid leave per calendar year to be used for vacations, personal business, and illness and an additional 10 paid holidays per year. Paid leave and paid holidays are prorated based on the employee’s date of hire. The GDIT Paid Family Leave program provides a total of up to 160 hours of paid leave in a rolling 12 month period for eligible employees. To ensure our employees are able to protect their income, other offerings such as short and long-term disability benefits, life, accidental death and dismemberment, personal accident, critical illness and business travel and accident insurance are provided or available. We regularly review our Total Rewards package to ensure our offerings are competitive and reflect what our employees have told us they value most. \n\n\n\nOur Identity Verification Process:\n\nAs part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during virtual interviews. We reserve the right to take your picture to verify your identity and prevent fraud. By proceeding, you authorize the collection, processing, and use of your biometric data for identity verification and security purposes.\n\nAbout Our Work:\n\nWe are GDIT. A global technology and professional services company that delivers technology solutions and mission services to every major agency across the U.S. government, defense and intelligence community. Our 26,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation. We operate across 50+ countries worldwide, offering leading mission-ready capabilities in AI, cloud, cyber and software development.\n\n\n\nJoin our Talent Community to stay up to date on our career opportunities and events atgdit.com/tc.\n\n\n\n\n\nEqual Opportunity Employer / Individuals with Disabilities / Protected Veterans",
+            "apply_options": [
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/data-scientist-advisor/11678657?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/45e2796a-d17b-4fb6-9839-fd0eeaa64be4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/general-dynamics-information-technology/Job/Data-Scientist-Advisor/-in-Hurlburt-Field,FL?jid=d27e96293de94239&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/data-scientist-advisor-at-general-dynamics-information-technology-4475037185?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LocalJobs.com",
+                    "link": "https://www.localjobs.com/job/hurlburt-field-fl-data-scientist-advisor?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobMESH",
+                    "link": "https://jobmesh.io/job/aa8d61fc-b742-4340-95f4-35a2558b44eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EchoJobs",
+                    "link": "https://echojobs.io/job/gdit-data-scientist-advisor-58h9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido",
+                    "link": "https://us.jobrapido.com/jobpreview/5392655931349663744?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVudGlzdCBBZHZpc29yIiwiY29tcGFueV9uYW1lIjoiR2VuZXJhbCBEeW5hbWljcyBJbmZvcm1hdGlvbiBUZWNobm9sb2d5IiwiaHRpZG9jaWQiOiJ2YnRKMFpWakx4SF9WWmFNQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU201MVl6WTBOVXRMZVd0MVkxTnZVRlZZTVV4cVV6SkljekpoUTJweFJWUnJVMmx4UkVOU1dEWTVZMkY1UnpOcVRIZEdaa3BWTW1wQ1dXZFVNR3Q0TkVac01EaDRYMlJWWldoa1dHaHhUMVIzUWpoSFdrdDBTemRJWlZsQ05WVXhkemN3UkZKRFJFRnBXakJhT0RkcGFtbE5kR1pzYmxwdWNqSTVNRTV4YmxWd2FWRndkV01TRjNKYVgySmhkVE5zU2s5NWJ6Vk9iMUJmV1ZONWExRkpHaUpCUkhOeU9XWlNWM1IyUTBKeVNqUXhTVFl3TkRsNmREVXdSWEJSUldwRWFYSm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJ2YnRKMFpWakx4SF9WWmFNQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "2027 Summer Intern, Data Scientist (Reston, VA; Denver, CO; Remote)",
+            "company_name": "IIIIIIUS",
+            "location": "Denver, CO (+2 others)",
+            "via": "ICF Career",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "A completed bachelor’s degree plus enrollment verification or 9 credit hours complete in a Master’s degree program within data science or similar discipline",
+                        "Must be able to pass any required background check(s), which may include drug screening",
+                        "All work must be performed in the U.S. per contract requirements",
+                        "Professional skills you will use:",
+                        "Strong communication and collaboration skills",
+                        "Ability to work independently and manage multiple priorities",
+                        "Curiosity and a passion for solving complex problems with data",
+                        "Able to exercise independent judgment",
+                        "Strong organizational skills with ability to effectively prioritize and execute tasks while under pressure",
+                        "Ability to effectively work in a diverse team of technologists and business stakeholders and explain technical concepts/solutions to non-technical client stakeholders",
+                        "Takes initiative in learning complex systems and codebases, while actively seeking clarification and guidance to solve problems efficiently"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Read more about workplace discrimination rights or our benefit offerings which are included in the Transparency in (Benefits) Coverage Act",
+                        "Pay Range - There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position",
+                        "$45,805.00 - $94,221.00"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "We are seeking a skilled and motivated Data Scientist intern to join our team supporting energy efficiency and load management programs for utilities",
+                        "This role will focus on maintaining and enhancing predictive analytics models.",
+                        "The ideal candidate will apply advanced statistical and computational methodologies and integrate these analyses into supporting IT systems to help achieve business objectives",
+                        "Responsibilities include analyzing large datasets—spanning customer behavior, energy usage, and marketing performance to identify appropriate techniques, develop and execute code, validate outputs, and produce technical reports"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=NVgHt4bUUQQGxfEeAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_02NuwrCQBAAsc0HWFhtqRJzISCCqcSAxEZI0MJGLseSnORuw-0q-S3_0EflFFNMM9FrEl2zNNtA_XAOA5ReMPgYCi0aamPRi2WBeYUs9OmXXQ4F-ieGGPanHCp0JLiAFRypAUYdTAfk4UDU9jjLO5GBt0ox90nLosWaxJBT5LGhUd2p4a9u3OmAQ68Fb9k6HZPBt8tp-eNcg_V_0zdTUMSMtAAAAA&shmds=v1_ARwrE20vsYGKsKq10-kSCUeRIfgyz2GLD7aYkOxNzYKlOU-Rbg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=NVgHt4bUUQQGxfEeAAAAAA%3D%3D",
+            "extensions": [
+                "21 days ago",
+                "Part-time"
+            ],
+            "source_link": "https://careers.icf.com/us/en/job/R2603252/2027-Summer-Intern-Data-Scientist-Reston-VA;-Denver-CO;-Remote",
+            "job_title": "2027 Summer Intern, Data Scientist (Reston, VA; Denver, CO; Remote)",
+            "description": "Description\n\nWe’re currently hiring a Data Scientist Intern to join our team in Summer 2027.\n\nThis is an entry-level, 10-week, full-time internship expected to begin in June and end in August. Work may be hybrid from our offices in Reston, VA or Denver, CO or done remotely from any U.S. location.  At this time, we are unable to provide housing nor relocation assistance for this position. \n\n\nReady to Make a Difference?\n\nWe are seeking a skilled and motivated Data Scientist intern to join our team supporting energy efficiency and load management programs for utilities. This role will focus on maintaining and enhancing predictive analytics models. \n\n \nThe ideal candidate will apply advanced statistical and computational methodologies and integrate these analyses into supporting IT systems to help achieve business objectives. Responsibilities include analyzing large datasets—spanning customer behavior, energy usage, and marketing performance to identify appropriate techniques, develop and execute code, validate outputs, and produce technical reports. \n\n\nBasic Qualifications:  \n\nA completed bachelor’s degree plus enrollment verification or 9 credit hours complete in a Master’s degree program within data science or similar disciplineMust be able to pass any required background check(s), which may include drug screeningAll work must be performed in the U.S. per contract requirements\nPreferred Qualifications:\n\nA completed Master’s degree program within data science or similar disciplineEnrollment verification or 9 credit hours complete in a Doctoral degree program within data science or similar disciplineProficiency in R and/or Python or statistical modeling, data manipulation, and visualizationFamiliarity with version control systems such as Git, including branching strategies, pull requests, and repository management Working knowledge of SQL for querying relational databases Strong understanding of predictive modeling techniques and machine learning algorithms Familiarity with Docker for building and deploying containerized machine learning environments and applications Experience with Microsoft Azure services (e.g. Azure Databricks, Azure Batch, Azure Blob/Table Storage) Familiarity with energy efficiency, utilities, or environmental analytics a plus Experience working with large-scale datasets and building scalable data solutions  \nProfessional skills you will use: \n\nStrong communication and collaboration skills  Ability to work independently and manage multiple priorities Curiosity and a passion for solving complex problems with data Able to exercise independent judgment Strong organizational skills with ability to effectively prioritize and execute tasks while under pressureAbility to effectively work in a diverse team of technologists and business stakeholders and explain technical concepts/solutions to non-technical client stakeholders Takes initiative in learning complex systems and codebases, while actively seeking clarification and guidance to solve problems efficiently\nBot and Third-Party Applications\n\nPlease note that this application must be submitted directly by the applicant for consideration. Failure to do so may result in the application being excluded for consideration.  Applicants needing an accommodation for disability or religious purposes in connection with the application process should contact Candidateaccommodation@icf.com for assistance.\n\n\n\n\n\nWorking at ICF\n\nICF is a global advisory and technology services provider, but we’re not your typical consultants. We combine unmatched expertise with cutting-edge technology to help clients solve their most complex challenges, navigate change, and shape the future.\n\n\n\nWe can only solve the world's toughest challenges by building a workplace that allows everyone to thrive. We are an equal opportunity employer. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our EEO policy.\n\n\n\nWe will consider for employment qualified applicants with arrest and conviction records.\n\n \n\nReasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with sincerely held religious beliefs, in all phases of the application and employment process. To request an accommodation, please email Candidateaccommodation@icf.com and we will be happy to assist. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.  \n\n\n\nRead more about workplace discrimination rights or our benefit offerings which are included in the Transparency in (Benefits) Coverage Act. \n\n\n\n \n\n\n\nCandidate AI Usage PolicyAt ICF, we are committed to ensuring a fair interview process for all candidates based on their own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) tools to generate or assist with responses during interviews (whether in-person or virtual) is not permitted. This policy is in place to maintain the integrity and authenticity of the interview process.  \n\n\n\nHowever, we understand that some candidates may require accommodation that involves the use of AI. If such an accommodation is needed, candidates are instructed to contact us in advance at candidateaccommodation@icf.com. We are dedicated to providing the necessary support to ensure that all candidates have an equal opportunity to succeed.  \n\n\n \n\nPay Range - There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position. \n\n\n\nThe pay range for this position based on full-time employment is:\n\n$45,805.00 - $94,221.00\n\n\n\n\n\n\n\nReston, VA (VA30)",
+            "apply_options": [
+                {
+                    "title": "ICF Career",
+                    "link": "https://careers.icf.com/us/en/job/R2603252/2027-Summer-Intern-Data-Scientist-Reston-VA;-Denver-CO;-Remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/2027-summer-intern-data-scientist-reston-va-denver-co-remote-at-icf-4470722725?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/2027-summer-intern-data-scientist-reston-va-denver-co-remote-denver-co--d2a7da01-b067-44c8-89f6-e7096a9265fb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/2027-summer-intern-data-scientist-reston-va-denver-co-remote/11382566?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/2027-summer-intern-data-scientist-reston-va-denver-co-remote-denver-co--ef22915c-b7af-47af-b974-2ac14b7d5e6e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Victorious Family",
+                    "link": "https://victoriousfamily.org/library/job/2027-summer-intern-data-scientist-reston-va-denver-co-remote-at-icf-denver-co-dDRhc2N5c25WQUJvenU4cVhwbFZzYkJ6dlE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Bandana.com",
+                    "link": "https://bandana.com/jobs/c6dfcc80-3439-4ad9-ad84-03d21904cdaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dataroles",
+                    "link": "https://dataroles.co/jobs/icf-2027-summer-intern-data-scientist-reston-va-denver-co-remote-789622fba47e2cf8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiIyMDI3IFN1bW1lciBJbnRlcm4sIERhdGEgU2NpZW50aXN0IChSZXN0b24sIFZBOyBEZW52ZXIsIENPOyBSZW1vdGUpIiwiY29tcGFueV9uYW1lIjoiSUlJSUlJVVMiLCJodGlkb2NpZCI6Ik5WZ0h0NGJVVVFRR3hmRWVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbEpZU0RCSGNqbE9NVTV2Y1UxUlNHWnZMVGhLYlhSaVJsUmllR0ZNVDNseU4yd3paRWhzZFd0YVVVVnJhV0ZrVVZkc1JVNTJhM0I2TTBJMVVFNWlWWFpTVnpoU1JFbE5WMFJDVlRnd1pqQnRlR3RWVmtkUU1qaFdibFE0VlhGa1gybGhTRmt6YVhwNGJsVnJiREZxUWxOaGJDMXhRelpRZWpBd1ltZHpaMUJZV1VSb1FtWVNGM0phWDJKaGRUTnNTazk1YnpWT2IxQmZXVk41YTFGSkdpSkJSSE55T1daVGJWVjJaRGd3TlY5VFEzaDZiM05NTFVkaFRtaHVVMnBQV21wQiIsImZjdiI6IjMiLCJmY19pZCI6Ik5WZ0h0NGJVVVFRR3hmRWVBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Senior, Data Scientist (Demand Forecasting) | Dallas - Now Hiring",
+            "company_name": "7Fold",
+            "location": "Anywhere",
+            "via": "7Fold",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Proficient in machine learning using Python, experience with SQL and working with large data sets and distributed computing tools (Spark, PySpark)",
+                        "Masters in Computer Science, Statistics, Mathematics or other quantitative fields with 3 years of relevant work experience",
+                        "Experience of developing machine learning model from initial design to production",
+                        "Option 1- Bachelor's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field",
+                        "Option 2- Master's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field",
+                        "Option 3 - 5 years' experience in an analytics or related field",
+                        "Data science, machine learning, optimization models, Master's degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location 603 MUNGER AVE STE 400, DALLAS, TX 75202, United States of AmericaSalary $50 per hour"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Benefits Benefits Beyond our great compensation package, you can receive incentive awards for your performance",
+                        "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more",
+                        "Estimated Salary $20 to $28 per hour based on qualifications Apply Job!"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will be responsible to use cutting-edge machine learning techniques to design and build robust, scalable predictive models and analytics solutions for demand forecasting",
+                        "You will be a part of a cross-functional team of Data Scientists, Engineers, Product managers, and..",
+                        "What you'll do Design, build and implement predictive models forecasting demand with high-dimensional datasets and large data",
+                        "Collaborate with business on metrics and forecast quality",
+                        "Work with development teams to productionize models",
+                        "Be a strategic partner to cross functional teams, sharing insights and providing recommendations through effective communication backed by data analysis",
+                        "What you'll bring Technical expertise in machine learning, statistical analysis and data mining"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Data+Scientist&htidocid=L1xcWLueeRXr1Jf_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLMQrCQBBFsc0BLKymVNFEBBG0DVEsbIJgFyabIVnZzISdAVN4J69obD68x_vJd5Y8S2IvcQM5GkLpPLF5NVjm1CM3UEgkh2qe2xV8pioEVNjCXd5w9XHSE9ykBiWMrgNhuIi0gRbnzmzQU5aphrRVQ_MuddJnwlTLmL2k1v9U2mGkIaBRtT_sxnTgdj0_FhIa8AwP9kYNlNOf9Ade0AQqsgAAAA&shmds=v1_ARwrE21tXee77e-2vZaWQx4-dAMB0A_PeFFpavRTcLUkWsSBXA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Scientist&htidocid=L1xcWLueeRXr1Jf_AAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://7fold.v6f.my-board.org/remote-jobs/senior-data-scientist-demand-forecasting-dallas-now-hiring",
+            "job_title": "Senior, Data Scientist (Demand Forecasting) | Dallas - Now Hiring",
+            "description": "Position SummaryWhat you'll do Walmart Global Tech is looking to hire a Senior Data Scientist for their Dallas location. You will be responsible to use cutting-edge machine learning techniques to design and build robust, scalable predictive models and analytics solutions for demand forecasting. You will be a part of a cross-functional team of Data Scientists, Engineers, Product managers, and... Business professionals. About Team  Our team works closely with our US stores and eCommerce business to better serve customers by empowering team members, stores, and merchants with technological innovation. From groceries and entertainment to sporting goods and crafts, Walmart U. S. offers an extensive selection that our customers value, whether they shop online at Walmart. com, through one of our mobile apps, or in-store. Focus areas include customers, stores and employees, in-store service, merchant tools, merchant data science, and search and personalization. What you'll do  Design, build and implement predictive models forecasting demand with high-dimensional datasets and large data. Collaborate with business on metrics and forecast quality. Work with development teams to productionize models. Be a strategic partner to cross functional teams, sharing insights and providing recommendations through effective communication backed by data analysis. What you'll bring  Technical expertise in machine learning, statistical analysis and data mining. Proficient in machine learning using Python, experience with SQL and working with large data sets and distributed computing tools (Spark, PySpark). Masters in Computer Science, Statistics, Mathematics or other quantitative fields with 3 years of relevant work experience. Experience of developing machine learning model from initial design to production. About Walmart Global Tech  Imagine working in an environment where one line of code can make life easier for hundreds of millions of people. That's what we do at Walmart Global Tech. We're a team of software engineers, data scientists, cybersecurity expert's and service professionals within the world's leading retailer who make an epic impact and are at the forefront of the next retail disruption. People are why we innovate, and people power our innovations. We are people-led and tech-empowered. We train our team in the skillsets of the future and bring in experts like you to help us grow. We have roles for those chasing their first opportunity as well as those looking for the opportunity that will define their career. Here, you can kickstart a great career in tech, gain new skills and experience for virtually every industry, or leverage your expertise to innovate at scale, impact millions and reimagine the future of retail. Flexible, Hybrid work  We use a hybrid way of working that is primarily in office coupled with virtual when not onsite. Our campuses serve as a hub to enhance collaboration, bring us together for purpose and deliver on business needs. This approach helps us make quicker decisions, remove location barriers across our global team and be more flexible in our personal lives. Benefits  Benefits Beyond our great compensation package, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more. Equal Opportunity Employer  Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people. The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process. Minimum Qualifications Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. Option 1- Bachelor's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3 years' experience in an analytics related field. Option 2- Master's degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or related field. Preferred Qualifications Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. Data science, machine learning, optimization models, Master's degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location 603 MUNGER AVE STE 400, DALLAS, TX 75202, United States of AmericaSalary $50 per hour. Estimated Salary $20 to $28 per hour based on qualifications Apply Job!",
+            "apply_options": [
+                {
+                    "title": "7Fold",
+                    "link": "https://7fold.v6f.my-board.org/remote-jobs/senior-data-scientist-demand-forecasting-dallas-now-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IsIERhdGEgU2NpZW50aXN0IChEZW1hbmQgRm9yZWNhc3RpbmcpIHwgRGFsbGFzIC0gTm93IEhpcmluZyIsImNvbXBhbnlfbmFtZSI6IjdGb2xkIiwiaHRpZG9jaWQiOiJMMXhjV0x1ZWVSWHIxSmZfQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERsSVJtVlpjWEU1VTB0cFlpMUxTM2xNWm0wMldWUjRRVE5wUzBWSWFIb3lWMWw2Y1RoeFZuSjFRbXN3Y0dsWFpFcE5SWEZXU0RoM2QwUjNVbWRpV1c5MlpYTTRXbkJSVVdSSldqWnlPVzFRZGt0R1VtRnJTVVIwZURjMWExOHlOVkJWV1hGVVJFMUtURFJVTjBaMll6WlpiM053V1hwemIyZE9VRFZxTUdGSlNuQTRUMmtTRjNKYVgySmhkVE5zU2s5NWJ6Vk9iMUJmV1ZONWExRkpHaUpCUkhOeU9XWlVkM2hUT0ZSYU1EUlBTRmx6WXpKdFRraEVkekl3WnpRMU1FcDMiLCJmY3YiOiIzIiwiZmNfaWQiOiJMMXhjV0x1ZWVSWHIxSmZfQUFBQUFBPT0ifQ=="
+        }
+    ]
+}

@@ -1,0 +1,645 @@
+{
+    "jobs_results": [
+        {
+            "title": "Computational Scientist – AI/ML Engineer for Climate Science",
+            "company_name": "The University Of Chicago",
+            "location": "San Francisco, CA",
+            "via": "Terra.do",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Minimum Qualifications Education: Minimum requirements include a college or university degree in related field",
+                        "Work Experience: Minimum requirements include knowledge and skills developed through 2-5 years of work experience in a related job discipline",
+                        "Experience: Minimum of two years of relevant research or professional experience in AI/ML, scientific computing, climate science, atmospheric science, or related computational research environments",
+                        "Technical Skills and Knowledge: Strong programming skills in Python and/or C++",
+                        "Experience with AI/ML frameworks such as PyTorch or TensorFlow",
+                        "Experience developing, training, and optimizing neural network and deep learning architectures",
+                        "Experience with Linux/UNIX environments and HPC systems",
+                        "Familiarity with job schedulers such as SLURM",
+                        "Experience deploying and optimizing workloads on GPU-accelerated systems",
+                        "Familiarity with climate, weather, atmospheric, or Earth system data workflows and computational challenges",
+                        "Understanding of distributed training, model scaling, and performance optimization for AI/ML applications",
+                        "Familiarity with scientific computing libraries such as NumPy, SciPy, pandas, xarray, and scikit-learn",
+                        "Experience working with large-scale scientific datasets and formats such as NetCDF and HDF5",
+                        "Experience applying AI/ML methods to climate, atmospheric, or earth system science problems",
+                        "Experience with climate and community modeling frameworks such as WRF or CESM",
+                        "Experience with container technologies and development tools such as Git and Docker",
+                        "Experience installing, optimizing, and profiling scientific software on HPC systems",
+                        "Familiarity with performance analysis and compiler optimization techniques",
+                        "Experience with distributed and parallel computing technologies such as MPI and OpenMP",
+                        "Experience with large-scale neural network architectures for processing spatiotemporal data, such as Vision Transformers (ViTs)",
+                        "Experience with generative modeling with deep learning, such as flow matching or stochastic interpolants",
+                        "Work well with faculty and researchers",
+                        "Strong analytical skills and problem-solving ability"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Job Family Research Role Impact Individual Contributor Scheduled Weekly Hours 37.5 Drug Test Required No Health Screen Required No Motor Vehicle Record Inquiry Required No Pay Rate Type Salary FLSA Status Exempt Pay Range $85,000.00 - $105,000.00 The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting",
+                        "Benefits Eligible Yes The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role involves creating user interfaces, optimizing AI/ML workflows, and supporting climate science applications",
+                        "The position requires collaboration with researchers and includes responsibilities for training and documentation",
+                        "It is a hybrid role requiring at least three days onsite per week",
+                        "Department Provost Research Computing Center About the Department The University of Chicago Research Computing Center (RCC), a unit within the Office of Research, provides advanced research computing resources and expertise to support computational and data-intensive research across the University",
+                        "RCC enables research through centrally managed high-performance computing (HPC), storage, visualization, and AI infrastructure, along with scientific consulting, user support, education, and training",
+                        "Job Summary The job develops software to support the data acquisition, ingestion, and integration for research projects",
+                        "Assists in the development of user interfaces and scalable back-end services to automate and accelerate the scientific output of multi-institutional research projects",
+                        "The Research Computing Center (RCC) seeks an experienced Computational Scientist – AI/ML Engineer to support faculty, postdoctoral researchers, and graduate students conducting computational and AI-driven research",
+                        "The successful candidate will collaborate closely with researchers to understand scientific challenges, develop and optimize AI/ML workflows, neural networks, and deploy scalable solutions on modern HPC and GPU-accelerated systems",
+                        "This role includes supporting climate and geophysical science applications, enabling large-scale AI training and inference workflows, and contributing to the advancement of AI-enabled scientific discovery",
+                        "The ideal candidate will have experience working at the intersection of AI/ML, climate science, and large-scale scientific computing environments",
+                        "As part of RCC’s Computational Scientist team, the candidate will also contribute to user engagement, training, documentation, and grant support activities that advance computational research at the University of Chicago",
+                        "This is a hybrid position requiring at least three days onsite per week",
+                        "Responsibilities Support computational applications, software, and workflows related to climate, atmospheric, geophysical, and earth system sciences",
+                        "Collaborate with researchers to translate scientific challenges into scalable AI/ML and computational solutions",
+                        "Deploy, optimize, and support AI/ML pipelines on HPC and GPU-accelerated systems",
+                        "Optimize large-scale training and inference workflows using distributed computing frameworks and performance analysis tools such as NVIDIA Nsight",
+                        "Assist researchers with compiling, debugging, profiling, tuning, and porting scientific applications",
+                        "Optimize system utilization, including CPU/GPU, memory, storage, and I/O performance",
+                        "Maintain and support scientific software environments, community codes, and research datasets relevant to climate and earth system science",
+                        "Consult with faculty and research groups to help them effectively utilize RCC, national computing facilities, and cloud resources",
+                        "Contribute technical expertise to grant proposals and collaborative research initiatives",
+                        "Stay informed on emerging AI methods, climate modeling advances, and GPU computing technologies relevant to Earth system science",
+                        "Develops and presents technical training materials and web-based documentation",
+                        "Ensures timely systems support and updates",
+                        "Assists in conducting information security assessments and risk analysis of computing environment",
+                        "Evaluates past and present technologies to help develop new tools",
+                        "Ensures all the new tools have been through quality control reviews",
+                        "Performs other related work as needed",
+                        "Identify and gain expertise in appropriate new technologies and/or software tools",
+                        "Function as part of an interactive team while demonstrating self-initiative to achieve project's goals and Research Computing Center's mission"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=Mub8vBCd17t8aP2WAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yXMMW4CMRBGYaXlCKn-OgrrCClNqNAqIFAQBVAjrzXYE3lnVh6DSMcdcqWcJCchKM2rnr7Rz8No32o_nKqvrOIztoFJKlvF7_Ubs6Vbf-BdIgtRwVEL2sy9r_Q_BsIYK-1g5EtIUMFCNWZ6nKZaB3tzziw30e5-aIL2ToU6vbhP7eyegyVfaMh_5GHy-nJpBolPzS4R9sJnKsb1C5sj2sTBRwULtl4wL14CW9BntLMbF1LNV8cAAAA&shmds=v1_ARwrE20-c3-PUlXeIdW2q3a_emJfFYz7-JhrOg_FzlMqqsHBHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=Mub8vBCd17t8aP2WAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "Dental insurance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://www.terra.do/climate-jobs/job-board/Computational-Scientist---AI-ML-Engineer-for-Climate-Science-The-University-Of-Chicago-8410990/",
+            "job_title": "Computational Scientist – AI/ML Engineer for Climate Science",
+            "description": "The University of Chicago seeks a Computational Scientist – AI/ML Engineer for Climate Science to develop software for data acquisition and integration in research projects. This role involves creating user interfaces, optimizing AI/ML workflows, and supporting climate science applications. The position requires collaboration with researchers and includes responsibilities for training and documentation. It is a hybrid role requiring at least three days onsite per week.\nDepartment Provost Research Computing Center About the Department The University of Chicago Research Computing Center (RCC), a unit within the Office of Research, provides advanced research computing resources and expertise to support computational and data-intensive research across the University. RCC enables research through centrally managed high-performance computing (HPC), storage, visualization, and AI infrastructure, along with scientific consulting, user support, education, and training. RCC also helps researchers leverage local, national, and cloud-based computational resources. The Office of Research oversees sponsored research administration, research development, and contract management across the University. Job Summary The job develops software to support the data acquisition, ingestion, and integration for research projects. Assists in the development of user interfaces and scalable back-end services to automate and accelerate the scientific output of multi-institutional research projects. The Research Computing Center (RCC) seeks an experienced Computational Scientist – AI/ML Engineer to support faculty, postdoctoral researchers, and graduate students conducting computational and AI-driven research. This position will contribute to a major new AI and climate computing initiative in collaboration with NVIDIA, the University of Chicago Data Science Institute (DSI), Argonne National Laboratory, University of Chicago Development Innovation Lab (DIL), AI for Climate (AICE), and Human-Centered Weather Forecasts (HCWF) supporting next-generation climate and Earth system AI research and infrastructure development. The successful candidate will collaborate closely with researchers to understand scientific challenges, develop and optimize AI/ML workflows, neural networks, and deploy scalable solutions on modern HPC and GPU-accelerated systems. This role includes supporting climate and geophysical science applications, enabling large-scale AI training and inference workflows, and contributing to the advancement of AI-enabled scientific discovery. The ideal candidate will have experience working at the intersection of AI/ML, climate science, and large-scale scientific computing environments. As part of RCC’s Computational Scientist team, the candidate will also contribute to user engagement, training, documentation, and grant support activities that advance computational research at the University of Chicago. This is a hybrid position requiring at least three days onsite per week. Responsibilities Support computational applications, software, and workflows related to climate, atmospheric, geophysical, and earth system sciences. Collaborate with researchers to translate scientific challenges into scalable AI/ML and computational solutions. Deploy, optimize, and support AI/ML pipelines on HPC and GPU-accelerated systems. Optimize large-scale training and inference workflows using distributed computing frameworks and performance analysis tools such as NVIDIA Nsight. Assist researchers with compiling, debugging, profiling, tuning, and porting scientific applications. Optimize system utilization, including CPU/GPU, memory, storage, and I/O performance. Maintain and support scientific software environments, community codes, and research datasets relevant to climate and earth system science. Consult with faculty and research groups to help them effectively utilize RCC, national computing facilities, and cloud resources. Contribute technical expertise to grant proposals and collaborative research initiatives. Stay informed on emerging AI methods, climate modeling advances, and GPU computing technologies relevant to Earth system science. Develops and presents technical training materials and web-based documentation. Ensures timely systems support and updates. Assists in conducting information security assessments and risk analysis of computing environment. Evaluates past and present technologies to help develop new tools. Ensures all the new tools have been through quality control reviews. Performs other related work as needed. Minimum Qualifications Education: Minimum requirements include a college or university degree in related field. Work Experience: Minimum requirements include knowledge and skills developed through 2-5 years of work experience in a related job discipline. Certifications: --- Preferred Qualifications Education: PhD in Computer Science, Applied Mathematics, Atmospheric Science, Physics, Earth System Science, or a related field with a strong AI/ML or computational science focus. Experience: Minimum of two years of relevant research or professional experience in AI/ML, scientific computing, climate science, atmospheric science, or related computational research environments. Technical Skills and Knowledge: Strong programming skills in Python and/or C++. Experience with AI/ML frameworks such as PyTorch or TensorFlow. Experience developing, training, and optimizing neural network and deep learning architectures. Experience with Linux/UNIX environments and HPC systems. Familiarity with job schedulers such as SLURM. Experience deploying and optimizing workloads on GPU-accelerated systems. Familiarity with climate, weather, atmospheric, or Earth system data workflows and computational challenges. Understanding of distributed training, model scaling, and performance optimization for AI/ML applications. Familiarity with scientific computing libraries such as NumPy, SciPy, pandas, xarray, and scikit-learn. Experience working with large-scale scientific datasets and formats such as NetCDF and HDF5. Experience applying AI/ML methods to climate, atmospheric, or earth system science problems. Experience with climate and community modeling frameworks such as WRF or CESM. Experience with container technologies and development tools such as Git and Docker. Experience installing, optimizing, and profiling scientific software on HPC systems. Familiarity with performance analysis and compiler optimization techniques. Experience with distributed and parallel computing technologies such as MPI and OpenMP. Experience with large-scale neural network architectures for processing spatiotemporal data, such as Vision Transformers (ViTs). Experience with generative modeling with deep learning, such as flow matching or stochastic interpolants. Preferred Competencies Understand and translate researchers' scientific goals into computational requirements. Work well with faculty and researchers. Identify and gain expertise in appropriate new technologies and/or software tools. Function as part of an interactive team while demonstrating self-initiative to achieve project's goals and Research Computing Center's mission. Strong analytical skills and problem-solving ability. Application Documents CV or resume (required) Cover letter (preferred) The University of Chicago uses AI-assisted tools to streamline and augment some recruitment processes; however, AI is not used to make hiring decisions. When applying, the document(s) MUST be uploaded via the My Experience page, in the section titled Application Documents of the application. Job Family Research Role Impact Individual Contributor Scheduled Weekly Hours 37.5 Drug Test Required No Health Screen Required No Motor Vehicle Record Inquiry Required No Pay Rate Type Salary FLSA Status Exempt Pay Range $85,000.00 - $105,000.00 The included pay rate or range represents the University’s good faith estimate of the possible compensation offer for this role at the time of posting. Benefits Eligible Yes The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the Benefits Guidebook. Posting Statement The University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity, or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination. Job seekers in need of a reasonable accommodation to complete the application process should call 773-702-5800 or submit a request via Applicant Inquiry Form. All offers of employment are contingent upon a background check that includes a review of conviction history. A conviction does not automatically preclude University employment. Rather, the University considers conviction information on a case-by-case basis and assesses the nature of the offense, the circumstances surrounding it, the proximity in time of the conviction, and its relevance to the position. The University of Chicago's Annual Security & Fire Safety Report (Report) provides information about University offices and programs that provide safety support, crime and fire statistics, emergency response and communications plans, and other policies and information. The Report can be accessed online at: http://securityreport.uchicago.edu. Paper copies of the Report are available, upon request, from the University of Chicago Police Department, 850 E. 61st Street, Chicago, IL 60637. The University of Chicago is an urban research university that has driven new ways of thinking since 1890. Our commitment to free and open inquiry draws inspired scholars to our global campuses, where ideas are born that challenge and change the world. We empower individuals to challenge conventional thinking in pursuit of original ideas. Students in the College develop critical, analytic, and writing skills in our rigorous, interdisciplinary core curriculum. Through graduate programs, students test their ideas with UChicago scholars, and become the next generation of leaders in academia, industry, nonprofits, and government. To learn more about the university click here http://www.uchicago.edu/",
+            "apply_options": [
+                {
+                    "title": "Terra.do",
+                    "link": "https://www.terra.do/climate-jobs/job-board/Computational-Scientist---AI-ML-Engineer-for-Climate-Science-The-University-Of-Chicago-8410990/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Oncology Voice Network",
+                    "link": "https://oncologyvoicenetwork.com/jobs/computational-scientist-aiml-engineer-for-climate-science-8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIFNjaWVudGlzdCDigJMgQUkvTUwgRW5naW5lZXIgZm9yIENsaW1hdGUgU2NpZW5jZSIsImNvbXBhbnlfbmFtZSI6IlRoZSBVbml2ZXJzaXR5IE9mIENoaWNhZ28iLCJodGlkb2NpZCI6Ik11Yjh2QkNkMTd0OGFQMldBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVEpuYkVOUVJtTlRMVnBXU1dad1gzUnpTMFJ4UlVkV04zZzBNblYyWDAxcmRHOTJhSEF6V1UxMWNqSk5Namx5TmtKamJsSXRhelJMWkVRNVoxOXNRMEZoVFRSeFJqTnhUVGxyUmtoT1JFWlRibkZZUmtaTk1YWjNka3A2VFdsM1NVMXlMVmN0TFZwQ2IzaGphM0pUVVdWVmNISjZPVFZsVlRWTmFrRldXbnAyTFVKdVJHZ1NGM0poYW1KaGRUY3dUbVpoZHpWT2IxQTFXbFJwWjFGUkdpSkJSSE55T1daU1ptdFBSWHByU1VVMFFtb3pUMWhZVFY4NFNIRlNVRVJrVWtoMyIsImZjdiI6IjMiLCJmY19pZCI6Ik11Yjh2QkNkMTd0OGFQMldBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Associate Computational Plasma Scientist",
+            "company_name": "Princeton Plasma Physics Laboratory (PPPL)",
+            "location": "Princeton, NJ",
+            "via": "JobLeads",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Required are a Ph.D. in a relevant field, strong HPC experience, and proficiency in Python, NumPy, and PyTorch"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The role emphasizes development of LTP-PIC, collaboration with academia and industry, and dissemination of results"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=Bo3hF1Oa9QbL6NJUAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWNQQrCMBBFcdsjuJqlijYiuLELERdCKRLwADINoYmkmZAZoT2bl7MF3fzV--8Vn0VxvjCT8SgWrtSnt6B4ihhAB-Qe4WG8jeJZYAc1tcAWs3FAEW5EXbDLyokkPinFHMqO578pDfWKom1pUC9qeZ4nO8w2han0PBz3Q5lit6l09tFYmXS_nnYje8PQYEsZhfIIK611swY_MX96C_f6C4lxixa-AAAA&shmds=v1_ARwrE200MB3b41e9tB1lONhvGm3dnBBGP9Dlc0liGKpxCGe77w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=Bo3hF1Oa9QbL6NJUAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba8ad28b11125973acb9a/images/syeOEsaA20jQLVFwXBQMwmE3fvFQMpDPHxofFblk7ro.png",
+            "extensions": [
+                "7 days ago",
+                "94K–149K a year",
+                "Full-time"
+            ],
+            "source_link": "https://www.jobleads.com/us/job/associate-computational-plasma-scientist--princeton--e8529e8a5f9086b8b02380dade7be6f88",
+            "job_title": "Associate Computational Plasma Scientist",
+            "description": "Princeton Plasma Physics Laboratory (PPPL) seeks an Associate Computational Scientist to advance modeling and physics research for low-temperature plasmas using HPC, ML, and surrogate models. The role emphasizes development of LTP-PIC, collaboration with academia and industry, and dissemination of results.\n\nRequired are a Ph.D. in a relevant field, strong HPC experience, and proficiency in Python, NumPy, and PyTorch.",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/associate-computational-plasma-scientist--princeton--e8529e8a5f9086b8b02380dade7be6f88?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobServe",
+                    "link": "https://www.jobserve.com/us/en/extjob/ASSOCIATE-COMPUTATIONAL-PLASMA-SCIENTIST-in-Princeton-New-Jersey-USA-C32E9E98323D8BEA92/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido",
+                    "link": "https://us.jobrapido.com/jobpreview/5882043062535847936?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/princeton/new-jersey/research_and_development/5543429719/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBc3NvY2lhdGUgQ29tcHV0YXRpb25hbCBQbGFzbWEgU2NpZW50aXN0IiwiY29tcGFueV9uYW1lIjoiUHJpbmNldG9uIFBsYXNtYSBQaHlzaWNzIExhYm9yYXRvcnkgKFBQUEwpIiwiaHRpZG9jaWQiOiJCbzNoRjFPYTlRYkw2TkpVQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVERCcGNrMXlaREp6YVd0dFdIWkJkV0ZzY25STFVEZG5XREpqUjA4d1pXOXVWRE4wVTNsUllUUnJiVmRrVFd4SVVrbDVXSFY2VG5WTFpVdEhRMDk2ZUhCVVRIUnlZbHAzTlY5ZlpsQlJSR0l0VlU5d1pHdzJMV2t5UWxKVlNEazFUMVpsVkc5S1QwNVRNMWRIZDJveGNHSmxiRGh6VjBKaVlqRjJMVkZIVjB0VVFYTkNkRlFTRjNKaGFtSmhkVGN3VG1aaGR6Vk9iMUExV2xScFoxRlJHaUpCUkhOeU9XWlNabmQ2YzJFelgyTlBOR3hmTWpGWGFYaGlWMUJWVjNkRlUycFIiLCJmY3YiOiIzIiwiZmNfaWQiOiJCbzNoRjFPYTlRYkw2TkpVQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Computational Researcher - Vicksburg, MS",
+            "company_name": "Zintellect",
+            "location": "Vicksburg, MS",
+            "via": "Zintellect",
+            "job_highlights": [
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Appointments may be extended depending on funding availability, project assignment, program rules, and availability of the participant",
+                        "Participants will receive a stipend to be determined by USACE",
+                        "Stipends are typically based on the participant’s academic standing, discipline, experience, and research facility location",
+                        "Health Insurance Supplement",
+                        "Participants are eligible to purchase health insurance through ORISE",
+                        "Relocation Allowance",
+                        "Training and Travel Allowance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This project is tasked with developing the computational tools necessary to predict threats from toxic industrial chemicals and materials (TICMs) in urban environments, including potential sources, modeling plumes from releases, identifying breakdown products, identifying acute health hazards, suggesting gear necessary to counter the threat, and overlay the risk of acute exposure on a map of the theater",
+                        "Under the guidance of a mentor, the participant will develop and optimize algorithms that overlay dynamic exposure risks on the transportation networks and perform network analyses to determine the impact of TICM hazards on travel in the operational environment",
+                        "The participant will also collaborate with biochemists to understand how biological networks adapt information transfer in response to perturbations and participate in developing novel bio-inspired algorithms to respond to updated hazard data for just-in-time adjustments in travel networks",
+                        "This appointment is a twelve month research appointment, with the possibility to be renewed for additional research periods",
+                        "The participant will not enter into an employee/employer relationship with ORISE, ORAU, DOD, or any other office or agency"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=N-_GXSuxzSrlp-27AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_1WNMQoCMRBFsd0jaDO1aCKCjRYWFoJgo2BhsyRhSLJmMyEzC3sXL6uLlc2Hx4P3m_esOZ6oL4MYiZRNghsymuoCVljDI7oX26H6FVzvX76QhZ8GynAm8gnnhyBSeK81c1Kep5JTjnpNGS2NuiPL07QcTMWSjGC73W1GVbJfLp4xC6aETiDm_8MPEREAwJ4AAAA&shmds=v1_ARwrE20_TwNcNROZC7kqy6GvA3WbDwahQ_cwGc3D0Q6JJDzm7A&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=N-_GXSuxzSrlp-27AAAAAA%3D%3D",
+            "extensions": [
+                "Internship",
+                "Health insurance"
+            ],
+            "source_link": "https://www.zintellect.com/Opportunity/Details/ERDC-EL-2020-0011",
+            "job_title": "Computational Researcher - Vicksburg, MS",
+            "description": "The Environmental Laboratory (EL) is one of the seven laboratories of the U.S. Army Engineer Research and Development Center (USACE-ERDC), which is the Army Corps of Engineers' integrated research and development (R&D) organization. EL provides solutions to environmental challenges for the U.S. Army, the Department of Defense and the Nation through environmental science and engineering research and development. Researchers in EL conduct research in ecosystem science and technology, environmental resiliency, environmental sensing, ecological modeling and forecasting, risk and decision science, environmentally sustainable material, systems biology, climate change, computational chemistry, environmental chemistry and environmental security. For more information about the US Army Engineering Research and Development Center (ERDC) Environmental Laboratory (EL), please visit https://www.erdc.usace.army.mil/.\n\n\n\nOne of our driving projects has been Understanding the Environment as a Threat. This project is tasked with developing the computational tools necessary to predict threats from toxic industrial chemicals and materials (TICMs) in urban environments, including potential sources, modeling plumes from releases, identifying breakdown products, identifying acute health hazards, suggesting gear necessary to counter the threat, and overlay the risk of acute exposure on a map of the theater.\n\n\n\nUnder the guidance of a mentor, the participant will develop and optimize algorithms that overlay dynamic exposure risks on the transportation networks and perform network analyses to determine the impact of TICM hazards on travel in the operational environment. The participant will also collaborate with biochemists to understand how biological networks adapt information transfer in response to perturbations and participate in developing novel bio-inspired algorithms to respond to updated hazard data for just-in-time adjustments in travel networks. \n\n\n\nAppointment Length\n\n\n\nThis appointment is a twelve month research appointment, with the possibility to be renewed for additional research periods. Appointments may be extended depending on funding availability, project assignment, program rules, and availability of the participant.\n\n\n\nParticipant Benefits\n\n\n\nParticipants will receive a stipend to be determined by USACE. Stipends are typically based on the participant’s academic standing, discipline, experience, and research facility location.  Other benefits may include the following:\n\n\n\n\n\t\n\tHealth Insurance Supplement. Participants are eligible to purchase health insurance through ORISE.\n\n\n\t\n\t\n\tRelocation Allowance\n\n\n\t\n\t\n\tTraining and Travel Allowance\n\n\n\t\n\n\nNature of Appointment\n\n\n\nThe participant will not enter into an employee/employer relationship with ORISE, ORAU, DOD, or any other office or agency.  Instead, the participant will be affiliated with ORISE for the administration of the appointment through the ORISE appointment letter and Terms of Appointment.",
+            "apply_options": [
+                {
+                    "title": "Zintellect",
+                    "link": "https://www.zintellect.com/Opportunity/Details/ERDC-EL-2020-0011?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIFJlc2VhcmNoZXIgLSBWaWNrc2J1cmcsIE1TIiwiY29tcGFueV9uYW1lIjoiWmludGVsbGVjdCIsImh0aWRvY2lkIjoiTi1fR1hTdXh6U3JscC0yN0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMySjNZMVZVY2xKdlEwcDVSalp3TTI1RVNtNU5kRlJQUlhSTWRGRlRNell6YTFnd1lWbHVNbTV4T1ZOc2JrVnZPVXA0U1hSTVFrZHNSVVpNWVdKZk1UVmxNSE5xVDFOdFJ6QkVSVVk1WVZCQlJXVlFiMlpHVDBKQ2Vua3dPRFo2ZDB4RE1rUnJVRFV5V21wWldFNVRkbWhWVFMxS1MzbDBjWFpzZEVWcmVGTTFWbU5TUkVNU0YzSmhhbUpoZFRjd1RtWmhkelZPYjFBMVdsUnBaMUZSR2lKQlJITnlPV1pSUlU5aE5HRnJNRGg2TUROTFNFbEtPRzlWYTBOR1ozQnFiR0pSIiwiZmN2IjoiMyIsImZjX2lkIjoiTi1fR1hTdXh6U3JscC0yN0FBQUFBQT09In0="
+        },
+        {
+            "title": "Postdoctoral Fellow - Applied & Computational Scientists",
+            "company_name": "SRI International",
+            "location": "West Menlo Park, CA",
+            "via": "Career.io",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ideal candidates will have a thorough knowledge in one or more of these areas",
+                        "The ability to quickly learn new topics and dive into unfamiliar areas of research is a key ability",
+                        "Ph.D. in Applied Mathematics, Physics or Engineering with a focus on Computational Sciences, Computer Science or a related area",
+                        "Candidates must be a US Citizen or Permanent Resident",
+                        "Expertise in algorithm development associated with the following:",
+                        "artificial intelligence",
+                        "algorithm design",
+                        "scalable computational methods and their implementations",
+                        "Demonstrated experience implementing novel algorithms in one or more programming languages such as Python, C/C++, and libraries associated with training of AI models",
+                        "Demonstrated publication record",
+                        "Excellent written, oral, and interpersonal communication skills required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The salary range is: $83,200-104,000",
+                        "Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles",
+                        "Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Lab is seeking a Postdoctoral Fellow, Applied and Computational Science to conduct research and development in the areas of mathematics of generative AI models, reinforcement learning, and algorithm design",
+                        "Develop research ideas, lead the experimental evaluation of these ideas, present work to government and commercial clients,",
+                        "Collaborate with project Principal Investigators (PIs) and their staff in academia, Industrial and National Labs",
+                        "Document research in technical reports and research papers",
+                        "Develop and implement new algorithms and benchmark against state-of-the-art approaches",
+                        "Some travel will be required to project meetings, and conference venues"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=ETp83oHsttrsMIQZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_zWNMQrCQBAAsfUJVluJiCYi2GgVBEVBFC0sw-WyJKfr7nG7ok_zecbCZqoZpv_p9Y8nUavFmyRHsEEiecEUihgpYA1DWMsjPs1ZEO6Eiw_IFtS0k_ZSgaJLvgVh2Io0hINVaxZ1meeqlDX6K33m5ZELYyXv_CaV_lBq6xJGcoblfDF7Z5Gb8ehy3sGODRP_j4HhimpwQCaBk0v3CayLL3TbMSW7AAAA&shmds=v1_ARwrE22W4NFWdr8mKKwyRHccfcvJXF8Wx3ScPMdie98silrArA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=ETp83oHsttrsMIQZAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAYFBMVEX___8AAADj4-P09PQhISGLi4vDw8Pd3d29vb25ubnGxsbu7u58fHyIiIj7-_tZWVkvLy-lpaWwsLCenp42NjY7OzsQEBDT09NJSUlsbGyTk5PNzc1kZGQVFRVeXl5QUFAzrWSPAAABFklEQVRIie3R227DIAwGYBsyzoSEHJtu7fu_Ze0kWqUtkdbejv8CYeCLDAEoKSkpWTPV77l2vrzlUgdLfp3pRjMWr7o2AWRrckWjtebP7tYBSOSEjkdeE3nprgC1UUo5CeCVkT9YPXKbG0TziVhxD2s1g9-WW7CIvy4S3BOi_mJIVW8D4kKTFCpC6gBCL59w1gw1Iv0cmxUtG5gQ8yH0_Te86WFtdaR5HzS3GmxCdIcQVNhhS_srlJe1zvv37mAOIQRV8_4UcYNSeOkzYkOwQYxwBmEQ9ArU5g7pjoPgge94pyc7hbLBzu3vw63GbeoIZm7mFIJz-1nEketrSCkKkDFOMMVodIz-EEIbP_YsxwdKSkpK_k8eM-QJ-ngrcEoAAAAASUVORK5CYII.png",
+            "extensions": [
+                "83.2K–104K a year",
+                "Full-time"
+            ],
+            "source_link": "https://career.io/job/postdoctoral-fellow-applied-computational-west-menlo-park-sri-international-f65917dd85d21fca2a5ab1b3506831a3",
+            "job_title": "Postdoctoral Fellow - Applied & Computational Scientists",
+            "description": "Overview\n\n\n\n\n\n\nThe Applied Sciences Laboratory at SRI International focuses on the development of new algorithms for a wide variety of exciting applications including supply chain networks, social graphs, optimization of generative AI models, material failures, quantum algorithms, and biological systems. The aim of the team is to conduct and publish research at top venues and assist SRI commercialize relevant technologies by filing patents and spinning out start-ups.\n\n \n\nThe Lab is seeking a Postdoctoral Fellow, Applied and Computational Science to conduct research and development in the areas of mathematics of generative AI models, reinforcement learning, and algorithm design. Ideal candidates will have a thorough knowledge in one or more of these areas.  The ability to quickly learn new topics and dive into unfamiliar areas of research is a key ability. \n\n \n\nThis position will be able to work a hybrid schedule based at our Menlo Park, CA office.\n\n \n\n \n\n\n\n\n\n\n\n\n\nResponsibilities\n\n\n\n\n\n\nDevelop research ideas, lead the experimental evaluation of these ideas, present work to government and commercial clients,  Collaborate with project Principal Investigators (PIs) and their staff in academia, Industrial and National LabsDocument research in technical reports and research papersDevelop and implement new algorithms and benchmark against state-of-the-art approachesSome travel will be required to project meetings, and conference venues\n\n\n\n\n\n\n\nQualifications\n\n\n\n\n\n\nPh.D. in Applied Mathematics, Physics or Engineering with a focus on Computational Sciences, Computer Science or a related area.Candidates must be a US Citizen or Permanent ResidentExpertise in algorithm development associated with the following:artificial intelligencealgorithm designscalable computational methods and their implementations.Demonstrated experience implementing novel algorithms in one or more programming languages such as Python, C/C++, and libraries associated with training of AI models.Demonstrated publication recordExcellent written, oral, and interpersonal communication skills requiredThe salary range is: $83,200-104,000. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program. SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits/. SRI will accept applications until the position is filled.\n\n \n\nSRI is an independent nonprofit research institute headquartered in Menlo Park, Calif., with a rich history of supporting government and industry. We create and deliver world-changing solutions for a safer, healthier, and more sustainable future. For almost 80 years, we have collaborated across technical and scientific disciplines to discover and develop groundbreaking products and technologies and bring innovations and ideas to the marketplace.",
+            "apply_options": [
+                {
+                    "title": "Career.io",
+                    "link": "https://career.io/job/postdoctoral-fellow-applied-computational-west-menlo-park-sri-international-f65917dd85d21fca2a5ab1b3506831a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQb3N0ZG9jdG9yYWwgRmVsbG93IC0gQXBwbGllZCBcdTAwMjYgQ29tcHV0YXRpb25hbCBTY2llbnRpc3RzIiwiY29tcGFueV9uYW1lIjoiU1JJIEludGVybmF0aW9uYWwiLCJodGlkb2NpZCI6IkVUcDgzb0hzdHRyc01JUVpBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTa0ZNTW5Zd1gxUnpSVUZ0YkZWME9XeFJUVTEyWWxCUVRFTTJXalF3Tmt0dmQxUm1NbE53VUhnMlNFRkhjVUpmUm5VMlpXcHpSamxIYzFsZkxVUjJYMlo1VWxjeWMweGFPREJMTm5WdGMwaExNMDFvZG5ac1gwSlRaM1F5YzFjMk0wbDBUM0UzZURObmFVOXNhV0pzTkRCcGVrNVRlRnByVmxkUVlqSnVkR2x1YUhScldsWVNGM0poYW1KaGRUY3dUbVpoZHpWT2IxQTFXbFJwWjFGUkdpSkJSSE55T1daU2IyVjNTVUl0VTNsdlVqY3lhMjh3U1hWRFNuTTJUV3RqV0ZCUiIsImZjdiI6IjMiLCJmY19pZCI6IkVUcDgzb0hzdHRyc01JUVpBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Research Scientist - Computer Science & Computational Physics",
+            "company_name": "GoldenFlame",
+            "location": "Anywhere",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "No prior experience in AI is required — your domain knowledge is what matters"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you'll apply your expertise to help train next-generation AI systems",
+                        "Your work will shape how models learn, reason, and perform through high-quality, real-world input",
+                        "Identify and propose open problems, new bounds, or tractable research challenges in your subfield for rigorous investigation",
+                        "Conduct structured research using frontier AI models and agents to attempt proofs, develop algorithms, or run computational simulations",
+                        "Systematically verify research outputs by checking proofs, reproducing numerical results, or employing formal tools",
+                        "Assess findings for novelty and correctness in direct comparison with recent literature and published results",
+                        "Document methodologies, partial results, and encountered challenges through clear and thorough written reports",
+                        "Highlight promising new directions and discoveries for deeper exploration by senior research professionals"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=aLSqjF0PC9HEV0mnAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2MsQrCMBRFce0nOMibHEQbEVzsVAoWxEHUvaTxkUTS90JfhPpd_qAWu5zhcO7NPrPsfkVB3RsHN-ORkpcEG6i4i6-E_V8ahOWkdPJMOsDFvcUb-aUnbmF6YIKa2QacFy6lKAelREJuZZyZ3HCnmLDlQT25lRGNON1jDDphs9tvhzySXS1qDg-kY9Adgic4s0BJFgPKGqryC5HWhEe2AAAA&shmds=v1_ARwrE23NGIHQKnlY80K5M7R5gz9WBycFf2xu5jXdgftqIDbnpw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=aLSqjF0PC9HEV0mnAAAAAA%3D%3D",
+            "extensions": [
+                "10 days ago",
+                "Work from home",
+                "Full-time and Part-time"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/research-scientist-computer-science-computational-physics-at-goldenflame-4479200838",
+            "job_title": "Research Scientist - Computer Science & Computational Physics",
+            "description": "Role Title: Research Scientist - Computer Science & Computational Physics\n\n\n\n\nRole Type: Contractor (flexible, Part-Time or Full-Time)\n\n\n\n\nLocation: Remote\n\n\n\n\nmicro1 is engaging Research Scientists in Computer Science & Computational Physics to help advance a customer’s high-impact research project. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\n\n\n\n\nScope of Work\n\nIdentify and propose open problems, new bounds, or tractable research challenges in your subfield for rigorous investigation.Conduct structured research using frontier AI models and agents to attempt proofs, develop algorithms, or run computational simulations.Systematically verify research outputs by checking proofs, reproducing numerical results, or employing formal tools.Assess findings for novelty and correctness in direct comparison with recent literature and published results.Document methodologies, partial results, and encountered challenges through clear and thorough written reports.Highlight promising new directions and discoveries for deeper exploration by senior research professionals.\n\n\nPreferred Qualifications\n\nAdvanced standing in research: late-stage PhD candidate, postdoctoral researcher, or early-career academic (0–5 years post-PhD) in computer science or mathematical/computational physics.Recognized by peer community for research excellence, such as best paper or dissertation awards at leading venues (e.g., STOC, FOCS, SODA, PLDI, SC).Strong publication track record within the past three years, including multiple top-venue papers and recent results addressing named open problems or introducing novel concepts.Hands-on expertise in computational methods, encompassing simulation, numerical analysis, and algorithmic implementation.Experience reviewing or sub-reviewing for prominent conferences in your specialty is a plus.Background in leveraging frontier models, agents, or formal computational tools (e.g., Lean, SAT/SMT solvers) in scholarly work.Publicly shared research statement or homepage outlining specific open problems currently under investigation.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/research-scientist-computer-science-computational-physics-at-goldenflame-4479200838?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/research-scientist-computer-science-computational-physics--los-angeles--e8db63f610cda3e34e9fc63ff55b17bd1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobrapido",
+                    "link": "https://us.jobrapido.com/jobpreview/3516881126125731840?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSZXNlYXJjaCBTY2llbnRpc3QgLSBDb21wdXRlciBTY2llbmNlIFx1MDAyNiBDb21wdXRhdGlvbmFsIFBoeXNpY3MiLCJjb21wYW55X25hbWUiOiJHb2xkZW5GbGFtZSIsImh0aWRvY2lkIjoiYUxTcWpGMFBDOUhFVjBtbkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFN6SmlWM3BtYnpGVFRYbFJkR3h6YVVWa05YQnphMTlKWlRadVdsbDZkMkZmUjJOUFJXSk9jVWRHZERJeE0xVkxWakZ1Y3pNNE1UZzRhbTloWkRaVk0yRnBjV0l4T1hwSWRrWlVRM2QwV0U5M2MwOVBXalp6Y0hoalNUSk5TWE5UWVRONlYxSkNVWFpIV2pSdVkyVjNhMEZvWldaS2JsRjNkRVp6VDFaaVZWbHdSblZCTkVjU0YzSmhhbUpoZFRjd1RtWmhkelZPYjFBMVdsUnBaMUZSR2lKQlJITnlPV1pVVVhGTk1sRkRWMWxCTTJFeGNVdHpRbFJOTm1GcGVHNW5UM04zIiwiZmN2IjoiMyIsImZjX2lkIjoiYUxTcWpGMFBDOUhFVjBtbkFBQUFBQT09In0="
+        },
+        {
+            "title": "Computational Scientist (Mass Spectrometry)",
+            "company_name": "Axiom",
+            "location": "San Francisco, CA",
+            "via": "Jobs",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "We are looking for someone who can combine mass spectrometry expertise, computational depth, and biological judgment",
+                        "You have built computational workflows for untargeted LC-MS/MS metabolomics",
+                        "You have used mass spectrometry data to answer real biological questions, not just run pipelines",
+                        "You understand the messy reality of mass spec data: missingness, batch effects, adducts, isotopes, retention time drift, annotation uncertainty, instrument artifacts, and biological confounders",
+                        "You are comfortable moving from raw files to biological interpretation",
+                        "You can reason about metabolism, pathway disruption, lipid biology, protein changes, and drug-induced cellular stress",
+                        "You are excited by the idea of using mass spec data as training data for AI systems",
+                        "You want to build scalable infrastructure, not just analyze one-off datasets",
+                        "You care deeply about data quality, reproducibility, and scientific rigor",
+                        "You can work closely with wet lab scientists to improve experimental design and debug assays",
+                        "You want ownership over a critical scientific modality at an early company",
+                        "You are motivated by the mission of replacing animal testing and preventing clinical toxicity failures"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will own major parts of Axiom’s computational mass spectrometry stack",
+                        "Analyze large-scale biological mass spectrometry datasets, primarily LC-MS/MS, across metabolomics, lipidomics, proteomics, and reactive metabolite workflows",
+                        "Build, improve, and scale computational pipelines for untargeted LC-MS/MS analysis using tools such as MZmine, OpenMS, MS-DIAL, GNPS, Skyline, or custom internal software",
+                        "Develop workflows for peak detection, alignment, normalization, annotation, batch correction, QC, feature filtering, compound identification, and downstream biological interpretation",
+                        "Turn raw mass spec data into model-ready representations that can be used by machine learning systems and mechanistic reasoning agents",
+                        "Work with biology, chemistry, ML, engineering, and lab teams to design, debug, and improve high-throughput LC-MS/MS assays",
+                        "Extract actionable biological insights from mass spec data, including pathway-level changes, metabolic signatures, lipid remodeling, protein abundance changes, and evidence for specific toxicity mechanisms",
+                        "Help build datasets that connect chemical structure, dose, exposure, cellular phenotype, biochemical state, and human toxicity outcomes",
+                        "Develop quality control systems for high-throughput mass spectrometry datasets, including instrument performance, sample quality, replicate concordance, batch effects, missingness, drift, and annotation confidence",
+                        "Collaborate with ML researchers to build models that use mass spec features to improve toxicity prediction",
+                        "Investigate where mass spec helps explain model errors, reveals missing biology, or identifies mechanisms not visible from imaging, transcriptomics, or standard biochemical assays",
+                        "Design new strategies for expanding Axiom’s mass spec data generation based on model performance, biological coverage, and customer needs",
+                        "Help make mass spectrometry data interpretable and useful to drug hunters, toxicologists, and Axiom’s internal AI agents"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=So5ao5Y2JMQZpDgGAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU43qmgjgotOtaAgOPUDyjUcbSS5C7kT6sf4r9Llja_6rapbKyl_DC0IY4TOB2ILarB5oSp0mbwVSWTlu4UDPGUAJSx-AmF4iIyR1tfJLOvFOdVYj7pkvvaSnDANMru3DLrQ64SFckSj_nQ-znXmcbdu5iAJAkOHDPeC7IN62UPb_AHyRfafoAAAAA&shmds=v1_ARwrE230KDdNBkrQi4znvPniJkq5p0p3clyVutFdQFcl8lfLQQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=So5ao5Y2JMQZpDgGAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time"
+            ],
+            "source_link": "https://jobs.ashbyhq.com/axiombio/a3191175-40d4-4f75-aec2-18313600413a",
+            "job_title": "Computational Scientist (Mass Spectrometry)",
+            "description": "About Axiom:\n\nAxiom is building the closed-loop scientific AI system required to replace animal testing and, over time, much of human safety testing. We start with pharma’s hardest drug development toxicology problems. Those problems define the proprietary human biological data we generate through Axiom’s Data Factory. We use that data to train scientific AI, partnering with leading AI labs to improve frontier models while building our own specialist agentic harness to deploy the improved frontier models back into pharma. Each deployment reveals the next capabilities to build, creating a compounding loop across data, models, and drug development. Today, liver toxicity is our proving ground. Axiom is already helping leading pharmaceutical companies understand toxicity, identify its mechanism, and design safer drugs. Over time, we will expand across the major organ systems and build the experimental and agentic system of record for translational drug development. Our goal is to dramatically reduce the risk of testing new molecules in humans, enabling high throughput evaluation of efficacy in humans.\n\n\n\nWhat you will do:\n\nYou will own major parts of Axiom’s computational mass spectrometry stack.\n\nAnalyze large-scale biological mass spectrometry datasets, primarily LC-MS/MS, across metabolomics, lipidomics, proteomics, and reactive metabolite workflows.\n\nBuild, improve, and scale computational pipelines for untargeted LC-MS/MS analysis using tools such as MZmine, OpenMS, MS-DIAL, GNPS, Skyline, or custom internal software.\n\nDevelop workflows for peak detection, alignment, normalization, annotation, batch correction, QC, feature filtering, compound identification, and downstream biological interpretation.\n\nTurn raw mass spec data into model-ready representations that can be used by machine learning systems and mechanistic reasoning agents.\n\nWork with biology, chemistry, ML, engineering, and lab teams to design, debug, and improve high-throughput LC-MS/MS assays.\n\nExtract actionable biological insights from mass spec data, including pathway-level changes, metabolic signatures, lipid remodeling, protein abundance changes, and evidence for specific toxicity mechanisms.\n\nHelp build datasets that connect chemical structure, dose, exposure, cellular phenotype, biochemical state, and human toxicity outcomes.\n\nDevelop quality control systems for high-throughput mass spectrometry datasets, including instrument performance, sample quality, replicate concordance, batch effects, missingness, drift, and annotation confidence.\n\nCollaborate with ML researchers to build models that use mass spec features to improve toxicity prediction.\n\nInvestigate where mass spec helps explain model errors, reveals missing biology, or identifies mechanisms not visible from imaging, transcriptomics, or standard biochemical assays.\n\nDesign new strategies for expanding Axiom’s mass spec data generation based on model performance, biological coverage, and customer needs.\n\nHelp make mass spectrometry data interpretable and useful to drug hunters, toxicologists, and Axiom’s internal AI agents.\n\n\n\nWhat we are looking for:\n\nWe are looking for someone who can combine mass spectrometry expertise, computational depth, and biological judgment.\n\nYou might be a great fit if:\n\nYou have built computational workflows for untargeted LC-MS/MS metabolomics.\n\nYou have used mass spectrometry data to answer real biological questions, not just run pipelines.\n\nYou understand the messy reality of mass spec data: missingness, batch effects, adducts, isotopes, retention time drift, annotation uncertainty, instrument artifacts, and biological confounders.\n\nYou are comfortable moving from raw files to biological interpretation.\n\nYou can reason about metabolism, pathway disruption, lipid biology, protein changes, and drug-induced cellular stress.\n\nYou are excited by the idea of using mass spec data as training data for AI systems.\n\nYou want to build scalable infrastructure, not just analyze one-off datasets.\n\nYou care deeply about data quality, reproducibility, and scientific rigor.\n\nYou can work closely with wet lab scientists to improve experimental design and debug assays.\n\nYou want ownership over a critical scientific modality at an early company.\n\nYou are motivated by the mission of replacing animal testing and preventing clinical toxicity failures.",
+            "apply_options": [
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/axiombio/a3191175-40d4-4f75-aec2-18313600413a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/computational-scientist-mass-spectrometry_7ea1ac7c3c4d769a138e3db878f715f86829e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/axiom/san-francisco/computational-scientist-mass-spectrometry-58648283/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/computational-scientist-mass-spectrometry-san-francisco-ca--73ebf10a-6409-4042-b8e9-7c41d67e8e83?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/computational-scientist-mass-spectrometry-san-francisco-ca--8d863029-2b09-46e6-988b-b6adcdc1e8bc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/computational-scientist-mass-spectrometry-at-axiom-bio-4479909224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/computational-scientist-mass-spectrometry-axi-om-9017888?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/computational-scientist-mass-spectrometry-axiom-company-san-francisco-ca-united-states--appcast-7428_2b8d09aef6158ff9f7cc121b933f9d80192d480ea5a2c6353a1aafa8a9939be1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIFNjaWVudGlzdCAoTWFzcyBTcGVjdHJvbWV0cnkpIiwiY29tcGFueV9uYW1lIjoiQXhpb20iLCJodGlkb2NpZCI6IlNvNWFvNVkySk1RWnBEZ0dBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMlpwVkhVMmJsQm1kVFpPWldscVUwSkxiRTkwY2tkVk0zazFhbTlhWmpGdFVXaHNTSHBEYVdSeVRWOTZXbVV0VEROZmN5MUxlWHBPZWxrNE1FODRXR3hSTmxaV1ZrMDVhSE5hV1VwNlFXdExYMlpMZGtKR1puTjZaSHBVWVVOMWRWOUJVVlpNZVdaWUxVUkhSMFF4TXpGd1lUaENRVGx6Y0habE4yMDRkbkZwYzFrMFMwTVNGM0poYW1KaGRUY3dUbVpoZHpWT2IxQTFXbFJwWjFGUkdpSkJSSE55T1daVGVVVkpMVTlyVG5CMmVVZFNOMnhCY1ZoQ1FqSTNXVEpzTm5sUiIsImZjdiI6IjMiLCJmY19pZCI6IlNvNWFvNVkySk1RWnBEZ0dBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Senior Research Scientist, HPC and AI",
+            "company_name": "Oak Ridge National Laboratory",
+            "location": "Oak Ridge, TN",
+            "via": "Careers At ORNL - Oak Ridge National Laboratory",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "PhD in Computer Science, Computer Engineering, or a field closely related to the job duties of this position",
+                        "A minimum of 6 years of relevant research experience outside of Ph.D",
+                        "Demonstrated research in cross-cutting fields of HPC and/or AI"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Advance personal and staff contributions in leading professional, academic, and research organizations",
+                        "ORNL offers competitive pay and benefits programs to attract and retain individuals who demonstrate exceptional work behaviors",
+                        "The laboratory provides a range of employee benefits, including medical and retirement plans and flexible work hours, to support the well-being of you and your family",
+                        "Employee amenities such as on-site fitness, banking, and cafeteria facilities are also available for added convenience",
+                        "Other benefits include the following: Prescription Drug Plan, Dental Plan, Vision Plan, 401(k) Retirement Plan, Contributory Pension Plan, Life Insurance, Disability Benefits, Generous Vacation and Holidays, Parental Leave, Legal Insurance with Identity Theft Protection, Employee Assistance Plan, Flexible Spending Accounts, Health Savings Accounts, Wellness Programs, Educational Assistance, Relocation Assistance, and Employee Discounts"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You’ll help design, train, and evaluate AI systems that plan, reason, and take actions to accelerate discovery across domains (materials, chemistry, climate, fusion, biology, and more)",
+                        "Agentic AI for Science: Autonomous and tool-using agents for experiment design, simulation steering, data collection, and lab/compute orchestration; planning and memory; multi-agent collaboration",
+                        "Scientific Reasoning: Program/path-of-thought, tool-augmented and retrieval-augmented reasoning; uncertainty quantification and calibrated decisions",
+                        "RL & Self-Improving Models: RLHF/RLAIF, online RL, self-play, open-ended discovery, reward modeling, curriculum/active learning, data selection, iterative post-training, safety alignment and guardrails",
+                        "Foundation Models for Science @ Scale: Pretraining, instruction tuning, continued pretraining, Mixture-of-Experts; distributed training/inference (FSDP, DeepSpeed, Megatron-LM, tensor/sequence parallelism); scalable evaluation pipelines for reasoning and agents",
+                        "Develop and coordinate division activities in HPC-AI with cross-cutting initiatives in the laboratory by establishing forward-looking centers of excellence",
+                        "Lead and collaborate with internal and external researchers on a variety of extreme-scale AI/ML research and projects",
+                        "Lead in authoring peer reviewed papers, technical papers, reports, and proposals",
+                        "Advance personal and staff contributions in leading professional, academic, and research organizations",
+                        "Team Building & Mentorship: Provide mentorship to postdocs, students, and junior staff, fostering long-term career development",
+                        "Stakeholder Engagement: Effectively communicate vision, strategy, and progress to DOE sponsors, industrial partners, and international collaborators",
+                        "Login to your account via jobs.ornl.gov"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=uyUku1tWO1Ss5Yj_AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_z3LvwrCMBCAcVz7CE43S01EcFEXcfAPUqV1L5f0SKP1riQZ6jP5kiqIyzf9vuw1ytYVsZcAJUXCYFuorCdOPqYc9pctIDewOcAUjmLgR4RhJ-I6Gq_alPq41DrGTrmYMHmrrDy0MBkZ9E1M_KaOLQbqO0xUzxezQfXsJuqMdyh94wiKzyiMHZzQSMAk4Qme4Q9yuBZvsJfwfq4AAAA&shmds=v1_ARwrE20J2Li_Lu6BQQZMcQALa_9NyUSFDz1DqOoTueSSLUBgLQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=uyUku1tWO1Ss5Yj_AAAAAA%3D%3D",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "Health insurance",
+                "Paid time off",
+                "Dental insurance"
+            ],
+            "source_link": "https://jobs.ornl.gov/job/Oak-Ridge-Senior-Research-Scientist%2C-HPC-and-AI-TN-37830/1389423700/",
+            "job_title": "Senior Research Scientist, HPC and AI",
+            "description": "Requisition Id 16413 Overview: The Analytics and AI methods at Scale (AAIMS) group in the National Center for Computational Science (NCCS) is hiring Senior Research Scientist to push the frontier of AI for science such as: scientific reasoning, federated & collaborative learning, and reinforcement learning (RL) for self-improving models on leadership-class supercomputers. You’ll help design, train, and evaluate AI systems that plan, reason, and take actions to accelerate discovery across domains (materials, chemistry, climate, fusion, biology, and more).   NCCS operates the Frontier exascale supercomputer and world-class data facilities. This role sits at the intersection of AI at scale and HPC, giving you unmatched resources to prototype new ideas, run large ablations, and translate methods into scientific impact.   Examples of Focus Areas:  Agentic AI for Science: Autonomous and tool-using agents for experiment design, simulation steering, data collection, and lab/compute orchestration; planning and memory; multi-agent collaboration. Scientific Reasoning: Program/path-of-thought, tool-augmented and retrieval-augmented reasoning; uncertainty quantification and calibrated decisions. RL & Self-Improving Models: RLHF/RLAIF, online RL, self-play, open-ended discovery, reward modeling, curriculum/active learning, data selection, iterative post-training, safety alignment and guardrails. Foundation Models for Science @ Scale: Pretraining, instruction tuning, continued pretraining, Mixture-of-Experts; distributed training/inference (FSDP, DeepSpeed, Megatron-LM, tensor/sequence parallelism); scalable evaluation pipelines for reasoning and agents. Federated & Collaborative Learning: Cross-silo training across institutions and facilities; privacy-preserving learning (secure aggregation, differential privacy, MPC/HE); personalization under heterogeneity; governance-aware data/model sharing; collaborative evaluation    The NCCS is the home of the world’s first exascale supercomputer Frontier. Our Leadership Computing Program (OLCF) provides world class computing facilities to applications across all computational domains and disciplines. We are an inclusive dynamic environment that welcomes those with initiative and creativity.   Major Duties and Responsibilities:  Develop and coordinate division activities in HPC-AI with cross-cutting initiatives in the laboratory by establishing forward-looking centers of excellence. Lead and collaborate with internal and external researchers on a variety of extreme-scale AI/ML research and projects. Lead in authoring peer reviewed papers, technical papers, reports, and proposals. Advance personal and staff contributions in leading professional, academic, and research organizations. Advance personal and staff contributions in leading professional, academic, and research organizations. Team Building & Mentorship: Provide mentorship to postdocs, students, and junior staff, fostering long-term career development. Stakeholder Engagement: Effectively communicate vision, strategy, and progress to DOE sponsors, industrial partners, and international collaborators.    Basic Qualifications:  PhD in Computer Science, Computer Engineering, or a field closely related to the job duties of this position. A minimum of 6 years of relevant research experience outside of Ph.D. Demonstrated research in cross-cutting fields of HPC and/or AI.    Preferred Requirements:  Demonstrated leadership in conceiving, planning, and delivering large-scale HPC-AI projects with measurable scientific or technological impact. Experience securing competitive funding (e.g., DOE, NSF, DARPA, industry consortia) and leading multi-institution proposals. Recognition by the broader community – invited talks, keynote addresses, professional society awards, or major benchmarks. Impactful open-source contributions to HPC or AI framework (e.g., Megatron-LM, DeepSpeed, Ray, Distributed RL) Interdisciplinary collaboration experience – working with domain scientist (climate, material, fusion, biology) to translate methods into real discoveries. Strategic vision – ability to identify long-term research directions at the intersection of AI, HPC and domain sciences.    Special Requirements: Please submit two letters of reference when applying to this position. You may upload these directly to your application or have them sent to ORNLRecruiting@ornl.gov with the position title and number referenced in the subject line.   Instructions to upload documents to your candidate profile:  Login to your account via jobs.ornl.gov View Profile Under the My Documents section, select Add a Document    About ORNL: As a U.S. Department of Energy (DOE) Office of Science national laboratory, ORNL has an impressive 80-year legacy of addressing the nation’s most pressing challenges. Our team is made up of over 7,000 dedicated and innovative individuals! Our goal is to create an environment where a variety of perspectives and backgrounds are valued, ensuring ORNL is known as a top choice for employment. These principles are essential for supporting our broader mission to drive scientific breakthroughs and translate them into solutions for energy, environmental, and security challenges facing the nation.   ORNL offers competitive pay and benefits programs to attract and retain individuals who demonstrate exceptional work behaviors. The laboratory provides a range of employee benefits, including medical and retirement plans and flexible work hours, to support the well-being of you and your family. Employee amenities such as on-site fitness, banking, and cafeteria facilities are also available for added convenience.   Other benefits include the following: Prescription Drug Plan, Dental Plan, Vision Plan, 401(k) Retirement Plan, Contributory Pension Plan, Life Insurance, Disability Benefits, Generous Vacation and Holidays, Parental Leave, Legal Insurance with Identity Theft Protection, Employee Assistance Plan, Flexible Spending Accounts, Health Savings Accounts, Wellness Programs, Educational Assistance, Relocation Assistance, and Employee Discounts.   If you have difficulty using the online application system or need an accommodation to apply due to a disability, please email: ORNLRecruiting@ornl.gov.This position will remain open for a minimum of 5 days after which it will close when a qualified candidate is identified and/or hired.   We accept Word (.doc, .docx), Adobe (unsecured .pdf), Rich Text Format (.rtf), and HTML (.htm, .html) up to 5MB in size. Resumes from third party vendors will not be accepted; these resumes will be deleted and the candidates submitted will not be considered for employment.  ORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply.  UT-Battelle is an E-Verify employer.",
+            "apply_options": [
+                {
+                    "title": "Careers At ORNL - Oak Ridge National Laboratory",
+                    "link": "https://jobs.ornl.gov/job/Oak-Ridge-Senior-Research-Scientist%2C-HPC-and-AI-TN-37830/1389423700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Oak-Ridge-National-Laboratory/Job/Senior-Research-Scientist,-HPC-and-AI/-in-Oak-Ridge,TN?jid=9da588bc5fb9805c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/senior-research-scientist-hpc-and-ai-oak-ridge-tn--31c1854c-d6d8-4773-9479-d5aff03b0ffa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/research-scientist-hpc-for-neuromorphic-ai--oak-ridge--ed573b5e1b88092ffa1bd57e68c0d27be?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/senior-research-scientist-hpc-and-ai-at-oak-ridge-national-laboratory-4440990742?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/senior-research-scientist-hpc-and-ai_7ea1a08397f41a4b3418e25f5cf9e2ef5d299?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Www.openfacultyjobs.com",
+                    "link": "https://www.openfacultyjobs.com/position/0f08669d-2639-464b-8697-284ed30e466d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/oak-ridge-national-laboratory/oak-ridge/senior-research-scientist-hpc-and-ai-110810396/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUmVzZWFyY2ggU2NpZW50aXN0LCBIUEMgYW5kIEFJIiwiY29tcGFueV9uYW1lIjoiT2FrIFJpZGdlIE5hdGlvbmFsIExhYm9yYXRvcnkiLCJodGlkb2NpZCI6InV5VWt1MXRXTzFTczVZal9BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTbVl0UVRZMU1UZGZTelJ3Ykc5WlYyMXhUemQyTTNkR1luVlhjRjg0ZG1aa05GWjRhMHRmZDNOa1FrWkhVME5CVmpSUU4zaEVjbEZVY1VkMVMzVXRhVEUwZGxOdFFtUnZkVzVITVc5M1VuaHFVa0ZDYzBwQ2JtZEpNekZhWTI4MVRUVndNVjlrTTNkcGJVTjFXV28yTXpoSlExVkNTekZOZHpWdFRIRkNUVlY1ZDNkWFRUTVNGM0poYW1KaGRUY3dUbVpoZHpWT2IxQTFXbFJwWjFGUkdpSkJSSE55T1daVGRrVktjWFY2V0dscVZsaHBZVU5yVTIxTVZsYzFRamRPTVZsbiIsImZjdiI6IjMiLCJmY19pZCI6InV5VWt1MXRXTzFTczVZal9BQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Computational Scientist",
+            "company_name": "Roswell Park Cancer Institute",
+            "location": "Buffalo, NY",
+            "via": "Talents By Vaia",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Required Education and Experience",
+                        "Master's degree in Machine Learning, Data Science, Computer Science, Statistics, or related field of science or engineering and the equivalent of two (2) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics; or",
+                        "Bachelor's degree in Machine Learning, Data Science, Computer Science, Statistics, or related field of science or engineering and the equivalent of four (4) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics",
+                        "Degrees must be conferred by an accredited school, college, or university, or by an institution recognized by Roswell Park Comprehensive Cancer Center and/or Health Research Incorporated as adhering to acceptable educational standards",
+                        "PhD in relevant field",
+                        "Experience with electronic health record data, oncology and EHR terminology, large language models/transformers, deployment of clinical NLP tools in secure enterprise or research computing environments, and research experience: clinical research experience, grants, publication-writing experience",
+                        "Compliance with funding requirements such as time and effort reporting, grant deliverables, and contract deliverables is required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Starting annual salary is $129, 828 which includes a comprehensive benefits package"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Works in concert with other departments throughout the organization and serves as a subject matter expert in the area of ML/AI in oncology",
+                        "Promotes engagement of the research community, facilitates oncology research, use-case development, assists with user support, developing, and delivering advanced training",
+                        "This role is primarily centered on Clinical Natural Language Processing (NLP): developing, evaluating, and deploying methods to transform unstructured clinical text, radiology reports, and pathology reports into high-quality structured data for research use",
+                        "This role provides technical leadership in clinical NLP workflows including named entity recognition, clinical concept normalization to standard terminologies, and semantic classification of concepts, documents, and events",
+                        "Additionally, the position collaborates with clinical, informatics, data science, and information technology teams to design annotation strategies, build and benchmark models, support secure and compliant data pipelines, and translate clinical language data into actionable insights for oncology research"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=sJE6fJvpYY6jizZdAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCQAwAUFz7CU6Zpd6J4KKbHUQHEZ2cSnqk7ek1KZcU-y_-rLi87RXfReEqGcbJ0KIwJniESGxRDdZwkQaUMIcehOEk0iVaHnqzUffeqybX6T8GF2TwwtTI7F_S6J9ae8w0JjSqt7vN7EbuVuVd9EMpwQ3zGyrkQBnOrBZtMoLIcJzaFpOUcH3-AN5p6yOeAAAA&shmds=v1_ARwrE23Py43rSLkFpcijLy-pIjhWpV21U7j9oqEkY0mQ1VDwag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=sJE6fJvpYY6jizZdAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://talents.vaia.com/companies/roswell-park-cancer-institute/buffalo/computational-scientist-132511709/",
+            "job_title": "Computational Scientist",
+            "description": "Title:\nComputational Scientist\nJob Type:\nRegularCompany:\nHealth Research, Inc. (HRI) Roswell Park DivisionDepartment:\nBiostatistics & BioinformaticsTime Type:\nFull timeWeekly Hours:\n40\nFTE:\n1Shift:\nFirst Shift (United States of America)\n\nSummary:\nAre you passionate about applying AI, machine learning, and NLP to solve complex challenges in oncology? Join our team and make an impact.\n\nThe Computational Scientist promotes machine and deep learning artificial intelligence (AI) research through Roswell Park and provides senior level AI technical expertise as required to facilitate demand within the Biomedical Research Informatics Shared Resource. Works in concert with other departments throughout the organization and serves as a subject matter expert in the area of ML/AI in oncology. Promotes engagement of the research community, facilitates oncology research, use-case development, assists with user support, developing, and delivering advanced training.\n\nThis role is primarily centered on Clinical Natural Language Processing (NLP): developing, evaluating, and deploying methods to transform unstructured clinical text, radiology reports, and pathology reports into high-quality structured data for research use. This role provides technical leadership in clinical NLP workflows including named entity recognition, clinical concept normalization to standard terminologies, and semantic classification of concepts, documents, and events.\n\nAdditionally, the position collaborates with clinical, informatics, data science, and information technology teams to design annotation strategies, build and benchmark models, support secure and compliant data pipelines, and translate clinical language data into actionable insights for oncology research.\n\nStarting annual salary is $129, 828 which includes a comprehensive benefits package.\n\nQualifications:\nRequired Education and Experience\n\n1. Master's degree in Machine Learning, Data Science, Computer Science, Statistics, or related field of science or engineering and the equivalent of two (2) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics; or\n2. Bachelor's degree in Machine Learning, Data Science, Computer Science, Statistics, or related field of science or engineering and the equivalent of four (4) years of full-time work experience applying machine learning to real-world problems and with AI frameworks and data analytics.\n\nNOTE:\nDegrees must be conferred by an accredited school, college, or university, or by an institution recognized by Roswell Park Comprehensive Cancer Center and/or Health Research Incorporated as adhering to acceptable educational standards.\n\nPreferred Qualifications\n\nPhD in relevant field. Experience with electronic health record data, oncology and EHR terminology, large language models/transformers, deployment of clinical NLP tools in secure enterprise or research computing environments, and research experience: clinical research experience, grants, publication-writing experience.\n\nEqual Employment Opportunity Statement\n\nRoswell Park Cancer Institute Corporation (RPCIC) and Health Research Inc. (HRI) Roswell Park Division believe that all persons are entitled to equal employment opportunities, and we do not discriminate against our employees, applicants or job seekers because of their race, color, religion, sex, sexual orientation, gender identity or expression, national origin, creed, age, disability, pregnancy-related condition, military or veteran status, marital or familial status, domestic violence victim status, citizenship status, genetic information, individual's relationship or association with a member of a protected category or any other protected group status as defined by law.\n\nAffirmative Action/Equal Opportunity Employer/Qualified Individuals with Disabilities/Qualified Protected Veterans\n\nReasonable Accommodation Request\n\nRPCIC and HRI are committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the employment process, please email HR-BenefitsandLeaves@roswellpark.org and let us know the nature of your request and your contact information.\n\nOur Core Values\n\nRPCIC and HRI are committed to providing an environment where patients, families, employees and community are treated with courtesy and respect. We support an inclusive environment that nurtures the talents, skills and abilities of each individual to embody and reflect our core values: Innovation, Integrity, Teamwork, Commitment, Compassion and Respect.\n\nGrant Funding\n\nThis is a grant-funded position. Compliance with funding requirements such as time and effort reporting, grant deliverables, and contract deliverables is required.\n\nE-Verify Employer\n\nHealth Research Inc. (HRI) Roswell Park Division participates in the E-Verify program.",
+            "apply_options": [
+                {
+                    "title": "Talents By Vaia",
+                    "link": "https://talents.vaia.com/companies/roswell-park-cancer-institute/buffalo/computational-scientist-132511709/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career.com",
+                    "link": "https://www.career.com/job/roswell-park-comprehensive-cancer-center/computational-scientist/j202411051425388586261?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJDb21wdXRhdGlvbmFsIFNjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6IlJvc3dlbGwgUGFyayBDYW5jZXIgSW5zdGl0dXRlIiwiaHRpZG9jaWQiOiJzSkU2Zkp2cFlZNmppelpkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU205NlpEWTFhRFJTTjBjdFIzaHlOa2R0YVZCaWVFbGpiVVJpTkhRdFlXWm1WVkE0TWkxUlRFbHNhMnh3V2sxcFIwYzFOVzlRTUVzek0zZGpkMXB2U2s1c2JrMWFhM1ZTYmxWM1NGbzFjMlE1VVc5bU5VdE1SV2h1UzI5d1ZVTlBaalo2UnpCV2FrTTBPVUpWZG5oSWJHZHNTVU0wUlhaU1JXOTZZV3BMT1V4amFVeHZiM01TRjNKaGFtSmhkVGN3VG1aaGR6Vk9iMUExV2xScFoxRlJHaUpCUkhOeU9XWlNaV0pQTTFKamFqUTRTMHBRVUVKU2NqRmpSbFpWY0RGa2FsUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJzSkU2Zkp2cFlZNmppelpkQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Scientist, Computational Sensing",
+            "company_name": "Flagship Pioneering Inc",
+            "location": "Cambridge, MA",
+            "via": "Monster",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Master''s degree plus 3+ years of relevant industry experience, or PhD in Computational Biology, Biophysics, Bioengineering, Physics, Applied Mathematics, Computer Science, Electrical Engineering, or a related quantitative discipline",
+                        "Strong programming skills in Python and scientific computing environments",
+                        "Experience analyzing complex biological, physical, or time-series datasets - particularly in the presence of noise and experimental variability",
+                        "Solid background in at least two of: statistics, machine learning, signal processing, or Bayesian modeling",
+                        "Comfortable working across experimental and computational domains; able to engage meaningfully with wet-lab scientists on data interpretation",
+                        "Clear scientific communicator - written and verbal",
+                        "Experience comes in many forms, skills are transferable, and passion goes a long way",
+                        "Agriculture, Analysis Skills, Bayesian Networks, Benchmarking, Best Practices, Bioengineering, Bioinformatics, Biology, Biophysics, Candidate Sourcing, Communication Skills, Computer Programming, Computer Science, Computer Systems, Data Processing, Data Sets, Deep Learning, Electrical Engineering, Equal Employment Opportunity (EEO), Human Diseases, Human Health, Machine Learning, Materials Analysis, Mathematics, Performance Analysis, Performance Management, Physics, Python Programming/Scripting Language, Recruiting/Staffing Agency, Signal Processing, Standards Development, Statistics, Sustainability, Time Series Analysis, Training Data Sets"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The salary range for this role is $115,000 - $165,000",
+                        "Compensation for the role will depend on a number of factors, including a candidate's qualifications, skills, competencies, and experience",
+                        "FL110 currently offers healthcare coverage, annual incentive program, retirement benefits and a broad range of other benefits",
+                        "Compensation and benefits information is based on FL110''s good faith estimate as of the date of publication and may be modified in the future"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role sits at the intersection of biology, physics, signal processing, and machine learning - you will work directly with experimental scientists and engineers to develop methods that transform complex biological measurements into actionable scientific insight",
+                        "This role requires creating and implementing standard pipeline, and goes beyond them",
+                        "Here, you will build fundamental approaches to understanding and processing electronic data into an interpretable format and create methods to transform that data into actionable sequencing outputs",
+                        "Analyze nanopore and electrophysiology datasets to identify biologically meaningful signal features",
+                        "Develop and implement computational workflows for event detection, classification, and molecular fingerprinting",
+                        "Build quantitative models that connect nanopore measurements to molecular identity, structure, and function",
+                        "Collaborate with experimental scientists to interpret results and shape the direction of future experiments",
+                        "Partner with protein science, signal processing, and machine learning teams to improve platform performance and analytical capabilities",
+                        "Help establish best practices for benchmarking, validation, and uncertainty quantification as the platform scales"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=COE7sUUWMQsuDpS8AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXNQQrCMBBAUdz2CK5mKVIbEUTQlRQUBUHoAUoShySSzIRMhB7Ho2o3f_d5zXfRHAYbkGqQ2kLPKX-qroFJRxiQJJCDDdzZgKAu1gMTXJldxOXJ15rlqJRI7JzMm-0sJ8WEhif1ZiNzRvG6YI664rjbb6cuk1uvLlE78SHD848hlhm6kYVA0OtkSng5bOFx_gFpcQ8howAAAA&shmds=v1_ARwrE234TlxrF0P90N1OKIc3baGd7Wt9S7fBorkAHOragG-Bug&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=COE7sUUWMQsuDpS8AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAdCAMAAADIOV-pAAAAkFBMVEX___-Ghoavr6-8vLzx8fG0tLTa2tp0dHTMzMzFxcWSkpKoqKjp6ellZWXf399HR0ckJCScnJxUVFQdHR1qamqMjIx-fn48PDzu8_YNbJW4y9jU1NT5-fmvxdNxm7U0NDQAAAD96OfG1uDwycrh7PTpra798Nf94qztvb724OT72pPklpgtLS0NDQ3hiItcXFzk5rQIAAABBklEQVQ4je2QWXLDIBBERwyIXQhtOBGOs9pxNt3_dsGSk6-IC0RdRc2wvKKnATZtmrXb_XRCKcTfcw3AaBa8ub12BTGjpSxSLCOLQRhRlZhD93fLp-rgBNeah_GeE-1YPRTWqwz4APvH-UcBpmvQBmiFmhy4oSemy4BPaT1fpiqBet730rfIPQfulWuqDPgCcDwdAXDqKp_2nuvrjUCfm_H1_HaarUppZTWUgmjwGkgfCUOipBn03_Ge35eqwgdJAwYrmxRLMSn-WdnatA1dMRy_llogmOkC0o57oqzUDUw1tByDWfG6FEzhsJGPGAlVPejCJL8evGBuBYy5BACqgeUfbPpH-gb-UQ3_qHIZAwAAAABJRU5ErkJggg.png",
+            "extensions": [
+                "115K–165K a year",
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://www.monster.com/job-openings/scientist-computational-sensing-cambridge-ma--b3940c23-dae2-498b-ae6c-a40db4d00d71",
+            "job_title": "Scientist, Computational Sensing",
+            "description": "About Tilde (FL110)\n\nTilde Bio, Inc. (FL110) is building a next-generation biological sensing platform at the intersection of synthetic biology, protein engineering, nanopore biophysics, electrophysiology, signal processing, and machine learning. Our goal is to create programmable biological measurement systems capable of extracting rich molecular information from single-molecule interactions.\n\nWe believe nanopores generate a high-dimensional measurement of molecular identity and behavior that remains largely untapped. Unlocking that information requires new computational approaches - ones that don''t yet exist - built by people who are comfortable working at the edge of what''s known. At Tilde, you will work alongside scientists and engineers from diverse disciplines to help define how a new generation of biological sensing systems extract meaning from the physical world.\n\nTilde is backed by Flagship Pioneering, which brings the long-term vision and resources needed to build platforms that don''t fit neatly into existing categories.\n\nPosition Overview\n\nWe are looking for a Bioinformatics Scientist to join our Computational Team to help build the analytical foundation that connects nanopore measurements to biological understanding. This role sits at the intersection of biology, physics, signal processing, and machine learning - you will work directly with experimental scientists and engineers to develop methods that transform complex biological measurements into actionable scientific insight.\n\nThis role requires creating and implementing standard pipeline, and goes beyond them. Here, you will build fundamental approaches to understanding and processing electronic data into an interpretable format and create methods to transform that data into actionable sequencing outputs. The problems are open-ended, and many of the analytical frameworks don''t exist yet. The right person enjoys working with noisy experimental data, building quantitative models from first principles, and collaborating across disciplines.\n\nWhat You Will Do\n\nAnalyze nanopore and electrophysiology datasets to identify biologically meaningful signal features.Develop and implement computational workflows for event detection, classification, and molecular fingerprinting.Build quantitative models that connect nanopore measurements to molecular identity, structure, and function.Collaborate with experimental scientists to interpret results and shape the direction of future experiments.Partner with protein science, signal processing, and machine learning teams to improve platform performance and analytical capabilities.Help establish best practices for benchmarking, validation, and uncertainty quantification as the platform scales.Qualifications\n\nRequired\n\nMaster''s degree plus 3+ years of relevant industry experience, or PhD in Computational Biology, Biophysics, Bioengineering, Physics, Applied Mathematics, Computer Science, Electrical Engineering, or a related quantitative discipline.Strong programming skills in Python and scientific computing environments.Experience analyzing complex biological, physical, or time-series datasets - particularly in the presence of noise and experimental variability.Solid background in at least two of: statistics, machine learning, signal processing, or Bayesian modeling.Comfortable working across experimental and computational domains; able to engage meaningfully with wet-lab scientists on data interpretation.Clear scientific communicator - written and verbal.Preferred\n\nHands-on experience with nanopore technologies, electrophysiology, or single-molecule measurement platforms.Experience applying deep learning or probabilistic modeling to biological or physical datasets.Background in computational biophysics or time-series analysis of high-dimensional biological signals.About Flagship Pioneering\n\nFlagship Pioneering is a bioplatform innovation company that invents and builds platform companies, each with the potential for multiple products that transform human health or sustainability. Since its launch in 2000, Flagship has originated and fostered more than 100 scientific ventures, resulting in more than $90 billion in aggregate value. Many of the companies Flagship has founded have addressed humanity''s most urgent challenges: vaccinating billions of people against COVID-19, curing intractable diseases, improving human health, preempting illness, and feeding the world by improving the resiliency and sustainability of agriculture. Flagship has been recognized twice on FORTUNE''s \"Change the World\" list, and has been twice named to Fast Company''s annual list of the World''s Most Innovative Companies. Learn more about Flagship at www.flagshippioneering.com.\n\nFlagship Pioneering is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.\n\nAt Flagship, we recognize there is no perfect candidate. If you have some of the experience listed above but not all, please apply anyway. Experience comes in many forms, skills are transferable, and passion goes a long way. We are dedicated to building diverse and inclusive teams and look forward to learning more about your unique background.\n\nRecruitment & Staffing Agencies: Flagship Pioneering and its affiliated Flagship Lab companies (collectively, \"FSP\") do not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to FSP or its employees is strictly prohibited unless contacted directly by Flagship Pioneering''s internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of FSP, and FSP will not owe any referral or other fees with respect thereto.\n\nPrivacy Notice for Applicants: When you apply for a role at Flagship Pioneering or one of its portfolio companies, we collect and use personal information you provide (such as your name, contact details, work history, and application materials) to evaluate your application, communicate with you, and comply with legal obligations. Your application data is processed through Greenhouse, our applicant tracking system, and may also be reviewed using AI-assisted screening tools. We do not sell your personal information. California residents have rights under the CCPA/CPRA including to know, delete, and opt out of the sharing of their personal information. If you are located in the EU or UK, we process your data under GDPR and you have rights to access, rectify, and erase your data. To exercise your rights or for questions, contact privacy@flagshippioneering.com.\n\nThe salary range for this role is $115,000 - $165,000. Compensation for the role will depend on a number of factors, including a candidate's qualifications, skills, competencies, and experience. FL110 currently offers healthcare coverage, annual incentive program, retirement benefits and a broad range of other benefits. Compensation and benefits information is based on FL110''s good faith estimate as of the date of publication and may be modified in the future.\n\nPrivacy Notice for Applicants: When you apply for a role at Flagship Pioneering or one of its portfolio companies, we collect and use personal information you provide (such as your name, contact details, work history, and application materials) to evaluate your application, communicate with you, and comply with legal obligations. Your application data is processed through Greenhouse, our applicant tracking system, and may also be reviewed using AI-assisted screening tools. We do not sell your personal information. California residents have rights under the CCPA/CPRA including to know, delete, and opt out of the sharing of their personal information. If you are located in the EU or UK, we process your data under GDPR and you have rights to access, rectify, and erase your data. To exercise your rights or for questions, contact privacy@flagshippioneering.com.\n\n\nSkills:\nAgriculture, Analysis Skills, Bayesian Networks, Benchmarking, Best Practices, Bioengineering, Bioinformatics, Biology, Biophysics, Candidate Sourcing, Communication Skills, Computer Programming, Computer Science, Computer Systems, Data Processing, Data Sets, Deep Learning, Electrical Engineering, Equal Employment Opportunity (EEO), Human Diseases, Human Health, Machine Learning, Materials Analysis, Mathematics, Performance Analysis, Performance Management, Physics, Python Programming/Scripting Language, Recruiting/Staffing Agency, Signal Processing, Standards Development, Statistics, Sustainability, Time Series Analysis, Training Data Sets\n\n\nFlagship Pioneering Inc",
+            "apply_options": [
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/scientist-computational-sensing-cambridge-ma--b3940c23-dae2-498b-ae6c-a40db4d00d71?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/scientist-computational-sensing_7ea1a0e140daa816b172d00bbf56055961f25?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/scientist-computational-sensing-flagship-pioneering-cambridge-ma--t7xk-846917132?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/senior-scientist-computational-neuroscience-flagshippioneering-cambridge-ma_88576244?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "PrepPro Academy",
+                    "link": "https://preppro.academy/ar/flagshippioneeringinc/united-states/cambridge-ma-usa/2026/jobs/scientist-computational-sensing-flagshippioneeringinc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTY2llbnRpc3QsIENvbXB1dGF0aW9uYWwgU2Vuc2luZyIsImNvbXBhbnlfbmFtZSI6IkZsYWdzaGlwIFBpb25lZXJpbmcgSW5jIiwiaHRpZG9jaWQiOiJDT0U3c1VVV01Rc3VEcFM4QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1ZGclptdEtabmxSYld3MFpUZHpNR04yUTBoeWFVeEljRFV5VGxJNFRVUnJkekV6ZFRKZlltUnJTMFp2V1ZjMU9XTkNjazVCZDI5ME9WVjRVMDVPVXpSUFZrRkpWVkV5VkZVeFpXWjVja1JWU1MwMVJrMU1iM0JHTWxCdFNuZFljbEZ6TWtnNWFXZGZkMTg1Ym1GamRUbDRXbVpPVDA1dlRUbFlXVEJoZFdsSlVUTnlaeTBTRjNKaGFtSmhkVGN3VG1aaGR6Vk9iMUExV2xScFoxRlJHaUpCUkhOeU9XWlRhM3BCU21NNFJIWTVVV2RsYWxORWRWUjJaV1ZZYjNWUFYwVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJDT0U3c1VVV01Rc3VEcFM4QUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "AI-Driven Computational Scientist for Biologics & Large Molecules",
+            "company_name": "Sanofi S.A.",
+            "location": "Massachusetts",
+            "via": "BeBee",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The position requires an advanced degree and 3+ years of industry experience",
+                        "Candidates should be proficient in Python and familiar with deep learning libraries like PyTorch and TensorFlow",
+                        "A strong background in bioinformatics and collaboration across scientific disciplines is essential"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Computational+Scientist&htidocid=r3wfR7iSuiwsFx9cAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CeJwk4PQVAQXnaqCKHbq4lau4ZpG0lzJXaU_5v9Jlze-7LfK3uUjvyX_pQhXHsZJUT1HDFBbT1G9KHSc4OI5sPNWYAsvTI6g4kB2CiSQw5NbEMJke-AId2YXaH3uVUc5FYVIME6W2BrLQ8GRWp6LD7ey0EiPicaASs3huJ_NGN1uU2PkzkNtSgM-QoUiaPtJSFX-XhDfILgAAAA&shmds=v1_ARwrE21_NfnZnH3EaaIfLOOTokBZ36yHkWQEDffIPS6OEQJVvg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Computational+Scientist&htidocid=r3wfR7iSuiwsFx9cAAAAAA%3D%3D",
+            "extensions": [
+                "9 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://bebee.com/us/jobs/ai-driven-computational-scientist-for-biologics-large-molecules-sanofi-sa-cambridge--pureheal-29598_25298_ef828b20c68bed22f871c5d33dac0c81",
+            "job_title": "AI-Driven Computational Scientist for Biologics & Large Molecules",
+            "description": "Sanofi S.A. in Cambridge, Massachusetts is seeking a Computational Scientist to join their Digital Team. You will apply AI and machine learning approaches to revolutionize large molecule computational tools in drug design.\n\n\nThe position requires an advanced degree and 3+ years of industry experience. Candidates should be proficient in Python and familiar with deep learning libraries like PyTorch and TensorFlow. A strong background in bioinformatics and collaboration across scientific disciplines is essential.",
+            "apply_options": [
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/ai-driven-computational-scientist-for-biologics-large-molecules-sanofi-sa-cambridge--pureheal-29598_25298_ef828b20c68bed22f871c5d33dac0c81?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSS1Ecml2ZW4gQ29tcHV0YXRpb25hbCBTY2llbnRpc3QgZm9yIEJpb2xvZ2ljcyBcdTAwMjYgTGFyZ2UgTW9sZWN1bGVzIiwiY29tcGFueV9uYW1lIjoiU2Fub2ZpIFMuQS4iLCJodGlkb2NpZCI6InIzd2ZSN2lTdWl3c0Z4OWNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTVFZoT1RGeWMwbHBaVE5PZWs1V1VYQjVTSHBKVEdOdFlYQkxhMkozY0VWQ01EQmxXSEJ6YVZob2VubFBRbFV0UTAxcFNGZGlTSGxNTnpSclJVUndiMXBITUZsbk1YbFVTVnBVYldab2VUZzBka0Z3UmsxUWEzVnhPR2RqVVd4b2NEUXhOR1I2WW1NMGRuUkpUalIyTjJOc1N6ZzVNVlppUm14MVUwVjZRemhhTlU5aVN6SVNGM0poYW1KaGRUY3dUbVpoZHpWT2IxQTFXbFJwWjFGUkdpSkJSSE55T1daU1pFMUJkREU0ZWpkb1draFpkMjlFUzB4U1VYbFBZbnBNTnpGUiIsImZjdiI6IjMiLCJmY19pZCI6InIzd2ZSN2lTdWl3c0Z4OWNBQUFBQUE9PSJ9"
+        }
+    ]
+}

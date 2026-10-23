@@ -1,0 +1,933 @@
+{
+    "jobs_results": [
+        {
+            "title": "AI Solutions Architect",
+            "company_name": "Deloitte",
+            "location": "Nashville, TN",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Ability to work independently and collaborate as part of a team",
+                        "Effective written and verbal communication skills",
+                        "Meticulous attention to detail and quality of work product",
+                        "Ability to build and sustain professional relationships",
+                        "Ability to lead projects or workstreams",
+                        "Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment",
+                        "Strong interpersonal skills and professional demeanor",
+                        "Ability to meet deadlines",
+                        "Ability to provide clear guidance to others",
+                        "6+ years of professional experience in data science, machine learning, or Generative AI, including developing or prototyping LLM applications using LLM APIs, prompt engineering, RAG, or vector retrieval",
+                        "4+ years of hands-on experience with Python and SQL across enterprise data, analytics, and machine learning platforms",
+                        "4+ year of experience developing enterprise data products, data models, automated analytics pipelines, and decision-support solutions for reporting, trend analysis, traceability, or root-cause analysis",
+                        "2+ years experience leading, managing and delivering complex AI Solutions engagements",
+                        "Bachelor's degree or higher in Computer Science, Engineering, Data Science, Artificial Intelligence, or a related field",
+                        "Ability to travel up to 50% on average, based on the work you do and the clients and industries/sectors you serve",
+                        "Limited immigration sponsorship may be available",
+                        "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "A reasonable estimate of the current range is $141,200 to $278,300",
+                        "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You'll work alongside talented professionals reimagining and re-engineering operations and processes that are critical to businesses",
+                        "As a Lead AI and Data Science Engineer II on the AI & Data team, you will be responsible for driving technology-focused client delivery across complex engagements",
+                        "Engage with client stakeholders and sponsors, acting as the primary technical point of contact for your workstream",
+                        "Deliver components of client engagements spanning solution design, prototyping, testing, and production rollout",
+                        "Lead small teams through business requirements gathering, functional design, process mapping, and support-model definition, providing technical direction throughout",
+                        "Monitor progress against plan, identify variances, and drive corrective action before issues affect delivery",
+                        "Identify risks, assumptions, and constraints early, and implement approved mitigations to protect delivery",
+                        "Maintain clear, consistent communication with client stakeholders and internal engagement leadership"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=gj07uEWov5aklxkaAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7BzrdLDYRwUWngiA6dNG9JOFoTs5c6J3SP_C31eUNr_ksmra7wE34ZSRFoZtSJsNk0MJVIiiG34AUOIuMjKtjNqt68F6V3agWjJJL8vRSMMrsHxL1z6A5TFg5GA67_XZ2tYzr5QlZyAyBCvRB85uYcQP3_gvKJkWcigAAAA&shmds=v1_ARwrE20f-jXNBH9zHqeAgd7lTe7JMs-9G6DiwAY31A5TFrPd1g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=gj07uEWov5aklxkaAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAABAUCBwgD_8QAORAAAQMDAQMHBw0AAAAAAAAAAQACAwQFEQYSIXEHExYxNnSzMkFRkZTB0QgUFRciIzdVVmFygeH_xAAWAQEBAQAAAAAAAAAAAAAAAAAABAL_xAAZEQEAAwEBAAAAAAAAAAAAAAAAAgMRAQT_2gAMAwEAAhEDEQA_ANGoiyjjfLI2OJjnyPIa1rRkuJ6gAgxRW3RjUH5FdPY5PgolbbK-34-f0NTTZ6ufhczPrCCIiIgIiICttI9q7L3-DxGqpVtpHtXZe_weI1B1xqi-U-m7FVXesjllgpgC9kQBccuA3ZIHnVLpPWundf01TS00bnOY3M1HWRDOyd2cbwQvLlk_Da9fwZ4jVpr5Pwk-sAc3nZFHLznD7Pvwg8-WjRFPpO8wVNrYWW6vDiyPrETx5TR-28Ef2tcroT5SRZ0btTTjbNaSOGwc-5c9oCIiArbSPauy9_g8RqqVnDLJBKyWF7o5I3BzHtOC0jqIPpQdl6psUGpbDVWiqllihqQ0OfFjaGHA7s7vMqTSejNO8n1HU1MExaXt-_rKyUZ2RvxncAFzR0x1P-obr7ZJ8VAuF2uVzx9I3Crq8HI5-Zz8esoNk641db9ccoFspGuDrLSPMcZfuEzzvLuBIaB_qma8t1u6M1MksEMT4QOYc1oaQ7IwBx9C071KRU11ZVMYyqqp5ms8kSSFwHDKku80rLYz5LMY7He6joiKtsREQEREBERAREQf_9k.jpeg",
+            "extensions": [
+                "2 days ago",
+                "141K–278K a year",
+                "Full-time"
+            ],
+            "source_link": "https://www.indeed.com/viewjob?jk=78b776b2d2ddbd24",
+            "job_title": "AI Solutions Architect",
+            "description": "Agentic AI is moving from experimentation to production, and organizations everywhere are racing to figure out how to build it responsibly and at scale. We're growing a team of engineers who want to work at the center of that shift: designing and building autonomous, multi-agent systems powered by models for some of the world's largest organizations. \n \n\n \n\n  Join our AI & Engineering team in transforming technology platforms, driving innovation, and helping make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and re-engineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation. \n \n\n \nAI & Engineering leverages cutting-edge engineering capabilities to build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These solutions are powered by engineering for business advantage, transforming mission-critical operations. We enable clients to stay ahead with the latest advancements by transforming engineering teams and modernizing technology & data platforms. Our delivery models are tailored to meet each client's unique requirements. \n \n\n \n\n  Recruiting for this role ends on 10/30/2026. \n \n\n \nWork you'll do\n \n\n \n\n  As a Lead AI and Data Science Engineer II on the AI & Data team, you will be responsible for driving technology-focused client delivery across complex engagements. \n \n\n \n  Engage with client stakeholders and sponsors, acting as the primary technical point of contact for your workstream\n  Deliver components of client engagements spanning solution design, prototyping, testing, and production rollout\n  Lead small teams through business requirements gathering, functional design, process mapping, and support-model definition, providing technical direction throughout\n  Monitor progress against plan, identify variances, and drive corrective action before issues affect delivery\n  Identify risks, assumptions, and constraints early, and implement approved mitigations to protect delivery\n  Maintain clear, consistent communication with client stakeholders and internal engagement leadership\n \n \n\n  A successful candidate would possess these skills: \n \n\n \n  Ability to work independently and collaborate as part of a team\n  Effective written and verbal communication skills\n  Meticulous attention to detail and quality of work product\n  Ability to build and sustain professional relationships\n  Ability to lead projects or workstreams\n  Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment\n  Strong interpersonal skills and professional demeanor\n  Ability to meet deadlines\n  Ability to provide clear guidance to others\n \n \nThe team\n \n\n \n\n  Our AI & Data practice offers comprehensive solutions for designing, developing, and operating advanced Data and AI platforms, products, insights, and services. We help clients innovate, enhance, and manage their data, AI, and analytics capabilities, ensuring they can grow and scale effectively. \n \n\n \nQualifications\n \n\n \nRequired:\n \n\n \n  6+ years of professional experience in data science, machine learning, or Generative AI, including developing or prototyping LLM applications using LLM APIs, prompt engineering, RAG, or vector retrieval\n  4+ years of hands-on experience with Python and SQL across enterprise data, analytics, and machine learning platforms\n  4+ year of experience developing enterprise data products, data models, automated analytics pipelines, and decision-support solutions for reporting, trend analysis, traceability, or root-cause analysis\n  2+ years experience leading, managing and delivering complex AI Solutions engagements\n  Bachelor's degree or higher in Computer Science, Engineering, Data Science, Artificial Intelligence, or a related field\n  Ability to travel up to 50% on average, based on the work you do and the clients and industries/sectors you serve\n  Limited immigration sponsorship may be available\n \n \nPreferred:\n \n\n \n  Experience in consulting or other client-facing delivery roles\n  Experience using Claude through one or more of the following: Azure AI Foundry, Amazon Bedrock, Google Vertex AI, or the native Anthropic API\n  Experience designing or implementing production agentic workflows involving capabilities such as orchestration, tool integration, state management, evaluation, guardrails, and human-in-the-loop controls\n  Professional certification(s) in Generative AI, machine learning, or cloud AI technologies, such as Anthropic Claude, AWS Certified AI Practitioner, Google Cloud Generative AI Leader, Microsoft Azure AI, or CompTIA AI+.\n  Experience developing client-facing materials for workshops and interactive sessions\n  Experience presenting technical content to technical and nontechnical audiences in both small- and large- group settings\n \n \n\n  The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $141,200 to $278,300. \n \n\n \n\n  You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=78b776b2d2ddbd24&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/ai-solutions-architect-deloitte-nashville-tn_89466895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010303061989&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/YsGJFfh0NzerGEMxtkhe6Khi_0X3U7pMGHLV9k1RS7beEmRwQyosZw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/ai-solutions-architect-eliassen-group-nashville--lensa-7428_8c561e64b5248892984038d4883a92be03345dbb8ab011a7b50e0d586de3491a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/us-tn-nashville-ai-solutions-architect-eliassen-group-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Learn4Good",
+                    "link": "https://www.learn4good.com/jobs/nashville/tennessee/info_technology/5506933619/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-972-d18fe806883c4c19e8ba91ef5e27f9d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbnMgQXJjaGl0ZWN0IiwiY29tcGFueV9uYW1lIjoiRGVsb2l0dGUiLCJodGlkb2NpZCI6ImdqMDd1RVdvdjVha2x4a2FBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMXBITjNJeVZXTkplV1Y2TFRodGNXVnpjM2hhTVRoUWRYSktVelJCZFhwU1VHZFRaVVpHUm1aVVFsSlZXamhGVWpkc2FVdzJXakIzZG5oTVZUWkdia04zYWxkaVVsTjJVMEpFYW5aVVprMU1VVU5HVVc1cVVqbEpURTExY0ZKdGIydFhTMlZaTTNoMlVtaFZXaTE1TjJRd01IZzVjbGhCYkZkeFlsWmhhRzV0ZDJ0MVJWTVNGMHR4VkdKaGMzcDZUbVZNWjNKMVJWQnpkVkI1Y1ZGSkdpSkJSSE55T1daUlpuaDJTSGc0U1VoMVYweHFhVFpyTlhObmFXUnVaaTFIVEZKUiIsImZjdiI6IjMiLCJmY19pZCI6ImdqMDd1RVdvdjVha2x4a2FBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Senior Solutions Architect, AI and HPC Infrastructure",
+            "company_name": "NVIDIA Corporation",
+            "location": "Anywhere",
+            "via": "NVIDIA Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "BS, MS, or PhD in Computer Science, Electrical/Computer Engineering, Physics, other Engineering, or related field (or equivalent experience)",
+                        "8+ years of hands-on experience in AI infrastructure, accelerated computing, distributed systems, cloud infrastructure, high-performance computing, or machine learning platforms, with strong experience designing, deploying, and operating accelerated computing infrastructure at scale",
+                        "In-depth knowledge of AI cluster orchestration, scheduling, automation, and CI/CD deployment pipelines, and understanding of data center networking technologies such as InfiniBand, Ethernet, RDMA, network configuration, and performance tuning",
+                        "Familiarity with infrastructure requirements for AI workloads, including distributed training, inference serving, model deployment, storage performance, and cluster reliability",
+                        "Working knowledge of one or more energy sectors (power generation, oil & gas, transmission and distribution / grid, or renewables) and their operational and IT environments",
+                        "Excellent presentation, communication, problem-solving, documentation, and collaboration skills",
+                        "Strong problem structuring and the self-direction to drive ambiguous, multi-stakeholder projects to results",
+                        "Experience architecting AI factories, large GPU clusters, multi-node training environments, or production inference platforms",
+                        "Experience deploying LLM training, fine-tuning, RAG, and inference workflows on large-scale AI infrastructure",
+                        "Experience evaluating cluster performance using benchmarks such as MLPerf, HPL, or workload-specific performance tests",
+                        "Applications and systems-level knowledge of OpenMPI, NCCL, distributed training frameworks, and GPU communication patterns",
+                        "Comfortable with modern application-deployment practices such as Docker/Containers and Kubernetes"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Your base salary will be determined based on your location, experience, and the pay of employees in similar positions",
+                        "The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5",
+                        "You will also be eligible for equity and benefits"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role will focus on helping energy accounts from datacenter to the edge adopt NVIDIA accelerated infrastructure for training, fine-tuning, inference, retrieval, and agentic AI and HPC workloads",
+                        "You will serve as a technical advisor for accelerated systems architecture, GPU and networking systems, cluster design, orchestration, validation, and production deployment for AI data centers and edge environments serving energy customers",
+                        "Engaging with internal developers, researchers, data scientists, and senior leaders is a core part of the role and offers exposure to a wide range of partners and challenges",
+                        "Partner with energy-sector customers, ISVs, and account teams on discovery, architecture reviews, technical deep dives, POCs, benchmarks, demos, and production deployment guidance for AI infrastructure",
+                        "Advise on the design, build-out, and optimization of accelerated AI infrastructure for energy customers, including large-scale GPU clusters, AI factories, and edge deployments",
+                        "Support infrastructure design across compute, networking, storage, containers, observability, security, power, and data center operations for energy-sector AI workloads",
+                        "Drive adoption of systems monitoring, telemetry, and management tools to improve cluster utilization, reliability, performance, and workload insight",
+                        "Document what you learn and teach others — through targeted samples, whitepapers, blogs, and working through hard problems with customers",
+                        "Build repeatable reference architectures, deployment guides, sizing guidance, benchmark reports, technical playbooks, demos, and whitepapers for energy-sector AI infrastructure",
+                        "Strategically partner with flagship customers and industry-specific solution partners targeting our computing platform",
+                        "Collaborate primarily through virtual tools, and be empowered to find the best way to make our partners and customers successful",
+                        "Travel up to 20% for customer meetings may be required"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=IMtE6EKMh5Ph79tEAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXOsQrCMBCAYVz7CLrcLNqI4KJTqaAREaHiWtJ4tpF6F3JX6CP5mOryT9_wZ59Jdq6QAieouB80MAkUyXdB0esCCguOHnC8lmDpmZxoGrwOCWEJJ25A0P0wMMGBue1xuutUo2yNEenzVtRp8Lnnt2HChkfz4kb-qaVzCWPvFOv1ZjXmkdr57HK3e1tAySlycv8bCAQ3HJ18AWt7If2rAAAA&shmds=v1_ARwrE233-zsgge6jkm3f8Mr2pfi_3Iw6Pbh_hnWBsLo_dhl_eA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=IMtE6EKMh5Ph79tEAAAAAA%3D%3D",
+            "extensions": [
+                "4 days ago",
+                "Work from home",
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://jobs.nvidia.com/careers/job/893398248286",
+            "job_title": "Senior Solutions Architect, AI and HPC Infrastructure",
+            "description": "NVIDIA is seeking an outstanding AI Solutions Architect to assist and support energy-sector customers — power generation, oil & gas, transmission and distribution / grid, and renewables — as they build and operate AI infrastructure on NVIDIA's accelerated computing platforms. At NVIDIA, our solutions architects work across product, engineering, sales, developer relations, business development, and partner teams to help customers design, deploy, and optimize AI infrastructure for the energy industry. This role will focus on helping energy accounts from datacenter to the edge adopt NVIDIA accelerated infrastructure for training, fine-tuning, inference, retrieval, and agentic AI and HPC workloads. This is an excellent opportunity to work in an interdisciplinary team at NVIDIA! You will serve as a technical advisor for accelerated systems architecture, GPU and networking systems, cluster design, orchestration, validation, and production deployment for AI data centers and edge environments serving energy customers.\n\nWe need a curious, collaborative, and creative individual to advance these opportunities across AI infrastructure, industrial digital twins, and accelerated computing for the energy sector, and to become a trusted technical advisor bridging our industry, infrastructure, and partner teams. Engaging with internal developers, researchers, data scientists, and senior leaders is a core part of the role and offers exposure to a wide range of partners and challenges.\n\nWhat you'll be doing:\n\n  * Partner with energy-sector customers, ISVs, and account teams on discovery, architecture reviews, technical deep dives, POCs, benchmarks, demos, and production deployment guidance for AI infrastructure.\n  * Advise on the design, build-out, and optimization of accelerated AI infrastructure for energy customers, including large-scale GPU clusters, AI factories, and edge deployments.\n  * Support infrastructure design across compute, networking, storage, containers, observability, security, power, and data center operations for energy-sector AI workloads.\n  * Drive adoption of systems monitoring, telemetry, and management tools to improve cluster utilization, reliability, performance, and workload insight.\n  * Document what you learn and teach others — through targeted samples, whitepapers, blogs, and working through hard problems with customers.\n  * Build repeatable reference architectures, deployment guides, sizing guidance, benchmark reports, technical playbooks, demos, and whitepapers for energy-sector AI infrastructure.\n  * Strategically partner with flagship customers and industry-specific solution partners targeting our computing platform.\n  * Collaborate primarily through virtual tools, and be empowered to find the best way to make our partners and customers successful. Travel up to 20% for customer meetings may be required.\n\n\n\nWhat we need to see:\n\n  * BS, MS, or PhD in Computer Science, Electrical/Computer Engineering, Physics, other Engineering, or related field (or equivalent experience).\n  * 8+ years of hands-on experience in AI infrastructure, accelerated computing, distributed systems, cloud infrastructure, high-performance computing, or machine learning platforms, with strong experience designing, deploying, and operating accelerated computing infrastructure at scale.\n  * In-depth knowledge of AI cluster orchestration, scheduling, automation, and CI/CD deployment pipelines, and understanding of data center networking technologies such as InfiniBand, Ethernet, RDMA, network configuration, and performance tuning.\n  * Familiarity with infrastructure requirements for AI workloads, including distributed training, inference serving, model deployment, storage performance, and cluster reliability.\n  * Working knowledge of one or more energy sectors (power generation, oil & gas, transmission and distribution / grid, or renewables) and their operational and IT environments.\n  * Excellent presentation, communication, problem-solving, documentation, and collaboration skills.\n  * Strong problem structuring and the self-direction to drive ambiguous, multi-stakeholder projects to results.\n\n\n\nWays to stand out from the crowd:\n\n  * Experience architecting AI factories, large GPU clusters, multi-node training environments, or production inference platforms.\n  * Experience deploying LLM training, fine-tuning, RAG, and inference workflows on large-scale AI infrastructure.\n  * Experience evaluating cluster performance using benchmarks such as MLPerf, HPL, or workload-specific performance tests.\n  * Applications and systems-level knowledge of OpenMPI, NCCL, distributed training frameworks, and GPU communication patterns.\n  * Comfortable with modern application-deployment practices such as Docker/Containers and Kubernetes.\n\n\n\n  \n\n\nNVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!\n\nYour base salary will be determined based on your location, experience, and the pay of employees in similar positions. The base salary range is 184,000 USD - 287,500 USD for Level 4, and 224,000 USD - 356,500 USD for Level 5.\n\nYou will also be eligible for equity and benefits.\n\nApplications for this job will be accepted at least until October 24, 2026.\n\nThis posting is for an existing vacancy. \n\nNVIDIA uses AI tools in its recruiting processes.\n\nNVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+            "apply_options": [
+                {
+                    "title": "NVIDIA Careers",
+                    "link": "https://jobs.nvidia.com/careers/job/893398248286?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Workday",
+                    "link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-tx-remote/senior-solutions-architect--ai-and-hpc-infrastructure_jr2028265?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/nvidia/Job/Senior-Solutions-Architect,-AI-and-HPC-Infrastructure/-in-Remote,OR?jid=61bc78877bda3f63&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010302121351&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://en.talent.com/view?id=642551115013033044&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hitmarker",
+                    "link": "https://hitmarker.net/jobs/nvidia-senior-solutions-architect-ai-and-hpc-infrastructure-5314734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Recruit.net",
+                    "link": "https://www.recruit.net/job/solutions-architect-ai-hpc-infrastructure-jobs/57B9093082AFA5A8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29sdXRpb25zIEFyY2hpdGVjdCwgQUkgYW5kIEhQQyBJbmZyYXN0cnVjdHVyZSIsImNvbXBhbnlfbmFtZSI6Ik5WSURJQSBDb3Jwb3JhdGlvbiIsImh0aWRvY2lkIjoiSU10RTZFS01oNVBoNzl0RUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXazRRMFpMUTFVMGVFeENlRlJ5VXpJemJHRnROMHhDVFVGa1oxTjVTVTFYUkZsR1NFMUhiWFYyTmpKWlUycGxTMWhzV1U5Uk5rdEJabXRSTkRBMldtMXlhM2RVTjJKTFVWZFpWV1ptZGtSRGRFOW1iRU5PVVdJelpuVkxTRVJRWlRaUWR6ZEpSbDh3Ylc5M1MwbzRPRFp2ZFdvNFpIWkJibFpvY25sc2FHWkNTMHhGU2tVU0YwdHhWR0poYzNwNlRtVk1aM0oxUlZCemRWQjVjVkZKR2lKQlJITnlPV1pSTjNaR09FVnlVREptU0hCRGFVTm1RemRHT0VkRFJXeEdablpSIiwiZmN2IjoiMyIsImZjX2lkIjoiSU10RTZFS01oNVBoNzl0RUFBQUFBQT09In0="
+        },
+        {
+            "title": "Lead AI Solution Architect",
+            "company_name": "CVS Health",
+            "location": "Denver, CO (+11 others)",
+            "via": "CVS Health Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "This role requires a hands-on technology leader who can work across Product, Architecture, Engineering, Data, and Business teams to transform ideas into scalable, production-ready solutions",
+                        "The ideal candidate will possess a strong combination of AI expertise, cloud architecture experience, healthcare industry knowledge, and business acumen",
+                        "They must be passionate about emerging technologies, market trends, and innovation while maintaining a pragmatic focus on delivering achievable business outcomes",
+                        "10+ years in software engineering and architecture roles (technical lead, solution architect, enterprise architect)",
+                        "Strong experience in understanding non-functional requirements (SLA, response time, real time, near real time, multi-threading) and ability to create designs that meet the non-functional requirements",
+                        "5+ years of full stack development experience",
+                        "5+ years of SQL, NoSQL, MongoDB, Redis and any relevant database experience",
+                        "5+ years in cloud platforms (GCP/AWS), microservices, and API design",
+                        "3+ years of hands-on experience with AI/ML or Generative AI technologies",
+                        "Experience with DevOps tools (Kubernetes, Jenkins, Docker, Git) and Kafka",
+                        "experience in Java, Python, Spring Boot, and front-end frameworks (Angular/JavaScript)",
+                        "Proven ability to lead cross-functional teams and manage stakeholder expectations",
+                        "Strong understanding of healthcare workflows and business processes",
+                        "Bachelor’s degree in computer science, information systems or related field or equivalent experience required"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$106,605.00 - $260,590.00",
+                        "This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls",
+                        "The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors",
+                        "This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above",
+                        "This position also includes an award target in the company’s equity award program",
+                        "We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families",
+                        "This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families",
+                        "The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This individual will play a critical role in guiding product strategy, defining solution architecture, oversee implementation, and ensuring successful deployment of AI-enabled products and platforms",
+                        "Identify, Define, and execute end-to-end AI enabled strategic solutions aligned with project objectives",
+                        "Lead and supervise architectural initiatives within assigned projects or areas",
+                        "Develop architectural designs and solutions, ensuring adherence to standards and best practices",
+                        "Mentor and guide junior and senior architects in project-related tasks and skill development",
+                        "Collaborate with cross-functional teams to deliver effective architectural solutions",
+                        "Collaboration and Communication: Work closely with stakeholders, including business analysts, data engineers, IT teams, and management, to understand needs and drive alignment with business and development teams",
+                        "Technology Evaluation and Implementation: Assess new technologies, tools, and methodologies to enhance application processes and recommend their adoption where applicable",
+                        "Architecture and design reviews: Play a key leadership role in architecture design reviews and identify gaps and recommend design changes",
+                        "Actively lead and participate in the"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=2_udVwkIHjMa4KKZAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJvwrCMBCAcVz7BOJ0s2iigotOpYJ_EBwKriWNRxKJuZA7pc_gU1uXb_h91XdSra9oHlCfoaX4lkAJ6mJ9ELQCS7hQD4xmFBjPkchFnO29SOad1sxRORYjwSpLL00Jexr0k3r-p2NvCuZoBLvNdjWonNx82txbOKGJ4iEkOGD6YFlAc_sBN7vV6o0AAAA&shmds=v1_ARwrE208cnA43Zg8sguAATytb3YhrqCvIrD5wCGnI1ArWzBhHg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=2_udVwkIHjMa4KKZAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba4285c50d10d56d15b9c/images/XAVXjYj1rVGEqhm7_ykl42Cdn87ChaI5zQbC-TyqZ88.png",
+            "extensions": [
+                "6 days ago",
+                "Full-time",
+                "Dental insurance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://jobs.cvshealth.com/us/en/job/R1048146/Lead-AI-Solution-Architect",
+            "job_title": "Lead AI Solution Architect",
+            "description": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\n\n\n\n\n\n\nWe are seeking an experienced Solution Architect to lead the design, implementation, and deployment of cloud-native, AI-powered healthcare solutions. This role requires a hands-on technology leader who can work across Product, Architecture, Engineering, Data, and Business teams to transform ideas into scalable, production-ready solutions.\n\nThe ideal candidate will possess a strong combination of AI expertise, cloud architecture experience, healthcare industry knowledge, and business acumen. They must be passionate about emerging technologies, market trends, and innovation while maintaining a pragmatic focus on delivering achievable business outcomes.\n\nThis individual will play a critical role in guiding product strategy, defining solution architecture, oversee implementation, and ensuring successful deployment of AI-enabled products and platforms.\n\n Accountabilities include:\n\nIdentify, Define, and execute end-to-end AI enabled strategic solutions aligned with project objectives.Lead and supervise architectural initiatives within assigned projects or areas.Develop architectural designs and solutions, ensuring adherence to standards and best practicesMentor and guide junior and senior architects in project-related tasks and skill development.Collaborate with cross-functional teams to deliver effective architectural solutions.Collaboration and Communication: Work closely with stakeholders, including business analysts, data engineers, IT teams, and management, to understand needs and drive alignment with business and development teams.Technology Evaluation and Implementation: Assess new technologies, tools, and methodologies to enhance application processes and recommend their adoption where applicable.Architecture and design reviews: Play a key leadership role in architecture design reviews and identify gaps and recommend design changes.  Actively lead and participate in theArchitecture community to drive modernization opportunities for Healthcare Business Unit while keeping in mind the complexities of our IT landscape.\n\n Required Qualifications\n\n10+ years in software engineering and architecture roles (technical lead, solution architect, enterprise architect)Strong experience in understanding non-functional requirements (SLA, response time, real time, near real time, multi-threading) and ability to create designs that meet the non-functional requirements.5+ years of full stack development experience5+ years of SQL, NoSQL, MongoDB, Redis and any relevant database experience5+ years in cloud platforms (GCP/AWS), microservices, and API design.3+ years of hands-on experience with AI/ML or Generative AI technologies.Experience with DevOps tools (Kubernetes, Jenkins, Docker, Git) and Kafka.experience in Java, Python, Spring Boot, and front-end frameworks (Angular/JavaScript).Proven ability to lead cross-functional teams and manage stakeholder expectations.Strong understanding of healthcare workflows and business processes. Preferred Qualifications:\n\nPreferred experience in interoperability FHIR HL7 standardsExperience/certification in one or more cloud platforms (Salesforce, GCP, Azure & AWS) is preferred.Experience in large scale migration efforts from legacy technology/Asset to a modern/new Asset is preferred Education\n\nBachelor’s degree in computer science, information systems or related field or equivalent experience required\n\n\n\nPay Range\n\nThe typical pay range for this role is:\n\n\n\n$106,605.00 - $260,590.00\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls.  The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors.  This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above.  This position also includes an award target in the company’s equity award program. \n \n\nOur people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong.\n\n\n\nGreat benefits for great people\n\n\n\nWe take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families.\n\n\n\nThis full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility.\nAdditional details about available benefits are provided during the application process and on Benefits Moments.\n\n\n\nWe anticipate the application window for this opening will close on:   10/23/2026\n\n\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.",
+            "apply_options": [
+                {
+                    "title": "CVS Health Careers",
+                    "link": "https://jobs.cvshealth.com/us/en/job/R1048146/Lead-AI-Solution-Architect?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=e03f4b62c0a3192b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career Center - National Alliance For The Advancement Of Haitian Professionals",
+                    "link": "https://jobs.naahpusa.org/job/lead-ai-solution-architect/86468747/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010295408405&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/D4cc4I3tyEOG1eofkr75Nj1rGMKilL-ofsl5AdnBm02Gqi-gOVjLyg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Bandana.com",
+                    "link": "https://bandana.com/jobs/35e7cd81-19b7-48c3-9f29-bdc2d5f23efd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobMESH",
+                    "link": "https://jobmesh.io/job/143c944c-23c8-4c2b-936f-4f1073e7d647?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://bebee.com/us/jobs/lead-ai-solution-architect-cvs-health-harrisburg--lensa-2365_25a49916be78a8f8a6c8fccb116f9daedbab437ee848bf015f320b0fcc9b7e35?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkIEFJIFNvbHV0aW9uIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6IkNWUyBIZWFsdGgiLCJodGlkb2NpZCI6IjJfdWRWd2tJSGpNYTRLS1pBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUSGM0VVU5VVJHWjZjek4xYjE5d1lUQlJkVXRmUVUxRVJIVXhhakE0VW5GekxXdHlZM2RSVkVGVE5qZEhTV3AyWVRSMWRqQkpVa05WWmtjMVdXaFFZekZWZEVnd1l6ZHNRV1JmYzNaeGVrbE5Za2RuTTJvMFkzVkdielUwVjBSeWMxSnZaMlZxT0RoSVNqWjFiWEZqUTFSMGFqRkxlVW95T0ZSbVMwZERiME5MT1dOc2NtNFNGMHR4VkdKaGMzcDZUbVZNWjNKMVJWQnpkVkI1Y1ZGSkdpSkJSSE55T1daU1VUSmlOV05XVlc5M04weEJhMWhpWHkxclRHaHliMGhOTmxKQiIsImZjdiI6IjMiLCJmY19pZCI6IjJfdWRWd2tJSGpNYTRLS1pBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Principal AI Platforms Solution Architect",
+            "company_name": "PG&E Corporation",
+            "location": "Oakland, CA",
+            "via": "PG&E Corporation",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Architect multi-agent systems, autonomous workflows, and intelligent orchestration capabilities",
+                        "Establish Agent-to-Agent (A2A) communication and Human-in-the-Loop (HITL) design standards",
+                        "Define MCP architecture and enterprise connectivity patterns",
+                        "Architect secure integrations between AI platforms and enterprise systems",
+                        "Architect enterprise RAG, semantic search, vector database, and knowledge graph platforms",
+                        "Bachelor's degree in Computer Science, Engineering, Information Technology, Artificial Intelligence, or equivalent work experience in computer science, information technology, business administration, engineering, or other relevant field required",
+                        "10 years of experience in Solution Architecture, Platform Architecture, Cloud Architecture, Enterprise Architecture or relevant IT experience",
+                        "7 years of architecture or software development experience",
+                        "3 years of experience architecting AI, ML, Generative AI, Agentic AI solutions or Cloud",
+                        "AWS Certified Solutions Architect - Associate or equivalent cloud certification",
+                        "Experience architecting cloud-native platforms within AWS and Azure environments",
+                        "Experience designing enterprise integration architectures and API-based platforms",
+                        "Experience leading architecture and design review processes",
+                        "Strong executive communication and stakeholder management skills",
+                        "Experience working in an agile/scrum environment"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Guide enterprise adoption of Agentic AI solutions",
+                        "PG&E provides the salary range that the company in good faith believes it might pay for this position at the time of the job posting",
+                        "This compensation range is specific to the locality of the job",
+                        "The actual salary paid to an individual will be based on multiple factors, including, but not limited to, specific skills, education, licenses or certifications, experience, market value, geographic location, and internal equity",
+                        "Although we estimate the successful candidate hired into this role will be placed between the entry point and the middle of the range, the decision will be made on a case-by-case basis related to these factors.​ This job is also eligible to participate in PG&E’s discretionary incentive compensation programs",
+                        "A reasonable salary range is:​",
+                        "Bay Area Minimum: $155,000",
+                        "Bay Area Midpoint: $210,000",
+                        "Bay Area Maximum: $265,000"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The team builds and supports foundational capabilities such as Agentic AI services, MCP integrations, AI Gateway services, knowledge platforms, and AI Foundation components",
+                        "The AI Platforms Solution Architect (Principal) is responsible for leading the solution architecture and technical design of PG&E’s AI platform capabilities",
+                        "This role translates enterprise architecture, security, and governance direction into scalable, production-ready designs and reusable implementation patterns for Agentic AI platforms, AI Foundation services, MCP integrations, AI Gateways, retrieval platforms, knowledge systems, and enterprise AI solutions",
+                        "The position provides deep technical architecture leadership, partners with Enterprise Architecture and other technology stakeholders, and guides engineering teams in implementing secure, governed, reliable, and reusable AI platform capabilities",
+                        "Enterprise AI Platform Architecture & Strategy",
+                        "Work closely with AI Product Owners to define AI platform architecture, standards, reference architectures, and roadmaps",
+                        "Establish enterprise AI foundational architecture and shared services technical strategy",
+                        "Develop reusable architecture patterns for AI applications and services",
+                        "Align AI platform investments with business strategy and enterprise priorities",
+                        "Build prototypes for new Agentic patterns and explore open sourced solutions and frameworks",
+                        "Design reusable Agentic AI architecture patterns and implementation frameworks",
+                        "Establish architecture standards for AI Gateways and enterprise AI traffic management",
+                        "Develop reusable AI integration frameworks and reference solutions",
+                        "AI Foundation Services, Knowledge Platforms & RAG",
+                        "Define enterprise context management and retrieval architecture patterns",
+                        "Establish reference architectures for enterprise knowledge services",
+                        "Provide architectural leadership for AI-powered knowledge enablement solutions",
+                        "Build evals for RAG and KnowledgeGraph systems and use in production for drift detection",
+                        "AI Governance, Security & Responsible AI Architecture",
+                        "Work closely with Cybersecurity teams to define AI security guardrails and platform architecture controls",
+                        "Establish AI governance and Responsible AI architecture standards",
+                        "Review solution architectures for security, privacy, compliance, and risk requirements",
+                        "Partner with Cybersecurity and Enterprise Architecture teams to govern enterprise AI platforms",
+                        "Design enterprise AI solutions that embed FinOps principles by default, optimizing model selection, infrastructure utilization, cost transparency, governance, and scalability to maximize business value while controlling operational spend",
+                        "Lead enterprise AI architecture reviews and strategic design sessions",
+                        "Advise business and technology leaders on enabling AI use cases",
+                        "Evaluate emerging AI technologies and platform capabilities",
+                        "Mentor architects and engineering teams across the organization"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=fNEQ-prrgXQyOk1wAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x2NsQrCMBBAce0nuHiTg2gjgosuliJFFwt-QLnGtImmuZA7oZ_jp1pd3vDe8LLPLDvVyQXtInooLlB7lI7SwHAn_xZHAYqkrROjBTZwpRbY4GRgKhVR7838aEUiH5Ri9nnPguJ0rmlQFExLo3pSyz80bDGZOB1Ms9tvxzyGfrWoq-UZSkqREv5_LsANXx7DYw1l8QXhw7-IowAAAA&shmds=v1_ARwrE20CWMsDr2PlDrDepbKRcs1zO5ISB6_I4BOdIkbkIBycwg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=fNEQ-prrgXQyOk1wAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAllBMVEX___-a1O8Apd8AoN623fIAo97V2Ngxq-HKzs7v8PDEyMjIy8zO0dG8wMGXnp_Q1NSxtrfp6uqkqquQmJnf4eEAm9yrsbGHkJH4-Pja7_m74vT-zHVvvuhMsuN-iImt2fHq9vx9xOnP6veGze2aw8v_wEL-5L-w4feWzO3W28T_0ov_8tdguOWs5P8Ajdj_zoP9vi3_9eXpTplCAAABhklEQVRIie2SW4-bMBBGJyFMfB1fMYa2CdlLs2330v3_f64Gkkr0odp9Wq3EEdIYRkefPQZgZWVl5TNwbKqZbbWdPnA-N_h15ZbCpQ27ajtSf_1W78f3fPBiajCl1ViD9QvxsBSr434WI5FI1gZTnmRDdJ5zG9BrsIQUlPdLsRkuotCcpRLCWMAxSzKStnXkcmpF0VAsxHoLF5E4tF4FskgaAwGGlnmfKEYKVulAbimeruKbmcWq_yt6MmpuZXByrInyv1Z2sGuquqoagLqZroMTCJSYtTugjFwqkFq6cnChIorMlBMRXSzizW4_bErYbbcZRUMsaU8-YmDaa6HBcyDUlKQO1tjWSjtNtu9u-s3u7v77-WFKTDKHJDAok3xurRHQoietdRDSe6sTCWzHyfbDcO5PP37-Og-3o4hlJ1wAmmwQyqocVGc0zmGUKTpTam5hEh8fjvDy5f5pTvwP7Poz4jTV7vmxK-Lvp-H0ruvIMAylvL4OMA2937yF7l0ZKysrKx_GHyMNGdpso90RAAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://jobs.pge.com/en/job/oakland/principal-ai-platforms-solution-architect/29673/101420384192",
+            "job_title": "Principal AI Platforms Solution Architect",
+            "description": "Requisition ID # 174929 \n\n\n\nJob Category: Engineering / Science \n\nJob Level: Manager/Principal\n\nBusiness Unit: Technology & Security\n\nWork Type: Hybrid\n\nJob Location: Oakland\n\n \n\n\n\n \n\n\n\nDepartment SummaryThe AI and Cloud Engineering Team is responsible for engineering, integrating, and operationalizing enterprise AI and Cloud platform capabilities that enable PG&E teams to securely adopt and scale AI solutions. The team builds and supports foundational capabilities such as Agentic AI services, MCP integrations, AI Gateway services, knowledge platforms, and AI Foundation components. Working within enterprise architecture, security, and governance direction, the team translates approved strategies and patterns into reusable, production-ready platform capabilities that accelerate high-impact business use cases while improving security, scalability, reliability, and operational consistency.\n\nPosition SummaryThe AI Platforms Solution Architect (Principal) is responsible for leading the solution architecture and technical design of PG&E’s AI platform capabilities. This role translates enterprise architecture, security, and governance direction into scalable, production-ready designs and reusable implementation patterns for Agentic AI platforms, AI Foundation services, MCP integrations, AI Gateways, retrieval platforms, knowledge systems, and enterprise AI solutions. The position provides deep technical architecture leadership, partners with Enterprise Architecture and other technology stakeholders, and guides engineering teams in implementing secure, governed, reliable, and reusable AI platform capabilities.\n\n \n\nThis position is hybrid, working from the employee’s remote office and our Oakland headquarters, based on business need. \n\nKey ResponsibilitiesEnterprise AI Platform Architecture & Strategy Work closely with AI Product Owners to define AI platform architecture, standards, reference architectures, and roadmaps.Establish enterprise AI foundational architecture and shared services technical strategy.Develop reusable architecture patterns for AI applications and services.Align AI platform investments with business strategy and enterprise priorities. Build prototypes for new Agentic patterns and explore open sourced solutions and frameworksAgentic AI & Autonomous Systems Architecture Architect multi-agent systems, autonomous workflows, and intelligent orchestration capabilities.Establish Agent-to-Agent (A2A) communication and Human-in-the-Loop (HITL) design standards.Design reusable Agentic AI architecture patterns and implementation frameworks.Guide enterprise adoption of Agentic AI solutionsAI Gateway, MCP & Integration Architecture Establish architecture standards for AI Gateways and enterprise AI traffic management.Define MCP architecture and enterprise connectivity patterns.Architect secure integrations between AI platforms and enterprise systems.Develop reusable AI integration frameworks and reference solutions.AI Foundation Services, Knowledge Platforms & RAGArchitect enterprise RAG, semantic search, vector database, and knowledge graph platforms.Define enterprise context management and retrieval architecture patterns.Establish reference architectures for enterprise knowledge services.Provide architectural leadership for AI-powered knowledge enablement solutions. Build evals for RAG and KnowledgeGraph systems and use in production for drift detectionAI Governance, Security & Responsible AI ArchitectureWork closely with Cybersecurity teams to define AI security guardrails and platform architecture controls.Establish AI governance and Responsible AI architecture standards.Review solution architectures for security, privacy, compliance, and risk requirements.Partner with Cybersecurity and Enterprise Architecture teams to govern enterprise AI platforms.Design enterprise AI solutions that embed FinOps principles by default, optimizing model selection, infrastructure utilization, cost transparency, governance, and scalability to maximize business value while controlling operational spend.Technology Leadership & Enterprise ConsultingLead enterprise AI architecture reviews and strategic design sessions.Advise business and technology leaders on enabling AI use cases.Evaluate emerging AI technologies and platform capabilities.Mentor architects and engineering teams across the organization. \n\nBackground QualificationsMinimumBachelor's degree in Computer Science, Engineering, Information Technology, Artificial Intelligence, or equivalent work experience in computer science, information technology, business administration, engineering, or other relevant field required10 years of experience in Solution Architecture, Platform Architecture, Cloud Architecture, Enterprise Architecture or relevant IT experience.7 years of architecture or software development experience3 years of experience architecting AI, ML, Generative AI, Agentic AI solutions or Cloud. AWS Certified Solutions Architect - Associate or equivalent cloud certificationExperience architecting cloud-native platforms within AWS and Azure environments.Experience designing enterprise integration architectures and API-based platforms.Experience leading architecture and design review processes.Strong executive communication and stakeholder management skills.Experience working in an agile/scrum environmentDesiredExperience with Agentic AI platforms, AI Gateways, MCP, Copilot Studio, Azure AI Foundry, AWS Bedrock, and enterprise AI services.Experience designing RAG, semantic search, vector database, and knowledge graph solutions.Experience defining enterprise AI operating models, governance frameworks, and Responsible AI controls.Experience with developer platforms, DevSecOps, AI observability, and GenAIOps.Experience in utility, critical infrastructure, or highly regulated environments.Experience developing enterprise-wide AI platform roadmaps and transformation strategies. \n\nCompensation\n\n \n\nPG&E provides the salary range that the company in good faith believes it might pay for this position at the time of the job posting. This compensation range is specific to the locality of the job. The actual salary paid to an individual will be based on multiple factors, including, but not limited to, specific skills, education, licenses or certifications, experience, market value, geographic location, and internal equity. Although we estimate the successful candidate hired into this role will be placed between the entry point and the middle of the range, the decision will be made on a case-by-case basis related to these factors.​ This job is also eligible to participate in PG&E’s discretionary incentive compensation programs. \n\n \n\nA reasonable salary range is:​\n\n \n\nBay Area Minimum: $155,000Bay Area Midpoint: $210,000Bay Area Maximum: $265,000",
+            "apply_options": [
+                {
+                    "title": "PG&E Corporation",
+                    "link": "https://jobs.pge.com/en/job/oakland/principal-ai-platforms-solution-architect/29673/101420384192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=c042fabe507bb87a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/2e44baaf-038a-4990-9e3c-0a24d5ddf35a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Hiring Cafe",
+                    "link": "https://hiringcafe.com/job/principal-ai-platforms-solution-architect-pacific-gas-and-electric-90019gjbdkylpjw7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/principal-ai-platforms-solution-architect_7ea1a60b0712871d23710abaaab7306f9a7a0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/oinktkhg52Yh9SjL9yPmAUMWP_9qOlUu3fx92njr37oJqkXNZiyYMQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/principal-ai-platforms-solution-architect--oakland--e7427abdd5334f959657947a80d227868?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010283340955&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQUkgUGxhdGZvcm1zIFNvbHV0aW9uIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6IlBHXHUwMDI2RSBDb3Jwb3JhdGlvbiIsImh0aWRvY2lkIjoiZk5FUS1wcnJnWFF5T2sxd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzZFhVbWx3V2xwQmVtZDRXRTFNVXpSeWFteGthMWRyT1RaclptRk5SVzl2YW05WVNraHJXRUZCTVd4RWEwRnphelJVVVdNM1RrWmpSekU0VUU1R2RIQkRZVEZEUmpOblUwMXFYelJWVVRWTlJETTBTRUpIV25OT1QzVnNUME5yTkcxT05HTXllWE13WkZaV1gzTlBXRXRqYWpCQ1JtbzNSelJuWlRaa01FVkVhbmxIVVdNU0YwdHhWR0poYzNwNlRtVk1aM0oxUlZCemRWQjVjVkZKR2lKQlJITnlPV1pUU1d0aE5IbGFRMFpWTTFScGVra3plakIyWDNOcVNtdGtVMHRSIiwiZmN2IjoiMyIsImZjX2lkIjoiZk5FUS1wcnJnWFF5T2sxd0FBQUFBQT09In0="
+        },
+        {
+            "title": "AI Solution Architect",
+            "company_name": "Veeam Software",
+            "location": "United States",
+            "via": "Careers At Veeam",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "AI platforms and solutions",
+                        "AWS or other major cloud providers",
+                        "Python, Go, TypeScript, or other programming languages",
+                        "Distributed systems architectures",
+                        "Integration platforms and technologies",
+                        "UML",
+                        "ITIL and ITSM frameworks",
+                        "2+ years of work experience as an AI Solution Architect and 5+ years in Software Engineering",
+                        "Knowledge of the design principles of distributed systems and modern integration approaches",
+                        "Experience with AWS or another major cloud provider",
+                        "Knowledge of UML",
+                        "Deep understanding of the software development lifecycle",
+                        "Proficiency in English sufficient to read and write technical documentation and communicate effectively with English-speaking users and stakeholders",
+                        "Desire and ability to learn new technologies quickly and independently",
+                        "Strong communication and collaboration skills with the ability to work effectively across technical and business teams",
+                        "Proficiency in at least one programming language such as Python, Go, or TypeScript",
+                        "Knowledge of ITIL and ITSM frameworks",
+                        "Knowledge of Agile methodologies",
+                        "Experience designing and implementing enterprise AI solutions",
+                        "Experience working across multiple platforms, systems, and business functions in large-scale environments"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Unlimited paid time off, 12 paid holidays including 4 global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares",
+                        "Paid parental leave: 8 weeks for all parents, 16 weeks for birthing parents",
+                        "Medical, dental, and vision coverage starting on your first day",
+                        "Mental health support, therapy sessions, and digital wellness tools via our Employee Assistance Program",
+                        "401(k) retirement plan with company matching contributions",
+                        "Fertility, adoption, and surrogacy support through Maven, plus paid volunteer time",
+                        "AirVet: 24/7 virtual veterinary care at no cost",
+                        "Legal services, identity protection, and supplemental health insurance options",
+                        "Tax-advantaged spending accounts for healthcare, dependent care, and commuting",
+                        "Opportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning",
+                        "Compensation Transparency",
+                        "Veeam is committed to pay transparency and equitable compensation",
+                        "For this role, the compensation range below reflects the expected total target compensation (TTC), inclusive of base pay and a competitive performance-based bonus",
+                        "For roles with a commission plan, the compensation range represents On Target Earnings (OTE), which includes base salary plus variable commission",
+                        "When determining compensation, Veeam takes into consideration factors such as experience, education, skills, and geographic zone",
+                        "In addition to compensation, Veeam provides a comprehensive benefits package, including health coverage, retirement plans, and unlimited time off",
+                        "U.S. Geographic Zones & Compensation Ranges (TTC / OTE)",
+                        "$215,640—$400,440 USD",
+                        "$179,700—$333,700 USD"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you will partner with business and technology leaders to architect scalable AI solutions, drive implementation, and ensure successful adoption across the organization",
+                        "Work with business leadership and development teams managers to define the scope of the AI solution and clarify its functional and non-functional requirements",
+                        "Identify involved and affected systems and existing AI tools and solutions, perform an impact analysis",
+                        "Design technological solutions that satisfy identified business and technical requirements",
+                        "Help project managers identify technical experts and stakeholders and secure development team resources necessary to deliver project objectives",
+                        "Facilitate communication among technical experts and stakeholders while helping project managers coordinate development teams in their efforts to implement solutions and meet project objectives",
+                        "Ensure proper rollout of AI solutions",
+                        "Document AI solutions at a high level and ensure the appropriate low-level documentation is created and maintained by development teams",
+                        "Facilitate continuous improvement of designed solutions",
+                        "Agile development methodologies"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=NifjNYFoVa07KfZtAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNMQ7CMAxFxdojsOAZQYKQWGDqhGCtYK2SYNKgNI5qI3oIDo1Z_vCf9F7zXTSb9gId5bckKtBOYUiCQWALV_LA6PQBJWeimHF5GkQqH61lziayOEnBBBotFfQ02xd5_k_Pg5uwZifY7w-72dQS16s7ohu19pSPUkgFbkVzD-hUhPwD7RKttI8AAAA&shmds=v1_ARwrE21QfH19rZfI2hCMY8xlXfBeBvcLolqOXqxMEJQ6xRkrNg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=NifjNYFoVa07KfZtAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba4285c50d10d56d15b9c/images/-7Fa4wTfUTWV9exJI9HTFm43fmSiJ9vO9wxa5mIR-nY.jpeg",
+            "extensions": [
+                "11 days ago",
+                "Full-time",
+                "No degree mentioned",
+                "Paid time off",
+                "Health insurance",
+                "Dental insurance"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://careers.veeam.com/job/united-states/ai-solution-architect/22681/101910099584",
+            "job_title": "AI Solution Architect",
+            "description": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.\n\n #LI-JC2 #LI-REMOTE About the Role Veeam is a leading provider of backup and recovery software for virtual, physical, and cloud environments. Our Corporate Technology team oversees the operation of the company’s information systems and supports the platforms and services that power Veeam’s business worldwide. We are seeking an AI Solutions Architect to design strategic, cross-functional, and cross-platform AI solutions that enable business transformation. In this role, you will partner with business and technology leaders to architect scalable AI solutions, drive implementation, and ensure successful adoption across the organization. What You’ll Do  Work with business leadership and development teams managers to define the scope of the AI solution and clarify its functional and non-functional requirements. Identify involved and affected systems and existing AI tools and solutions, perform an impact analysis. Design technological solutions that satisfy identified business and technical requirements. Help project managers identify technical experts and stakeholders and secure development team resources necessary to deliver project objectives. Facilitate communication among technical experts and stakeholders while helping project managers coordinate development teams in their efforts to implement solutions and meet project objectives. Ensure proper rollout of AI solutions. Document AI solutions at a high level and ensure the appropriate low-level documentation is created and maintained by development teams. Facilitate continuous improvement of designed solutions  Technologies You’ll Work With  AI platforms and solutions AWS or other major cloud providers Python, Go, TypeScript, or other programming languages Distributed systems architectures Integration platforms and technologies UML ITIL and ITSM frameworks Agile development methodologies  What You’ll Bring  2+ years of work experience as an AI Solution Architect and 5+ years in Software Engineering. Knowledge of the design principles of distributed systems and modern integration approaches. Experience with AWS or another major cloud provider. Knowledge of UML. Deep understanding of the software development lifecycle. Proficiency in English sufficient to read and write technical documentation and communicate effectively with English-speaking users and stakeholders. Desire and ability to learn new technologies quickly and independently. Strong communication and collaboration skills with the ability to work effectively across technical and business teams.  Bonus Skills  Proficiency in at least one programming language such as Python, Go, or TypeScript. Knowledge of ITIL and ITSM frameworks. Knowledge of Agile methodologies. Experience designing and implementing enterprise AI solutions. Experience working across multiple platforms, systems, and business functions in large-scale environments. What you'll get\n\n  Unlimited paid time off, 12 paid holidays including 4 global VeeaMe Days for self-care and 24 paid volunteer hours annually through Veeam Cares Paid parental leave: 8 weeks for all parents, 16 weeks for birthing parents Medical, dental, and vision coverage starting on your first day Mental health support, therapy sessions, and digital wellness tools via our Employee Assistance Program 401(k) retirement plan with company matching contributions Fertility, adoption, and surrogacy support through Maven, plus paid volunteer time AirVet: 24/7 virtual veterinary care at no cost Legal services, identity protection, and supplemental health insurance options Tax-advantaged spending accounts for healthcare, dependent care, and commuting Opportunities to learn and grow through on-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning  Compensation Transparency\n\n Veeam is committed to pay transparency and equitable compensation. For this role, the compensation range below reflects the expected total target compensation (TTC), inclusive of base pay and a competitive performance-based bonus. For roles with a commission plan, the compensation range represents On Target Earnings (OTE), which includes base salary plus variable commission. When determining compensation, Veeam takes into consideration factors such as experience, education, skills, and geographic zone. Offers are typically made below the midpoint of the range.\n\n In addition to compensation, Veeam provides a comprehensive benefits package, including health coverage, retirement plans, and unlimited time off.\n\n U.S. Geographic Zones & Compensation Ranges (TTC / OTE)Zone 1: San Francisco Bay Area, New York City Boroughs$215,640—$400,440 USDZone 2: Washington, California (excluding San Francisco Bay Area)$197,670—$367,070 USDZone 3: Texas, Illinois, North Carolina, Colorado, Massachusetts, Pennsylvania, Virginia, Oregon, Nevada, Hawaii, New York (excluding NYC boroughs); Sales roles located in Georgia, Ohio, and Arizona$179,700—$333,700 USDZone 4: All other US locations$156,339—$290,319 USD Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.\n\n Personal data collected during the recruitment process will be processed in accordance with our Recruiting Privacy Notice, which explains how your information is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing. \n\n By submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins, termination of employment.",
+            "apply_options": [
+                {
+                    "title": "Careers At Veeam",
+                    "link": "https://careers.veeam.com/job/united-states/ai-solution-architect/22681/101910099584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Workday",
+                    "link": "https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/AI-Domain-Solution-Architect_71007814?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=e6435ac5193c56de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Cloud Sign In",
+                    "link": "https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Virtual Vocations",
+                    "link": "https://www.virtualvocations.com/job/ai-solution-architect-3288515-i.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Open Source JobHub",
+                    "link": "https://opensourcejobhub.com/job/29697/ai-domain-solution-architect/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Built In",
+                    "link": "https://builtin.com/job/ai-solution-architect/11633196?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/CBIZ/Job/AI-Solution-Architect/-in-Washington,DC?jid=4787422b15676a84&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbiBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJWZWVhbSBTb2Z0d2FyZSIsImh0aWRvY2lkIjoiTmlmak5ZRm9WYTA3S2ZadEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHZE1iV0pMYTFSNFZtMXBOemMwZURVMFJXNVlVR3BmV1dGSE5XOWtZVE56TlZOc2VYWnFPVVp0U0dsU1NGVlhibDl4VlRGWVgwOXpjR0pEWjBkUU5VMW5abXBwTW5sWFF6TnFUVGRtVFhvMVIyZEZMWEpZYmkxMmRYSTFaSEJUVUdKalpXOUlkMDV6UlRabE5YVmFlVlJ1YW1KcGVFVm5kbGxzUldwT05WcHBVVXBwVEVVU0YwdHhWR0poYzNwNlRtVk1aM0oxUlZCemRWQjVjVkZKR2lKQlJITnlPV1pSYkVjd1UybzNiR3B3ZEdOME0wODJZekZzZVVaaFR6SnVOa1ZSIiwiZmN2IjoiMyIsImZjX2lkIjoiTmlmak5ZRm9WYTA3S2ZadEFBQUFBQT09In0="
+        },
+        {
+            "title": "Principal AI Solutions Architect - Only W2",
+            "company_name": "CBTS",
+            "location": "Atlanta, GA",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Experience architecting AI/ML or generative AI systems",
+                        "Strong experience with AI orchestration and workflow frameworks",
+                        "Expert-level technical knowledge of architecture, application systems design, and integration at large scale, with demonstrated delivery of AI/ML systems into production",
+                        "Familiarity of the Media and Entertainment workflows",
+                        "Understanding of Production and Post-Production workflows from previous experience",
+                        "Strong Understanding of SDLC",
+                        "3+ years; Ability to work with tools like Claude Code and Cursor"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay Rate: $140-160/hour on W2, client will not consider C2C"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The SA is responsible for assessing business and creative requirements; collecting, identifying, and approving technical specifications; and developing AI/ML solutions that require engineering to be viable — including generative AI applications, model serving platforms, agentic and multi-agent workflow systems, fine-tuned and adapted foundation models, purchased AI platforms, and the integration of AI capabilities into existing production and business systems",
+                        "Job Responsibilities / Typical Day in the Role",
+                        "Serve as technical owner and point of contact for AI ContentLab solutions spanning generative media (text, image, video, audio, 3D), retrieval and knowledge systems, and agentic workflow automation",
+                        "Develop technical specifications for AI systems and ensure new solutions are designed for optimal access, reusability, and measurable creative and business value",
+                        "Apply architectural and engineering concepts to design solutions that meet operational requirements — scalability, maintainability, security, reliability, extensibility, flexibility, availability, and manageability — plus AI-specific requirements: inference latency, throughput, cost-per-generation, GPU utilization, model accuracy and drift, output quality, and safety",
+                        "Design and develop AI reference architectures that support corporate business strategy and the enterprise data and AI strategy, with focus on model platforms, media asset and metadata pipelines, vector and embedding stores, feature stores, and evaluation infrastructure",
+                        "Assist in identifying which models, platforms, and vendors to employ based on benchmark performance, cost, licensing and IP indemnification terms, data-use and training-rights provisions, service agreements, and organizational constraints",
+                        "Lead research and development efforts — proofs of concept, prototypes, model bake-offs, and red-teaming exercises — as subject matter expert when introducing new models, techniques, or tooling in a fast-moving field",
+                        "Define and own evaluation strategy: offline eval harnesses, golden datasets, human-in-the-loop review, A/B testing, and production quality monitoring for non-deterministic systems",
+                        "Architect responsible-AI controls into solutions by design: guardrails and content filtering, prompt-injection and data-exfiltration defenses, provenance and watermarking (e.g., C2PA), rights and talent-consent enforcement, audit logging, and human review gates",
+                        "Provide input to management throughout the project management lifecycle (PMLC) and assist managers in developing SLAs and key performance measures appropriate to probabilistic systems (quality thresholds, refusal and escalation rates, cost per unit of output)",
+                        "Ensure AI solutions are production-ready, meet defined specifications, and can be maintained via production support methodologies and resources — including model versioning, rollback, retraining and re-evaluation cadence, and knowledge management",
+                        "Facilitate communication between technology workgroups, creative and production teams, and business stakeholders on technical issues and major changes; translate model capabilities and limitations into terms non-technical partners can act on",
+                        "Assume ownership of problems and incidents — including model degradation, harmful or off-brand output, and cost anomalies — and communicate critical situation status"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=ZKIu65zN2p0ug33aAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJsQrCQAyAYVy7ujllFu1JwUWn06HoolDBsaTH0Z7E5Ggi1AfxfdXl54O_-MwKfx0Th5SRwJ-gEXpZElbwYxiSxWCwhgvTG-7VT2fpQCP-HghDLdJTXOwHs6w751Sp7NXQUiiDPJ1w7GRyD-n0n1YHHGMmtNhW281UZu6X8-Ph1kBi8EbIhiuo_RfWMp02mAAAAA&shmds=v1_ARwrE23ykfeHZYflvYuJ_ccvfKc-IpXMeXOyjMnEjoSxzOabag&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=ZKIu65zN2p0ug33aAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba4285c50d10d56d15b9c/images/MPB2Tk3A1y1nShMYNKuXERbBDb5FKHIaQbaSy0nrqx4.jpeg",
+            "extensions": [
+                "4 days ago",
+                "140–160 an hour",
+                "Contractor",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://www.linkedin.com/jobs/view/principal-ai-solutions-architect-only-w2-at-cbts-4480230213",
+            "job_title": "Principal AI Solutions Architect - Only W2",
+            "description": "Role: Principal AI Solutions Architect\n\nLocation: Atlanta, GA - Hybrid \n\nPay Rate: $140-160/hour on W2, client will not consider C2C\n\n\n\n\nWhat We Do/Project\n\n\n\n\nThe Solutions Architect (SA) for the AI ContentLab is the highest-level domain technology expert for applied AI in content creation, production, and distribution. The SA is responsible for assessing business and creative requirements; collecting, identifying, and approving technical specifications; and developing AI/ML solutions that require engineering to be viable — including generative AI applications, model serving platforms, agentic and multi-agent workflow systems, fine-tuned and adapted foundation models, purchased AI platforms, and the integration of AI capabilities into existing production and business systems.\n\n\n\n\nJob Responsibilities / Typical Day in the Role\n\n• Serve as technical owner and point of contact for AI ContentLab solutions spanning generative media (text, image, video, audio, 3D), retrieval and knowledge systems, and agentic workflow automation.\n\n• Develop technical specifications for AI systems and ensure new solutions are designed for optimal access, reusability, and measurable creative and business value.\n\n• Apply architectural and engineering concepts to design solutions that meet operational requirements — scalability, maintainability, security, reliability, extensibility, flexibility, availability, and manageability — plus AI-specific requirements: inference latency, throughput, cost-per-generation, GPU utilization, model accuracy and drift, output quality, and safety.\n\n• Design and develop AI reference architectures that support corporate business strategy and the enterprise data and AI strategy, with focus on model platforms, media asset and metadata pipelines, vector and embedding stores, feature stores, and evaluation infrastructure.\n\n• Assist in identifying which models, platforms, and vendors to employ based on benchmark performance, cost, licensing and IP indemnification terms, data-use and training-rights provisions, service agreements, and organizational constraints.\n\n• Lead research and development efforts — proofs of concept, prototypes, model bake-offs, and red-teaming exercises — as subject matter expert when introducing new models, techniques, or tooling in a fast-moving field.\n\n• Define and own evaluation strategy: offline eval harnesses, golden datasets, human-in-the-loop review, A/B testing, and production quality monitoring for non-deterministic systems.\n\n• Architect responsible-AI controls into solutions by design: guardrails and content filtering, prompt-injection and data-exfiltration defenses, provenance and watermarking (e.g., C2PA), rights and talent-consent enforcement, audit logging, and human review gates.\n\n• Provide input to management throughout the project management lifecycle (PMLC) and assist managers in developing SLAs and key performance measures appropriate to probabilistic systems (quality thresholds, refusal and escalation rates, cost per unit of output).\n\n• Ensure AI solutions are production-ready, meet defined specifications, and can be maintained via production support methodologies and resources — including model versioning, rollback, retraining and re-evaluation cadence, and knowledge management.\n\n• Facilitate communication between technology workgroups, creative and production teams, and business stakeholders on technical issues and major changes; translate model capabilities and limitations into terms non-technical partners can act on.\n\n• Assume ownership of problems and incidents — including model degradation, harmful or off-brand output, and cost anomalies — and communicate critical situation status.\n\n\n\n\nMust Have Skills / Requirements\n\n1) Experience architecting AI/ML or generative AI systems.\n\na. Strong experience with AI orchestration and workflow frameworks. Expert-level technical knowledge of architecture, application systems design, and integration at large scale, with demonstrated delivery of AI/ML systems into production.\n\n2) Familiarity of the Media and Entertainment workflows\n\na. Understanding of Production and Post-Production workflows from previous experience.\n\n3) Strong Understanding of SDLC\n\na. 3+ years; Ability to work with tools like Claude Code and Cursor.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/principal-ai-solutions-architect-only-w2-at-cbts-4480230213?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQUkgU29sdXRpb25zIEFyY2hpdGVjdCAtIE9ubHkgVzIiLCJjb21wYW55X25hbWUiOiJDQlRTIiwiaHRpZG9jaWQiOiJaS0l1NjV6TjJwMHVnMzNhQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xBemNUZGxZalpMUmtOS2FtdHNPVGN0ZG5aUE5GWm9OMmh4V25wT05uWkVTblIxZGkxMk5FeHJPVTl4TlU4dGRVaE9RV2RYU2psVlUybDBPRWQzWDBoT1NFOWlSMHBRY3pST1pHd3lZamhmTWpGTWVHZ3RiRkI0U1VOU1gwMTNRMHBYU0dsS1F6RjNWbE5EVG5OTFVWQlBVV1Y2UzJkRmRVWTNRWGM1TW5sTVVFaHpNWGNTRjB0eFZHSmhjM3A2VG1WTVozSjFSVkJ6ZFZCNWNWRkpHaUpCUkhOeU9XWlVWV2x1VG1GVE5rTmpMVFJzTldrMVdYaGlUR2RWYkRod1pHTlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJaS0l1NjV6TjJwMHVnMzNhQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Senior Principal AI Security Solutions Architect",
+            "company_name": "Dell Technologies",
+            "location": "Round Rock, TX",
+            "via": "Dell Technologies",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As experts working at the cutting edge of security, we undertake vulnerability response handling, implement the security development lifecycle, coordinate security certifications and develop common software security components and toolkits",
+                        "As well as ensuring the authenticity and integrity of the product code during product development, we mitigate risks of sourcing and delivery of counterfeit or maliciously tainted components in our products."
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=U3Q7tdjc-8SmnbXjAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCQAwAUFz7CU4BN9FWBBedCkLRSayDW7meoY2eyXFJoX6TP2ld3vCy7yyramSSBJdE7Cm6AOUJavRDIvtALWEwElYok-_J0Bus4SwtKLppQBgqkS7g_NCbRd0XhWrIOzVn5HMv70IYWxmLp7T6p9HeJYzBGTbb3WbMI3fLxRFDgBv6niVIR6hADFcZ-DHpXyu43X_rMmW_rgAAAA&shmds=v1_ARwrE21PNY3mEnTdDHnz6s_vkD7yB5lmOZhUfNs1yhKWPnMtUw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=U3Q7tdjc-8SmnbXjAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba4285c50d10d56d15b9c/images/IzCef_I7N4f2ClxWr1RvWjLU6FB2KX1JUslHCKcZZ6o.jpeg",
+            "extensions": [
+                "7 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "qualifications": "No degree mentioned"
+            },
+            "source_link": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300551/?mode=location",
+            "job_title": "Senior Principal AI Security Solutions Architect",
+            "description": "The security of customers’ data and systems is of paramount importance to Dell Technologies. Our Product Security Engineering team designs and develops software and systems to minimize security risks within our products. As experts working at the cutting edge of security, we undertake vulnerability response handling, implement the security development lifecycle, coordinate security certifications and develop common software security components and toolkits. As well as ensuring the authenticity and integrity of the product code during product development, we mitigate risks of sourcing and delivery of counterfeit or maliciously tainted components in our products.  \n\n Dell Technologies Security and Resiliency organization manages security risk across all aspects of Dell's business. We are experiencing tremendous growth as we continue to meet the security needs of one of the world's largest technology companies. With team members located in more than 15 countries, you will have an exceptional opportunity to influence Dell's security culture while advancing your career. \n\nJoin us to do the best work of your career and make a profound social impact as a Senior Principal AI Security Solutions Architect on our Security and Resiliency team in Round Rock, Texas. Relocation assistance is available.",
+            "apply_options": [
+                {
+                    "title": "Dell Technologies",
+                    "link": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300551/?mode=location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=ff9c7aaf46a390db&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/senior-principal-ai-security-solutions-architect-at-dell-technologies-4479664807?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LocalJobs.com",
+                    "link": "https://www.localjobs.com/job/round-rock-tx-senior-principal-ai-security-solutions-architect?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Career.io",
+                    "link": "https://career.io/job/senior-principal-ai-security-solutions-architect-round-rock-dell-technologies-632035fa518657d3e38b165533fd90ef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "EQuest Jobs",
+                    "link": "https://jobs.equest.com/jobs/TX/dell-inc/senior-principal-ai-security-solutions-architect-491192310.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "TalentApply",
+                    "link": "https://talentapply.io/jobs/senior-principal-ai-security-solutions-architect-dell-1248297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobs For Col U Fans",
+                    "link": "https://jobs.cu-fc.com/jobs/senior-principal-ai-security-solutions-architect-round-rock-texas/3029628359-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgUHJpbmNpcGFsIEFJIFNlY3VyaXR5IFNvbHV0aW9ucyBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJEZWxsIFRlY2hub2xvZ2llcyIsImh0aWRvY2lkIjoiVTNRN3RkamMtOFNtbmJYakFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFaFVNWEozU0ZjMlEwTlBXVjl2UmxwTmRuUnhXVzlDTm5keFVqTkNlbTlqYkZWd1pIVjRUMmM0VkdOcmExQlNVMjFwUVdVd09EWkJSV2R6ZDFkVU1rczBlRzkxU1VSaGNsWlNUM0U0ZVd4cWJEZHZjR0ZCVkZGNFJEa3RlazF0ZFV0NlFraG9UMkZ0WjFVNFYyY3RZVlZ2TFdjelluWjBiMmxQTjBSU2VXMXRabkozUjFFU0YwdHhWR0poYzNwNlRtVk1aM0oxUlZCemRWQjVjVkZKR2lKQlJITnlPV1pSUlVSalVIVXhVa1JRUVY5UU5qbFNhV1I2T1hGUlJrZEhSakYzIiwiZmN2IjoiMyIsImZjX2lkIjoiVTNRN3RkamMtOFNtbmJYakFBQUFBQT09In0="
+        },
+        {
+            "title": "AI Solutions Architect — Programs & Delivery",
+            "company_name": "Amentum",
+            "location": "Lansing, MI",
+            "via": "Amentum",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Strong program-architecture judgment — ability to sequence work, identify dependencies, and call risks early",
+                        "Ability to operate across executive (CTO, Council), technical (engineering, IT, data), and business-unit (spoke) stakeholders",
+                        "Excellent written and verbal communication; comfort preparing board-level decision packages",
+                        "Detail-oriented in a fast-moving environment; strong organizational and follow-through skills",
+                        "Typically 5+ years of progressive experience in AI / data program architecture, AI portfolio management, or enterprise solution delivery with a Bachelor's degree in Computer Science, Engineering, Data Science, Information Systems, or related field"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Work Schedule: Standard business hours with flexibility; occasional travel to spoke sites",
+                        "$160k - $180k",
+                        "The compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued",
+                        "Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws",
+                        "Our health and welfare benefits are designed to support you and your priorities",
+                        "Health, dental, and vision insurance",
+                        "Paid time off and holidays",
+                        "Retirement benefits (including 401(k) matching)",
+                        "Educational reimbursement",
+                        "Parental leave",
+                        "Employee stock purchase plan",
+                        "Tax-saving options",
+                        "Disability and life insurance",
+                        "Pet insurance",
+                        "Note: Benefits may vary based on employment type, location, and applicable agreements"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role owns the technical execution backbone of the COE: JANUS (the COE's AI intake and portfolio system of record), pilot and lighthouse delivery pipeline, and the interface between the COE hub and Amentum's operating-group AI spokes",
+                        "The role bridges business demand, technical architecture, and governance to ensure AI initiatives are documented, planned, coordinated, and delivered against per-lighthouse execution criteria — not just inventoried",
+                        "Operate JANUS as the COE's portfolio system of record — drive waves of pilot and lighthouse records to completeness, coordinate gold-record certification, and prepare board-ready evidence for Amentum’s AI Advisory Council",
+                        "Drive technical delivery coordination across waves of lighthouse initiatives against signed charters and pilot execution criteria",
+                        "Interface the COE hub with operating-group spokes so reusable architecture patterns flow both directions enabling growth",
+                        "Coordinate with AI Governance, Cyber, CIO/EA, Legal, Export Control, Finance, and Procurement liaisons to keep boundary approvals on schedule for lighthouse production paths",
+                        "Track risks, dependencies, and decision-package status across the AI portfolio; support COE leadership and the AI Advisory Council with timely, evidence-backed status",
+                        "Own day-to-day operation of JANUS for COE intake, triage, prioritization, and lifecycle tracking of AI use cases",
+                        "Translate business problems into technical AI solution architectures, identifying reusable patterns and platform components across AI Pilots",
+                        "Support the AI Solution Architect — Generative AI (peer role) on integration, deployment, and operational hand-off of GenAI capabilities into mission and enterprise workflows",
+                        "Coordinate with spoke leads on lighthouse charter execution, surfacing blockers to the Chief AI Architect and the AI Advisory Council",
+                        "Maintain the COE decision log and Council package readiness on a monthly cadence",
+                        "Partner with vendor Forward Deployed Engineers (FDEs) during platform buildout, ensuring reusable patterns are documented and transitioned to internal owners with FDE exit criteria met",
+                        "Maintain alignment between AI work and Amentum's two-cloud posture (Azure Commercial for COE, Azure Government for customer-mandated programs)"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=blyqPdKQwQRZDBqVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXKMQrCQBAAQGzzAAurrSxEcyLYaBVQJKIg-IBwCcvl5G433G4kdj7C0tf5ErWZarL3KNsXJVw59OqZBIrUtF6xUfg8X3BJ7JKNAlPYYfB3TA9YwJFrELS_CUxwYHYBJ9tWtZONMSIhd6JWfZM3HA0T1jyYG9fyp5LWJuyCVaxW6-WQd-Rm4yIiaR_BE5wsiSc3h3P5BQUvnamfAAAA&shmds=v1_ARwrE239sfCSAuiUODdE4_CJEVo-0h_QpGULeQLfRPrBcETlTQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=blyqPdKQwQRZDBqVAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAXCAMAAABponzPAAAAb1BMVEX____hSC_fNxPfNQ_fORj88O7hRCn43drfMADgPR7uopnhRiz2zcjnc2PgQCPfMQXyubPvp570yMLwrabwsarqin_slInphHf76-n65ePmbl7iUDndHQD99vXeKADtm5HzwbvlY1HjWEP31tLoemzrnL8CAAABAklEQVQ4jaXUW3uDIAwGYA4xgiAe6jqrtbW4__8bF9Rn62XYvhv14pWQoEL8N0V_6QafzcragLVWNR9FlrsalEdC02a4GuRvTMVf792RXJmuNBKUUtqiSkGnuIWiSh0Zq8_9sQq2Y7nFSF2IcaSJiOJ2Gyd0Mwv2kODdzAutdn88qL8NayaDTVBJ-6TtruvFSqlKDuxOGI4temqx2jiw3aHGZqD71xSpVM1acVMJyvhMZc8xRicbjhNih3uVx4sAJx68Brt674dYb3TxXVA9Dy7gLABYREgJGHmOJmnej6rTIxeK1rgfh7yWntkk4MleeV-yaCdNga_8n4cQdMD_oLLzDRWuC1o9BZekAAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "Contractor",
+                "Dental insurance",
+                "Paid time off",
+                "Health insurance"
+            ],
+            "source_link": "https://veterans.amentumcareers.com/lansing-mi/ai-solutions-architect-programs-delivery/062ACE7F966A46B4AA6560F81D24279D/job/",
+            "job_title": "AI Solutions Architect — Programs & Delivery",
+            "description": "Amentum is a global leader in advanced engineering and innovative technology solutions, trusted by the United States and its allies to address their most significant and complex challenges in science, security and sustainability. Our people apply undaunted curiosity, relentless ambition and boundless imagination to challenge convention and drive progress. Our commitments are underpinned by the belief that safety, collaboration and well-being are integral to success. Headquartered in Chantilly, Virginia, we have approximately 50,000 employees in more than 70 countries across all 7 continents.\n\n\n\nThe  AI Solutions Architect  — Programs & Delivery is the senior operational architect for Amentum's AI Center of Excellence. This role owns the technical execution backbone of the COE: JANUS (the COE's AI intake and portfolio system of record), pilot and lighthouse delivery pipeline, and the interface between the COE hub and Amentum's operating-group AI spokes.\n\n\n\nThe role bridges business demand, technical architecture, and governance to ensure AI initiatives are documented, planned, coordinated, and delivered against per-lighthouse execution criteria — not just inventoried.  This position Hybrid to our Reston, VA Office and US Citizenship is required.\n\n\n\nKey Outcomes\n\n\n\n\nOperate JANUS as the COE's portfolio system of record — drive waves of pilot and lighthouse records to completeness, coordinate gold-record certification, and prepare board-ready evidence for Amentum’s AI Advisory Council.\n\n\nDrive technical delivery coordination across waves of lighthouse initiatives against signed charters and pilot execution criteria.\n\n\nInterface the COE hub with operating-group spokes so reusable architecture patterns flow both directions enabling growth.\n\n\nCoordinate with AI Governance, Cyber, CIO/EA, Legal, Export Control, Finance, and Procurement liaisons to keep boundary approvals on schedule for lighthouse production paths.\n\n\nTrack risks, dependencies, and decision-package status across the AI portfolio; support COE leadership and the AI Advisory Council with timely, evidence-backed status.\n\n\n\n\nCore Responsibilities\n\n\n\n\nOwn day-to-day operation of JANUS for COE intake, triage, prioritization, and lifecycle tracking of AI use cases.\n\n\nTranslate business problems into technical AI solution architectures, identifying reusable patterns and platform components across AI Pilots.\n\n\nSupport the AI Solution Architect — Generative AI (peer role) on integration, deployment, and operational hand-off of GenAI capabilities into mission and enterprise workflows.\n\n\nCoordinate with spoke leads on lighthouse charter execution, surfacing blockers to the Chief AI Architect and the AI Advisory Council.\n\n\nMaintain the COE decision log and Council package readiness on a monthly cadence.\n\n\nPartner with vendor Forward Deployed Engineers (FDEs) during platform buildout, ensuring reusable patterns are documented and transitioned to internal owners with FDE exit criteria met.\n\n\nMaintain alignment between AI work and Amentum's two-cloud posture (Azure Commercial for COE, Azure Government for customer-mandated programs).\n\n\n\n\nKnowledge, Skills & Abilities:\n\n\n\n\nStrong program-architecture judgment — ability to sequence work, identify dependencies, and call risks early.\n\n\nAbility to operate across executive (CTO, Council), technical (engineering, IT, data), and business-unit (spoke) stakeholders.\n\n\nExcellent written and verbal communication; comfort preparing board-level decision packages.\n\n\nDetail-oriented in a fast-moving environment; strong organizational and follow-through skills.\n\n\n\n\nMinimum Requirements\n\n\n\n\nTypically 5+ years of progressive experience in AI / data program architecture, AI portfolio management, or enterprise solution delivery with a Bachelor's degree in Computer Science, Engineering, Data Science, Information Systems, or related field. Master's preferred.\n\n\nExperience operating an enterprise intake / portfolio system for AI, data, or technology initiatives.\n\n\nWorking knowledge of AI/ML solution architecture, including data pipelines, model integration patterns, and platform components.\n\n\nHands-on familiarity with cloud platforms (Azure preferred; AWS or GCP also acceptable).\n\n\nExperience working with structured and semi-structured data, databases, and integration patterns across enterprise systems.\n\n\nUS Citizenship is required.\n\n\n\n\nPreferred Qualifications\n\n\n\n\nExperience in a federal services, government, or mission-driven environment.\n\n\nExposure to AI governance frameworks (model risk, responsible AI, NIST AI RMF, EU AI Act categorization).\n\n\nBackground coordinating multi-vendor AI engagements (RFI/RFP, Forward Deployed Engineering, hyperscaler partnerships).\n\n\nExperience with Azure AI services, Microsoft Copilot ecosystem, and/or AWS Bedrock.\n\n\n\n\nWork Environment:  Hybrid; collaborative technical/business environment spanning CTO Office and operating-group spokes.\n\n\n\nWork Schedule:  Standard business hours with flexibility; occasional travel to spoke sites.\n\n\n\nCompensation Details:\n\n\n\n$160k - $180k\n\n\n\nThe compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued. Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws.\n\n\n\nBenefits Overview:\n\n\n\nOur health and welfare benefits are designed to support you and your priorities. Offerings include:\n\n\n\n\nHealth, dental, and vision insurance\n\n\nPaid time off and holidays\n\n\nRetirement benefits (including 401(k) matching)\n\n\nEducational reimbursement\n\n\nParental leave\n\n\nEmployee stock purchase plan\n\n\nTax-saving options\n\n\nDisability and life insurance\n\n\nPet insurance\n\n\n\n\nNote: Benefits may vary based on employment type, location, and applicable agreements. Positions governed by a Collective Bargaining Agreement (CBA), the McNamara-O'Hara Service Contract Act (SCA), or other employment contracts may include different provisions/benefits.\n\n\n\nOriginal Posting:\n\n\n\n08/26/2026 - Until Filled\n\n\n\nAmentum anticipates this job requisition will remain open for at least three days, with a closing date no earlier than three days after the original posting. This timeline may change based on business needs.\n\n\n\nAmentum is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, sex, sexual orientation, pregnancy (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, ancestry, United States military or veteran status, color, religion, creed,  marital or domestic partner status, medical condition, genetic information, national origin, citizenship status, low-income status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law. Learn more about your rights under Federal laws and supplemental language at Labor Laws Posters (https://postings.govdocs.com/#/vxSkbztPuAwwxfs) .",
+            "apply_options": [
+                {
+                    "title": "Amentum",
+                    "link": "https://veterans.amentumcareers.com/lansing-mi/ai-solutions-architect-programs-delivery/062ACE7F966A46B4AA6560F81D24279D/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "United States Jobs Expertini",
+                    "link": "https://us.expertini.com/job/ai-solutions-architect-programs-delivery-lansing-amentum-062ace7f966a46b4aa6560f81d24279d105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBTb2x1dGlvbnMgQXJjaGl0ZWN0IOKAlCBQcm9ncmFtcyBcdTAwMjYgRGVsaXZlcnkiLCJjb21wYW55X25hbWUiOiJBbWVudHVtIiwiaHRpZG9jaWQiOiJibHlxUGRLUXdRUlpEQnFWQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hWeE5YZFhRMjlYWW1aU05YRm1RbHBCV0ZWbFJtUlpNWGgzV205RmNHWnFkREUyYjNSRFZHSTJiRm80TjBsM09UbEhTalJLTmpoaVJXRkRhRlF5UlhRNVdXSTVNWEpWY1ZvdFRFNVBaMUJST1hOeloxcFFla3BITW5WR2FHeEhiSFp3YWtoVWFUbElYekIxUjFsUk16VTJlWFZIVkRCc2VHUmZYMHRMYWpjeFgzcEJaWGtTRjB0eFZHSmhjM3A2VG1WTVozSjFSVkJ6ZFZCNWNWRkpHaUpCUkhOeU9XWlNOelYyTlZkVE1GazRRVkZhTTJSamJqTnlWR2wzZFVWb2QxUlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJibHlxUGRLUXdRUlpEQnFWQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Enterprise AI Solutions Architect",
+            "company_name": "TEKsystems",
+            "location": "Cedar Rapids, IA",
+            "via": "TEKsystems Careers",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree in Computer Science, Engineering, Information Systems, Data Science, or a related field, or equivalent experience",
+                        "Eight or more years of experience in enterprise architecture, solution architecture, platform architecture, software engineering, cloud engineering, or technology delivery",
+                        "Experience designing and governing enterprise solutions across Microsoft 365, Power Platform, cloud, SaaS, data, integration, and enterprise application environments",
+                        "Experience with Microsoft Copilot Studio, Copilot Cowork, Claude Cowork, Microsoft 365 Copilot extensibility, Power Platform, Power Automate, Dataverse, Teams, Outlook, SharePoint, Microsoft Graph, Azure services, or comparable AI and automation platforms",
+                        "Experience creating architecture standards, reference architectures, design patterns, solution guardrails, and architecture review criteria",
+                        "Strong understanding of identity and access management, data loss prevention, connector governance, API security, endpoint security, logging, monitoring, billing controls, and operational readiness",
+                        "Strong understanding of responsible AI, AI governance, human oversight, content grounding, privacy, sensitive data handling, auditability, and compliance expectations",
+                        "Experience designing integrations across APIs, Microsoft 365 services, enterprise applications, workflow platforms, data platforms, and knowledge repositories",
+                        "Experience working within Agile, DevOps, SDLC, architecture governance, technology risk management, and change management practices",
+                        "Strong communication, facilitation, analytical, and stakeholder management skills",
+                        "Ability to explain complex architecture topics to both executive and technical audiences"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Pay and Benefits",
+                        "The pay range for this position is $75.00 - $110.00/hr",
+                        "Individual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job-related factors",
+                        "Eligibility requirements apply to some benefits and may depend on your job",
+                        "subject to specific elections, plan, or program terms",
+                        "Medical, dental & vision",
+                        "Critical Illness, Accident, and Hospital",
+                        "401(k) Retirement Plan Pre-tax and Roth post-tax contributions available",
+                        "Life Insurance (Voluntary Life & AD&D for the employee and dependents)",
+                        "Short and long-term disability",
+                        "Health Spending Account (HSA)",
+                        "Transportation benefits",
+                        "Employee Assistance Program",
+                        "Time Off/Leave (PTO, Vacation or Sick Leave)"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role will define the standards, design patterns, guardrails, and solution design practices needed to support secure, compliant, scalable, and policy-aligned adoption across the enterprise",
+                        "The architect will partner with enterprise architecture, security, risk, compliance, privacy, data governance, platform, engineering, workforce technology, and business teams to ensure Copilot-based and Claude-based solutions are designed responsibly and operated effectively",
+                        "This is a hands-on architecture leadership role focused on enabling business value while protecting enterprise data, enforcing governance expectations, and reducing delivery risk across a multi-vendor agentic AI landscape",
+                        "Enterprise component standards for Microsoft Copilot Studio, Copilot Cowork, and Claude Cowork",
+                        "Reference architecture for Copilot agents, Cowork-enabled workflows, Claude Cowork multi-step autonomous workflows, integrations, data access, and enterprise deployment",
+                        "Reusable design pattern catalog for common agent, workflow, knowledge-grounding, approval, escalation, and integration scenarios",
+                        "Solution design template and architecture review checklist for Copilot Studio, Copilot Cowork, and Claude Cowork implementations",
+                        "Guardrails for security, privacy, data governance, responsible AI, connector usage, identity and access, auditability, monitoring, and operational readiness",
+                        "Endpoint and desktop governance guidance for Claude Cowork, including device configuration, local file and application access boundaries, and managed deployment controls",
+                        "Platform selection guidance that clarifies when to use Copilot Studio, Copilot Cowork, or Claude Cowork for a given business scenario",
+                        "Environment, tenant, lifecycle management, deployment, and support model guidance for enterprise adoption",
+                        "Decision records and exception-handling process for solution-specific architecture, security, or governance deviations",
+                        "Executive-ready recommendations, roadmap input, and adoption guidance for scaling Copilot Studio, Copilot Cowork, and Claude Cowork across the enterprise",
+                        "Define the enterprise architecture approach for Microsoft Copilot Studio, Copilot Cowork, Claude Cowork, Copilot agents, and related agentic AI capabilities",
+                        "Create and maintain standards, design patterns, reference architectures, and guardrails for secure and governed adoption",
+                        "Lead solution design for Copilot Studio, Copilot Cowork, and Claude Cowork implementations, ensuring each solution has clear business purpose, approved data sources, defined ownership, security controls, and measurable outcomes",
+                        "Partner with Security, Risk, Compliance, Privacy, Legal, Data Governance, Workforce Technology, and platform administration teams to align solutions with enterprise policies and standards",
+                        "Define guidance for knowledge sources, connectors, actions, prompts, approvals, grounding, monitoring, and human oversight",
+                        "Shape environment strategy, data policies, application lifecycle management, deployment controls, usage visibility, billing controls, and operational support practices",
+                        "Define endpoint governance, access controls, and usage policies for Claude Cowork, and support proof-of-concept evaluation and transition to production where approved",
+                        "Establish architecture review criteria and reusable checklists for Copilot Studio, Copilot Cowork, Claude Cowork, and Copilot agent solutions",
+                        "Provide hands-on architecture guidance to delivery teams from concept through design, build, test, deployment, and production readiness",
+                        "Define integration patterns across Microsoft 365, Power Platform, Dataverse, SharePoint, Teams, Outlook, Microsoft Graph, Anthropic Claude, APIs, enterprise applications, workflow platforms, and knowledge repositories",
+                        "Develop patterns for observability, audit trails, task execution visibility, quality evaluation, prompt testing, incident response, and continuous improvement",
+                        "Evaluate emerging Microsoft Copilot, Copilot Studio, Copilot Cowork, Claude Cowork, Power Platform, Azure AI, Agent 365, and agentic AI capabilities for enterprise applicability",
+                        "Facilitate architecture governance discussions and approvals, promoting reuse, consistency, policy alignment, and risk-based decision making",
+                        "Communicate architecture decisions, risks, trade-offs, standards, and recommendations clearly to executive, business, architecture, engineering, and platform stakeholders",
+                        "Mentor architects, makers, and engineering teams on enterprise-ready Copilot Studio, Copilot Cowork, and Claude Cowork design practices"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=jw45U2afZOvlsvX5AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXIsQrCMBAAUFz7CQ5ys2gjgiA6FSlS3dS9JOmRRNJcyJ1Qv8TfVZc3vOozq_ZtEiy5BEZoOrhTfEmgxNAU64OgFVjDhQww6t8AJTgTuYjzoxfJfFCKOdaORUuwtaVRUUJDk3qS4T89e10wRy3Yb3ebqc7JLReP9spvFhwZQoITDrrATecw8Aq65gs7S0G9mgAAAA&shmds=v1_ARwrE21bvDxwk7s_XlqVBKdVBwi-fQ4O1_v0dWfDNrr2F0646Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=jw45U2afZOvlsvX5AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAq1BMVEX___8AAACZnqS6vcGxtbjx8vP7-_xfZm8ADCIoNEIQIzQAACBGT1qnq7GGjZbFyMzm6OmSl56Ah4_97dn50Kj0487___b_0Z7ynTTvgADFfyjo7fLfyqeajISVkY_wyJ7wo0v6iACKe2oAESoAAAs6RVFRWWRrcXo3lNAAdboAiMTauo5GVmrU6PIAeLkAf7vR1NdWiacfKzlJqNUhFh0AABl6sc-Yp7ADHC_6lxnjAAABXElEQVRIie2SaU_DMAyGHTdJl27OxTnGvZZyL5Rr__-X4W4IDQHbmBCf-qhRraiP_TYtQEdHR8c_s7W9s4G1u7c_HB6Mfu0dHh2fnJ6dw1iIUojqQjB10ddeCL9UvLy6Bri5hTof9Ko85r26rskUUIls-cS7-wkoE7jKBAIM-u1mYaSoPz2WvpqjyYMo2-5yJvaK6RhNM200AFkidshilrvMoqaAPqDmkvdBPz7NXudd5KjSmMFzAiVB8dxAoJ1MPNNa0Dlo5HxuNvTlFT7EedRGlaUCIlTkncOgJWbEi9uw7yiohczvE40x0UwhCeMTsBAUd0dyHErKudgOXxCzgoPnVVWZmA80UBMJrUoE7Y0HovU8kdouXC4_cgbVyke-p_0OekNXIp-m9gp8QkhceK9XR2UiBJtHjIqkjA5t5CuuI2bWS5e8A5t5F3hRLVf8jz9AawXt6Ojo-DveAN3PFOH_Up0dAAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "15 days ago",
+                "75–110 an hour",
+                "Contractor",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://careers.teksystems.com/us/en/job/JP-006316713/Enterprise-AI-Solutions-Architect",
+            "job_title": "Enterprise AI Solutions Architect",
+            "description": "Description\n\nThe Enterprise Microsoft Copilot Studio, Copilot Cowork, and Claude Cowork Architect will help the organization safely enable Microsoft Copilot Studio, Copilot Cowork, Claude Cowork (Anthropic), Copilot agents, and related agentic AI capabilities.\n\nThis role will define the standards, design patterns, guardrails, and solution design practices needed to support secure, compliant, scalable, and policy-aligned adoption across the enterprise.\n\nThe architect will partner with enterprise architecture, security, risk, compliance, privacy, data governance, platform, engineering, workforce technology, and business teams to ensure Copilot-based and Claude-based solutions are designed responsibly and operated effectively.\n\nThis is a hands-on architecture leadership role focused on enabling business value while protecting enterprise data, enforcing governance expectations, and reducing delivery risk across a multi-vendor agentic AI landscape.\n\nKey Deliverables\n\n\tEnterprise component standards for Microsoft Copilot Studio, Copilot Cowork, and Claude Cowork.\n\n\tReference architecture for Copilot agents, Cowork-enabled workflows, Claude Cowork multi-step autonomous workflows, integrations, data access, and enterprise deployment.\n\n\tReusable design pattern catalog for common agent, workflow, knowledge-grounding, approval, escalation, and integration scenarios.\n\n\tSolution design template and architecture review checklist for Copilot Studio, Copilot Cowork, and Claude Cowork implementations.\n\n\tGuardrails for security, privacy, data governance, responsible AI, connector usage, identity and access, auditability, monitoring, and operational readiness.\n\n\tEndpoint and desktop governance guidance for Claude Cowork, including device configuration, local file and application access boundaries, and managed deployment controls.\n\n\tPlatform selection guidance that clarifies when to use Copilot Studio, Copilot Cowork, or Claude Cowork for a given business scenario.\n\n\tEnvironment, tenant, lifecycle management, deployment, and support model guidance for enterprise adoption.\n\n\tDecision records and exception-handling process for solution-specific architecture, security, or governance deviations.\n\n\tExecutive-ready recommendations, roadmap input, and adoption guidance for scaling Copilot Studio, Copilot Cowork, and Claude Cowork across the enterprise.\n\nResponsibilities\n\n\tDefine the enterprise architecture approach for Microsoft Copilot Studio, Copilot Cowork, Claude Cowork, Copilot agents, and related agentic AI capabilities.\n\n\tCreate and maintain standards, design patterns, reference architectures, and guardrails for secure and governed adoption.\n\n\tLead solution design for Copilot Studio, Copilot Cowork, and Claude Cowork implementations, ensuring each solution has clear business purpose, approved data sources, defined ownership, security controls, and measurable outcomes.\n\n\tPartner with Security, Risk, Compliance, Privacy, Legal, Data Governance, Workforce Technology, and platform administration teams to align solutions with enterprise policies and standards.\n\n\tDefine guidance for knowledge sources, connectors, actions, prompts, approvals, grounding, monitoring, and human oversight.\n\n\tShape environment strategy, data policies, application lifecycle management, deployment controls, usage visibility, billing controls, and operational support practices.\n\n\tDefine endpoint governance, access controls, and usage policies for Claude Cowork, and support proof-of-concept evaluation and transition to production where approved.\n\n\tEstablish architecture review criteria and reusable checklists for Copilot Studio, Copilot Cowork, Claude Cowork, and Copilot agent solutions.\n\n\tProvide hands-on architecture guidance to delivery teams from concept through design, build, test, deployment, and production readiness.\n\n\tDefine integration patterns across Microsoft 365, Power Platform, Dataverse, SharePoint, Teams, Outlook, Microsoft Graph, Anthropic Claude, APIs, enterprise applications, workflow platforms, and knowledge repositories.\n\n\tDevelop patterns for observability, audit trails, task execution visibility, quality evaluation, prompt testing, incident response, and continuous improvement.\n\n\tEvaluate emerging Microsoft Copilot, Copilot Studio, Copilot Cowork, Claude Cowork, Power Platform, Azure AI, Agent 365, and agentic AI capabilities for enterprise applicability.\n\n\tFacilitate architecture governance discussions and approvals, promoting reuse, consistency, policy alignment, and risk-based decision making.\n\n\tCommunicate architecture decisions, risks, trade-offs, standards, and recommendations clearly to executive, business, architecture, engineering, and platform stakeholders.\n\n\tMentor architects, makers, and engineering teams on enterprise-ready Copilot Studio, Copilot Cowork, and Claude Cowork design practices.\n\nQualifications\n\n\tBachelor's degree in Computer Science, Engineering, Information Systems, Data Science, or a related field, or equivalent experience.\n\n\tEight or more years of experience in enterprise architecture, solution architecture, platform architecture, software engineering, cloud engineering, or technology delivery.\n\n\tExperience designing and governing enterprise solutions across Microsoft 365, Power Platform, cloud, SaaS, data, integration, and enterprise application environments.\n\n\tExperience with Microsoft Copilot Studio, Copilot Cowork, Claude Cowork, Microsoft 365 Copilot extensibility, Power Platform, Power Automate, Dataverse, Teams, Outlook, SharePoint, Microsoft Graph, Azure services, or comparable AI and automation platforms.\n\n\tExperience creating architecture standards, reference architectures, design patterns, solution guardrails, and architecture review criteria.\n\n\tStrong understanding of identity and access management, data loss prevention, connector governance, API security, endpoint security, logging, monitoring, billing controls, and operational readiness.\n\n\tStrong understanding of responsible AI, AI governance, human oversight, content grounding, privacy, sensitive data handling, auditability, and compliance expectations.\n\n\tExperience designing integrations across APIs, Microsoft 365 services, enterprise applications, workflow platforms, data platforms, and knowledge repositories.\n\n\tExperience working within Agile, DevOps, SDLC, architecture governance, technology risk management, and change management practices.\n\n\tStrong communication, facilitation, analytical, and stakeholder management skills.\n\n\tAbility to explain complex architecture topics to both executive and technical audiences.\n\nJob Type & Location\n\nThis is a Contract position based out of Cedar Rapids, IA.\n\nPay and BenefitsThe pay range for this position is $75.00 - $110.00/hr. \n\n Individual compensation offered for this position within this range will depend on many factors, including qualifications, skills, relevant experience, job knowledge, geographic location, internal equity, and other pertinent job-related factors.\n\nEligibility requirements apply to some benefits and may depend on your job\n            classification and length of employment. Benefits are subject to change and may be\n            subject to specific elections, plan, or program terms. If eligible, the benefits\n            available for this temporary role may include the following:\n\n             Medical, dental & vision\n             Critical Illness, Accident, and Hospital\n             401(k) Retirement Plan  Pre-tax and Roth post-tax contributions available\n             Life Insurance (Voluntary Life & AD&D for the employee and dependents)\n             Short and long-term disability\n             Health Spending Account (HSA)\n             Transportation benefits\n             Employee Assistance Program\n             Time Off/Leave (PTO, Vacation or Sick Leave)\n\nWorkplace TypeThis is a fully remote position.\n\nApplication DeadlineThis position is anticipated to close on Oct 9, 2026.\n\n \n\n\n \n\n\nAbout TEKsystems\n\nWe're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company. \n\n\n\nThe company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\n\n\n \n\n\n \n\n\nAbout TEKsystems and TEKsystems Global Services \n\nWere a leading provider of business and technology services. We accelerate business transformation for our customers. Our expertise in strategy, design, execution and operations unlocks business value through a range of solutions. Were a team of 80,000 strong, working with over 6,000 customers, including 80% of the Fortune 500 across North America, Europe and Asia, who partner with us for our scale, full-stack capabilities and speed. Were strategic thinkers, hands-on collaborators, helping customers capitalize on change and master the momentum of technology. Were building tomorrow by delivering business outcomes and making positive impacts in our global communities. TEKsystems and TEKsystems Global Services are Allegis Group companies. Learn more at TEKsystems.com.\n\n\n\nThe company is an equal opportunity employer and will consider all applications without regard to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n\n\n\nSan Francisco Fair Chance Ordinance: Pursuant to the San Francisco Fair Chance Ordinance, for all positions located in the city and county of San Francisco, we will consider for employment qualified applicants with arrest and conviction records.\n\n\n\nMassachusetts Lie Detector: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.\n\n\n\nUse of Artificial Intelligence (AI): We may use Artificial Intelligence (AI) to support parts of our hiring process, including sourcing, screening, and evaluating candidates. AI helps assess applications and qualifications, but final decisions are made by our hiring team. By applying, you acknowledge and agree that your application may be reviewed using AI tools.",
+            "apply_options": [
+                {
+                    "title": "TEKsystems Careers",
+                    "link": "https://careers.teksystems.com/us/en/job/JP-006316713/Enterprise-AI-Solutions-Architect?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/teksystems/Job/Enterprise-AI-Solutions-Architect/-in-Cedar-Rapids,IA?jid=a7416e1c41e570de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJFbnRlcnByaXNlIEFJIFNvbHV0aW9ucyBBcmNoaXRlY3QiLCJjb21wYW55X25hbWUiOiJURUtzeXN0ZW1zIiwiaHRpZG9jaWQiOiJqdzQ1VTJhZlpPdmxzdlg1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU25oU2MyUnZWMEpHV0c1eVZFNVBhMjVVVmxreldXTlJka2hGTFVsT1ZYUk5NM3BRWmtrd1ZIRjBabkJLYTFORmRuQXpkVVEwVTI0MlQzTXpXbXBuVlZOSlRtZzNWRXgxVEMxdFJFbFJkbFUwT0ZaTVEySjZOakJoU1VjMVJXcFdaMmd5VDBsSGVsWnpTR294YzJ4R2FrcDNaRVpQU0VWNWVEVkZMVUpmVDNKT2VYaFROSE1TRjB0eFZHSmhjM3A2VG1WTVozSjFSVkJ6ZFZCNWNWRkpHaUpCUkhOeU9XWlNYMjh6UWpWQ1Z6UTNaRnBHYTNaWlJVMVVibWxWTFRSak9YVm4iLCJmY3YiOiIzIiwiZmNfaWQiOiJqdzQ1VTJhZlpPdmxzdlg1QUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Artificial Intelligence (AI) Solution Architect",
+            "company_name": "Systems Planning & Analysis",
+            "location": "Lincoln, MA",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Trusted",
+                        "Bachelor’s degree in computer science, data science, or a related field",
+                        "7+ years of experience architecting and delivering AI/ML‑enabled solutions, including at least 3 years in complex enterprise or regulated environments",
+                        "Strong understanding of software engineering and IVV&E workflows and how AI/ML can improve productivity and quality (e.g., code analysis, test selection, anomaly detection)",
+                        "Experience architecting AI services on modern platforms (containers, microservices, APIs) and integrating them with DevSecOps pipelines and tools",
+                        "Understanding of security, governance, and assurance considerations for AI, including data protection, model lifecycle management, and traceability of AI outputs",
+                        "An active Secret clearance or the ability to obtain one, and the ability to maintain it throughout employment"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "At SPA, we strive to deliver a robust total compensation package that will attract and retain top talent",
+                        "Elements of the compensation package include competitive base pay and variable compensation opportunities",
+                        "SPA provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work",
+                        "The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, etc",
+                        "Massachusetts, Pay Transparency Salary range: USD $180,000.00/Yr",
+                        "USD $270,000.00/Yr"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "The Sea, Land, Air Analysis Group’s mission is to deliver objective analyses, plans and strategies to US Navy, US Marine Corps, USAF, other DoD, and Australian Defence Force clients to support technology development, acquisition, delivery and sustainment decisions",
+                        "The group provides the core of SPA thought leadership on Undersea Strategy, Software Development and Cost Estimating, with additional benchmark capabilities in AI/ML & Decision Analytics, Modeling and Simulation, and Future Force Assessments",
+                        "SPA has a need for an AI Solution Architect, who will serve as the lead designer and integrator of AI and machine‑learning services within the Mission Planning Enterprise platform",
+                        "This role will focus on applying AI/ML to improve integration productivity, code and system assurance, and analytics for engineering and IVV&E teams",
+                        "The AI Solution Architect will be responsible for identifying high‑value AI use cases and governing the secure, explainable deployment of AI services on the DevSecOps/CDE stack. .#FC #DICE",
+                        "The AI Solution Architect makes AI and machine‑learning services available on the platform to improve integration productivity, code and system assurance, and analytical insight for the OEMs and integration teams",
+                        "They work with engineering, IVV&E, and platform operations to identify high‑value use cases such as static and dynamic code analysis, automated test generation and prioritization, anomaly detection in performance metrics, and intelligent defect triage",
+                        "The AI Solution Architect designs, integrates, and governs AI services on the DevSecOps/CDE stack with appropriate security, explainability, and auditability",
+                        "They also help shape the roadmap for AI‑enabled capabilities that directly support mission planning enterprise objectives, ensuring that AI investments are tightly coupled to SOW‑driven integration, evaluation, and cybersecurity needs"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+Solutions+Architect&htidocid=PeJme9vSKmzaiCPyAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXJMQrCUAyAYVx7BKdMokVbEVx0eouiKAgeQF4f8TUSk9JEsMfyhuryD99ffEbFLvROd0oUGQ7iyEwZJSFMw2EGV-WXkwqEPrXkmBwWcNQGDONP4Hf2qplxvG3dO9vUtRlX2Tw6pSrps1bBRt_1Qxv752Zt7LHj6HhbrZfvqpNcltfBHJ8GF44iJBkmECTyYGRAAieSpCxzOIcv-pq1iLQAAAA&shmds=v1_ARwrE20BEnFb9XCh076W2RmwUtLzvo_LrYLZTfKOYpMmzfzu8g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+Solutions+Architect&htidocid=PeJme9vSKmzaiCPyAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBIgACEQEDEQH_xAAZAAEAAwEBAAAAAAAAAAAAAAAAAQMGBAf_xAAxEAABAwMCAwYDCQAAAAAAAAABAAIDBAUREiETMUEGFCIjUXEz0vAHFjJDVWGRk5X_xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQID_8QAGhEBAQADAQEAAAAAAAAAAAAAAAECESETEv_aAAwDAQACEQMRAD8A9fREVlRERAREQEREAkAEkgAcyeizo7Y257Q-CjvM8Thlk0Nrnex46FpDdwehWhe1r2Oa8Za4YI_Zee01ytdDTxUdB9o0UNJAwRwxGKmfoY0YA1FuTgdVphJVcrppHdrKFlHPVzUl1hhg0Bxmt8sZcXuDWhocAXEkjYKPvbTfpN__AMif5Vkrzd6irt1RTUl7ivdMH0sne-Exogm71EGsOgAEEEn18K2Rb2rz8ex_0zfMpuMiN2uiO_251nnur5nQ0tPq4_HjdG-It5tcwjIPLbG-RjmrrTdKW7U75qNz_LkMUkcjCx8bxza5p3B3B9iFlobPUC5ubdZY30rKp1fIyCJzhPVOwG-AaiI2AA-I5c7fkAuuOOekvFNc6aQySTtbBc45IXQCYD8ErdQA1t5Y6tPqAE-Jrivp3VatERZNUOGppGSMjGRzVBpGkEcWbcY-IV0IpFHdhoDeLNsHDOs53-tvRHUocHDjVAzncSHbPp_KvRBU6HVnzZRl2rZ-MbYx7dfdQKfl50-2PzD0CuRBDRpaBknAxkopRQCIiAiIgIiICIiD_9k.jpeg",
+            "extensions": [
+                "7 days ago",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-ai-solution-architect-at-systems-planning-analysis-4443529265",
+            "job_title": "Artificial Intelligence (AI) Solution Architect",
+            "description": "Overview\n\nSystems Planning and Analysis, Inc. (SPA) delivers high-impact, technical solutions to complex national security issues. With over 50 years of business expertise and consistent growth, we are known for continuous innovation for our government customers, in both the US and abroad. Our exceptionally talented team is highly collaborative in spirit and practice, producing Results that Matter . Come work with the best! We offer opportunity, unique challenges, and clear-sighted commitment to the mission. SPA: Objective. Responsive. Trusted.\n\nThe Sea, Land, Air Analysis Group’s mission is to deliver objective analyses, plans and strategies to US Navy, US Marine Corps, USAF, other DoD, and Australian Defence Force clients to support technology development, acquisition, delivery and sustainment decisions. The group provides the core of SPA thought leadership on Undersea Strategy, Software Development and Cost Estimating, with additional benchmark capabilities in AI/ML & Decision Analytics, Modeling and Simulation, and Future Force Assessments.\n\nSPA has a need for an AI Solution Architect, who will serve as the lead designer and integrator of AI and machine‑learning services within the Mission Planning Enterprise platform. This role will focus on applying AI/ML to improve integration productivity, code and system assurance, and analytics for engineering and IVV&E teams. The AI Solution Architect will be responsible for identifying high‑value AI use cases and governing the secure, explainable deployment of AI services on the DevSecOps/CDE stack. .#FC #DICE\n\nResponsibilities\n\nThe AI Solution Architect makes AI and machine‑learning services available on the platform to improve integration productivity, code and system assurance, and analytical insight for the OEMs and integration teams. They work with engineering, IVV&E, and platform operations to identify high‑value use cases such as static and dynamic code analysis, automated test generation and prioritization, anomaly detection in performance metrics, and intelligent defect triage. The AI Solution Architect designs, integrates, and governs AI services on the DevSecOps/CDE stack with appropriate security, explainability, and auditability. They also help shape the roadmap for AI‑enabled capabilities that directly support mission planning enterprise objectives, ensuring that AI investments are tightly coupled to SOW‑driven integration, evaluation, and cybersecurity needs.\n\nQualifications\n\nRequired Qualifications:\n\n Bachelor’s degree in computer science, data science, or a related field  7+ years of experience architecting and delivering AI/ML‑enabled solutions, including at least 3 years in complex enterprise or regulated environments  Strong understanding of software engineering and IVV&E workflows and how AI/ML can improve productivity and quality (e.g., code analysis, test selection, anomaly detection)  Experience architecting AI services on modern platforms (containers, microservices, APIs) and integrating them with DevSecOps pipelines and tools  Understanding of security, governance, and assurance considerations for AI, including data protection, model lifecycle management, and traceability of AI outputs  An active Secret clearance or the ability to obtain one, and the ability to maintain it throughout employment \n\nDesired Qualifications\n\n Experience applying AI/ML in defense, aerospace, or other mission‑critical software contexts (e.g., code assurance, cyber analytics, integration verification)  Familiarity with mission planning software ecosystems and data structures, and an understanding of AI opportunities in integration, performance assessment, and deficiency analysis  Background integrating AI‑driven analytics into program and technical performance dashboards to provide early indicators of risk  Experience working closely with cybersecurity and ISSM teams to ensure AI solutions meet RMF and other cyber policy requirements  Advanced degree in AI, machine learning, or a closely related discipline, and experience with MLOps practices in operational environments \n\n Pay Range Information \n\nAt SPA, we strive to deliver a robust total compensation package that will attract and retain top talent. Elements of the compensation package include competitive base pay and variable compensation opportunities. SPA provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work. The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, etc. Please note that the salary information shown below is a general guideline only. Salaries are commensurate with experience and qualifications, as well as market and business considerations. Massachusetts, Pay Transparency Salary range: USD $180,000.00/Yr. - USD $270,000.00/Yr.",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/artificial-intelligence-ai-solution-architect-at-systems-planning-analysis-4443529265?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=af018ec68741f91a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/f4b2787f-96d9-4b82-bc59-10c9402b744f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Systems-Planning-and-Analysis/Job/Artificial-Intelligence-(AI)-Solution-Architect/-in-Lincoln,MA?jid=329c9cf4a72a1d70&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/cZeL9FdjiZyVSexNQapFojdqJ-_G6uB5AlGaQIylUWrm9Dk-xGew-Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/artifical-intelligence-ai-solution-architect--lincoln--eeca7fdafcac12cec0df7e7431c4d42da?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/artifical-intelligence-ai-solution-architect-systemsplanningandanalysisinc-lincoln-ma_87933805?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobright",
+                    "link": "https://jobright.ai/jobs/info/6aa9e6b83387a3d9b67d7cc9?visit=legal,-ethics-and-compliance-ai-solution-architect-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcnRpZmljaWFsIEludGVsbGlnZW5jZSAoQUkpIFNvbHV0aW9uIEFyY2hpdGVjdCIsImNvbXBhbnlfbmFtZSI6IlN5c3RlbXMgUGxhbm5pbmcgXHUwMDI2IEFuYWx5c2lzIiwiaHRpZG9jaWQiOiJQZUptZTl2U0ttemFpQ1B5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1ZCTldXRlRSazlDYTA5SGNsaFZkWEJ0VmtwNGFUTktRMWMyY1RkNkxUTndaSGRvYWpkZk9XNTNWWGN3U1UxVFZGVlRTV2hFV0dGNGJrbG1SekZuU2tsV09GYzVUazFuZHpScmJUQkZhRU00UW5OUWVqQmFlamd3ZG1WRFJtOXlSazEyZDBSRGVtUXdXWE5sTUdwNGIwRk9lWFpmWlVOSWQwY3dOakpsZG1kWVMxTTFkVWNTRjB0eFZHSmhjM3A2VG1WTVozSjFSVkJ6ZFZCNWNWRkpHaUpCUkhOeU9XWlNlR3BTWXpaTVFuWmpTa2sxYkV4S2IzQnFjVU5HTUMxT2EweG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJQZUptZTl2U0ttemFpQ1B5QUFBQUFBPT0ifQ=="
+        }
+    ]
+}

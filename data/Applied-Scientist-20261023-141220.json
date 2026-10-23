@@ -1,0 +1,778 @@
+{
+    "jobs_results": [
+        {
+            "title": "Staff Applied Scientist, Experimentation and Causal Inference",
+            "company_name": "DoorDash",
+            "location": "Seattle, WA (+3 others)",
+            "via": "DoorDash",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "6+ years of industry experience, or equivalent applied research experience, developing statistical, causal inference, machine learning, or experimentation systems with measurable business impact",
+                        "Deep expertise in experimentation and causal inference, with production experience in methods such as variance reduction, ratio metrics, sequential testing, heterogeneous treatment effects, marketplace interference, or quasi-experimental designs",
+                        "Strong coding and data skills, including the ability to reason about production data pipelines and review complex analytical SQL for statistical correctness",
+                        "Experience translating statistical or machine learning methods into reliable, scalable platform capabilities in close partnership with engineering and product teams",
+                        "A track record of setting technical direction, influencing cross-functional teams, and mentoring senior technical contributors without relying solely on formal authority",
+                        "The ability to communicate complex technical concepts clearly to scientific, engineering, product, and executive audiences",
+                        "A bias for impact: you know how to balance methodological rigor, product velocity, engineering constraints, and customer needs"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Base salary is localized according to an employee’s work location",
+                        "In addition to base salary, the compensation for this role includes opportunities for equity grants",
+                        "That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act)",
+                        "DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others",
+                        "For salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year",
+                        "For hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week)",
+                        "The national base pay range for this position within the United States, including Illinois and Colorado.$193,800—$285,000 USDAbout DoorDash",
+                        "We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Curie is DoorDash’s experiment analysis product within Decision Systems",
+                        "It sits at the center of how teams move from hypothesis to analysis to confident action, helping decision makers understand experiments, rollouts, metric movements, and marketplace impact while preserving scientific rigor, velocity, trust, and interpretability",
+                        "In this role, you will define and advance the statistical, causal inference, machine learning, and AI capabilities that power high-quality decision-making across DoorDash",
+                        "You will work on challenging problems at the intersection of experimentation, marketplace dynamics, machine learning, and product engineering",
+                        "Your work will shape how DoorDash teams design experiments, analyze results, interpret noisy marketplace outcomes, and make faster, more trustworthy decisions",
+                        "Set the scientific direction for Curie and shape the Decision Systems roadmap with engineering and product partners, identifying where better science, tooling, or automation can materially improve decision quality and velocity",
+                        "Own the statistical contract for experiment analysis, including how metrics, populations, exposure windows, covariates, ratio metrics, and edge cases are defined",
+                        "Ensure production systems faithfully implement those contracts by reviewing analytical SQL, validating statistical parity, and raising the bar for correctness across engine migrations",
+                        "Develop and productionize advanced methods such as CUPED/CUPAC, ratio-metric and delta-method inference, sequential testing, heterogeneous treatment effects, switchback designs, and difference-in-differences for marketplace interference",
+                        "Build approaches that hold up in high-scale, high-noise, three-sided marketplace data, including power analysis, multiple-testing correction, winsorization, quantile metrics, and other robust measurement techniques",
+                        "Advance AI-assisted analysis workflows, including trustworthy automated experiment readouts, risk detection, and hypothesis generation, with the same rigor expected of statistical methods",
+                        "Advise and mentor data scientists, product teams, operators, and engineers on experimental design, metric strategy, causal analysis, and interpretation of results"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=6q7LbBo5bs_uONeVAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWMMQrCQBAAsc0HBKutRRMRbLQKRkTbCJZhc9nkTi63x-0KeZSPNGkGBobJfqvsVSv2PZQxekcd1MZRUCe6g9sUKblxVlTHATB0cMWvoIdH6ClRMAR7eHILQpiMhTm6Mw-eNherGuVcFCI-H2Q5mNzwWHCglqfiw60saMRiouhRqTmeDlMew7BdV8ypQrHgAtSEqp528C7_7oMjeK8AAAA&shmds=v1_ARwrE22v0O4SuGMRweXrQy-QdeT7t7clEXJGk5h2Rmqho3EauA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=6q7LbBo5bs_uONeVAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAyCAMAAAA-w-hKAAAAclBMVEX_____Lwr_AAD_IAD_npj_JgD_dGv_bmT_rqn_6un_qqT_oJr_o5z_09D_nJb_DwD_enH_xsP_wr7_zcr-YVP_job_fnX_8O__4N7_RjT_vLj_Z13_WUr_tK__uLT_mJL_hn3_9_b_MRn_UkH_Szv_OiSTbs9WAAABKUlEQVRIie2T23KDIBCGf7EmoBBUPBA1ojm8_yt26bRNTG8kvcv4XbDIzAfLLgIbGxtvCD98PMLFapHFC1i93owW6AAzuUMmW51tt9_9UMVRFMu14iNNEiX5K2IeKvb7L4bgVFN2L04blONvV9gpyPNn-v5r3QV6QJFJKctg7e0o-OgDd5bG0hWA5f5PPJ0MLcwpDcoZWAOxrFY1OT3jXI_aoKm6S41Dz3ULlg47IGMkaHPA2EANS1GhlkVP-17B6Jshq0Vk_TwWiMoec1wLdBfZ9M_ilBraTF2-RXm8TT5Ct4rlbKbrsLasSvck7vIEOOaS0dFHfsvg5KxJzK4NBm4nJ_qRzd2fVFVX-NCl_j2rVFFxLAzlNtKU3lxraNVCKLTqv43Y2HiJT5SpELXRNT46AAAAAElFTkSuQmCC.png",
+            "extensions": [
+                "23 days ago",
+                "Full-time",
+                "Dental insurance",
+                "Health insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://careersatdoordash.com/jobs/staff-applied-scientist-experimentation-and-causal-inference/8294468",
+            "job_title": "Staff Applied Scientist, Experimentation and Causal Inference",
+            "description": "About the Team\nThe Decision Systems team helps DoorDash teams make faster, more rigorous, and more trustworthy decisions. We build the analytical systems, statistical methods, and product experiences that power experimentation, causal inference, rollout analysis, metric interpretation, and business impact measurement across DoorDash’s three-sided marketplace. Curie is DoorDash’s experiment analysis product within Decision Systems. It sits at the center of how teams move from hypothesis to analysis to confident action, helping decision makers understand experiments, rollouts, metric movements, and marketplace impact while preserving scientific rigor, velocity, trust, and interpretability. Our work spans experimentation platforms, causal inference, variance reduction, switchback experimentation, metric systems, and AI-assisted analysis workflows. We partner closely with data scientists, engineers, product managers, and operators across DoorDash to translate advanced methods into reliable, scalable systems that improve decision quality and product velocity. Some of the work done in the team was published in articles such as: Design-Aware Variance Reduction for Switchback Experiments: A Comparative Study, Power-Optimal Covariate Adjustment for Switchback Experiments, CUPED on Steroids: Multivariate Covariate Adjustment for Switchback Experiments.\nAbout the Role\nWe are looking for a Staff Applied Scientist to provide scientific leadership for DoorDash’s Experimentation Platform. In this role, you will define and advance the statistical, causal inference, machine learning, and AI capabilities that power high-quality decision-making across DoorDash. You will work on challenging problems at the intersection of experimentation, marketplace dynamics, machine learning, and product engineering.  \nYour work will shape how DoorDash teams design experiments, analyze results, interpret noisy marketplace outcomes, and make faster, more trustworthy decisions. This is a high-leverage role for a scientist who enjoys both deep technical work and broad cross-functional influence—partnering with engineers, data scientists, product managers, and operators to translate cutting-edge methods into reliable platform capabilities used across the company. \nYou're excited about this opportunity because you will...\n\nSet the scientific direction for Curie and shape the Decision Systems roadmap with engineering and product partners, identifying where better science, tooling, or automation can materially improve decision quality and velocity.\nOwn the statistical contract for experiment analysis, including how metrics, populations, exposure windows, covariates, ratio metrics, and edge cases are defined.\nEnsure production systems faithfully implement those contracts by reviewing analytical SQL, validating statistical parity, and raising the bar for correctness across engine migrations.\nDevelop and productionize advanced methods such as CUPED/CUPAC, ratio-metric and delta-method inference, sequential testing, heterogeneous treatment effects, switchback designs, and difference-in-differences for marketplace interference.\nBuild approaches that hold up in high-scale, high-noise, three-sided marketplace data, including power analysis, multiple-testing correction, winsorization, quantile metrics, and other robust measurement techniques.\nAdvance AI-assisted analysis workflows, including trustworthy automated experiment readouts, risk detection, and hypothesis generation, with the same rigor expected of statistical methods.\nAdvise and mentor data scientists, product teams, operators, and engineers on experimental design, metric strategy, causal analysis, and interpretation of results.\n\nWe're excited about you because you have…\n\n6+ years of industry experience, or equivalent applied research experience, developing statistical, causal inference, machine learning, or experimentation systems with measurable business impact.\nDeep expertise in experimentation and causal inference, with production experience in methods such as variance reduction, ratio metrics, sequential testing, heterogeneous treatment effects, marketplace interference, or quasi-experimental designs.\nStrong coding and data skills, including the ability to reason about production data pipelines and review complex analytical SQL for statistical correctness.\nExperience translating statistical or machine learning methods into reliable, scalable platform capabilities in close partnership with engineering and product teams.\nA track record of setting technical direction, influencing cross-functional teams, and mentoring senior technical contributors without relying solely on formal authority.\nThe ability to communicate complex technical concepts clearly to scientific, engineering, product, and executive audiences.\nA bias for impact: you know how to balance methodological rigor, product velocity, engineering constraints, and customer needs.\n\nWe expect this position to be filled by 10-17-2026Compensation\nThe successful candidate’s starting pay will fall within the pay range listed below and is determined based on job-related factors including, but not limited to, skills, experience, qualifications, work location, and market conditions. Base salary is localized according to an employee’s work location. Ranges are market-dependent and may be modified in the future.\nIn addition to base salary, the compensation for this role includes opportunities for equity grants. Talk to your recruiter for more information.\nDoorDash cares about you and your overall well-being. That’s why we offer a comprehensive benefits package to all regular employees, which includes a 401(k) plan with employer matching, 16 weeks of paid parental leave, wellness benefits, commuter benefits match, paid time off and paid sick leave in compliance with applicable laws (e.g. Colorado Healthy Families and Workplaces Act). DoorDash also offers medical, dental, and vision benefits, 11 paid holidays, disability and basic life insurance, family-forming assistance, and a mental health program, among others.\nTo learn more about our benefits, visit our careers page here.\nSee below for paid time off details:\n\nFor salaried roles: flexible paid time off/vacation, plus 80 hours of paid sick time per year.\nFor hourly roles: vacation accrued at about 1 hour for every 25.97 hours worked (e.g. about 6.7 hours/month if working 40 hours/week; about 3.4 hours/month if working 20 hours/week), and paid sick time accrued at 1 hour for every 30 hours worked (e.g. about 5.8 hours/month if working 40 hours/week; about 2.9 hours/month if working 20 hours/week).\nThe national base pay range for this position within the United States, including Illinois and Colorado.$193,800—$285,000 USDAbout DoorDash\nAt DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started by enabling door-to-door delivery, and we are looking for team members who can help us go from a company that is known as the place you order food to a company that people turn to for any and all goods.DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.\nOur Commitment to Diversity and Inclusion\nWe’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.\nStatement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.\nPursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.\nIf you need any accommodations, please inform your recruiting contact upon initial connection.\nNotice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only\nWe used Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provided Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023.  We resumed using Covey Scout for Inbound again on June 29, 2024, and ceased using Covey Scout for Inbound on April 30, 2026.\nThe Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: https://getcovey.com/nyc-local-law-144.Beware of recruitment scams: DoorDash, Deliveroo, and Wolt will never ask you to pay money or share sensitive financial information during hiring — learn more about our legitimate recruiting process at Recruitment Scam Awareness - DoorDash .",
+            "apply_options": [
+                {
+                    "title": "DoorDash",
+                    "link": "https://careersatdoordash.com/jobs/staff-applied-scientist-experimentation-and-causal-inference/8294468?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=e5d42794239ee34d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/staff-applied-scientist-experimentation-and-causal-inference-at-doordash-4477782329?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010298658327&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.com/job/VLFAzx30MbxI3CpkPDrvXTh_wUaWsd2WbguVHGp_OzedoIKON5ihEA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Trabajo.org",
+                    "link": "https://us.trabajo.org/job-4023-c550df26342c45cb1c203ec6a508acf2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBBcHBsaWVkIFNjaWVudGlzdCwgRXhwZXJpbWVudGF0aW9uIGFuZCBDYXVzYWwgSW5mZXJlbmNlIiwiY29tcGFueV9uYW1lIjoiRG9vckRhc2giLCJodGlkb2NpZCI6IjZxN0xiQm81YnNfdU9OZVZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTM0ZSUXpNMlZUTnFSSFV0ZVhwSE5WaHVZM1I2UTFGV1owMWpNR2N3U1V0RFRYTTJTbUpTUTB4cmFGbFJlVU5YWHpKdFpVSTRSWEZLYVRaTVlYRkVZbE5WWkVGdGNsQlVlWEJTTVdJMFYxVllTbWQyYW14QllYZEVRVkp3WkdsMmNWOWtRVWcyYjBOR1FYVlRNMjh5Vm5aZk1GOHlTMHR4YUZJM05ERjJWMnRMUW1ZNVQxZ1NGMmh4VUdKaGN6WXlTRjlYZEhGMGMxQnlka1JGTWxGTkdpSkJSSE55T1daVFdtdFZiMUU0Yld0MGQxSXhWbkZoU2xaaU5IRTFPR2t6TlY5UiIsImZjdiI6IjMiLCJmY19pZCI6IjZxN0xiQm81YnNfdU9OZVZBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Applied Scientist, Amazon Robotics",
+            "company_name": "Amazon.com Services LLC",
+            "location": "Sunnyvale, CA",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "PhD, or Master's degree and 4+ years of building machine learning models or developing algorithms for business application experience",
+                        "2+ years of deep learning, computer vision, human robotic interaction, algorithms implementation experience",
+                        "Experience in patents or publications at top-tier peer-reviewed conferences or journals",
+                        "Experience programming in Java, C++, Python or related language",
+                        "Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
+                        "These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment",
+                        "Medical, Dental, and Vision Coverage",
+                        "Maternity and Parental Leave Options",
+                        "Paid Time Off (PTO)",
+                        "401(k) Plan",
+                        "Your Amazon package will include sign-on payments and restricted stock units (RSUs)",
+                        "Final compensation will be determined based on factors including experience, qualifications, and location",
+                        "Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Integrate multi-modal learning capabilities (visual, depth, force, tactile, linguistic)",
+                        "Accelerate policy skill acquisition through imitation learning and reinforcement learning",
+                        "Enhance robotic perception and environmental understanding",
+                        "Streamline development processes through reusable capabilities",
+                        "The ideal candidate will contribute to research that bridges the gap between theoretical advancement and practical implementation in robotics",
+                        "You will be part of a team that's revolutionizing how robots learn, adapt, and interact with their environment",
+                        "Model Development and Training: Designing and implementing the model architectures, training and fine tuning the foundation models using various datasets, and optimize the model performance through iterative experiments",
+                        "Data Management: Process and prepare training data, including data governance, provenance tracking, data quality checks and creating reusable data pipelines",
+                        "Experimentation and Validation: Design and execute experiments to test model capabilities on the simulator and on the embodiment, validate performance across different scenarios, create a baseline and iteratively improve model performance",
+                        "Code Development: Write clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs",
+                        "Research: Stay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions",
+                        "Collaboration: Work closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=9rUSJgIlgkPhsafFAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_yWNsQrCMBBAce0nON0oUhsRHNQpdBCkk_2AksSjjaR3oRdL9XP8Ultc3vIevOy7yk46xuDxAbXzSMlLykH35sMEd7acvBPYwY0tCJrBdTCLK3MbcH3pUopyVkokFK0kM8eF414xoeVJPdnKgkY6M2AMJmFzOO6nIlK73fwnSw81DqN3KFBVJXiC-kX0Hk3AHEr9A0Bg5lelAAAA&shmds=v1_ARwrE21jkR6W1Gs9VDJyf094OcM5ZSKghQVk_CKhcqToSV1Rpw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=9rUSJgIlgkPhsafFAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAaAAEAAgMBAAAAAAAAAAAAAAAAAQMCBQcE_8QAKhAAAgICAQICCwEAAAAAAAAAAAECAwQREgUxUcETFBYjQVJUcXKRkgb_xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBQT_xAAoEQACAgAEBQMFAAAAAAAAAAAAAQIDBBEhURIVMZGhBRPBM1JhcdH_2gAMAwEAAhEDEQA_AO4gAAAAAAAAAAAAAAAAAAAAAAAAAAAFNmXjVS4WX1Ql8sppMylfVB5Skk_2XjVOSzSZcalCJRUouMknFrTT-JDSayYTy1NXdjZ-G3Lp1iuq-nufb8ZeTOdOnE0a4d8S-1_D_p7I2U2aWrJ7r5R53_olQ-Ofg5FEvtteRg_V_b0vrcX4NeX8etU0zP2n6brfK3-C3O8Ju-xHLMRsu5EevvJfHAwMi5-LXGP7C9VdulFTl4XcPAqH1ZpeTDI6dkZONON9GNGy-SSjVWvdre3Jy7t62VtwdttbU4xTk10XTXV57kwxEITXC3kt31_GRvYpKKS7JHYSyWRziSQACGk-62iGk-oK_V6U9-hr348UV9qGyLcctyxJLsXKkgAAAAAAAAAAAAAAAAAAAAAAA__Z.jpeg",
+            "extensions": [
+                "16 days ago",
+                "172K–222K a year",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://www.indeed.com/viewjob?jk=32091b1027de2b9a",
+            "job_title": "Applied Scientist, Amazon Robotics",
+            "description": "DESCRIPTION\n \n  Amazon Robotics is seeking an exceptional Applied Scientist to join our Foundation Models and Agentic AI team. This role presents an opportunity to shape the future of robotics through innovative applications of large vision-language-action (VLA) models, reasoning and task planning models, and reinforcement learning. \n  \n\n  \n\n   At Amazon Robotics, we leverage advanced robotics, machine learning, and artificial intelligence to solve complex operational challenges at unprecedented scale. Our fleet of robots operates across hundreds of facilities worldwide, working in sophisticated coordination to fulfill our mission of customer excellence. \n  \n\n  \n\n   We are pioneering the development of robotics foundation models that: \n  \n\n  \n\n  \n   Enable unprecedented generalization across diverse tasks\n   Integrate multi-modal learning capabilities (visual, depth, force, tactile, linguistic)\n   Accelerate policy skill acquisition through imitation learning and reinforcement learning\n   Enhance robotic perception and environmental understanding\n   Streamline development processes through reusable capabilities\n  \n  \n\n   The ideal candidate will contribute to research that bridges the gap between theoretical advancement and practical implementation in robotics. You will be part of a team that's revolutionizing how robots learn, adapt, and interact with their environment. \n  \n\n  \n\n   Join us in building the next generation of intelligent robotics systems that will transform the future of automation and human-robot collaboration. \n  \n\n  \n\n   Key job responsibilities \n  \n\n   As an Applied Scientist in the Applied AI and Robotics Foundations Model team, you will: \n  \n\n  \n   Model Development and Training: Designing and implementing the model architectures, training and fine tuning the foundation models using various datasets, and optimize the model performance through iterative experiments\n   Data Management: Process and prepare training data, including data governance, provenance tracking, data quality checks and creating reusable data pipelines.\n   Experimentation and Validation: Design and execute experiments to test model capabilities on the simulator and on the embodiment, validate performance across different scenarios, create a baseline and iteratively improve model performance.\n   Code Development: Write clean, maintainable, well commented and documented code, contribute to training infrastructure, create tools for model evaluation and testing, and implement necessary APIs\n   Research: Stay current with latest developments in foundation models and robotics, assist in literature reviews and research documentation, prepare technical reports and presentations, and contribute to research discussions and brainstorming sessions.\n   Collaboration: Work closely with senior scientists, engineers, and leaders across multiple teams, participate in knowledge sharing, support integration efforts with robotics hardware teams, and help document best practices and methodologies.\n  \n  \n\n   A day in the life \n  \n\n   Amazon offers a full range of benefits that support you and eligible family members, including domestic partners and their children. Benefits can vary by location, the number of regularly scheduled hours you work, length of employment, and job status such as seasonal or temporary employment. \n  \n\n  \n\n   The benefits that generally apply to regular, full-time employees include: \n  \n\n  \n   Medical, Dental, and Vision Coverage\n   Maternity and Parental Leave Options\n   Paid Time Off (PTO)\n   401(k) Plan\n  \n  \n\n   If you are not sure that every qualification on the list above describes you exactly, we'd still love to hear from you! \n  \n\n  \n\n   At Amazon, we value people with unique backgrounds, experiences, and skillsets. If you’re passionate about this role and want to make an impact on a global scale, please apply! \n  \n\n  \n\n   About the team \n  \n\n   Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to any of these and you’ll fit right in here at Amazon Robotics. We are a smart, collaborative team of enthusiastic doers that work passionately to apply innovative advances in robotics and software to solve real-world challenges that will transform our customers’ experiences in ways we can’t even image yet. We invent new improvements every day. We are Amazon Robotics and we will give you the tools and support you need to invent with us in ways that are rewarding, fulfilling and fun.\n \n  BASIC QUALIFICATIONS\n \n  PhD, or Master's degree and 4+ years of building machine learning models or developing algorithms for business application experience\n  2+ years of deep learning, computer vision, human robotic interaction, algorithms implementation experience\n  Experience in patents or publications at top-tier peer-reviewed conferences or journals\n  Experience programming in Java, C++, Python or related language\n  Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\n \n  PREFERRED QUALIFICATIONS\n \n  Experience in state-of-the-art deep learning models architecture design and deep learning training and optimization and model pruning\n  Experience applying theoretical models in an applied environment\n \n \n\n  Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. \n \n\n \n\n  Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. \n \n\n \n\n  Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. \n \n\n   The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\n\n \n\n  USA, CA, Sunnyvale - 171,600.00 - 222,200.00 USD annually",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=32091b1027de2b9a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Tallo",
+                    "link": "https://tallo.com/talent/job/science-and-research/researcher-or-research-associate/ca/sunnyvale/applied-scientist-amazon-robo-e564b897?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Amazon/Job/Applied-Scientist,-Amazon-Robotics/-in-Sunnyvale,CA?jid=9db85c8482118665&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/applied-scientist-amazon-robotics--sunnyvale--e332b416236f227ff9622539916c5c31d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/applied-scientist-amazon-robotics-sunnyvale-ca--8decb5df-04bf-4d6d-963c-63807598c60e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://www.talent.com/view?id=570541046395643213&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/applied-scientist-amazon-robotics-amazon-sunnyvale-ca_89263916?source=industry&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/applied-scientist-amazon-robotics-at-amazon-4476951678?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCwgQW1hem9uIFJvYm90aWNzIiwiY29tcGFueV9uYW1lIjoiQW1hem9uLmNvbSBTZXJ2aWNlcyBMTEMiLCJodGlkb2NpZCI6IjlyVVNKZ0lsZ2tQaHNhZkZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMFIxWVZWTU0wMXBXSFpwU3kxQmRYWTFVbGhsVDJJeGVHdGtkVXd5WDBWbVVYaFZUV2RYZWtST1dXWnZOMU56U2t4alNHazFTREYzYURjM2QyWkhTazh3YzFscE9HYzJhMWM0UWtZdE5tcHdORUphT0hCR1pFUjJka1V0WjFvdGJ6QlpiVVpXY1ZOdVIzcDVSVVJJYVVjM1VuSmFiblpsTTJabFgxZ3pObXhVU205UVJsSVNGMmh4VUdKaGN6WXlTRjlYZEhGMGMxQnlka1JGTWxGTkdpSkJSSE55T1daUlNEQTVMWE5YUVVvMlNGUldZME5VTFRVdGEyd3hURUZaWHpSQiIsImZjdiI6IjMiLCJmY19pZCI6IjlyVVNKZ0lsZ2tQaHNhZkZBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Applied Scientist (Optimization and Decision Systems) - Colorado Springs, CO",
+            "company_name": "Davidson Technologies",
+            "location": "Colorado Springs, CO",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Bachelor's degree in mathematics, operations research, statistics, computer science, engineering, or a related field, with 5+ years of relevant experience; or a Master's or PhD in a related field with 3+ years of relevant experience",
+                        "Demonstrated experience applying quantitative, statistical, or algorithmic methods to complex real-world problems",
+                        "Practical programming ability in Python and C++",
+                        "Experience applying relevant methods such as optimization, probability, statistics, simulation, stochastic optimization, reinforcement learning, bandit algorithms, or active learning",
+                        "Candidates need experience in some relevant areas, not all",
+                        "Ability to critically evaluate assumptions and approaches, reason through ambiguity, and develop and test practical solutions",
+                        "Familiarity with Git and GitHub or comparable version-control tools",
+                        "Ability to communicate technical reasoning, results, and trade-offs clearly",
+                        "Relevant experience may come from professional work, research, graduate projects, or other substantial technical projects",
+                        "Candidates are not expected to have expertise in every listed method",
+                        "Ability to obtain a DoD secret clearance",
+                        "This is a self-directed technical role for someone who enjoys applying their knowledge to interesting, open-ended problems",
+                        "You will have room to explore approaches, question assumptions, and implement improvements while collaborating with the technical lead on problem formulation and overall direction"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Salary: $120000.00 - $143000.00 per year"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "This role combines applied mathematics, algorithm development, programming, and experimental analysis",
+                        "You will work on problems that require translating ambiguous requirements into practical models, evaluating alternative approaches, and adapting methods to fit real-world constraints",
+                        "Working closely with the technical lead, you will have the autonomy to investigate problems, challenge assumptions, propose improvements, and implement solutions",
+                        "Your work will span improving existing applications, developing simulation-based optimization methods, and advancing real-time decision systems that use information as it becomes available",
+                        "Formulate complex problems using appropriate mathematical and computational models, making and evaluating assumptions where necessary",
+                        "Develop, adapt, and combine algorithms from optimization, probability, statistics, machine learning, and sequential decision-making",
+                        "Identify opportunities to improve decisions and computational efficiency by exploiting available information and information revealed over time",
+                        "Design computational experiments, analyze results, and use evidence to evaluate approaches and guide improvements",
+                        "Implement algorithms and contribute to maintainable software in Python and C++, including improving existing applications, testing, and code quality",
+                        "Develop and optimize discrete-event simulations and contribute to real-time systems for sequential decision-making under uncertainty",
+                        "Collaborate with the technical lead to assess existing approaches, identify limitations, and develop practical alternatives",
+                        "The emphasis is on sound technical reasoning, practical algorithm development, and evidence-based problem-solving-not on any single academic discipline, algorithm, or software framework"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=iPWf2gmC0BZDig-XAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_22OsQrCQBBEsc0nWG2pYhIRbLQSBcEmRezlclnuVi63R3aR6F_6R569zcAMw5spPrPCHlMKhD20ljAqicKiSUoDvY0SRzCxhzNakp9pX6I4yBJKOHHg0fQMbRopOlnDqcnxlTsQNKP1kPsXZhdwfvCqSfZ1LRIqJ5rJtrI81Byx46l-cCc_uYs3I6ZgFO_b3WaqUnSr8mye1Eum3dD6mGcdoQDFvxe-IbClANQAAAA&shmds=v1_ARwrE23oKHEJXQPaDzP-88bl-JG9ZHw00PK2Dgq7tyuaGeW1iA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=iPWf2gmC0BZDig-XAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba38471c54269b0c0e3ba/images/TfeL77zqGTIjr0Kr4-ZntuqY-Jb9tXZzNAjm4fZ2kKs.jpeg",
+            "extensions": [
+                "9 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/applied-scientist-optimization-and-decision-systems-colorado-springs-co-at-davidson-technologies-4480322123",
+            "job_title": "Applied Scientist (Optimization and Decision Systems) - Colorado Springs, CO",
+            "description": "Davidson is distinguished in the aerospace and missile defense industry, in part, because of its excellence in hiring exceptional experts, engineers and software developers dedicated to delivering advanced, intelligent technology solutions in defense of our nation.\n\nDavison is seeking an Applied Scientist in Colorado Springs to develop algorithms and computational solutions for complex real-world problems involving optimization, uncertainty, simulation, and sequential decision-making.\n\nThis role combines applied mathematics, algorithm development, programming, and experimental analysis. You will work on problems that require translating ambiguous requirements into practical models, evaluating alternative approaches, and adapting methods to fit real-world constraints.\n\nWorking closely with the technical lead, you will have the autonomy to investigate problems, challenge assumptions, propose improvements, and implement solutions. Your work will span improving existing applications, developing simulation-based optimization methods, and advancing real-time decision systems that use information as it becomes available.\n\nJob Responsibilities\n\n\n\nFormulate complex problems using appropriate mathematical and computational models, making and evaluating assumptions where necessary.Develop, adapt, and combine algorithms from optimization, probability, statistics, machine learning, and sequential decision-making.Identify opportunities to improve decisions and computational efficiency by exploiting available information and information revealed over time.Design computational experiments, analyze results, and use evidence to evaluate approaches and guide improvements.Implement algorithms and contribute to maintainable software in Python and C++, including improving existing applications, testing, and code quality.Develop and optimize discrete-event simulations and contribute to real-time systems for sequential decision-making under uncertainty.Collaborate with the technical lead to assess existing approaches, identify limitations, and develop practical alternatives.\n\nJob Requirements:\n\nBachelor's degree in mathematics, operations research, statistics, computer science, engineering, or a related field, with 5+ years of relevant experience; or a Master's or PhD in a related field with 3+ years of relevant experience.Demonstrated experience applying quantitative, statistical, or algorithmic methods to complex real-world problems.Practical programming ability in Python and C++.Experience applying relevant methods such as optimization, probability, statistics, simulation, stochastic optimization, reinforcement learning, bandit algorithms, or active learning. Candidates need experience in some relevant areas, not all.Ability to critically evaluate assumptions and approaches, reason through ambiguity, and develop and test practical solutions.Familiarity with Git and GitHub or comparable version-control tools.Ability to communicate technical reasoning, results, and trade-offs clearly.\n\nDesired (not required) competencies:\n\nExperience with any of the following: sequential decision-making, reinforcement learning, stochastic optimization, bandit algorithms, or active learning.Experience with simulation-based optimization.Familiarity with supervised and unsupervised learning.Experience with scientific computing, simulation, or computational experimentation.Experience improving software from prototype to maintainable application.Familiarity with automated testing or CI/CD practices.Graduate-level study or research in a relevant quantitative or computational discipline.\n\nRelevant experience may come from professional work, research, graduate projects, or other substantial technical projects. Candidates are not expected to have expertise in every listed method.\n\nClearance\n\nAbility to obtain a DoD secret clearance\n\nThe Opportunity\n\nThis is a self-directed technical role for someone who enjoys applying their knowledge to interesting, open-ended problems. You will have room to explore approaches, question assumptions, and implement improvements while collaborating with the technical lead on problem formulation and overall direction.\n\nThe emphasis is on sound technical reasoning, practical algorithm development, and evidence-based problem-solving-not on any single academic discipline, algorithm, or software framework.\n\nSalary: $120000.00 - $143000.00 per year\n\nJob Posted by ApplicantPro",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/applied-scientist-optimization-and-decision-systems-colorado-springs-co-at-davidson-technologies-4480322123?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Clearance Jobs",
+                    "link": "https://www.clearancejobs.com/jobs/9243158/applied-scientist-optimization-and-decision-systems-colorado?source=job_search&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=230c82027c2b6b77&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/applied-scientist-optimization-and-decision-systems-colorado-springs-co-colorado-springs-co--ee29ebc5-a44f-4437-b9f5-75fd3f3caaa2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/applied-scientist-optimization-and-decision-systems-colorado-springs-co-davidson-technologies-inc-colorado-springs-co_89377956?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/davidson-technologies/Job/Applied-Scientist-(Optimization-and-Decision-Systems)-Colorado-Springs,-CO/-in-Colorado-Springs,CO?jid=cef3fd0ba481b3d2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/applied-scientist-optimization-and-decision-systems-colorado-springs-co-colorado-springs-co--ee29ebc5-a44f-4437-b9f5-75fd3f3caaa2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/jv?jl=1010296676396&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCAoT3B0aW1pemF0aW9uIGFuZCBEZWNpc2lvbiBTeXN0ZW1zKSAtIENvbG9yYWRvIFNwcmluZ3MsIENPIiwiY29tcGFueV9uYW1lIjoiRGF2aWRzb24gVGVjaG5vbG9naWVzIiwiaHRpZG9jaWQiOiJpUFdmMmdtQzBCWkRpZy1YQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1hSVmIycHlZVEF0VFdwbWJEazBia3RHWHpjMWQwUlpVV0pVY0RCVGRITlhOWE5hVFVsVWVYUkZRMHN0YlVwTGJqRjFSV05VV21nMmRVZHRiRVZHVW5WcFZ6QlZXalU0UmtOT1QxQTBVRXRITTFwRlRYbHRjVzF6WWtSWE9UWmhNVEZFWW1Sb1FqVlFUSFIzYzE5YVlVNVliMWRJU2t4TlVqWlRZMVZVYzNoMldscHZaRzhTRjJoeFVHSmhjell5U0Y5WGRIRjBjMUJ5ZGtSRk1sRk5HaUpCUkhOeU9XWlVjbmczTkhSUWQzbFJSSFZoZEZSUVpsbzNTSFV5YTJsWWIzbEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJpUFdmMmdtQzBCWkRpZy1YQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Applied Scientist, NA Operations — AI & Optimization Lead",
+            "company_name": "Amazon Inc.",
+            "location": "Bellevue, WA",
+            "via": "JobLeads",
+            "job_highlights": [
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will own project scoping, stakeholder engagement, data enablement, model development, and production launches",
+                        "The role demands strong ownership and the ability to educate both technical and non-technical partners across Finance and Operations"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=QL4iK6uTnFtdns-XAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_x3MMQrCMBTGcVx7BF3e5CA1EcFFp7hIRRR0cCxp-mgjaV7oi1I6eQjP4aE8idXlG37w_ZP3KDmrEJzFEi7Goo-WYwpHBaeArY6WPMPn-QKVwXSwaBvb_xkOqEuYw54KYNStqWHAHVHlcLypYwy8lpLZiYrj8DDCUCPJY0GdvFHBv8m51i0GpyPmy9WiE8FXs4lqdD-0Mm8EWA9bdA4fd0zhqr7kEmDesQAAAA&shmds=v1_ARwrE21yxbe8930eshmd14xoKDuhkeGS5JTW9whCO2kd2u07Ow&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=QL4iK6uTnFtdns-XAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba38471c54269b0c0e3ba/images/o4ih6e32TU41-RUN0WZ1UdEdvvb0lBkEAqhlZrLfXtY.jpeg",
+            "extensions": [
+                "4 days ago",
+                "136K–184K a year",
+                "Full-time"
+            ],
+            "source_link": "https://www.jobleads.com/us/job/applied-scientist-na-operations-ai-optimization-lead--bellevue--ee5e6a700b49b56a5d7f889515d6e633f",
+            "job_title": "Applied Scientist, NA Operations — AI & Optimization Lead",
+            "description": "Amazon.com Services LLC in Bellevue, WA seeks an Applied Scientist to advance operational excellence of AI models within Amazon Operations. You will own project scoping, stakeholder engagement, data enablement, model development, and production launches.\n\nThe role demands strong ownership and the ability to educate both technical and non-technical partners across Finance and Operations. You will join a team of Data Scientists, Applied Scientists, and Economists focused on data-driven decision",
+            "apply_options": [
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/applied-scientist-na-operations-ai-optimization-lead--bellevue--ee5e6a700b49b56a5d7f889515d6e633f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCwgTkEgT3BlcmF0aW9ucyDigJQgQUkgXHUwMDI2IE9wdGltaXphdGlvbiBMZWFkIiwiY29tcGFueV9uYW1lIjoiQW1hem9uIEluYy4iLCJodGlkb2NpZCI6IlFMNGlLNnVUbkZ0ZG5zLVhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTMFpOUXpaTlRrWXROREJFVG1aYVZXWnlTV1oyV1ZacGNUbGlOMWhaY3psUWRHSmxYMjh3TldNMGFHWnJaR3B6VWxSb2IweGFRMmxCU0c1NVpYSmlkWFpUU2s4emJIRjZhVGRtTTBGTlUyUkhOalpLVFRZM1ltWnhkbm94U21KNE5tTlJZM05WVlZkcFNHUkVhbVZwU0ZGaU0wSm9WSGg1YjJRdFFrMU1URFpQWkRkb1Z6Y1NGMmh4VUdKaGN6WXlTRjlYZEhGMGMxQnlka1JGTWxGTkdpSkJSSE55T1daVVlXRktjMDVTTlRoSlFVZHdTR3gxYm5SbVNXZGxURTlzZGxaQiIsImZjdiI6IjMiLCJmY19pZCI6IlFMNGlLNnVUbkZ0ZG5zLVhBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Robotics Applied Scientist, Spatio-Temporal Scene Understanding & Memory",
+            "company_name": "FieldAI",
+            "location": "Irvine, CA",
+            "via": "Lever",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "PhD in robotics, computer science, electrical engineering, aerospace engineering, mechanical engineering, or a related field, with publications at top venues such as RSS, CoRL, ICRA, IROS, T-FR, T-RO, CVPR, NeurIPS, or similar, on scene understanding, semantic SLAM, lifelong or spatio-temporal mapping, world models, or embodied reasoning",
+                        "Hands-on experience with vision-language or foundation models applied to spatial reasoning, memory, or long-horizon embodied question answering",
+                        "Depth in 3D representations: scene graphs, neural or Gaussian-splat maps, or object-centric maps, and the estimation underneath them",
+                        "Strong Python; able to run your methods on real robots with C++ and ROS 2",
+                        "Clear thinking about what a representation is for and how to evaluate it, and comfort with a fast-paced environment where research questions are set by what the next deployment needs",
+                        "Real2Sim, system identification through interaction, or digital-twin work",
+                        "Experience with behavior trees or task planning driven by language models",
+                        "Industrial or field robotics exposure"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Our salary range is generous and we consider each individual’s background and experience when determining final compensation"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Investigate the appropriate representation for the robot's mission memory: a persistent spatio-temporal representation of what it saw, where, when, and how it changed, across missions and sites, so assets that move, disappear, or degrade are tracked rather than rediscovered",
+                        "Build world models that let the robot reason and plan over that memory and recover physical parameters through interaction for physics-aware digital twins",
+                        "Combine learned and physically grounded models, with geometry and dynamics as the ground truth",
+                        "Bridge the perception-reasoning gap for long-term autonomy",
+                        "Change detection or long-term mapping results from real deployments"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=fwz8TGKDSRgOkGnBAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWNuwrCQBAAsU1vY7WVheQhgo1WQVAi2BitwyW3JCuX3eP2kPhh_p-xmWYYJvkukuYurUTqFErvHaGFuiPkSBpTqL2JJNkDRy_BuFkhIzzZYtBo2BL3sIYbjhI-kMFVWlA0oRtAGC4ivcPVcYjR66EoVF3ez9k8yzsZC2FsZSpe0uofjQ4moHcmYrPbb6fcc79ZngmdLSsghiq8iTGFU_kD_kOnibgAAAA&shmds=v1_ARwrE22R3jUjLotLl4wnyfEXE5Jr1PMPPbeMPuYLm6rEJhquug&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=fwz8TGKDSRgOkGnBAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba38471c54269b0c0e3ba/images/Zl0vHnHpGpvC9sri2BuCbpwB_Ond-mI8wacF-oXr4O8.jpeg",
+            "extensions": [
+                "5 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://jobs.lever.co/field-ai/f9f0a9b0-b8b3-4e1e-82c4-9f2ee11e23c8",
+            "job_title": "Robotics Applied Scientist, Spatio-Temporal Scene Understanding & Memory",
+            "description": "FieldAI’s Irvine team is where embodied AI meets real robots, real sensors, and real field deployments. Based in the heart of Southern California’s robotics ecosystem, we build risk-aware, reliable, field-ready AI systems that solve the hardest problems in robotics and unlock the full potential of embodied intelligence. If you want your work to ship, get tested on hardware, and improve through real deployments, Irvine is the place. We go beyond typical data-driven approaches or pure transformer-only architectures, combining rigorous engineering with learning systems proven in globally deployed solutions that deliver results today and get better every time our robots run in the field.\n\n\\n\n\n\n\n\nWhat You Will Get To Do\n\n\nInvestigate the appropriate representation for the robot's mission memory: a persistent spatio-temporal representation of what it saw, where, when, and how it changed, across missions and sites, so assets that move, disappear, or degrade are tracked rather than rediscovered.\n\n\n\n\nBuild world models that let the robot reason and plan over that memory and recover physical parameters through interaction for physics-aware digital twins.\n\n\n\n\nCombine learned and physically grounded models, with geometry and dynamics as the ground truth.\n\n\n\n\nBridge the perception-reasoning gap for long-term autonomy.\n\n\n\n\n\n\n\nWhat You Have\n\n\nPhD in robotics, computer science, electrical engineering, aerospace engineering, mechanical engineering, or a related field, with publications at top venues such as RSS, CoRL, ICRA, IROS, T-FR, T-RO, CVPR, NeurIPS, or similar, on scene understanding, semantic SLAM, lifelong or spatio-temporal mapping, world models, or embodied reasoning.\n\n\n\n\nHands-on experience with vision-language or foundation models applied to spatial reasoning, memory, or long-horizon embodied question answering.\n\n\n\n\nDepth in 3D representations: scene graphs, neural or Gaussian-splat maps, or object-centric maps, and the estimation underneath them.\n\n\n\n\nStrong Python; able to run your methods on real robots with C++ and ROS 2.\n\n\n\n\nClear thinking about what a representation is for and how to evaluate it, and comfort with a fast-paced environment where research questions are set by what the next deployment needs.\n\n\n\n\n\n\n\nWhat Will Set You Apart\n\n\nChange detection or long-term mapping results from real deployments.\n\n\n\n\nReal2Sim, system identification through interaction, or digital-twin work.\n\n\n\n\nExperience with behavior trees or task planning driven by language models.\n\n\n\n\nIndustrial or field robotics exposure.\n\n\n\n\n\n\n\n\n\n\\nOur salary range is generous and we consider each individual’s background and experience when determining final compensation. Base pay may vary based on role scope, job-related knowledge, skills, experience, and the Irvine, California market.\n\n\n \n\n\nWhy Join FieldAI in Irvine?\n\n\nIn Irvine, you will work where the robots are. Our local team builds and tests systems on real hardware with real sensors, then ships them to operate in unstructured, previously unknown environments around the world. We are solving one of robotics’ hardest challenges: reliable deployment outside the lab. Our Field Foundational Models™ raise the bar for perception, planning, localization, and manipulation, with an emphasis on explainability and safety for real-world use.\n\n\nYou will collaborate with a world-class team that thrives on creativity, resilience, and bold thinking. We bring deep experience from organizations such as DeepMind, NASA JPL, Boston Dynamics, NVIDIA, Amazon, Tesla Autopilot, Cruise, Zoox, Toyota Research Institute, and SpaceX, along with a track record of field deployments and strong performance in DARPA challenge segments.\n\n\n \n\n\nBe Part of the Next Robotics Revolution\n\n\nWe are looking for builders who want their work to leave the whiteboard and show up on robots. If you enjoy tackling tough, uncharted questions and working across disciplines, you will find your people here. Our teams span AI, software, robotics engineering, product, field deployment, and technical communication, all focused on shipping systems that perform in the real world.\n\n\n \n\n\nOur headquarters is in Irvine, and we partner closely with teams there as well as colleagues across the US and around the world. Join us in Southern California and help define what dependable, field-ready autonomy looks like.\n\n\n \n\n\nWe value diverse perspectives and are committed to fostering an inclusive workplace. We evaluate candidates and employees based on merit, qualifications, and performance, and we do not discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, or any other legally protected status.",
+            "apply_options": [
+                {
+                    "title": "Lever",
+                    "link": "https://jobs.lever.co/field-ai/f9f0a9b0-b8b3-4e1e-82c4-9f2ee11e23c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/robotics-applied-scientist-spatio-temporal-scene-understanding-memory-fieldai-irvine-ca_89444082?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/robotics-applied-scientist-spatio-temporal-scene-understanding-memory-at-fieldai-4481243154?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/robotics-applied-scientist-spatio-temporal-scene-understanding-memory-irvine-ca--09c9d9eb-787a-4028-9e7a-11d1cf833473?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/robotics-applied-scientist-spatio-temporal-scene-understanding-memory-irvine-ca--09c9d9eb-787a-4028-9e7a-11d1cf833473?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/robotics-applied-scientist_7ea1add4abab7ea32e4766fe089bf08f613d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Adzuna",
+                    "link": "https://www.adzuna.com/details/5936157783?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/robotics-applied-scientist-spatio-temporal-scene-understanding-memory-fieldai-10518746?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJSb2JvdGljcyBBcHBsaWVkIFNjaWVudGlzdCwgU3BhdGlvLVRlbXBvcmFsIFNjZW5lIFVuZGVyc3RhbmRpbmcgXHUwMDI2IE1lbW9yeSIsImNvbXBhbnlfbmFtZSI6IkZpZWxkQUkiLCJodGlkb2NpZCI6ImZ3ejhUR0tEU1JnT2tHbkJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTWHBKU3pKbk16RjJkVWRmYzJVMGJXTXRSMlJ1UlhGMlR6bEJiMkpoVlhsalEzZFljMkZxZEdjeU1EVmpRa2RXWDNSeVpXOVdTVVZ1UVhKd1EwRlhNamxqT0VKYVYwNWFSalJ5ZERkRVlXRnFkRFJNYnprd1NHOVlZeTFxWm1GSlVqTTRSRVJJVUMwelZucFJRMGwyV1ZCVE4wRklWRzVSYWkwNWVYTnFkbFZPUlV4NVMxSVNGMmh4VUdKaGN6WXlTRjlYZEhGMGMxQnlka1JGTWxGTkdpSkJSSE55T1daVGFITkJXWFZIYUVRNFNGOXhOV3A0WDJVM1ZtOHRZVzFUUmpCUiIsImZjdiI6IjMiLCJmY19pZCI6ImZ3ejhUR0tEU1JnT2tHbkJBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Principal Applied Scientist",
+            "company_name": "Siemens",
+            "location": "New York, NY",
+            "via": "LinkedIn",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "8+ years in applied machine learning, AI research, or data science, with models that shipped to production and made an impact",
+                        "Strong foundation in machine learning theory and practice across training, evaluation, and deployment",
+                        "Demonstrated experience taking research from a paper or prototype into a model that runs reliably in production",
+                        "Proficiency in Python and modern ML frameworks and toolchains",
+                        "Strong partnership track record with engineering teams on data, training infrastructure, and inference",
+                        "Clear written and verbal communication with engineers, product managers, and senior leaders"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "$200,614 $271,483 15%"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "As Principal Applied Scientist, you lead the science on a major capability area inside the pod",
+                        "You take ambiguous problems through hypothesis, method selection, experimentation, and into models that run in production",
+                        "You are hands on with the modeling, and you are accountable for the rigor and the outcome",
+                        "You will work in close partnership with engineers and product managers who turn your work into product",
+                        "Own one or more scientific capability areas end to end, for example perception, computer vision, language and agents, time series, control, planning, or evaluation",
+                        "Take problems from ambiguous product or system requirements through clear research questions, hypotheses, and success metrics",
+                        "Lead applied research projects: literature review, method selection, experimentation, ablation, error analysis, and productization",
+                        "Build and run the evaluation pipelines for the work you own: offline metrics, online experiments, robustness testing in industrial conditions",
+                        "Work with engineers to take models into production grade pipelines: data readiness, training infrastructure, inference, observability",
+                        "Make scientific tradeoffs in front of engineers and product managers, with evidence, and translate them into decisions the team can act on",
+                        "Identify and de-risk scaling challenges in your area: data quality, model drift, latency, throughput, cost, safety",
+                        "Raise the bar on experimentation rigor, reproducibility, and documentation across the team",
+                        "Apply responsible AI practices in your work: bias detection, model risk management, human in the loop controls"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=sd27e_XivvvRzYTCAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7A4LTzaKJFFx0chIcitCpU0nj0V5N70LuwH6DXy2-4VXfTVU_C3GkHBLcck6EL2gjIRupwREeMoBiKHECYbiLjAl318ks68V71eRGtWAUXZTFC-Mgq59l0H-9TqFgTsGwr8-n1WUe99uWcEFWIIYGP9BJeR-g6X6VmE7ejQAAAA&shmds=v1_ARwrE23TdpPkz-dOFDQgNIf4ZNoKTA6xJfMr-_iY8qfxw_JPIg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=sd27e_XivvvRzYTCAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N__AABEIADgAOAMBEQACEQEDEQH_xAAYAAEAAwEAAAAAAAAAAAAAAAAABAUGA__EACsQAAICAQIEAwkBAAAAAAAAAAECAAMEBRESEyExBiJRFCRBQmFxgaHBFf_EABkBAQADAQEAAAAAAAAAAAAAAAABAwUCBv_EACgRAQABAwEGBgMAAAAAAAAAAAABAgMRIRIxQWGRwQUiMlFxgRMUQv_aAAwDAQACEQMRAD8ArJqvBEBAQEBAQEBAQEBAQEBAQG49RCSEG49RCSAhDQeC73o1K0pi8_ipKkraldlYJHmQsdt5TejMNDw6qabk4jOnKJj4y0Dey0iyv26vLI1zHPOYrxMvCm--3Tp1BP0lOs8ODR8lMTG1nzxr0dsnNbE123MtJfHpoynpWy-l1YgAgKF6gHbs3WREZpxHJ3Vcmi_NdW6IqxrHbu4ap_l4ui63iYFlT85UyuLcfO42QfYD9zqnamqmZV3vw0WblFHHXrO5O1W0nxLhuLPclyVIJyKTVvyz2UeYdd-5_k5p9E-669M_sUz_ADn3jG7qiHKwymm6jp-PRe-XmNkPiGxU4H5XCw3PbYgkb_H8ScTrTKvbt4ouW4idqc4-tWc8Zoi6nWy5lmQz0qWW1lZ6TufIxXoSJdZ9O5m-IxEXYxVnTpy0UEuZ5AQEBAQEBAQEBAQEBAQEBAQEBAQP_9k.jpeg",
+            "extensions": [
+                "16 days ago",
+                "Full-time"
+            ],
+            "source_link": "https://www.linkedin.com/jobs/view/principal-applied-scientist-at-siemens-4475747168",
+            "job_title": "Principal Applied Scientist",
+            "description": "Siemens builds the systems the physical world runs on: factories, power grids, buildings, trains, hospitals. Industrial and physical AI is a major opportunity in applied AI, and one of the harder ones to get right. There is a generation of AI-powered products to build.\n\nWe are an applied science organization building the science behind them. The work sits at the intersection of machine learning research, real world data, and production systems running in industrial environments.\n\nAs Principal Applied Scientist, you lead the science on a major capability area inside the pod. You take ambiguous problems through hypothesis, method selection, experimentation, and into models that run in production. You are hands on with the modeling, and you are accountable for the rigor and the outcome.\n\nThis is a senior individual contributor role. You will work in close partnership with engineers and product managers who turn your work into product.\n\nKey Responsibilities\n\n\n\nOwn one or more scientific capability areas end to end, for example perception, computer vision, language and agents, time series, control, planning, or evaluationTake problems from ambiguous product or system requirements through clear research questions, hypotheses, and success metricsLead applied research projects: literature review, method selection, experimentation, ablation, error analysis, and productizationBuild and run the evaluation pipelines for the work you own: offline metrics, online experiments, robustness testing in industrial conditionsWork with engineers to take models into production grade pipelines: data readiness, training infrastructure, inference, observabilityMake scientific tradeoffs in front of engineers and product managers, with evidence, and translate them into decisions the team can act onIdentify and de-risk scaling challenges in your area: data quality, model drift, latency, throughput, cost, safetyRaise the bar on experimentation rigor, reproducibility, and documentation across the teamApply responsible AI practices in your work: bias detection, model risk management, human in the loop controls\n\nBasic Qualifications\n\n8+ years in applied machine learning, AI research, or data science, with models that shipped to production and made an impactStrong foundation in machine learning theory and practice across training, evaluation, and deploymentDemonstrated experience taking research from a paper or prototype into a model that runs reliably in productionProficiency in Python and modern ML frameworks and toolchainsStrong partnership track record with engineering teams on data, training infrastructure, and inferenceClear written and verbal communication with engineers, product managers, and senior leaders\n\nPreferred Qualifications\n\nExperience applying ML in industrial or physical domains: manufacturing, automation, robotics, energy, mobility, infrastructure, healthcareDeep expertise in one of: multimodal ML, generative AI, retrieval augmented generation, agentic workflows, time series, control, or planningScientific ML for physical systems: surrogate modeling, operator learning, physics-informed ML, geometry-aware ML, differentiable simulation, AI for semiconductor/EDAHands-on experience building evaluation pipelines, running online experiments, or instrumenting production monitoring for a model you ownedPublications, patents, open source contributions, or significant internal technology transfersExperience mentoring more junior scientists and engineersExperience working with globally distributed research, product, or engineering organizations\n\nAbout the Team: \n\nWe are an early-stage engineering team solving hard technical problems at the intersection of AI, systems, and real-world interaction. We operate with high autonomy, collaborate closely across functions, and maintain high technical standards. Principal Engineers at our company are expected to lead by example, model engineering excellence, and shape both what we build and how we build it.\n\nOur Commitment to Equity and Inclusion in our Diverse Global Workforce: \n\nWe value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and transform the everyday with us.\n\n$200,614 $271,483 15%",
+            "apply_options": [
+                {
+                    "title": "LinkedIn",
+                    "link": "https://www.linkedin.com/jobs/view/principal-applied-scientist-at-siemens-4475747168?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=beb06529878c62cd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/principal-applied-scientist-new-york-ny--ab22c041-2bb5-4cc6-8643-f450d831cabe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Siemens/Job/Principal-Applied-Scientist/-in-New-York,NY?jid=605265e164e97a99&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "JobLeads",
+                    "link": "https://www.jobleads.com/us/job/principal-applied-scientist--new-york--e6ba56d6a5314467ab4160cc34231d640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Ladders",
+                    "link": "https://www.theladders.com/job/principal-applied-scientist-siemens-new-york-ny_89248982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/principal-applied-scientist-oci-genai-new-york-ny--003c0fd8-72a0-4afa-a3ac-3ca71b39ce30?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/-6425853921789451491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQXBwbGllZCBTY2llbnRpc3QiLCJjb21wYW55X25hbWUiOiJTaWVtZW5zIiwiaHRpZG9jaWQiOiJzZDI3ZV9YaXZ2dlJ6WVRDQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwUzJGMVZYcElTRUZLYVRCV04yOTFlSGhzWW1KWWFsZFhXamhFUTNWR1JERnpTak5VYzE5Sk4xUmtWVVJIZWxGWmNHcDFWVGQ0Y1dSamNVOTRkbmhUTmtwNlFteG1WalJGV1VsUk56ZDZYMjlIYldJMU5GYzNTV2xuUzE4d1dIRmlWR3QyYzBsNVNFVkJibGRPYm5kaVJFUmZYemR3VlRaM05sWjRXV05uVGpWblNEWlZVR2tTRjJoeFVHSmhjell5U0Y5WGRIRjBjMUJ5ZGtSRk1sRk5HaUpCUkhOeU9XWlRabXhUZGt3eU5XUldPVkl0YTFSRVgxOVBWR3MzUjFwbVpqQlIiLCJmY3YiOiIzIiwiZmNfaWQiOiJzZDI3ZV9YaXZ2dlJ6WVRDQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Applied Scientist, Remote $245 - $280/hour",
+            "company_name": "Prointegrate LLC",
+            "location": "Anywhere",
+            "via": "ZipRecruiter",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "No prior experience in AI is required; your domain knowledge is what matters"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you'll apply your expertise to help train next-generation AI systems",
+                        "Your work will shape how models learn, reason, and perform through high-quality, real-world input",
+                        "Design and execute statistical analyses to uncover actionable insights from complex datasets",
+                        "Develop and validate machine learning models for various business or research objectives",
+                        "Apply data modeling techniques and manage large-scale data transformations using Python and Pandas",
+                        "Collaborate with stakeholders to define experimentation frameworks and analyze outcomes",
+                        "Document methodology, findings, and recommendations with a focus on clarity and precision",
+                        "Review peer contributions and provide high-quality feedback to support knowledge sharing",
+                        "Deliver reproducible code and well-organized analytical reports as part of the project deliverables",
+                        "Evaluate AI model outputs on statistics, machine learning, experimentation, and quantitative problems",
+                        "Create expert-level prompts, datasets, and reference solutions",
+                        "Identify flawed methodology, statistical errors, and weak quantitative reasoning",
+                        "Provide clear, structured feedback that improves model capability"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=rLdgZF78c_FZGFCOAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_y2OQQrCMBBFcdsjuJBZuJLalKIguiouBCko9QAlrUMSSTMhM0KP41Gt4Oa_x1v97LPI6jpG7_AJj8FhEMeSQ4sjCcK62u1hO-NQKkvvNPuVemDUabBAAS5ExuPyZEUiH5Vi9oVh0eKGYqBRUcCeJvWinn_TsdUJo9eCXbUvpyIGs1ndE7kgaNKcoWnO4ML_QA639guL1BVpowAAAA&shmds=v1_ARwrE21V9UZT9Zu-voiE9alXksjBgjvenLzEJLsXqrAK8qeejw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=rLdgZF78c_FZGFCOAAAAAA%3D%3D",
+            "extensions": [
+                "8 days ago",
+                "245–280 an hour",
+                "Work from home",
+                "Contractor"
+            ],
+            "source_link": "https://www.ziprecruiter.com/c/prointegrate/Job/Applied-Scientist,-Remote-$245-$280-hour/-in-Remote,US?jid=8d9850d703db90fc",
+            "job_title": "Applied Scientist, Remote $245 - $280/hour",
+            "description": "Role Title: Applied Scientist,(Remote) $245 - $280/hour\n\nRole Type: Contractor\n\nLocation: Remote\n\n\n\n\nmicro1 is engaging Applied Scientists to contribute to a customer's data-driven project, focusing on advanced analytics and experimentation. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required; your domain knowledge is what matters. This opportunity is part of an open Data Scientist project, with a strong emphasis on clear written and verbal communication.\n\nScope of Work\n\n\n\n\nDesign and execute statistical analyses to uncover actionable insights from complex datasets.Develop and validate machine learning models for various business or research objectives.Apply data modeling techniques and manage large-scale data transformations using Python and Pandas.Collaborate with stakeholders to define experimentation frameworks and analyze outcomes.Document methodology, findings, and recommendations with a focus on clarity and precision.Review peer contributions and provide high-quality feedback to support knowledge sharing.Deliver reproducible code and well-organized analytical reports as part of the project deliverables.Evaluate AI model outputs on statistics, machine learning, experimentation, and quantitative problems.Create expert-level prompts, datasets, and reference solutions.Identify flawed methodology, statistical errors, and weak quantitative reasoning.Provide clear, structured feedback that improves model capability.\n\n\nPreferred Qualifications\n\n\n\n\nAt least one year at a top company (tech, finance, or research).Expertise in Python, including proficiency with libraries such as Pandas and scikit-learn (sklearn).Demonstrated experience in applied statistics, experimental design, and machine learning.Proven ability to develop, tune, and evaluate machine learning models in practical settings.Strong data modeling skills and experience managing structured and unstructured data.Excellent written and verbal communication skills, with a passion for clear technical documentation.Experience collaborating on open or cross-functional data science projects is a plus.Advanced academic background or hands-on work in data science, applied mathematics, or related fields.",
+            "apply_options": [
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/prointegrate/Job/Applied-Scientist,-Remote-$245-$280-hour/-in-Remote,US?jid=8d9850d703db90fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCwgUmVtb3RlICQyNDUgLSAkMjgwL2hvdXIiLCJjb21wYW55X25hbWUiOiJQcm9pbnRlZ3JhdGUgTExDIiwiaHRpZG9jaWQiOiJyTGRnWkY3OGNfRlpHRkNPQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTlZXNXBkR1ZrSUZOMFlYUmxjdyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2xoeFRuSnNOVlYzYzNCQ1kybERiblJMVTJjd2FtVndVRFZ4WlY5RVgxQTFORnBhZVdGNE5FTjRibkl0VUdGWGRUUnRhMnhoUVdKSlpYUm9WVXcyVFZSYVgyTldlbm8zVG5jMldtbHFVSGhuTWxvMFpqZFpjbVJwTjA5RmRERkRVMGRvZGtwbVNIaEJUblZGZDB4bWRHd3plVjl6U0dWRGJrZE1lSGhLUkRnMGNUQkhZWElTRjJoeFVHSmhjell5U0Y5WGRIRjBjMUJ5ZGtSRk1sRk5HaUpCUkhOeU9XWlRjSEJXUm04eGJIVjFNMDlXUzFkb1YydDZSbGcyWmxNd1lVbEIiLCJmY3YiOiIzIiwiZmNfaWQiOiJyTGRnWkY3OGNfRlpHRkNPQUFBQUFBPT0ifQ=="
+        },
+        {
+            "title": "Applied Scientist, Optimization & Logistics",
+            "company_name": "Sprinter Health",
+            "location": "Anywhere",
+            "via": "Jobs",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "The ideal candidate is a scientist-engineer who reasons from first principles about uncertainty and constraints, reaches for the simplest model that works, and can move from a formulation on the whiteboard to a decision that runs in production",
+                        "Work with operations partners and SMEs to validate assumptions and review where decisions break down",
+                        "Explain tradeoffs, uncertainty, and limitations clearly to product and leadership",
+                        "Strong foundations in operations research or optimization: modeling, algorithms, experimental design, and honest evaluation",
+                        "Strong Python and SQL, the standard optimization and ML libraries, and the ability to run your own experiments end to end",
+                        "Fluency with AI coding assistants (e.g., Claude Code, Cursor) in your day-to-day development workflow",
+                        "Ability to turn an ambiguous problem into a well-posed optimization or forecasting task, discover and analyze related literature, and adapt/apply those methods to our tasks",
+                        "Judgment about how uncertainty, constraints, and edge cases behave in real-world operational data",
+                        "Interest in operations collaboration and applied healthcare impact",
+                        "MS or PhD in operations research, industrial engineering, computer science, applied math, statistics, machine learning, or a related quantitative field; exceptional applied experience can substitute",
+                        "Depth in a relevant area such as vehicle routing, scheduling, stochastic optimization, discrete-event simulation, queueing, or demand forecasting",
+                        "Experience shipping optimization or decision systems that reached production and had material real-world impact",
+                        "Hands-on experience with supply-and-demand matching in a marketplace, dispatch, or field-operations setting",
+                        "Fluency deciding when an exact optimization approach beats a heuristic or learned one, and vice versa",
+                        "Hiring Manager Introduction (30 minutes)"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "For many, the ER becomes their first touchpoint with the healthcare system—driving over $300B in avoidable costs every year",
+                        "Meaningful pre-IPO equity",
+                        "Medical, dental, and vision plans 100% paid for you and your dependents",
+                        "Flexible PTO + 10 paid holidays per year",
+                        "401(k) with match",
+                        "16-week parental leave policy for birthing parent, 8 weeks for all other parents",
+                        "HSA + FSA contributions",
+                        "Life insurance, plus short and long-term disability coverage",
+                        "Free daily lunch in-office",
+                        "Annual learning stipend"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "Sprinter runs a two-sided operation — clinicians on one side, patients who need care at home on the other — and we must match supply to demand across large regions under complex constraints",
+                        "As an Applied Scientist, you will take ambiguous operational problems and shape them into well-posed tasks, strong baselines, and honest evaluations",
+                        "The algorithms you build will answer questions like which clinician sees which patient, in what order, given drive time, appointment windows, and clinical constraints; how many clinicians to staff in each region next month; and how long a visit will take or whether a patient is likely to cancel",
+                        "This role sits at the intersection of research and engineering, blending scientific rigor with a deployment-oriented mindset",
+                        "It also requires close cross-functional partnership with operations, product, and engineering stakeholders",
+                        "Lunch is provided every day, and the entire team takes an hour to eat together",
+                        "Modeling & Optimization",
+                        "Turn ambiguous operational problems into well-posed optimization, forecasting, or simulation tasks",
+                        "Build strong baselines and improve on them efficiently, adding complexity only when the value justifies it",
+                        "Develop solutions across operations research, optimization, and machine learning, choosing the right tool for the problem",
+                        "Run careful analysis and iterate toward decisions that improve real operational outcomes — cost per visit, clinician utilization, patient access, and visits completed",
+                        "Evaluation & Scientific Rigor",
+                        "Design offline evaluations, simulated backtests, and live experiments that predict real-world operational impact",
+                        "Find the gaps between a model’s assumptions and messy operational reality before they reach production",
+                        "Choose metrics suited to stochastic, constrained, and partially observed operational systems",
+                        "Interpret and communicate results effectively to cross-functional stakeholders",
+                        "Collaboration & Delivery",
+                        "Partner with Engineering to productionize optimization and decision systems reliably",
+                        "We aim to complete the interview process between 2–3 weeks",
+                        "Recruiter Screen (30 minutes)",
+                        "Hands-on-Keys Technical Assessment (1 hour)",
+                        "Onsite Interview: Systems Design / Technical Case Study + Research Presentation + Behavioral Interview + Lunch with the Team (4 hours)"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=72NEKDw8U_F6_VrDAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xWLsQrCMBBAce0nON0gDlIbEVx0qoKKCA79gJLGIzlJcyF3g_hD_qZ1ecN7vOo7q45tzpHwCZ0jTEqiNTyy0kgfq8QJlnBnP2lyAmu48QCCtrgAU7sw-4jzQ1DNsjdGJDZedBpd43g0nHDgt3nxIH_0EmzBHK1iv91t3k1OfrXocqGkWOCKNmoAStDZBOdikyNxXMOp_QGeIcppqgAAAA&shmds=v1_ARwrE21cluHCD9JvmzJpQqEluz7EOWFbfBR5yXEzJ9ymlhUHdQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=72NEKDw8U_F6_VrDAAAAAA%3D%3D",
+            "extensions": [
+                "160K–220K a year",
+                "Work from home",
+                "Full-time",
+                "Health insurance",
+                "Dental insurance",
+                "Paid time off"
+            ],
+            "source_link": "https://jobs.ashbyhq.com/sprinter-health/e9da533c-5af2-448c-b48a-ffb331ee76e2",
+            "job_title": "Applied Scientist, Optimization & Logistics",
+            "description": "About Sprinter Health:\n\nAt Sprinter Health, our mission is reimagining how people access care by bringing it directly to their homes. Nearly 30% of patients in the U.S. skip preventive or chronic care simply because they can’t get to a doctor’s office. For many, the ER becomes their first touchpoint with the healthcare system—driving over $300B in avoidable costs every year.\n\n By using the same technologies that power leading marketplace and last-mile platforms, we deliver care where people are, especially those who need it most. So far, we’ve supported more than 2 million patients across 22 states, completed 130,000+ in-home visits, and maintained a 92 NPS. Our team of clinicians, technologists, and operators have raised over $125M to date investors like a16z, General Catalyst, GV, and Accel and enjoy multi-year runway.\n\n About the Role\n\nWe’re looking for an Applied Scientist to turn Sprinter’s hardest logistics problems into optimization models and decision systems that get the right clinician to the right patient at the right time. Sprinter runs a two-sided operation — clinicians on one side, patients who need care at home on the other — and we must match supply to demand across large regions under complex constraints.\n\nAs an Applied Scientist, you will take ambiguous operational problems and shape them into well-posed tasks, strong baselines, and honest evaluations. The algorithms you build will answer questions like which clinician sees which patient, in what order, given drive time, appointment windows, and clinical constraints; how many clinicians to staff in each region next month; and how long a visit will take or whether a patient is likely to cancel.\n\nThis role sits at the intersection of research and engineering, blending scientific rigor with a deployment-oriented mindset. It also requires close cross-functional partnership with operations, product, and engineering stakeholders. The ideal candidate is a scientist-engineer who reasons from first principles about uncertainty and constraints, reaches for the simplest model that works, and can move from a formulation on the whiteboard to a decision that runs in production.\n\n Hybrid & Office Experience\n\nWe operate on a hybrid schedule, working from the office Monday through Thursday, with Fridays designated as work-from-anywhere days.\n\nWe care deeply about work-life balance and are happy to provide flexibility when life happens. We ask that employees be in the office Monday through Thursday to collaborate with their teams while maintaining flexibility where it matters most.\n\nLunch is provided every day, and the entire team takes an hour to eat together. It's one of the ways we stay connected outside of meetings. You'll usually find us playing a board game before getting back to work.\n\n What you will do:\n\nModeling & OptimizationTurn ambiguous operational problems into well-posed optimization, forecasting, or simulation tasks.\n\nBuild strong baselines and improve on them efficiently, adding complexity only when the value justifies it.\n\nDevelop solutions across operations research, optimization, and machine learning, choosing the right tool for the problem.\n\nRun careful analysis and iterate toward decisions that improve real operational outcomes — cost per visit, clinician utilization, patient access, and visits completed.\n\nEvaluation & Scientific RigorDesign offline evaluations, simulated backtests, and live experiments that predict real-world operational impact.\n\nFind the gaps between a model’s assumptions and messy operational reality before they reach production.\n\nChoose metrics suited to stochastic, constrained, and partially observed operational systems.\n\nInterpret and communicate results effectively to cross-functional stakeholders.\n\nCollaboration & DeliveryPartner with Engineering to productionize optimization and decision systems reliably.\n\nWork with operations partners and SMEs to validate assumptions and review where decisions break down.\n\nExplain tradeoffs, uncertainty, and limitations clearly to product and leadership.\n\n What you have done:\n\nStrong foundations in operations research or optimization: modeling, algorithms, experimental design, and honest evaluation.\n\nStrong Python and SQL, the standard optimization and ML libraries, and the ability to run your own experiments end to end.\n\nFluency with AI coding assistants (e.g., Claude Code, Cursor) in your day-to-day development workflow.\n\nAbility to turn an ambiguous problem into a well-posed optimization or forecasting task, discover and analyze related literature, and adapt/apply those methods to our tasks.\n\nJudgment about how uncertainty, constraints, and edge cases behave in real-world operational data.\n\nInterest in operations collaboration and applied healthcare impact.\n\n What gives you an edge:\n\nMS or PhD in operations research, industrial engineering, computer science, applied math, statistics, machine learning, or a related quantitative field; exceptional applied experience can substitute.\n\nDepth in a relevant area such as vehicle routing, scheduling, stochastic optimization, discrete-event simulation, queueing, or demand forecasting.\n\nExperience shipping optimization or decision systems that reached production and had material real-world impact.\n\nHands-on experience with supply-and-demand matching in a marketplace, dispatch, or field-operations setting.\n\nFluency deciding when an exact optimization approach beats a heuristic or learned one, and vice versa.\n\n Interview Process:\n\nWe aim to complete the interview process between 2–3 weeks. It will usually consist of:\n\nRecruiter Screen (30 minutes)\n\nHiring Manager Introduction (30 minutes)\n\nHands-on-Keys Technical Assessment (1 hour)\n\nOnsite Interview: Systems Design / Technical Case Study + Research Presentation + Behavioral Interview + Lunch with the Team (4 hours)\n\nReferences\n\n What we offer:\n\nMeaningful pre-IPO equity\n\nMedical, dental, and vision plans 100% paid for you and your dependents\n\nFlexible PTO + 10 paid holidays per year\n\n401(k) with match\n\n16-week parental leave policy for birthing parent, 8 weeks for all other parents\n\nHSA + FSA contributions\n\nLife insurance, plus short and long-term disability coverage\n\nFree daily lunch in-office\n\nAnnual learning stipend",
+            "apply_options": [
+                {
+                    "title": "Jobs",
+                    "link": "https://jobs.ashbyhq.com/sprinter-health/e9da533c-5af2-448c-b48a-ffb331ee76e2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Teal",
+                    "link": "https://www.tealhq.com/job/applied-scientist-optimization-logistics_7ea1a9284937c41648c32ca77d8f940328bbd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/Sprinter-Health/Job/Applied-Scientist,-Optimization-&-Logistics/-in-Remote,US?jid=7da7eeba6510a158&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Sonara AI",
+                    "link": "https://www.sonara.ai/job-details/applied-scientist-at-sprinter-health-ad76e216-26f9-563a-bcad-fbb1799ff96d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCwgT3B0aW1pemF0aW9uIFx1MDAyNiBMb2dpc3RpY3MiLCJjb21wYW55X25hbWUiOiJTcHJpbnRlciBIZWFsdGgiLCJodGlkb2NpZCI6IjcyTkVLRHc4VV9GNl9WckRBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lOVlc1cGRHVmtJRk4wWVhSbGN3IiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTV1YyT1RKbGRrNHlRbmhVZW1OR2JHcFBaM00xZVdOWWJETjJOalpzT1dkU1NVaFpTM1YzZDA4NE0wTTVZamx5Ykc1eGVGQlFUV2wwYTBvdFNWOUVRelEzU0cxbVZrRklWbEJpZWpCVVVIaFJaSGR4WW1Obk1FbFNjbVJsTVdOS01WTnFaR1pOTFdSb2RIVkZhRzVXZDNKdmJuUnRjemh4UTNoVWFHOU9iMHRqYmtKMWVUQVNGMmh4VUdKaGN6WXlTRjlYZEhGMGMxQnlka1JGTWxGTkdpSkJSSE55T1daUmNWQTVNVmN0VURGTFp6WklTMDlrU21GVlNXZFVUbDlhV0dwbiIsImZjdiI6IjMiLCJmY19pZCI6IjcyTkVLRHc4VV9GNl9WckRBQUFBQUE9PSJ9"
+        },
+        {
+            "title": "Applied Scientist, AWS Quick",
+            "company_name": "Amazon Web Services, Inc.",
+            "location": "Sunnyvale, CA",
+            "via": "Women For Hire - Job Board",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "3+ years of building models for business application experience",
+                        "PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience",
+                        "Experience in patents or publications at top-tier peer-reviewed conferences or journals",
+                        "Experience programming in Java, C++, Python or related language",
+                        "Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
+                        "These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "Work/Life Balance",
+                        "We value work-life harmony",
+                        "Your Amazon package will include sign-on payments and restricted stock units (RSUs)",
+                        "Final compensation will be determined based on factors including experience, qualifications, and location",
+                        "Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "You will have the opportunity to partner with technology and business teams to solve real-world problems, have access to virtually endless data and computational resources, and to world-class engineers and developers that can help bring your ideas into the world",
+                        "As part of the team, we expect that you will develop innovative solutions to hard problems, and publish your findings at peer reviewed conferences and workshops",
+                        "We are looking for world class researchers with experience in one or more of the following areas - autonomous agents, API orchestration, Planning, large multimodal models (especially vision-language models), reinforcement learning (RL) and sequential decision making",
+                        "Define and implement new automated reasoning features that employ scalable and efficient approaches to solve complex problems using neural learning and symbolic/formal reasoning",
+                        "Apply software engineering best practices to ensure a high standard of quality for all team deliverables",
+                        "Work in an agile, startup-like development environment",
+                        "Deliver high-quality scientific artifacts",
+                        "Work with the team to help drive business decisions"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=SZCfFAd1rsjoggsQAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQ6CMBAA0LjyCU43G2yNxkWnxsHoZjowklIvUC13DVcI-jF-q7q88RWfRbEzKcWAd7A-IOUguQRTWbiNwT9hDVduQNANvgMmODO3EZfHLuckB61Fomoluxy88txrJmx41g9u5E8tnRswRZex3u43s0rUrlamd-_fVWEDFocpeJQSLuQVBAI7Er0mF7GEk_kCOliulqEAAAA&shmds=v1_ARwrE20m-5WiIR1lCa1ADloy3b0WmO01SH1beYjrqfoEXlHwGg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=SZCfFAd1rsjoggsQAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba38471c54269b0c0e3ba/images/l1UoLwTLNi-4M0ousReIwp-RD3geL1c20OtCTIxj-0s.png",
+            "extensions": [
+                "3 days ago",
+                "Full-time",
+                "Paid time off",
+                "Dental insurance",
+                "Health insurance"
+            ],
+            "source_link": "https://jobs.womenforhire.com/job/usa/sunnyvale-ca/applied-scientist-aws-quick-290802/",
+            "job_title": "Applied Scientist, AWS Quick",
+            "description": "Come join the AWS Agentic AI science team in building the next generation models for intelligent automation.\n\nAWS, the world-leading provider of cloud services, has fostered the creation and growth of countless new businesses, and is a positive force for good. Our customers bring problems that will give Applied Scientists like you endless opportunities to see your research have a positive and immediate impact in the world. You will have the opportunity to partner with technology and business teams to solve real-world problems, have access to virtually endless data and computational resources, and to world-class engineers and developers that can help bring your ideas into the world. As part of the team, we expect that you will develop innovative solutions to hard problems, and publish your findings at peer reviewed conferences and workshops.\n\n\n\nKey job responsibilities\nWe are looking for world class researchers with experience in one or more of the following areas - autonomous agents, API orchestration, Planning, large multimodal models (especially vision-language models), reinforcement learning (RL) and sequential decision making.\n\n* Define and implement new automated reasoning features that employ scalable and efficient approaches to solve complex problems using neural learning and symbolic/formal reasoning\n* Apply software engineering best practices to ensure a high standard of quality for all team deliverables\n* Work in an agile, startup-like development environment\n* Deliver high-quality scientific artifacts\n* Work with the team to help drive business decisions\n\nAbout the team\nWhy AWS? \nAWS is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. \n \nInclusive Team Culture \nHere at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness. \n \nMentorship & Career Growth \nWe’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional. \n \nWork/Life Balance \nWe value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud. \n\n\nBASIC QUALIFICATIONS- 3+ years of building models for business application experience\n- PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience\n- Experience in patents or publications at top-tier peer-reviewed conferences or journals\n- Experience programming in Java, C++, Python or related language\n- Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing\nPREFERRED QUALIFICATIONS- Experience using Unix/Linux\n- Experience in professional software development\n\nAmazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.\n\nLos Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.\n\nThe base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.\n\n\n\nUSA, CA, Santa Clara - 171,600.00 - 222,200.00 USD annually",
+            "apply_options": [
+                {
+                    "title": "Women For Hire - Job Board",
+                    "link": "https://jobs.womenforhire.com/job/usa/sunnyvale-ca/applied-scientist-aws-quick-290802/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWVkIFNjaWVudGlzdCwgQVdTIFF1aWNrIiwiY29tcGFueV9uYW1lIjoiQW1hem9uIFdlYiBTZXJ2aWNlcywgSW5jLiIsImh0aWRvY2lkIjoiU1pDZkZBZDFyc2pvZ2dzUUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFMzcHBkMFJsZUdkRE5tSlVNMDlDUVhGb2FYTndTV2x4ZG5SeWQza3lSWGhhWmpoMk1GTnViemxyVGxOa1dtTklTVmt5WWpKSllWcDVTWHBFVFZWWVdFeHBNblYwYmsxSWVqaEVielpvYzJ4TFIwb3hhRnBrWkVjMFFtRkdhV2x4WVRscldVRnhSa0ZaVG5RMlRsOWhlQzFPUmkxdGFYazJNa0ZrUm1nd2MwUlZXbmhFU2tnU0YyaHhVR0poY3pZeVNGOVhkSEYwYzFCeWRrUkZNbEZOR2lKQlJITnlPV1pVUnpOQlNuYzRjM1JZVEdOdVVEWnJVWFZhV0d4eWNUVkhlbU4zIiwiZmN2IjoiMyIsImZjX2lkIjoiU1pDZkZBZDFyc2pvZ2dzUUFBQUFBQT09In0="
+        },
+        {
+            "title": "AI Applied Scientist",
+            "company_name": "Verily",
+            "location": "San Bruno, CA",
+            "via": "Indeed",
+            "job_highlights": [
+                {
+                    "title": "Qualifications",
+                    "items": [
+                        "Master’s degree in a quantitative discipline (e.g., Data Sciences, Computer Science, Biomedical Informatics, Statistics, Applied Mathematics, or equivalent practical experience)",
+                        "Minimum of 3 years of industry experience applying advanced machine learning, NLP, and generative AI techniques (supervised/unsupervised learning, prompt engineering, agentic workflows) to clinical or healthcare datasets",
+                        "Direct experience working with and curating real-world data (such as EHRs or medical claims), with a deep understanding of the complexities and limitations of unstructured medical text",
+                        "Strong proficiency in Python and standard scientific computing/deep learning libraries (e.g., PyTorch, TensorFlow)"
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "items": [
+                        "The US base salary range for this full-time position is $219,000 - $246,000 + bonus + equity + benefits",
+                        "Our salary ranges are determined by role, level, and location",
+                        "Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training"
+                    ]
+                },
+                {
+                    "title": "Responsibilities",
+                    "items": [
+                        "In this role, you will be responsible for a balanced blend of designing scalable pipelines to curate Electronic Health Records (EHR) and claims data, and conducting advanced research into foundational healthcare models and intelligent multi-agent conversational architectures",
+                        "You will apply frontier Large Language Models (LLMs) and advanced machine learning techniques to extract deep clinical meaning from messy, unstructured medical text, turning fragmented healthcare data into trustworthy, analysis-ready longitudinal datasets",
+                        "Your work will directly ground our autonomous care agents and clinical decision support tools in robust, real-world clinical datasets, driving the next generation of healthcare transformation",
+                        "Design, develop, and deploy advanced generative AI workflows and multi-agent conversational architectures (e.g., using LangGraph) to power personalized user interactions and automated symptom triage",
+                        "Implement, build on, and augment existing LLM/NLP tools to automate the abstraction of high-priority clinical variables and derived features from unstructured medical text, maximizing data completeness and accuracy",
+                        "Develop automated evaluation pipelines and \"LLM-as-a-judge\" grading rubrics to continuously benchmark agent safety, accuracy, factuality, and compliance across model updates",
+                        "And enabling self-optimization cycles",
+                        "Handle real-world data challenges from clinical and remote settings, ensuring absolute safe data boundaries, privacy preservation, and rigorous technical validation before production releases",
+                        "Communicate highly technical results, methods, and evaluation frameworks clearly via presentations and well-structured reports to both technical and non-technical cross-functional audiences"
+                    ]
+                }
+            ],
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Applied+Scientist&htidocid=RHkews3mT2trTiw-AAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEvQoCMQwAYFzvBQSnzP60IrjoVB1E1wPXo63hWqlJaSKcsy8ufsPXfWfdyl3B1VoyPqCPGUmzKGzgxgEEfYsJmODCPBZcHJNqlYO1IsWMol5zNJFflgkDT_bJQf4NknzDWrzisNtvJ1NpXM7v2HL5QCboPcGpvYnXcHY_r2OsaYYAAAA&shmds=v1_ARwrE23jIgAknDfL2dQAVYFUIndE4lhLjJGvEgNWGnogkVBESw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Applied+Scientist&htidocid=RHkews3mT2trTiw-AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6adba38471c54269b0c0e3ba/images/em1z1dEHb1kFjYjC3-AnewvbD9fwa1L9Nuwcd3v2sn8.jpeg",
+            "extensions": [
+                "219K–246K a year",
+                "Full-time",
+                "Health insurance"
+            ],
+            "source_link": "https://www.indeed.com/viewjob?jk=3f13b3a2d714129b",
+            "job_title": "AI Applied Scientist",
+            "description": "Who We Are\n \n\n   Verily Health is a data platform and technology company purpose-built to power AI-enabled precision health solutions that accelerate research and improve care for individuals and communities. Uniquely positioned at the intersection of technology, data science, and healthcare, Verily transforms multimodal health data into insights, models, and actions that make healthcare more personalized, predictive, and precise.\n\n\n \n\n\n  Description\n \n\n\n As an AI Applied Scientist, you will occupy a unique, highly impactful position that sits at the intersection of our real-world data (RWD) curation mission and our cutting-edge AI Agent development. In this role, you will be responsible for a balanced blend of designing scalable pipelines to curate Electronic Health Records (EHR) and claims data, and conducting advanced research into foundational healthcare models and intelligent multi-agent conversational architectures. You will apply frontier Large Language Models (LLMs) and advanced machine learning techniques to extract deep clinical meaning from messy, unstructured medical text, turning fragmented healthcare data into trustworthy, analysis-ready longitudinal datasets. Your work will directly ground our autonomous care agents and clinical decision support tools in robust, real-world clinical datasets, driving the next generation of healthcare transformation.\n\n\n \n\n\n  Responsibilities\n \n  Design, develop, and deploy advanced generative AI workflows and multi-agent conversational architectures (e.g., using LangGraph) to power personalized user interactions and automated symptom triage.\n  Implement, build on, and augment existing LLM/NLP tools to automate the abstraction of high-priority clinical variables and derived features from unstructured medical text, maximizing data completeness and accuracy.\n  Develop automated evaluation pipelines and \"LLM-as-a-judge\" grading rubrics to continuously benchmark agent safety, accuracy, factuality, and compliance across model updates. And enabling self-optimization cycles.\n  Handle real-world data challenges from clinical and remote settings, ensuring absolute safe data boundaries, privacy preservation, and rigorous technical validation before production releases.\n  Communicate highly technical results, methods, and evaluation frameworks clearly via presentations and well-structured reports to both technical and non-technical cross-functional audiences.\n \n \n\n\n  Qualifications\n \n\n\n Minimum Qualifications\n\n\n \n\n\n \n  Master’s degree in a quantitative discipline (e.g., Data Sciences, Computer Science, Biomedical Informatics, Statistics, Applied Mathematics, or equivalent practical experience).\n  Minimum of 3 years of industry experience applying advanced machine learning, NLP, and generative AI techniques (supervised/unsupervised learning, prompt engineering, agentic workflows) to clinical or healthcare datasets.\n  Direct experience working with and curating real-world data (such as EHRs or medical claims), with a deep understanding of the complexities and limitations of unstructured medical text.\n  Strong proficiency in Python and standard scientific computing/deep learning libraries (e.g., PyTorch, TensorFlow).\n \n \n\n\n Preferred Qualifications\n\n\n \n  PhD degree in a quantitative discipline (e.g., Computer Science, Biomedical Informatics, Machine Learning, or related field).\n  Familiarity with advanced agent orchestration frameworks (e.g., LangGraph) and foundation model pre-training stacks (e.g., NVIDIA NeMo, Parabricks).\n  Familiarity with standard medical terminologies, vocabularies, and ontologies (e.g., SNOMED-CT, LOINC, RxNorm, ICD-10) and healthcare data models (FHIR, OMOP).\n  Experience working closely with clinical subject matter experts to establish ground truth benchmarks and adjudicate complex data abstraction guidelines.\n  Strong track record of scientific excellence, including peer-reviewed publications or submitted patents in healthcare AI/ML.\n \n \n\n\n This role is eligible for Verily-sponsored immigration support.\n\n\n \n\n\n The US base salary range for this full-time position is $219,000 - $246,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.\n\n\n \n\n\n  Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.\n\n\n \n\n\n Verily Health Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here.\n\n\n \n\n   If you have a need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://www.indeed.com/viewjob?jk=3f13b3a2d714129b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Dice",
+                    "link": "https://www.dice.com/job-detail/6f762a83-e424-4b87-af6c-cb1a7c06bcea?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "ZipRecruiter",
+                    "link": "https://www.ziprecruiter.com/c/verily-life-sciences/Job/AI-Applied-Scientist/-in-San-Bruno,CA?jid=bc9f665f5835319b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Experteer",
+                    "link": "https://www.experteer.it/career/view-jobs/ai-applied-scientist-san-bruno-ca-usa-59286679?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Monster",
+                    "link": "https://www.monster.com/job-openings/ai-applied-scientist-san-bruno-ca--e37d20e9-73a8-4da2-9612-2655e9ace29c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Experteer",
+                    "link": "https://us.experteer.com/career/view-jobs/ai-applied-scientist-san-bruno-ca-usa-59286679?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://jooble.org/jdp/-6293978703887331547?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "CareerBuilder",
+                    "link": "https://www.careerbuilder.com/job-details/ai-applied-scientist-san-bruno-ca--685a0825-7723-4031-8a5d-1fa99736ec73?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJBSSBBcHBsaWVkIFNjaWVudGlzdCIsImNvbXBhbnlfbmFtZSI6IlZlcmlseSIsImh0aWRvY2lkIjoiUkhrZXdzM21UMnRyVGl3LUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSU5WVzVwZEdWa0lGTjBZWFJsY3ciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRHdzBSelZMVmxaNE5WVjRjR0ZHUkZsRFJVZ3pTRkZYVW5jMWJsVlVjRGhPV2tacVQyeDNiVVpoWVVGdFRtMUZhV05UZVc5alJtVTBOMW93VDBkVGNrdzNNak5MY1cxbmVWZFNURGhNTVRad1pEZEtiRzVDYVRkdFN6TXpjbVZxYzJwaGVITkRWRUpVUXpkQ1ZGUjJjMVJ4WjFaVVptTnlZbXN3TmxoUE9VTkxkMkZtUWtRU0YyaHhVR0poY3pZeVNGOVhkSEYwYzFCeWRrUkZNbEZOR2lKQlJITnlPV1pTYnkxeFEzbEJRa3B2Y0RSSVJUVnhhMGRsT0hWVlEwRjJVVzkzIiwiZmN2IjoiMyIsImZjX2lkIjoiUkhrZXdzM21UMnRyVGl3LUFBQUFBQT09In0="
+        }
+    ]
+}
